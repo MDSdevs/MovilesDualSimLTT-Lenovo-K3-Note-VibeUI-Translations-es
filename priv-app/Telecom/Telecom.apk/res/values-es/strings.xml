@@ -3,7 +3,7 @@
     <string name="dialpad_star_number">*</string>
     <string name="dialpad_pound_number">\#</string>
     <string name="dialpad_0_letters">+</string>
-    <string name="dialpad_1_letters" />
+    <string name="dialpad_1_letters"></string>
     <string name="dialpad_2_letters">ABC</string>
     <string name="dialpad_3_letters">DEF</string>
     <string name="dialpad_4_letters">GHI</string>
@@ -12,8 +12,8 @@
     <string name="dialpad_7_letters">PQRS</string>
     <string name="dialpad_8_letters">TUV</string>
     <string name="dialpad_9_letters">WXYZ</string>
-    <string name="dialpad_star_letters" />
-    <string name="dialpad_pound_letters" />
+    <string name="dialpad_star_letters"></string>
+    <string name="dialpad_pound_letters"></string>
     <string name="description_dialpad_overflow">More options</string>
     <string name="description_delete_button">backspace</string>
     <string name="description_image_button_plus">plus</string>
@@ -115,7 +115,7 @@ On Conditional"</string>
     <string name="respond_via_sms_canned_response_4">"Can't talk now. Call me later?"</string>
     <string name="respond_via_sms_setting_title">Quick responses</string>
     <string name="respond_via_sms_setting_title_2">Edit quick responses</string>
-    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_setting_summary"></string>
     <string name="respond_via_sms_edittext_dialog_title">Quick response</string>
     <string name="respond_via_sms_confirmation_format">Message sent to %s.</string>
     <string name="enable_account_preference_title">Calling accounts</string>

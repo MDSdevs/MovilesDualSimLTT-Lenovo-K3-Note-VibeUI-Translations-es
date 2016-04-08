@@ -7,7 +7,6 @@
         <item>wallpaper_03</item>
         <item>wallpaper_04</item>
     </string-array>
-    <array name="extra_wallpapers" />
     <string-array name="wallpapers">
         <item>wallpaper_00</item>
         <item>wallpaper_01</item>
@@ -59,4 +58,5 @@
         <item>lockscreen_wallpaper_19</item>
         <item>lockscreen_wallpaper_20</item>
     </string-array>
+    <array name="extra_wallpapers"></array>
 </resources>

@@ -77,7 +77,7 @@
         <item>100KB - 1 MB</item>
         <item>1 MB - 16 MB</item>
         <item>16 MB - 128 MB</item>
-        <item>> 128 MB</item>
+        <item>&gt; 128 MB</item>
         <item>Input</item>
     </string-array>
     <string-array name="search_condition_date">
@@ -87,7 +87,7 @@
         <item>This week</item>
         <item>This month</item>
         <item>This year</item>
-        <item>> 1 year</item>
+        <item>&gt; 1 year</item>
         <item>Input</item>
     </string-array>
     <string-array name="zip_levels">

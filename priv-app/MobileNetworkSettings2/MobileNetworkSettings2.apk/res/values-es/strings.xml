@@ -2,8 +2,8 @@
 <resources>
     <string name="ui_default_package">com.android.dialer</string>
     <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
-    <string name="carrier_settings" />
-    <string name="carrier_settings_menu" />
+    <string name="carrier_settings"></string>
+    <string name="carrier_settings_menu"></string>
     <string name="config_disable_cdma_activation_code">false</string>
     <string name="dual_mic_title">Noise Reduction</string>
     <string name="dual_mic_summary">Suppress your background noise during calls</string>
@@ -270,7 +270,7 @@ You have %d remaining attempts."</string>
     <string name="hac_mode_summary">Turn on hearing aid compatibility</string>
     <string name="voicemail_provider">Service</string>
     <string name="voicemail_settings">Setup</string>
-    <string name="voicemail_number_not_set">&lt;Not set></string>
+    <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
     <string name="other_settings">Other call settings</string>
     <string name="calling_via_template">Calling via %s</string>
     <string name="not_voice_capable">Voice calling not supported</string>
@@ -287,7 +287,7 @@ You have %d remaining attempts."</string>
     <string name="enable_video_calling_dialog_msg">To turn on video calling, you need to enable Enhanced 4G LTE Mode in network settings.</string>
     <string name="enable_video_calling_dialog_settings">Network settings</string>
     <string name="enable_video_calling_dialog_close">Close</string>
-    <string name="config_world_mode" />
+    <string name="config_world_mode"></string>
     <string name="status_hint_label_incoming_wifi_call">Incoming Wi-Fi call</string>
     <string name="status_hint_label_wifi_call">Wi-Fi call</string>
     <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
@@ -329,7 +329,7 @@ You have %d remaining attempts."</string>
     <string name="menu_new">New APN</string>
     <string name="menu_save">Save</string>
     <string name="menu_cancel">Discard</string>
-    <string name="error_title" />
+    <string name="error_title"></string>
     <string name="error_name_empty">"The Name field can't be empty."</string>
     <string name="error_apn_empty">"The APN can't be empty."</string>
     <string name="error_mcc_not3">MCC field must be 3 digits.</string>

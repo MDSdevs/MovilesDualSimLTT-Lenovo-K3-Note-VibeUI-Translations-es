@@ -186,12 +186,6 @@
         <item>@string/keyboard_theme_holo_white</item>
         <item>@string/keyboard_theme_holo_blue</item>
     </string-array>
-    <integer-array name="keyboard_theme_ids">
-        <item>3</item>
-        <item>4</item>
-        <item>2</item>
-        <item>0</item>
-    </integer-array>
     <string-array name="keypress_vibration_durations">
         <item>MODEL=Nexus S:BRAND=google,5</item>
         <item>MODEL=Galaxy Nexus:BRAND=google,5</item>
@@ -235,7 +229,6 @@
         <item>de:qwerty:AsciiCapable</item>
         <item>fr:qwertz:AsciiCapable</item>
     </string-array>
-    <array name="touch_position_correction_data_default" />
     <string-array name="touch_position_correction_data_holo">
         <item>0.0038756</item>
         <item>-0.0005677</item>
@@ -247,4 +240,11 @@
         <item>0.0880847</item>
         <item>0.1522819</item>
     </string-array>
+    <integer-array name="keyboard_theme_ids">
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+        <item>0</item>
+    </integer-array>
+    <array name="touch_position_correction_data_default"></array>
 </resources>

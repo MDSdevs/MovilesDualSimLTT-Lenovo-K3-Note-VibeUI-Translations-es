@@ -182,7 +182,7 @@
     <string name="license_ent_android">http://www.ksosoft.com/kingsoftoffice/license-ent-android.html</string>
     <string name="license_cnt_android">http://mo.wps.cn/wpsoffice/eula-android.html</string>
     <string name="jp_update_url">https://play.google.com/store/apps/details?id=jp.kingsoft.officekdrive&amp;hl=ja</string>
-    <string name="uninstallcheck_expires" />
+    <string name="uninstallcheck_expires"></string>
     <string name="uninstallcheck_url_com">http://uninstall.mo.wps.cn/UnInstallSurvey/uninstallCN.jsp</string>
     <string name="uninstallcheck_url_cn">http://uninstall.mo.wps.cn/UnInstallSurvey/uninstallCN.jsp</string>
     <string name="public_rating_url">rating6.kingsoft-office-service.com</string>
@@ -1357,7 +1357,7 @@
 You will start using WPS Office, which is one mobile office application developed, owned and operated by Kingsoft Office Software Corporation Limited. The equipment manufacturer does not assume any liability of this application, including but not limited to its performance, Intellectual property, security, support, services, content and charges, etc.
 Thanks for your support of WPS Office which is free. It will may generate data traffic when using this feature. Please consult your local operators about traffic details. 
 Tap [Agree] below means you agree with the instruction above."</string>
-    <string name="documentmanager_law_info_collection_allow">Help WPS Office to collect my using behavior statistics to improve the user experience <u>(tap here to view details)</u></string>
+    <string name="documentmanager_law_info_collection_allow">Help WPS Office to collect my using behavior statistics to improve the user experience &lt;u&gt;(tap here to view details)&lt;/u&gt;</string>
     <string name="documentmanager_cloudfile_downloading">Downloading the latest version of this file</string>
     <string name="documentmanager_cloudfile_download_fail">Download failed, please retry later.</string>
     <string name="documentmanager_cloudfile_download_errno">Download failed：</string>
@@ -1567,7 +1567,7 @@ you may import your local history records!"</string>
     <string name="public_roaming_special_instructions">Special Instructions for Android File Roaming Service</string>
     <string name="documentmanager_collection_software_info1">Please participate in User Statistics to help us improve our service.</string>
     <string name="documentmanager_collection_software_info2">This statistic collection will not collect or record your private information, such as email address, phone number, username, password, or document contents.</string>
-    <string name="documentmanager_collection_software_info3"><u>The statistic collection service is provided by a third party (Click here to view details).</u></string>
+    <string name="documentmanager_collection_software_info3">&lt;u&gt;The statistic collection service is provided by a third party (Click here to view details).&lt;/u&gt;</string>
     <string name="documentmanager_collection_software_statistics">Accept</string>
     <string name="documentmanager_collection_software_info5">Please participate in User Statistics to help us improve our service. We will not collect or record your private data. You can turn it on/off in the About page.</string>
     <string name="documentmanager_collection_software_info_dev">"You are now using the TPT version for testing some newest features(unstable). 
@@ -1659,7 +1659,7 @@ Unexpected errors may occur when (or before) saving your documents."</string>
     <string name="et_autofilter_firstsome_unit_0">Items</string>
     <string name="et_autofilter_firstsome_unit_1">Percentage</string>
     <string name="et_autofilter_custom_condition_err">The condition of filter you choose is incorrect.</string>
-    <string name="et_autofilter_custom_conditions_0" />
+    <string name="et_autofilter_custom_conditions_0"></string>
     <string name="et_autofilter_custom_conditions_1">Equal</string>
     <string name="et_autofilter_custom_conditions_2">Not Equal</string>
     <string name="et_autofilter_custom_conditions_3">Greater Than</string>
@@ -2884,7 +2884,7 @@ To prevent you from losing/overwriting your modifications, please upload files d
     <string name="public_find_search_content">Search Content</string>
     <string name="public_find_matchcase">Match case</string>
     <string name="public_hyperlink_diplaytext">Text to display:</string>
-    <string name="public_hyperlink_disable_label">&lt;&lt;Chosen text from this document>></string>
+    <string name="public_hyperlink_disable_label">&lt;&lt;Chosen text from this document&gt;&gt;</string>
     <string name="public_hyperlink_address">Address:</string>
     <string name="public_hyperlink_email_subject">Subject:</string>
     <string name="public_hyperlink_delete">Delete Hyperlink</string>

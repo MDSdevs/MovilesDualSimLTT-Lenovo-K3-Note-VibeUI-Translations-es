@@ -251,7 +251,7 @@
     <string name="vertical_gesture_backward">竖屏-手势快退</string>
     <string name="vertical_double_click">竖屏-双击播放/暂停</string>
     <string name="landscape_double_click">横屏-双击播放/暂停</string>
-    <string name="emptey_string_res" />
+    <string name="emptey_string_res"></string>
     <string name="phone_loading_data_fail">"未获取到内容
 请点击页面重试"</string>
     <string name="phone_loading_data_not_network">"网络未连接
@@ -262,7 +262,7 @@
     <string name="play_control_uploading">正全力加载影片…</string>
     <string name="play_control_desc_a">影片简介：%s</string>
     <string name="play_control_desc_a2">简介：%s</string>
-    <string name="play_control_nexttvtip">&lt;font color=#6FA703>即将播放：&lt;/font>%s</string>
+    <string name="play_control_nexttvtip">&lt;font color=#6FA703&gt;即将播放：&lt;/font&gt;%s</string>
     <string name="play_control_desc_vv">%s次播放</string>
     <string name="play_control_desc_t" formatted="false">第%d集剧情介绍：%s</string>
     <string name="phone_detail_score">%s分</string>
@@ -373,7 +373,7 @@
     <string name="player_dyn_Title">最新动态</string>
     <string name="player_tv_hot">热门视频</string>
     <string name="player_comment_limit">字数超140啦</string>
-    <string name="player_toDownlist">查看离线列表></string>
+    <string name="player_toDownlist">查看离线列表&gt;</string>
     <string name="player_downTip">选择离线剧集:</string>
     <string name="player_downSigle">选择离线清晰度</string>
     <string name="player_star_info">明星信息</string>
@@ -396,7 +396,7 @@
     <string name="play_btn_already_download">已缓存</string>
     <string name="play_btn_no_download">无法缓存</string>
     <string name="play_btn_login_tip">登录后可无限量缓存</string>
-    <string name="play_btn_login_more">更多 >></string>
+    <string name="play_btn_login_more">更多 &gt;&gt;</string>
     <string name="player_favor_tip">收藏视频，方便下次观看</string>
     <string name="player_screen_Off_tip">锁定屏幕旋转</string>
     <string name="player_screen_On_tip">开启屏幕旋转</string>
@@ -426,7 +426,7 @@
     <string name="shake_baidu_str">摇一摇</string>
     <string name="player_accelerate_start">尝试为您手机加速播放</string>
     <string name="player_accelerate_mid">正在为手机加速……</string>
-    <string name="player_accelerate_end" formatted="false">&lt;font color=#999999>释放&lt;/font>%s&lt;font color=#999999>空间，手机提速&lt;/font>%s</string>
+    <string name="player_accelerate_end" formatted="false">&lt;font color=#999999&gt;释放&lt;/font&gt;%s&lt;font color=#999999&gt;空间，手机提速&lt;/font&gt;%s</string>
     <string name="player_module_spitslot_hint">可在这里输入弹幕哦!</string>
     <string name="player_module_landscape_mini_play">小窗模式</string>
     <string name="phone_baidu_up">向上滑动</string>
@@ -477,9 +477,9 @@
     <string name="loading_delete">正在删除...</string>
     <string name="loading_net">正全力加载中...</string>
     <string name="loading_wait">请稍后...</string>
-    <string name="play_control_tyeseetip_minute">免费试看前%s分钟，观看完整版请&lt;font color=#6FA703>立即购买&lt;/font></string>
-    <string name="play_control_tyeseetip_episode">免费试看%s集，观看完整版请&lt;font color=#6FA703>立即购买&lt;/font></string>
-    <string name="play_control_tyeseetip_episode_new">您可免费观看本集，观看全部剧集请&lt;font color=#6FA703>开通VIP&lt;/font></string>
+    <string name="play_control_tyeseetip_minute">免费试看前%s分钟，观看完整版请&lt;font color=#6FA703&gt;立即购买&lt;/font&gt;</string>
+    <string name="play_control_tyeseetip_episode">免费试看%s集，观看完整版请&lt;font color=#6FA703&gt;立即购买&lt;/font&gt;</string>
+    <string name="play_control_tyeseetip_episode_new">您可免费观看本集，观看全部剧集请&lt;font color=#6FA703&gt;开通VIP&lt;/font&gt;</string>
     <string name="play_control_living_tips_not_play">直播尚未开始，敬请期待！</string>
     <string name="play_control_living_tips_over_play">直播已结束，感谢关注！</string>
     <string name="error_code1">亲，网络不给力啊</string>
@@ -607,18 +607,18 @@
     <string name="phone_my_account_vcode">验证码：</string>
     <string name="phone_my_account_vcode_hint">请输入验证码</string>
     <string name="phone_my_account_pwd_hint">4-20位数字或字母，区分大小写</string>
-    <string name="phone_my_account_qiyicont"><u>我已阅读并同意《爱奇艺用户服务协议》</u></string>
+    <string name="phone_my_account_qiyicont">&lt;u&gt;我已阅读并同意《爱奇艺用户服务协议》&lt;/u&gt;</string>
     <string name="phone_my_account_number">手机号码：</string>
     <string name="phone_my_account_submit_number">提交</string>
-    <string name="phone_my_account_sended_number"><u>已发送短信</u></string>
-    <string name="phone_my_account_modify_number"><u>修改手机号码</u></string>
+    <string name="phone_my_account_sended_number">&lt;u&gt;已发送短信&lt;/u&gt;</string>
+    <string name="phone_my_account_modify_number">&lt;u&gt;修改手机号码&lt;/u&gt;</string>
     <string name="phone_my_account_number_hint">请您务必填写本机号码</string>
     <string name="phone_my_account_login">登录</string>
     <string name="phone_my_account_login_now">立即登录</string>
     <string name="phone_my_account_login_cancel">稍后再说</string>
     <string name="phone_my_account_cancel">取消</string>
     <string name="phone_my_account_logout">注销</string>
-    <string name="phone_my_account_forpwd"><u>找回密码</u></string>
+    <string name="phone_my_account_forpwd">&lt;u&gt;找回密码&lt;/u&gt;</string>
     <string name="phone_my_account_to_register_email">邮箱注册</string>
     <string name="phone_my_account_to_register_sms">短信注册</string>
     <string name="phone_my_account_failure">亲，帐号或密码是不是写错啦？</string>
@@ -639,10 +639,10 @@
     <string name="phone_my_account_vip_purchase_step1">第一步：提交手机号码</string>
     <string name="phone_my_account_vip_purchase_step2">第二步：使用手机向系统发送开通指令</string>
     <string name="phone_my_account_vip_purchase_step3">第三步：开通会员</string>
-    <string name="phone_my_account_vip_purchase_sms_app"><u>使用本机开通</u></string>
+    <string name="phone_my_account_vip_purchase_sms_app">&lt;u&gt;使用本机开通&lt;/u&gt;</string>
     <string name="phone_my_account_register_hint">注册特权：更多离线次数，同步播放记录...</string>
     <string name="phone_my_account_register">注册</string>
-    <string name="phone_my_account_register_qlogin"><u>直接登录</u></string>
+    <string name="phone_my_account_register_qlogin">&lt;u&gt;直接登录&lt;/u&gt;</string>
     <string name="phone_my_account_register_email_hint">请正确填写邮箱</string>
     <string name="phone_my_account_register_pwd_hint">6~16位数字或字母</string>
     <string name="phone_my_account_register_tip">"邮箱密码提交成功，你的激活链接在24小时内有效，请抓紧时间激活！
@@ -659,7 +659,7 @@
     <string name="phone_my_account_register_by_sms_send">发送短信</string>
     <string name="phone_my_account_active">进入邮箱，激活帐号</string>
     <string name="phone_my_account_retry_hint">出了点小错误,请您</string>
-    <string name="phone_my_account_retry_text"><u>重试</u></string>
+    <string name="phone_my_account_retry_text">&lt;u&gt;重试&lt;/u&gt;</string>
     <string name="phone_my_account_register_failure">哎呀，亲，没注册上，麻烦再试一次吧</string>
     <string name="phone_my_account_register_p00105">亲，这个帐号已经注册过啦，试试直接登录吧</string>
     <string name="phone_email_register_vcodesuccess">验证码已发送，请注意查收短信</string>
@@ -669,7 +669,7 @@
     <string name="phone_my_account_vipflag_no">(您目前还不是会员)</string>
     <string name="phone_my_account_step_login">用户登录</string>
     <string name="phone_my_account_step_openvip">开通会员</string>
-    <string name="phone_my_account_sms_sended"><u>已发送信息</u></string>
+    <string name="phone_my_account_sms_sended">&lt;u&gt;已发送信息&lt;/u&gt;</string>
     <string name="phone_my_account_auto_login">恭喜亲注册成功，正在为亲登录...</string>
     <string name="phone_my_account_vip_product">一个月 %s元</string>
     <string name="phone_my_account_vip_product_original">(原价 %s元)</string>
@@ -901,7 +901,7 @@
     <string name="com_lenovo_lsf_account_settings">Account settings</string>
     <string name="com_lenovo_lsf_login_password_error">Wrong password. If you have forgotten the password, please try retrieve password.</string>
     <string name="com_lenovo_lsf_binding_string_account">Account:</string>
-    <string name="com_lenovo_lsf_binding_another_account"><u>Bind other account</u></string>
+    <string name="com_lenovo_lsf_binding_another_account">&lt;u&gt;Bind other account&lt;/u&gt;</string>
     <string name="com_lenovo_lsf_account_binding_welcome">Welcome.</string>
     <string name="com_lenovo_lsf_account_binding_description">Bind %1$s account with the following Lenovo ID</string>
     <string name="com_lenovo_lsf_account_binding_exists_account_description">"We've detect that the email address you've entered in %1$s account has registered a Lenovo account. Please enter the password to bind them."</string>
@@ -932,7 +932,7 @@
     <string name="com_lenovo_lsf_get_appkey_progress">Obtaining third-party appkey</string>
     <string name="com_lenovo_lsf_get_appkey_error">Failed to obtain third-party appkey</string>
     <string name="com_lenovo_lsf_third_token_time_out">Token has expired</string>
-    <string name="com_lenovo_lsf_choose_location_title" />
+    <string name="com_lenovo_lsf_choose_location_title"></string>
     <string name="com_lenovo_lsf_bind_third">Bind social-networking account</string>
     <string name="com_lenovo_lsf_webview_error_text1">Not connected to Internet</string>
     <string name="com_lenovo_lsf_webview_error_text2">Please check your network connection</string>
@@ -1267,7 +1267,7 @@
     <string name="com_lenovo_lsf_feed_has_commit">Your feedback has been submitted</string>
     <string name="com_lenovo_lsf_feedback_title">Feedback</string>
     <string name="com_lenovo_lsf_feedback">Please enter your feedback</string>
-    <string name="com_lenovo_lsf_feedback_factory"><Data>&lt;font color=#0000ff>Download the latest version of LeFactory&lt;/font> and communicate with our team of developers directly! </Data></string>
+    <string name="com_lenovo_lsf_feedback_factory">&lt;Data&gt;&lt;font color=#0000ff&gt;Download the latest version of LeFactory&lt;/font&gt; and communicate with our team of developers directly! &lt;/Data&gt;</string>
     <string name="com_lenovo_lsf_msg_title">Sending SMS</string>
     <string name="com_lenovo_lsf_msg_content">Sending SMS if continue，do you want to do that?</string>
     <string name="com_lenovo_lsf_phone_area_code">+86</string>
@@ -1327,7 +1327,7 @@
     <string name="pay_vip_selectpm">选择支付方式</string>
     <string name="pay_vip_payfee">应付金额：</string>
     <string name="pay_vip_deadline">VIP到期时间：</string>
-    <string name="title_recom" />
+    <string name="title_recom"></string>
     <string name="title_cate">频道</string>
     <string name="title_top">风云榜</string>
     <string name="title_my">我的爱奇艺</string>
@@ -1507,14 +1507,14 @@
     <string name="pad_my_account_email">帐号：</string>
     <string name="pad_my_account_number">手机号码：</string>
     <string name="pad_my_account_submit_number">提交并获取开通指令</string>
-    <string name="pad_my_account_sended_number"><u>已发送短信</u></string>
-    <string name="pad_my_account_modify_number"><u>修改手机号码</u></string>
+    <string name="pad_my_account_sended_number">&lt;u&gt;已发送短信&lt;/u&gt;</string>
+    <string name="pad_my_account_modify_number">&lt;u&gt;修改手机号码&lt;/u&gt;</string>
     <string name="pad_my_account_number_hint">请正确填写手机号码</string>
     <string name="pad_my_account_login_now">立即登录</string>
     <string name="pad_my_account_login_cancel">稍后再说</string>
     <string name="pad_my_account_cancel">取消</string>
     <string name="pad_my_account_logout">注销</string>
-    <string name="pad_my_account_forpwd"><u>找回密码</u></string>
+    <string name="pad_my_account_forpwd">&lt;u&gt;找回密码&lt;/u&gt;</string>
     <string name="pad_my_account_to_register_email">邮箱注册</string>
     <string name="pad_my_account_to_register_sms">短信注册</string>
     <string name="pad_my_account_failure">亲，帐号或密码是不是写错啦？</string>
@@ -1535,10 +1535,10 @@
     <string name="pad_my_account_vip_purchase_step1">第一步：提交手机号码</string>
     <string name="pad_my_account_vip_purchase_step2">第二步：使用手机向系统发送开通指令</string>
     <string name="pad_my_account_vip_purchase_step3">第三步：开通会员</string>
-    <string name="pad_my_account_vip_purchase_sms_app"><u>使用本机开通</u></string>
+    <string name="pad_my_account_vip_purchase_sms_app">&lt;u&gt;使用本机开通&lt;/u&gt;</string>
     <string name="pad_my_account_register_hint">注册特权：更多离线次数，同步播放记录...</string>
     <string name="pad_my_account_register">注册</string>
-    <string name="pad_my_account_register_qlogin"><u>直接登录</u></string>
+    <string name="pad_my_account_register_qlogin">&lt;u&gt;直接登录&lt;/u&gt;</string>
     <string name="pad_my_account_register_email_hint">请正确填写邮箱</string>
     <string name="pad_my_account_register_pwd_hint">6~16位数字或字母</string>
     <string name="pad_my_account_register_tip">"邮箱密码提交成功，你的激活链接在24小时内有效，请抓紧时间激活！
@@ -1555,7 +1555,7 @@
     <string name="pad_my_account_register_by_sms_send">发送短信</string>
     <string name="pad_my_account_active">进入邮箱，激活帐号</string>
     <string name="pad_my_account_retry_hint">出了点小错误,请您重试</string>
-    <string name="pad_my_account_retry_text"><u>重试</u></string>
+    <string name="pad_my_account_retry_text">&lt;u&gt;重试&lt;/u&gt;</string>
     <string name="pad_my_account_register_failure">哎呀，亲，没注册上，麻烦再试一次吧</string>
     <string name="pad_my_account_register_p00105">亲，这个帐号已经注册过啦，试试直接登录吧</string>
     <string name="pad_my_account_not_member">您还不是会员</string>
@@ -1564,7 +1564,7 @@
     <string name="pad_my_account_vipflag_no">(您目前还不是会员)</string>
     <string name="pad_my_account_step_login">用户登录</string>
     <string name="pad_my_account_step_openvip">开通会员</string>
-    <string name="pad_my_account_sms_sended"><u>已发送信息</u></string>
+    <string name="pad_my_account_sms_sended">&lt;u&gt;已发送信息&lt;/u&gt;</string>
     <string name="pad_my_account_auto_login">恭喜亲注册成功，正在为亲登录...</string>
     <string name="pad_my_account_vip_product">一个月 %s元</string>
     <string name="pad_my_account_vip_product_original">(原价 %s元)</string>
@@ -1736,19 +1736,19 @@
     <string name="toast_network_error">哎呀，貌似网络不太流畅，请稍后重试</string>
     <string name="toast_network_2g">当前为2G网络，为了节省流量费，建议改用3G/4G/Wifi网络</string>
     <string name="toast_have_not_next">没有下一集了，看看其他影片吧</string>
-    <string name="mini_close">您确定关闭桌面爱奇艺浮窗吗？&lt;br /> 您也可以在客户端&lt;font color=#78a22f>“我的-设置”&lt;/font>界面修改设置</string>
-    <string name="mini_nonet">网络太不给力了，请检查网络连接，&lt;br /> 您也可以进入客户端播放离线影片</string>
-    <string name="mini_nonet_contine">2G网络下无法播放，为了节省流量费，请改用3G/4G/Wifi网络，&lt;br /> 您也可以启动客户端播放离线影片</string>
-    <string name="mini_replay_title"><u>重新播放 %s</u></string>
-    <string name="mini_directflow_changescreen_play">您的网络环境发生变化，继续播放可能会消耗流量 &lt;br /> 已为您暂停播放</string>
-    <string name="mini_directflow_normal_play">浮窗播放暂不支持3G流量包月功能 &lt;br /> 请进入主客户端进行播放</string>
+    <string name="mini_close">您确定关闭桌面爱奇艺浮窗吗？&lt;br /&gt; 您也可以在客户端&lt;font color=#78a22f&gt;“我的-设置”&lt;/font&gt;界面修改设置</string>
+    <string name="mini_nonet">网络太不给力了，请检查网络连接，&lt;br /&gt; 您也可以进入客户端播放离线影片</string>
+    <string name="mini_nonet_contine">2G网络下无法播放，为了节省流量费，请改用3G/4G/Wifi网络，&lt;br /&gt; 您也可以启动客户端播放离线影片</string>
+    <string name="mini_replay_title">&lt;u&gt;重新播放 %s&lt;/u&gt;</string>
+    <string name="mini_directflow_changescreen_play">您的网络环境发生变化，继续播放可能会消耗流量 &lt;br /&gt; 已为您暂停播放</string>
+    <string name="mini_directflow_normal_play">浮窗播放暂不支持3G流量包月功能 &lt;br /&gt; 请进入主客户端进行播放</string>
     <string name="mini_directflow_changescreen_play_ok">返回</string>
     <string name="mini_directflow_changescreen_play_cancel">取消播放</string>
     <string name="mini_directflow_nomarl_play_ok">主客户端</string>
     <string name="mini_directflow_nomarl_play_cancel">取消</string>
-    <string name="mini_record_list_toast">&lt;center>您还没有播放记录，请查看&lt;/center>&lt;br />&amp;#160;&amp;#160;&amp;#160;&amp;#160;&lt;font color=#78a22f>新闻资讯&lt;/font>的精彩内容</string>
-    <string name="mini_download_list_toast">您还没有离线缓存，请查看&lt;br />&amp;#160;&amp;#160;&amp;#160;&amp;#160;&lt;font color=#78a22f>新闻资讯&lt;/font>的精彩内容</string>
-    <string name="mini_channel_list_toast">网路已断开，请连接后&lt;font color=#78a22f>重试&lt;/font></string>
+    <string name="mini_record_list_toast">&lt;center&gt;您还没有播放记录，请查看&lt;/center&gt;&lt;br /&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&lt;font color=#78a22f&gt;新闻资讯&lt;/font&gt;的精彩内容</string>
+    <string name="mini_download_list_toast">您还没有离线缓存，请查看&lt;br /&gt;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&lt;font color=#78a22f&gt;新闻资讯&lt;/font&gt;的精彩内容</string>
+    <string name="mini_channel_list_toast">网路已断开，请连接后&lt;font color=#78a22f&gt;重试&lt;/font&gt;</string>
     <string name="mini_toast_network_off">亲，网络不通畅，请检查网络设置哦。</string>
     <string name="mini_toast_network_2g">亲，2G网络下无法播放，请改用3G/4G/WLAN网络吧</string>
     <string name="mini_toast_network_3g">您已接入3G/4G移动数据网络</string>
@@ -1758,12 +1758,12 @@
     <string name="qisheng_title_bump_get_tv">视频接收</string>
     <string name="qisheng_title_bump_account">帐号同步</string>
     <string name="qisheng_button_clear_auth">清除授权</string>
-    <string name="qisheng_text_mst_method1"><b>方式1：</b>登录已经授权的帐号。</string>
-    <string name="qisheng_text_mst_method2"><b>方式2：</b>与授权设备敲击配对。</string>
-    <string name="qisheng_text_mst_method3"><b>方式3：</b></string>
+    <string name="qisheng_text_mst_method1">&lt;b&gt;方式1：&lt;/b&gt;登录已经授权的帐号。</string>
+    <string name="qisheng_text_mst_method2">&lt;b&gt;方式2：&lt;/b&gt;与授权设备敲击配对。</string>
+    <string name="qisheng_text_mst_method3">&lt;b&gt;方式3：&lt;/b&gt;</string>
     <string name="qisheng_edit_hint_msg_inputcode">请输入授权码</string>
-    <string name="qisheng_text_msg_get_invite_code">每天的10:00~10:05、15:00~15:05、20:00~20:05<Data> &lt;font color=#ff0000>&lt;u>可获取授权码&lt;/u>&lt;/font> </Data>。</string>
-    <string name="qisheng_text_msg_get_invite_code1">每天的10:00~10:05、15:00~15:05、20:00~20:05<Data> &lt;font color=#ffff00>&lt;u>可获取授权码&lt;/u>&lt;/font> </Data>。</string>
+    <string name="qisheng_text_msg_get_invite_code">每天的10:00~10:05、15:00~15:05、20:00~20:05&lt;Data&gt; &lt;font color=#ff0000&gt;&lt;u&gt;可获取授权码&lt;/u&gt;&lt;/font&gt; &lt;/Data&gt;。</string>
+    <string name="qisheng_text_msg_get_invite_code1">每天的10:00~10:05、15:00~15:05、20:00~20:05&lt;Data&gt; &lt;font color=#ffff00&gt;&lt;u&gt;可获取授权码&lt;/u&gt;&lt;/font&gt; &lt;/Data&gt;。</string>
     <string name="qisheng_dialog_button">知道了</string>
     <string name="qisheng_dialog_good">好的</string>
     <string name="qisheng_dialog_ok1">确定</string>
@@ -1822,7 +1822,7 @@
     <string name="phone_my_gps">附近人在看</string>
     <string name="phone_my_gps_no_result">未找到附近正在播放的视频，看看爱奇艺为您精心推荐的视频吧！</string>
     <string name="phone_my_gps_people_count">%d人正在看</string>
-    <string name="phone_my_gps_error">网络不给力，请稍后<Data> &lt;font color=#83c20f>&lt;u>重试&lt;/u>&lt;/font> </Data>.</string>
+    <string name="phone_my_gps_error">网络不给力，请稍后&lt;Data&gt; &lt;font color=#83c20f&gt;&lt;u&gt;重试&lt;/u&gt;&lt;/font&gt; &lt;/Data&gt;.</string>
     <string name="phone_variety_hot">热播</string>
     <string name="btn_clear_ok">清空</string>
     <string name="btn_cancel">取消</string>
@@ -1845,12 +1845,12 @@
     <string name="alipay_pay_failed">抱歉，支付没有成功，麻烦再试一次吧</string>
     <string name="alipay_pay_success">支付成功啦，快去享受会员特权吧</string>
     <string name="alipay_pay_confirm_error">抱歉，支付没有成功，麻烦再试一次吧</string>
-    <string name="phone_my_account_vip_title"><font size="20">会员套餐</font>（会员可以观看会员影片，享有免广告服务）</string>
+    <string name="phone_my_account_vip_title">&lt;font size="20"&gt;会员套餐&lt;/font&gt;（会员可以观看会员影片，享有免广告服务）</string>
     <string name="phone_my_account_phone_vip_msg">手机话费包月</string>
-    <string name="phone_my_account_phone_vip_protocol"><u>《会员服务协议》</u></string>
+    <string name="phone_my_account_phone_vip_protocol">&lt;u&gt;《会员服务协议》&lt;/u&gt;</string>
     <string name="vip_loading_progress_bar_msg">正在加载会员信息...</string>
-    <string name="vip_loading_error_msg"><u>开通会员服务</u>可以无限次高速离线缓存，享有免广告服务</string>
-    <string name="vip_product_text" formatted="false">%s个月￥ <Data>&lt;i>&lt;font color=#ff8500></Data> %s <Data>&lt;/font>&lt;/i>元</Data></string>
+    <string name="vip_loading_error_msg">&lt;u&gt;开通会员服务&lt;/u&gt;可以无限次高速离线缓存，享有免广告服务</string>
+    <string name="vip_product_text" formatted="false">%s个月￥ &lt;Data&gt;&lt;i&gt;&lt;font color=#ff8500&gt;&lt;/Data&gt; %s &lt;Data&gt;&lt;/font&gt;&lt;/i&gt;元&lt;/Data&gt;</string>
     <string name="vip_product_text_or">（原价￥ %s）元</string>
     <string name="pad_remove">删除</string>
     <string name="pad_clear_all">清空</string>
@@ -1880,7 +1880,7 @@
     <string name="phone_ad_title">应用推荐</string>
     <string name="notif_down_file">[爱奇艺软件推荐]下载</string>
     <string name="notif_down_title">[爱奇艺软件推荐]下载</string>
-    <string name="phone_ad_nodata_error">网络不给力，请稍后<Data> &lt;font color=#83c20f>&lt;u>重试&lt;/u>&lt;/font> </Data>.</string>
+    <string name="phone_ad_nodata_error">网络不给力，请稍后&lt;Data&gt; &lt;font color=#83c20f&gt;&lt;u&gt;重试&lt;/u&gt;&lt;/font&gt; &lt;/Data&gt;.</string>
     <string name="phone_ad_download_neterror_data">亲，网络有点问题，过会儿再试试吧</string>
     <string name="download_direction_detail">了解详情</string>
     <string name="download_direction_continue">继续下载</string>
@@ -1944,8 +1944,8 @@
     <string name="title_my_point">积分</string>
     <string name="my_main_qiyi_point">%d积分</string>
     <string name="my_main_qiyi_point_detail">您当前拥有积分： %d积分</string>
-    <string name="my_main_qiyi_point_link">&lt;font color=#555555>积分兑换请访问 &lt;/font>&lt;font color=#72ce06>&lt;a href=http://www.iqiyi.com>iqiyi.com&lt;/a>&lt;/font></string>
-    <string name="my_main_qiyi_point_sub_detail" formatted="false"><Data>&lt;i>&lt;font color=#555555></Data> %s <Data>&lt;/font>&lt;/i></Data> <Data>&lt;i>&lt;font color=#ea763b></Data> %s <Data>&lt;/font>&lt;/i></Data></string>
+    <string name="my_main_qiyi_point_link">&lt;font color=#555555&gt;积分兑换请访问 &lt;/font&gt;&lt;font color=#72ce06&gt;&lt;a href=http://www.iqiyi.com&gt;iqiyi.com&lt;/a&gt;&lt;/font&gt;</string>
+    <string name="my_main_qiyi_point_sub_detail" formatted="false">&lt;Data&gt;&lt;i&gt;&lt;font color=#555555&gt;&lt;/Data&gt; %s &lt;Data&gt;&lt;/font&gt;&lt;/i&gt;&lt;/Data&gt; &lt;Data&gt;&lt;i&gt;&lt;font color=#ea763b&gt;&lt;/Data&gt; %s &lt;Data&gt;&lt;/font&gt;&lt;/i&gt;&lt;/Data&gt;</string>
     <string name="phone_my_setting_others">其他</string>
     <string name="clear_cache_text">清除缓存</string>
     <string name="vip_product_packages_title">VIP超值套餐</string>
@@ -1953,11 +1953,17 @@
     <string name="vip_product_purchase_method2">方式二：支付宝&amp;微信</string>
     <string name="vip_product_privileges_title">您享有的VIP特权</string>
     <string name="vip_product_privileges_1_1">1.VIP影片</string>
-    <string name="vip_product_privileges_1_2"><i><b>免费看</b></i></string>
-    <string name="vip_product_more_free_films">更多VIP影片></string>
-    <string name="phone_my_account_login_now_tag">已是VIP，立即登录 ></string>
-    <string name="vip_product_privileges_2">2.观看视频<i><b>无广告</b></i></string>
-    <string name="vip_product_privileges_3">3.离线缓存<i><b>超极速</b></i></string>
+    <string name="vip_product_privileges_1_2">&lt;i&gt;
+  &lt;b&gt;免费看&lt;/b&gt;
+&lt;/i&gt;</string>
+    <string name="vip_product_more_free_films">更多VIP影片&gt;</string>
+    <string name="phone_my_account_login_now_tag">已是VIP，立即登录 &gt;</string>
+    <string name="vip_product_privileges_2">2.观看视频&lt;i&gt;
+  &lt;b&gt;无广告&lt;/b&gt;
+&lt;/i&gt;</string>
+    <string name="vip_product_privileges_3">3.离线缓存&lt;i&gt;
+  &lt;b&gt;超极速&lt;/b&gt;
+&lt;/i&gt;</string>
     <string name="phone_my_account_unregistered">没有帐号？立即注册</string>
     <string name="phone_my_account_password_forgotten">忘记密码</string>
     <string name="phone_my_account_vip_privilege_title">爱奇艺用户专享服务：</string>
@@ -2050,7 +2056,7 @@
     <string name="phone_index_recommend_app">应用推荐</string>
     <string name="phone_index_recommend_game">游戏中心</string>
     <string name="phone_index_recommend_center">独播</string>
-    <string name="phone_index_recommend_center_ext">独播 ></string>
+    <string name="phone_index_recommend_center_ext">独播 &gt;</string>
     <string name="noWonderfulRecommendedAlbum">暂无精彩推荐！</string>
     <string name="phone_off_download_pause">    暂停    </string>
     <string name="phone_off_download_waiting">正在等待</string>
@@ -2214,7 +2220,7 @@
     <string name="qidan_toast_network_error">抱歉，网络出现问题</string>
     <string name="video_square_category_name">热点</string>
     <string name="video_square_3g_play_toast">您正在使用3G/4G流量观看视频</string>
-    <string name="oem_appwidget_fullscreen_no_sdcard" />
+    <string name="oem_appwidget_fullscreen_no_sdcard"></string>
     <string name="oem_appwidget_fullscreen_read_datas_failed">读取数据失败</string>
     <string name="oem_appwidget_fullscreen_no_recommend_datas">当前没有可用的数据</string>
     <string name="oem_appwidget_fullscreen_network_error">网络连接出错</string>
@@ -2248,8 +2254,8 @@
     <string name="open_vip_package_more_package">更多套餐组合</string>
     <string name="open_vip_package_silver_content">全站无广告</string>
     <string name="my_main_collect_more">加载更多</string>
-    <string name="vip_product_listtext"><Data>&lt;i>&lt;font color=#F6703C></Data> %s <Data>&lt;/font>&lt;/i>元</Data></string>
-    <string name="vip_product_selectedtext"><Data>&lt;i>&lt;font color=#F6703C></Data> %s <Data>&lt;/font>&lt;/i>元</Data></string>
+    <string name="vip_product_listtext">&lt;Data&gt;&lt;i&gt;&lt;font color=#F6703C&gt;&lt;/Data&gt; %s &lt;Data&gt;&lt;/font&gt;&lt;/i&gt;元&lt;/Data&gt;</string>
+    <string name="vip_product_selectedtext">&lt;Data&gt;&lt;i&gt;&lt;font color=#F6703C&gt;&lt;/Data&gt; %s &lt;Data&gt;&lt;/font&gt;&lt;/i&gt;元&lt;/Data&gt;</string>
     <string name="vip_product_listtext_ms">%s个月</string>
     <string name="vip_product_pay">支付</string>
     <string name="phone_vip_product_pay">立刻购买</string>
@@ -2270,7 +2276,7 @@
     <string name="phone_my_account_expcode_note1">1.请在有效期内激活，否则视为无效。有效期见卡背面相关说明；</string>
     <string name="phone_my_account_expcode_note2">2.会员卡不可兑换现金，请注意会员卡保密性。发生盗用、泄露、遗失等问题不予调换和退款；</string>
     <string name="phone_my_account_expcode_note3">3.会员卡的最终解释权归爱奇艺公司所有。</string>
-    <string name="phone_index_focus_position" formatted="false"><Data>&lt;font color=#7DBE00></Data> %s <Data>&lt;/font></Data>/%s</string>
+    <string name="phone_index_focus_position" formatted="false">&lt;Data&gt;&lt;font color=#7DBE00&gt;&lt;/Data&gt; %s &lt;Data&gt;&lt;/font&gt;&lt;/Data&gt;/%s</string>
     <string name="vip_updata_pay_success">续费成功啦，快去享受会员特权吧</string>
     <string name="vip_dialog_info_title">提示</string>
     <string name="vip_dialog_info_msg">您现在已是VIP会员，点击“确定” 进入续费操作？</string>
@@ -2296,7 +2302,7 @@
     <string name="phone_underlogin_paytype_no">VIP特权</string>
     <string name="phone_download_no_delete_items">暂无离线内容，快去找片离线缓存吧</string>
     <string name="downloading_new_version">正在下载新版爱奇艺视频...</string>
-    <string name="phone_index_more">更多推荐></string>
+    <string name="phone_index_more">更多推荐&gt;</string>
     <string name="phone_activity_more">更多推荐</string>
     <string name="phone_index_pro">节目单</string>
     <string name="phone_mysetting_clearCache_tip">已为您节省%s空间</string>
@@ -2346,9 +2352,9 @@
     <string name="qisheng_retry_get">重新接收</string>
     <string name="qisheng_name">绿尾巴</string>
     <string name="qisheng_is_scanning">正在为您扫描，请稍后...</string>
-    <string name="qisheng_share_suc_tip">您的&lt;&lt;%1$s>>已分享给%2$s</string>
+    <string name="qisheng_share_suc_tip">您的&lt;&lt;%1$s&gt;&gt;已分享给%2$s</string>
     <string name="qisheng_network_error">亲，网络出现异常，请稍后重试。</string>
-    <string name="qisheng_share_receive_suc_tip">您已成功接收%1$s用户的&lt;&lt;%2$s>></string>
+    <string name="qisheng_share_receive_suc_tip">您已成功接收%1$s用户的&lt;&lt;%2$s&gt;&gt;</string>
     <string name="phone_msg_nocontent">为您推送最新更新的剧集和订阅的人的最新动态</string>
     <string name="phone_net_down_tip">没联网哦，请检查网络设置</string>
     <string name="nickname_occupied">这个昵称太抢手了，换个别的试试？</string>
@@ -2399,7 +2405,7 @@
     <string name="phone_search_result_star_birth">生日：%s</string>
     <string name="phone_search_result_star_constellation">星座：%s</string>
     <string name="phone_search_result_star_english_name">英文名：%s</string>
-    <string name="db_toast_title">设置&lt;font color=#6FA703>杜比高清&lt;/font>环绕声，影院级音响效果，VIP独享</string>
+    <string name="db_toast_title">设置&lt;font color=#6FA703&gt;杜比高清&lt;/font&gt;环绕声，影院级音响效果，VIP独享</string>
     <string name="phone_search_result_download_game_none_wifi">您正在使用3G/4G流量下载游戏</string>
     <string name="details_review_hint">我来评论...</string>
     <string name="phone_my_setting_mode_list">列表模式</string>
@@ -2427,7 +2433,7 @@
     <string name="gold_ingot_finish">已完成</string>
     <string name="gold_ingot_unfinish">未完成</string>
     <string name="gold_ingot_today">今日任务</string>
-    <string name="gold_ingot_today_info">&lt;以下均指在爱奇艺PPS影音进行的任务></string>
+    <string name="gold_ingot_today_info">&lt;以下均指在爱奇艺PPS影音进行的任务&gt;</string>
     <string name="ugc_other_follow_no_data">没有订阅任何人，看看爱奇艺为您推荐的人气达人和热门视频吧</string>
     <string name="ugc_other_video_no_data">没有上传任何视频，看看爱奇艺为您推荐的人气达人和热门视频吧</string>
     <string name="tologin">请登录</string>
@@ -2631,7 +2637,7 @@
     <string name="vip_use_activation_code_next_verification">换一张</string>
     <string name="vip_already">已是VIP，立即登录</string>
     <string name="vip_renew_tip">您现在已是VIP会员，点击确定进入续费操作？</string>
-    <string name="vip_use_activation_tip">&lt;font color=#555555>温馨提示:&lt;br/>&lt;/font>&lt;font color=#999999>1.请在有效期内激活，否则视为无效，有效期见卡背面相关说明；&lt;br/>2.会员卡不可兑换现金，请注意会员卡保密性。发生盗用、泄露、遗失等问题不予调换与退款；&lt;br/>3.会员卡的最终解释权归爱奇艺公司所有。&lt;/font></string>
+    <string name="vip_use_activation_tip">&lt;font color=#555555&gt;温馨提示:&lt;br/&gt;&lt;/font&gt;&lt;font color=#999999&gt;1.请在有效期内激活，否则视为无效，有效期见卡背面相关说明；&lt;br/&gt;2.会员卡不可兑换现金，请注意会员卡保密性。发生盗用、泄露、遗失等问题不予调换与退款；&lt;br/&gt;3.会员卡的最终解释权归爱奇艺公司所有。&lt;/font&gt;</string>
     <string name="activity_account_login_account_hint">邮箱或手机号</string>
     <string name="fragment_login_no_account_tip">没有爱奇艺帐号？</string>
     <string name="fragment_login_register_tip">立即注册</string>
@@ -2641,7 +2647,7 @@
     <string name="fragment_login_password_changed">由于您的密码有变动，请重新登录</string>
     <string name="fragment_login_openvip_tip">会员服务需要与您的帐号绑定，请先登录</string>
     <string name="activity_account_register_account_hint">邮箱或手机号</string>
-    <string name="fragment_register_service_agreement"><u>我已阅读并同意《爱奇艺用户服务协议》</u></string>
+    <string name="fragment_register_service_agreement">&lt;u&gt;我已阅读并同意《爱奇艺用户服务协议》&lt;/u&gt;</string>
     <string name="toast_email_is_null">亲，帐号不能为空哦</string>
     <string name="toast_pwd_is_null">亲，密码不能为空哦</string>
     <string name="toast_register_agreement_not_check">您还没有同意我们的服务协议</string>

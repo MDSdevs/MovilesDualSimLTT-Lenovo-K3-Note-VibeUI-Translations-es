@@ -421,14 +421,14 @@ Are you sure to enable GPS now and wait for GPS provided time?"</string>
     <string name="bluetooth_rename_device">Rename this device</string>
     <string name="bluetooth_rename_button">Rename</string>
     <string name="bluetooth_disconnect_title">Disconnect?</string>
-    <string name="bluetooth_disconnect_all_profiles">This will end your connection with:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">This will end your connection with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
     <string name="bluetooth_empty_list_user_restricted">You don’t have permission to change Bluetooth settings.</string>
     <string name="bluetooth_is_visible_message">%1$s is visible to nearby devices while Bluetooth settings is open.</string>
     <string name="bluetooth_is_disconnect_question">Disconnect %1$s?</string>
     <string name="bluetooth_broadcasting">Broadcasting</string>
     <string name="bluetooth_disable_profile_title">Disable profile?</string>
-    <string name="bluetooth_disable_profile_message">This will disable:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b>%2$s&lt;/b></string>
-    <string name="bluetooth_unknown" />
+    <string name="bluetooth_disable_profile_message">This will disable:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="bluetooth_unknown"></string>
     <string name="bluetooth_device">Unnamed Bluetooth device</string>
     <string name="progress_scanning">Searching</string>
     <string name="bluetooth_no_devices_found">No nearby Bluetooth devices were found.</string>
@@ -653,8 +653,8 @@ This setting affects all users on this phone."</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_message">Use the fingerprint sensor on your device.</string>
     <string name="fingerprint_enroll_button_add">Add another</string>
     <string name="fingerprint_enroll_button_next">Next</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer">In addition to unlocking your phone, you can also use your fingerprint to authorize purchases and app access. <annotation id="url">Learn more</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Screen lock option disabled. You can still use your fingerprint to authorize purchases and app access. <annotation id="url">Learn more</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer">In addition to unlocking your phone, you can also use your fingerprint to authorize purchases and app access. &lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Screen lock option disabled. You can still use your fingerprint to authorize purchases and app access. &lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">Lift finger, then touch sensor again</string>
     <string name="fingerprint_add_max">You can add up to %d fingerprints</string>
     <string name="confirm_fingerprint_icon_content_description">Use your fingerprint to continue.</string>
@@ -692,7 +692,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="unlock_set_unlock_launch_picker_change_summary">Change or disable pattern, PIN, or password security</string>
     <string name="unlock_set_unlock_launch_picker_enable_summary">Choose a method to lock the screen</string>
     <string name="unlock_set_unlock_off_title">None</string>
-    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_off_summary"></string>
     <string name="unlock_set_unlock_none_title">Swipe</string>
     <string name="unlock_set_unlock_none_summary">No security</string>
     <string name="unlock_set_unlock_pattern_title">Pattern</string>
@@ -708,7 +708,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
     <string name="unlock_set_unlock_mode_pattern">Pattern</string>
     <string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_mode_password">Password</string>
-    <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings > Security.</string>
+    <string name="unlock_setup_wizard_fingerprint_details">Once you’ve set up a screen lock, you can also set up your fingerprint in Settings &gt; Security.</string>
     <string name="unlock_disable_lock_title">Turn off screen lock</string>
     <string name="unlock_disable_frp_warning_title">Remove device protection?</string>
     <string name="unlock_disable_frp_warning_content_pattern">Device protection features will not work without your pattern.</string>
@@ -769,11 +769,11 @@ Your saved fingerprints will also be removed from this device and you won't be a
     <string name="bluetooth_pin_values_hint_16_digits">Must be 16 digits</string>
     <string name="bluetooth_enter_pin_other_device">You may also need to type this PIN on the other device.</string>
     <string name="bluetooth_enter_passkey_other_device">You may also need to type this passkey on the other device.</string>
-    <string name="bluetooth_confirm_passkey_msg">To pair with:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Make sure it is showing this passkey:&lt;br>&lt;b>%2$s&lt;/b></string>
-    <string name="bluetooth_incoming_pairing_msg">From:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Pair with this device?</string>
-    <string name="bluetooth_display_passkey_pin_msg">To pair with:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Type on it:&lt;br>&lt;b>%2$s&lt;/b>, then press Return or Enter.</string>
+    <string name="bluetooth_confirm_passkey_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Make sure it is showing this passkey:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+    <string name="bluetooth_incoming_pairing_msg">From:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Pair with this device?</string>
+    <string name="bluetooth_display_passkey_pin_msg">To pair with:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Type on it:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, then press Return or Enter.</string>
     <string name="bluetooth_pairing_shares_phonebook">Allow %1$s to access your contacts and call history</string>
-    <string name="bluetooth_error_title" />
+    <string name="bluetooth_error_title"></string>
     <string name="bluetooth_connecting_error_message">Couldn’t connect to %1$s.</string>
     <string name="bluetooth_preference_scan_title">Scan for devices</string>
     <string name="bluetooth_search_for_devices">Refresh</string>
@@ -961,11 +961,11 @@ Allow this for all apps that want to scan?"</string>
     <string name="wifi_skipped_message">WARNING: if you skip WLAN, your phone will only use cellular data for initial downloads and updates. To avoid possible data charges, connect to WLAN.</string>
     <string name="wifi_and_mobile_skipped_message">"If you skip WLAN:
 
-"<li>Your phone won’t have an Internet connection.</li>"
+"&lt;li&gt;Your phone won’t have an Internet connection.&lt;/li&gt;"
 
-"<li>You won’t get software updates until you connect to the Internet.</li>"
+"&lt;li&gt;You won’t get software updates until you connect to the Internet.&lt;/li&gt;"
 
-"<li>You can’t activate device protection features at this time.</li></string>
+"&lt;li&gt;You can’t activate device protection features at this time.&lt;/li&gt;</string>
     <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
     <string name="wifi_saved_access_points_titlebar">Saved networks</string>
     <string name="wifi_advanced_titlebar">Advanced WLAN</string>
@@ -1021,7 +1021,7 @@ Allow this for all apps that want to scan?"</string>
     <string name="home_settings">Home</string>
     <string name="display_settings_title">Display</string>
     <string name="sound_settings">Sound</string>
-    <string name="ringtone_summary" />
+    <string name="ringtone_summary"></string>
     <string name="all_volume_title">Volumes</string>
     <string name="musicfx_title">Music effects</string>
     <string name="ring_volume_title">Ringer volume</string>
@@ -1138,7 +1138,7 @@ Possibly incorrect PIN."</string>
     <string name="pin_failed">SIM PIN operation failed!</string>
     <string name="device_info_settings">Phone status</string>
     <string name="system_update_settings_list_item_title">System updates</string>
-    <string name="system_update_settings_list_item_summary" />
+    <string name="system_update_settings_list_item_summary"></string>
     <string name="firmware_version">Android version</string>
     <string name="model_number">Model number</string>
     <string name="fcc_equipment_id">Equipment ID</string>
@@ -1190,7 +1190,7 @@ Possibly incorrect PIN."</string>
     <string name="sd_eject_summary">Unmount the SD card so you can safely remove it</string>
     <string name="sd_insert_summary">Insert an SD card for mounting</string>
     <string name="sd_mount">Mount SD card</string>
-    <string name="sd_mount_summary" />
+    <string name="sd_mount_summary"></string>
     <string name="sd_format">Erase SD card</string>
     <string name="sd_format_summary">Erases all data on the SD card, such as music and photos</string>
     <string name="memory_clear_cache_title">Clear cached data?</string>
@@ -1198,7 +1198,7 @@ Possibly incorrect PIN."</string>
     <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
     <string name="dlg_confirm_unmount_title">Unmount SD card?</string>
     <string name="dlg_confirm_unmount_text">If you unmount the SD card, some apps you are using will stop and may be unavailable until you remount the SD card.</string>
-    <string name="dlg_error_unmount_title" />
+    <string name="dlg_error_unmount_title"></string>
     <string name="dlg_error_unmount_text">Couldn’t unmount SD card. Try again later.</string>
     <string name="unmount_inform_text">SD card will be unmounted.</string>
     <string name="sd_ejecting_title">Unmounting</string>
@@ -1227,7 +1227,9 @@ Possibly incorrect PIN."</string>
     <string name="storage_internal_title">Device storage</string>
     <string name="storage_external_title">Portable storage</string>
     <string name="storage_volume_summary">%1$s used of %2$s</string>
-    <string name="storage_size_large">^1<small><small> ^2</small></small></string>
+    <string name="storage_size_large">^1&lt;small&gt;
+  &lt;small&gt; ^2&lt;/small&gt;
+&lt;/small&gt;</string>
     <string name="storage_volume_used">Used of %1$s</string>
     <string name="storage_volume_used_total">Total used of %1$s</string>
     <string name="storage_mount_success">%1$s is mounted</string>
@@ -1250,12 +1252,12 @@ To use this ^1 with this device, you have to set it up first."</string>
 
 All data on this ^1 will be erased. Consider backing up first. 
 
-"<b>Back up photos &amp; other media</b>" 
+"&lt;b&gt;Back up photos &amp; other media&lt;/b&gt;" 
 Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable. 
 
-"<b>Back up apps</b>" 
+"&lt;b&gt;Back up apps&lt;/b&gt;" 
 All apps stored on this ^1 will be uninstalled and their data will be erased. To keep these apps, move them to alternative storage on this device."</string>
-    <string name="storage_internal_unmount_details"><b>When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.</b>" 
+    <string name="storage_internal_unmount_details">&lt;b&gt;When you eject this ^1, apps stored on it will stop working, and media files stored on it will not be available until it is reinserted.&lt;/b&gt;" 
 
 This ^1 is formatted to work on this device only. It won’t work on any others."</string>
     <string name="storage_internal_forget_details">"To use the apps, photos, or data this ^1 contains, reinsert it. 
@@ -1290,11 +1292,11 @@ To view details, switch to ^1."</string>
 
 After formatting, this ^1 will only work in this device. 
 
-"<b>Formatting erases all data currently stored on the ^1.</b>" To avoid losing the data, consider backing it up. "</string>
+"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
     <string name="storage_wizard_format_confirm_public_title">Format as portable storage</string>
     <string name="storage_wizard_format_confirm_public_body">"This requires the ^1 to be formatted. 
 
-"<b>Formatting erases all data currently stored on the ^1.</b>" To avoid losing the data, consider backing it up. "</string>
+"&lt;b&gt;Formatting erases all data currently stored on the ^1.&lt;/b&gt;" To avoid losing the data, consider backing it up. "</string>
     <string name="storage_wizard_format_confirm_next">Erase &amp; format</string>
     <string name="storage_wizard_format_progress_title">Formatting ^1…</string>
     <string name="storage_wizard_format_progress_body">Don’t remove the ^1 while it’s formatting.</string>
@@ -1305,7 +1307,7 @@ The move takes about ^2 and will free ^3 on internal storage. Some apps won’t 
     <string name="storage_wizard_migrate_now">Move now</string>
     <string name="storage_wizard_migrate_later">Move later</string>
     <string name="storage_wizard_migrate_confirm_title">Move data now</string>
-    <string name="storage_wizard_migrate_confirm_body"><b>The move takes about ^1. It will free ^2 on ^3.</b></string>
+    <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;The move takes about ^1. It will free ^2 on ^3.&lt;/b&gt;</string>
     <string name="storage_wizard_migrate_confirm_next">Move</string>
     <string name="storage_wizard_migrate_progress_title">Moving data…</string>
     <string name="storage_wizard_migrate_details">"During the move: 
@@ -1316,7 +1318,7 @@ The move takes about ^2 and will free ^3 on internal storage. Some apps won’t 
     <string name="storage_wizard_ready_external_body">Your ^1 is all set to use with photos and other media.</string>
     <string name="storage_wizard_ready_internal_body">"Your new ^1 is working. 
 
-To move photos, files, and app data to this device, go to Settings > Storage."</string>
+To move photos, files, and app data to this device, go to Settings &gt; Storage."</string>
     <string name="storage_wizard_move_confirm_title">Move ^1</string>
     <string name="storage_wizard_move_confirm_body">"Moving ^1 and its data to ^2 will take only a few moments. You won’t be able to use the app until the move is complete. 
 
@@ -1366,7 +1368,7 @@ Consider using a faster ^1 for better performance."</string>
     <string name="menu_new">New APN</string>
     <string name="menu_save">Save</string>
     <string name="menu_cancel">Discard</string>
-    <string name="error_title" />
+    <string name="error_title"></string>
     <string name="error_name_empty">The Name field can’t be empty.</string>
     <string name="error_apn_empty">The APN can’t be empty.</string>
     <string name="error_mcc_not3">MCC field must be 3 digits.</string>
@@ -1377,9 +1379,9 @@ Consider using a faster ^1 for better performance."</string>
     <string name="reset_network_title">Network settings reset</string>
     <string name="reset_network_desc">"This will reset all network settings, including:
 
-"<li>WLAN</li>"
-"<li>Cellular data</li>"
-"<li>Bluetooth</li></string>
+"&lt;li&gt;WLAN&lt;/li&gt;"
+"&lt;li&gt;Cellular data&lt;/li&gt;"
+"&lt;li&gt;Bluetooth&lt;/li&gt;</string>
     <string name="reset_network_button_text">Reset settings</string>
     <string name="reset_network_final_desc">Reset all network settings? You can’t undo this action!</string>
     <string name="reset_network_final_button_text">Reset settings</string>
@@ -1388,11 +1390,11 @@ Consider using a faster ^1 for better performance."</string>
     <string name="reset_network_complete_toast">Network settings have been reset</string>
     <string name="device_reset_title">Reset device</string>
     <string name="master_clear_title">Factory data reset</string>
-    <string name="master_clear_desc">This will erase all data from your phone’s <b>internal storage</b>", including:
+    <string name="master_clear_desc">This will erase all data from your phone’s &lt;b&gt;internal storage&lt;/b&gt;", including:
 
-"<li>Your Google account</li>"
-"<li>System and app data and settings</li>"
-"<li>Downloaded apps</li></string>
+"&lt;li&gt;Your Google account&lt;/li&gt;"
+"&lt;li&gt;System and app data and settings&lt;/li&gt;"
+"&lt;li&gt;Downloaded apps&lt;/li&gt;</string>
     <string name="master_clear_accounts">"
 
 You are currently signed into the following accounts:
@@ -1401,12 +1403,12 @@ You are currently signed into the following accounts:
 
 There are other users present on this device.
 "</string>
-    <string name="master_clear_desc_also_erases_external"><li>Music</li>"
-"<li>Photos</li>"
-"<li>Other user data</li></string>
+    <string name="master_clear_desc_also_erases_external">&lt;li&gt;Music&lt;/li&gt;"
+"&lt;li&gt;Photos&lt;/li&gt;"
+"&lt;li&gt;Other user data&lt;/li&gt;</string>
     <string name="master_clear_desc_erase_external_storage">"
 
-To clear music, pictures, and other user data, the "<b>SD card</b> needs to be erased.</string>
+To clear music, pictures, and other user data, the "&lt;b&gt;SD card&lt;/b&gt; needs to be erased.</string>
     <string name="erase_external_storage">Erase SD card</string>
     <string name="erase_external_storage_description">Erase all the data on the SD card, such as music or photos</string>
     <string name="master_clear_button_text">Reset phone</string>
@@ -1607,11 +1609,11 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="reset_app_preferences_title">Reset app preferences?</string>
     <string name="reset_app_preferences_desc">"This will reset all preferences for:
 
- "<li>Disabled apps</li>"
- "<li>Disabled app notifications</li>"
- "<li>Default applications for actions</li>"
- "<li>Background data restrictions for apps</li>"
- "<li>Any permission restrictions</li>"
+ "&lt;li&gt;Disabled apps&lt;/li&gt;"
+ "&lt;li&gt;Disabled app notifications&lt;/li&gt;"
+ "&lt;li&gt;Default applications for actions&lt;/li&gt;"
+ "&lt;li&gt;Background data restrictions for apps&lt;/li&gt;"
+ "&lt;li&gt;Any permission restrictions&lt;/li&gt;"
 
  You will not lose any app data."</string>
     <string name="reset_app_preferences_button">Reset apps</string>
@@ -1634,7 +1636,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="clear_data_dlg_text">All this app’s data will be deleted permanently. This includes all files, settings, accounts, databases, etc.</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Cancel</string>
-    <string name="app_not_found_dlg_title" />
+    <string name="app_not_found_dlg_title"></string>
     <string name="app_not_found_dlg_text">The app wasn’t found in the list of installed apps.</string>
     <string name="clear_data_failed">Couldn’t clear app data.</string>
     <string name="app_factory_reset_dlg_title">Uninstall updates?</string>
@@ -1664,7 +1666,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="system_package">System updates can’t be installed on external media.</string>
     <string name="force_stop_dlg_title">Force stop?</string>
     <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
-    <string name="move_app_failed_dlg_title" />
+    <string name="move_app_failed_dlg_title"></string>
     <string name="move_app_failed_dlg_text">Couldn’t move app. %1$s</string>
     <string name="app_install_location_title">Preferred install location</string>
     <string name="app_install_location_summary">Change the preferred installation location for new apps</string>
@@ -1726,7 +1728,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="language_settings_category">Language settings</string>
     <string name="keyboard_settings_category">Keyboard &amp; input methods</string>
     <string name="phone_language">Language</string>
-    <string name="phone_language_summary" />
+    <string name="phone_language_summary"></string>
     <string name="auto_replace">Auto-replace</string>
     <string name="auto_replace_summary">Correct mistyped words</string>
     <string name="auto_caps">Auto-capitalization</string>
@@ -1751,7 +1753,7 @@ To clear music, pictures, and other user data, the "<b>SD card</b> needs to be e
     <string name="keyboard_layout_default_label">Default</string>
     <string name="keyboard_layout_picker_title">Keyboard layouts</string>
     <string name="user_dict_settings_title">Personal dictionary</string>
-    <string name="user_dict_settings_summary" />
+    <string name="user_dict_settings_summary"></string>
     <string name="user_dict_settings_add_menu_title">Add</string>
     <string name="user_dict_settings_add_dialog_title">Add to dictionary</string>
     <string name="user_dict_settings_add_screen_title">Phrase</string>
@@ -1874,8 +1876,10 @@ Some apps may not work until updated by their developers."</string>
     <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
 While zoomed in, you can:
-"<li><ul>"Pan: Drag two or more fingers across the screen.
-"<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li></ul></li>"
+"&lt;li&gt;
+  &lt;ul&gt;"Pan: Drag two or more fingers across the screen.
+"&lt;li&gt;Adjust zoom level: Pinch two or more fingers together or spread them apart.&lt;/li&gt;&lt;/ul&gt;
+&lt;/li&gt;"
 
 You can also temporarily magnify what’s under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
 
@@ -2217,7 +2221,7 @@ If the device has multiple users, using this shortcut on the lock screen tempora
     <string name="credential_storage_type_hardware">Hardware-backed</string>
     <string name="credential_storage_type_software">Software only</string>
     <string name="credentials_settings_not_available">Credentials are not available for this user</string>
-    <string name="credentials_unlock" />
+    <string name="credentials_unlock"></string>
     <string name="credentials_unlock_hint">Type the password for credential storage.</string>
     <string name="credentials_old_password">Current password:</string>
     <string name="credentials_reset_hint">Remove all the contents?</string>
@@ -2250,7 +2254,7 @@ If the device has multiple users, using this shortcut on the lock screen tempora
     <string name="local_backup_password_toast_success">New backup password set</string>
     <string name="local_backup_password_toast_confirmation_mismatch">New password and confirmation don’t match</string>
     <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
-    <string name="backup_erase_dialog_title" />
+    <string name="backup_erase_dialog_title"></string>
     <string name="backup_erase_dialog_message">Stop backing up your WLAN passwords, bookmarks, other settings, and app data, plus erase all copies on Google servers?</string>
     <string name="fullbackup_erase_dialog_message">Stop backing up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps), plus erase all copies on Google Drive?</string>
     <string name="fullbackup_data_summary">"Automatically back up device data (such as WLAN passwords and call history) and app data (such as settings and files stored by apps) remotely.
@@ -2261,7 +2265,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="remove_device_admin">Deactivate</string>
     <string name="select_device_admin_msg">Device administrators</string>
     <string name="no_device_admins">No available device administrators</string>
-    <string name="managed_profile_device_admin_info">To stop %1$s from accessing your work profile, remove the profile under Settings > Accounts</string>
+    <string name="managed_profile_device_admin_info">To stop %1$s from accessing your work profile, remove the profile under Settings &gt; Accounts</string>
     <string name="personal_device_admin_title">Personal</string>
     <string name="managed_device_admin_title">Work</string>
     <string name="no_trust_agents">No available trust agents</string>
@@ -2304,11 +2308,11 @@ Your Administrator has the ability to monitor and manage settings, access, apps,
     <string name="wifi_setup_status_connecting">Connecting…</string>
     <string name="wifi_setup_status_proceed_to_next">Go to the next step</string>
     <string name="wifi_setup_status_eap_not_supported">EAP isn’t supported.</string>
-    <string name="wifi_setup_eap_not_supported">You can’t configure an EAP WLAN connection during setup. After setup, you can do that in Settings > Wireless &amp; networks.</string>
+    <string name="wifi_setup_eap_not_supported">You can’t configure an EAP WLAN connection during setup. After setup, you can do that in Settings &gt; Wireless &amp; networks.</string>
     <string name="wifi_setup_description_connecting">Connecting can take a few minutes…</string>
-    <string name="wifi_setup_description_connected">Touch <b>Next</b>" to continue with setup.
+    <string name="wifi_setup_description_connected">Touch &lt;b&gt;Next&lt;/b&gt;" to continue with setup.
 
-Touch "<b>Back</b> to connect to a different WLAN network.</string>
+Touch "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
     <string name="accessibility_sync_enabled">Sync enabled</string>
     <string name="accessibility_sync_disabled">Sync disabled</string>
     <string name="accessibility_sync_in_progress">Syncing now</string>
@@ -2339,7 +2343,7 @@ Touch "<b>Back</b> to connect to a different WLAN network.</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Calendar</string>
     <string name="sync_contacts">Contacts</string>
-    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font>" 
+    <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Welcome to Google sync!&lt;/font&gt;" 
 A Google approach to syncing data to allow access to your contacts, appointments, and more from wherever you are. "</string>
     <string name="header_application_sync_settings">App sync settings</string>
     <string name="header_data_and_synchronization">Data &amp; synchronization</string>
@@ -2507,10 +2511,10 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="data_usage_restrict_background_multiuser">"If you restrict background cellular data, some apps and services won’t work unless you’re connected to WLAN.
 
 This setting affects all users on this phone."</string>
-    <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">warning</font></string>
-    <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">limit</font></string>
+    <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;warning&lt;/font&gt;</string>
+    <string name="data_usage_sweep_limit">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;limit&lt;/font&gt;</string>
     <string name="data_usage_uninstalled_apps">Removed apps</string>
     <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
     <string name="data_usage_received_sent">%1$s received, %2$s sent</string>
@@ -2728,7 +2732,7 @@ Any user can update apps for all other users."</string>
     <string name="user_image_take_photo">Take photo</string>
     <string name="user_image_choose_photo">Choose photo from Gallery</string>
     <string name="user_image_photo_selector">Select photo</string>
-    <string name="regulatory_info_text" />
+    <string name="regulatory_info_text"></string>
     <string name="sim_setup_wizard_title">SIM cards</string>
     <string name="sim_settings_title">SIM cards</string>
     <string name="sim_settings_summary">%1$s - %2$s</string>
@@ -3154,8 +3158,8 @@ This helps protect data on lost or stolen devices."</string>
     <string name="write_settings_description">This permission allows an app to modify system settings.</string>
     <string name="write_settings_on">Yes</string>
     <string name="write_settings_off">No</string>
-    <string name="additional_system_update" />
-    <string name="additional_system_update_menu" />
+    <string name="additional_system_update"></string>
+    <string name="additional_system_update_menu"></string>
     <string name="input_method_selector_show_automatically_value">0</string>
     <string name="input_method_selector_always_show_value">1</string>
     <string name="input_method_selector_always_hide_value">2</string>
@@ -3166,7 +3170,7 @@ This helps protect data on lost or stolen devices."</string>
     <string name="category_key_system">com.android.settings.category.system</string>
     <string name="proxy_port_hint">8080</string>
     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
-    <string name="security_settings_fingerprint_preference_summary_none" />
+    <string name="security_settings_fingerprint_preference_summary_none"></string>
     <string name="setup_fingerprint_enroll_finish_message">Just touch the fingerprint sensor to wake and unlock your device.</string>
     <string name="setup_fingerprint_enroll_finish_message_secondary">When you see this icon, you can use your fingerprint.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Skip fingerprint setup?</string>
@@ -3229,39 +3233,39 @@ This helps protect data on lost or stolen devices."</string>
     <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="time_zone_auto_stub">Select Time Zone</string>
     <string name="nfc_payment_use_default">Use default</string>
-    <string name="help_uri_default" />
-    <string name="help_uri_dashboard" />
-    <string name="help_uri_beam" />
-    <string name="help_uri_display" />
-    <string name="help_uri_wallpaper" />
-    <string name="help_uri_interruptions" />
-    <string name="help_uri_other_sounds" />
-    <string name="help_uri_notifications" />
-    <string name="help_uri_apps" />
-    <string name="help_uri_storage" />
-    <string name="help_uri_accessibility" />
-    <string name="help_uri_printing" />
-    <string name="help_uri_about" />
-    <string name="help_url_wifi" />
-    <string name="help_url_bluetooth" />
-    <string name="help_url_data_usage" />
-    <string name="help_url_more_networks" />
-    <string name="help_url_vpn" />
-    <string name="help_url_sound" />
-    <string name="help_url_battery" />
-    <string name="help_url_accounts" />
-    <string name="help_url_choose_lockscreen" />
-    <string name="help_url_backup_reset" />
-    <string name="help_url_tether" />
-    <string name="help_url_dreams" />
-    <string name="help_url_users" />
-    <string name="help_url_location_access" />
-    <string name="help_url_security" />
-    <string name="help_url_nfc_payment" />
-    <string name="help_url_remote_display" />
-    <string name="help_url_fingerprint" />
+    <string name="help_uri_default"></string>
+    <string name="help_uri_dashboard"></string>
+    <string name="help_uri_beam"></string>
+    <string name="help_uri_display"></string>
+    <string name="help_uri_wallpaper"></string>
+    <string name="help_uri_interruptions"></string>
+    <string name="help_uri_other_sounds"></string>
+    <string name="help_uri_notifications"></string>
+    <string name="help_uri_apps"></string>
+    <string name="help_uri_storage"></string>
+    <string name="help_uri_accessibility"></string>
+    <string name="help_uri_printing"></string>
+    <string name="help_uri_about"></string>
+    <string name="help_url_wifi"></string>
+    <string name="help_url_bluetooth"></string>
+    <string name="help_url_data_usage"></string>
+    <string name="help_url_more_networks"></string>
+    <string name="help_url_vpn"></string>
+    <string name="help_url_sound"></string>
+    <string name="help_url_battery"></string>
+    <string name="help_url_accounts"></string>
+    <string name="help_url_choose_lockscreen"></string>
+    <string name="help_url_backup_reset"></string>
+    <string name="help_url_tether"></string>
+    <string name="help_url_dreams"></string>
+    <string name="help_url_users"></string>
+    <string name="help_url_location_access"></string>
+    <string name="help_url_security"></string>
+    <string name="help_url_nfc_payment"></string>
+    <string name="help_url_remote_display"></string>
+    <string name="help_url_fingerprint"></string>
     <string name="zen_mode_settings_title">@android:string/zen_mode_feature_name</string>
-    <string name="oem_preferred_feedback_reporter" />
+    <string name="oem_preferred_feedback_reporter"></string>
     <string name="high_power_system">Battery optimization not available</string>
     <string name="high_power_prompt_title">Ignore battery optimizations?</string>
     <string name="high_power_prompt_body">Let app %1$s stay connected in the background? This may use more battery.</string>

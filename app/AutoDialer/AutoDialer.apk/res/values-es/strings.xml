@@ -21,6 +21,6 @@
     <string name="end_call">End Call Duration</string>
     <string name="phone_call">Phone Call Duration</string>
     <string name="settings">Settings</string>
-    <string name="msg_permission_steps">"You've disabled permissions, please allow permission from "<b>Settings</b> -> <b>Apps</b> -> <i>Menu</i> -> <i>Show system</i> -> <b>Auto Dialer</b> -> <b>Permissions</b> to enable all permissions</string>
-    <string name="a" />
+    <string name="msg_permission_steps">"You've disabled permissions, please allow permission from "&lt;b&gt;Settings&lt;/b&gt; -&gt; &lt;b&gt;Apps&lt;/b&gt; -&gt; &lt;i&gt;Menu&lt;/i&gt; -&gt; &lt;i&gt;Show system&lt;/i&gt; -&gt; &lt;b&gt;Auto Dialer&lt;/b&gt; -&gt; &lt;b&gt;Permissions&lt;/b&gt; to enable all permissions</string>
+    <string name="a"></string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="nothing" />
-    <string name="space" />
+    <string name="nothing"></string>
+    <string name="space"></string>
     <string name="spacefull">　</string>
     <string name="activity_name">杂志锁屏</string>
     <string name="settings_detail">用于显示简约系列主题，支持多幅、可更换壁纸，支持时钟位置调整</string>
@@ -355,7 +355,7 @@ Current quantity(%d%%)"</string>
     <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
     <string name="keyguard_password_enter_puk_prompt">SIM PUK code</string>
     <string name="keyguard_password_enter_pin_prompt">New SIM PIN code</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Touch to type password</font></string>
+    <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Touch to type password&lt;/font&gt;</string>
     <string name="keyguard_password_enter_password_code">Type password to unlock</string>
     <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
     <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
@@ -456,7 +456,7 @@ Try again in %d seconds."</string>
     <string name="automatic_brightness">Automatic brightness</string>
     <string name="lenovo_brightness_adjust_bar_message">Manually adjust the brightness, use the slide bar to change the value</string>
     <string name="lenovo_statusbar_switch_brightness_auto_textview_text">Auto</string>
-    <string name="lenovo_user_guide_content">>> Swipe right goes to Plug-in page</string>
+    <string name="lenovo_user_guide_content">&gt;&gt; Swipe right goes to Plug-in page</string>
     <string name="lenovo_settings_expand_style_notify">Switch and notification page</string>
     <string name="lenovo_settings_expand_style_plugin">Plug-in page</string>
     <string name="lenovo_settings_expand_style_keep_last">Keep the last collapsed page</string>
@@ -552,7 +552,7 @@ Try again in %d seconds."</string>
     <string name="lenovo_noti_assistant_tips_noti_more_200">Not bad. The notifications are managed well! Good job</string>
     <string name="lenovo_noti_assistant_tips_noti_more_1000">A lot of notifications. Can you handle it?</string>
     <string name="lenovo_noti_assistant_noti_num_zero">No notifications</string>
-    <string name="lenovo_noti_assistant_noti_num_unit" />
+    <string name="lenovo_noti_assistant_noti_num_unit"></string>
     <string name="lenovo_noti_assistant_unread_noti_num_unit">%</string>
     <string name="lenovo_noti_assistant_recieve_noti_num_weekly_desc">Total notifications received last week</string>
     <string name="lenovo_noti_assistant_unread_noti_num_weekly_desc">%s notifications not processed</string>
@@ -647,7 +647,7 @@ To unpin,long press Back."</string>
     <string name="lenovo_widget_config_label">Widget Config</string>
     <string name="lenovo_widget_config_info">Go to the specified interface to configure this plug-in</string>
     <string name="widget_network_confirmation_title">Welcome to the Plug-in page</string>
-    <string name="widget_network_confirmation_message">Would you like to enable Plug-in page? Dear user, Plug-in page needs internet connection while in use as it provides weather, schedules, and other information for you on the fly. Do you agree? (You can change this later in Settings>Notification center menu.)</string>
+    <string name="widget_network_confirmation_message">Would you like to enable Plug-in page? Dear user, Plug-in page needs internet connection while in use as it provides weather, schedules, and other information for you on the fly. Do you agree? (You can change this later in Settings&gt;Notification center menu.)</string>
     <string name="widget_network_confirmation_no_more_tips">"Don't prompt again"</string>
     <string name="lenovo_exit">Exit</string>
     <string name="lenovo_agree_and_continue">Agree and continue</string>
@@ -721,7 +721,7 @@ Listening at high volume for long periods may damage your hearing."</string>
     <string name="internal_string_ext_media_move_success_message">Data moved to %s</string>
     <string name="internal_string_ext_media_move_failure_title">"Couldn't move data"</string>
     <string name="internal_string_ext_media_move_failure_message">Data left at original location</string>
-    <string name="internal_string_clearDefaultHintMsg">Clear default in System settings > Apps > Downloaded.</string>
+    <string name="internal_string_clearDefaultHintMsg">Clear default in System settings &gt; Apps &gt; Downloaded.</string>
     <string name="internal_string_usb_storage_button_mount">Turn on USB storage</string>
     <string name="internal_string_usb_storage_stop_button_mount">Turn off USB storage</string>
     <string name="lenovo_charge_completed_msg_title">Charge Completed</string>

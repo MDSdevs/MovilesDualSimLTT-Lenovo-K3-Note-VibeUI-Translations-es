@@ -196,7 +196,7 @@ Please try again in %d seconds."</string>
     <string name="description_direction_up">Slide up to dismiss</string>
     <string name="description_direction_down">Slide down to snooze</string>
     <string name="press_color_to_apply">Press on Color to apply</string>
-    <string name="color_picker_select">-></string>
+    <string name="color_picker_select">-&gt;</string>
     <string name="headset_pin_recognition">Your earphones are not compatible with the Phone.Please try another ones</string>
     <string name="usb_autorun_cdrom_notification_title">Connected as an autorun cdrom</string>
     <string name="ct_net_name">CTNET</string>
@@ -273,7 +273,7 @@ Please try again in %d seconds."</string>
     <string name="wfc_403_auth_scheme_unsupported">Error403: authentication scheme unsupported</string>
     <string name="wfc_403_handset_blacklisted">Error403: handset is blacklisted</string>
     <string name="wfc_911_missing">REG09: Missing 911 Address</string>
-    <string name="denied_required_permission">Permissions denied. You can change them in Settings > Apps.</string>
+    <string name="denied_required_permission">Permissions denied. You can change them in Settings &gt; Apps.</string>
     <item type="string" name="APKTOOL_DUMMY_00f0">false</item>
     <item type="string" name="APKTOOL_DUMMY_00f1">false</item>
     <item type="string" name="APKTOOL_DUMMY_00f2">false</item>

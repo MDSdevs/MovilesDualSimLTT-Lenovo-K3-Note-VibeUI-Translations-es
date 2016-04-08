@@ -27,14 +27,6 @@
         <item>@string/sip_system_decide</item>
         <item>@string/sip_always_send_keepalive</item>
     </string-array>
-    <array name="preview">
-        <item>@drawable/preview1</item>
-        <item>@drawable/preview2</item>
-        <item>@drawable/preview3</item>
-    </array>
-    <array name="previewthumb">
-        <item>@drawable/thumb</item>
-    </array>
     <string-array name="gsm_umts_network_preferences_choices_cmcc">
         <item>GSM/TD-SCDMA (auto mode)</item>
         <item>TD-SCDMA only</item>
@@ -392,4 +384,12 @@
         <item>silent</item>
         <item>never</item>
     </string-array>
+    <array name="preview">
+        <item>@drawable/preview1</item>
+        <item>@drawable/preview2</item>
+        <item>@drawable/preview3</item>
+    </array>
+    <array name="previewthumb">
+        <item>@drawable/thumb</item>
+    </array>
 </resources>
