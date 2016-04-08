@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="default_circle_indicator_centered">true</bool>
+    <bool name="default_circle_indicator_snap">false</bool>
+    <bool name="default_underline_indicator_fades">true</bool>
+    <bool name="support_active_icon_app">true</bool>
+    <bool name="config_largeHeap">false</bool>
+    <bool name="is_tablet">false</bool>
+    <bool name="is_large_tablet">false</bool>
+    <bool name="allow_rotation">false</bool>
+    <bool name="config_useDropTargetDownTransition">false</bool>
+    <bool name="config_workspaceFadeAdjacentScreens">false</bool>
+    <bool name="config_useCustomClings">false</bool>
+    <bool name="hotseat_transpose_layout_with_orientation">true</bool>
+    <bool name="debug_memory_enabled">false</bool>
+    <bool name="show_zero_query_suggestions">true</bool>
+    <bool name="show_zero_query_shortcuts">true</bool>
+    <bool name="show_scrolling_suggestions">false</bool>
+    <bool name="show_scrolling_results">true</bool>
+    <bool name="show_non_all_corpora_in_settings">true</bool>
+    <bool name="is_phone">false</bool>
+    <bool name="default_line_indicator_centered">true</bool>
+    <bool name="default_title_indicator_selected_bold">true</bool>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_allocation_entries">
+        <item>Default</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+    <string-array name="cache_reclaiming_entries">
+        <item>Default</item>
+        <item>Minimum</item>
+        <item>Moderate</item>
+        <item>Doubled</item>
+    </string-array>
+    <string-array name="kernel_tweaks_entries">
+        <item>Disabled</item>
+        <item>Light</item>
+        <item>Heavy</item>
+    </string-array>
+    <string-array name="net_buffer_entries">
+        <item>Default</item>
+        <item>Small</item>
+        <item>Big</item>
+    </string-array>
+    <string-array name="oom_killer_entries">
+        <item>Default</item>
+        <item>Enabled</item>
+        <item>Disabled</item>
+    </string-array>
+    <string-array name="ram_manager_entries">
+        <item>Default</item>
+        <item>Multitasking</item>
+        <item>Balanced</item>
+        <item>Gaming</item>
+    </string-array>
+    <string-array name="seeder_entries">
+        <item>Default</item>
+        <item>Light</item>
+        <item>Enlarger</item>
+        <item>Moderate</item>
+        <item>Aggressive</item>
+    </string-array>
+</resources>

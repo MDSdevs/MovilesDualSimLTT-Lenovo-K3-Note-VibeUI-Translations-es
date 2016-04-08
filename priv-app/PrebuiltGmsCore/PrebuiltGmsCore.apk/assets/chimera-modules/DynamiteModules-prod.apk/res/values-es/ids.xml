@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="chimera" />
+    <item type="id" name="place_autocomplete_search_button">false</item>
+    <item type="id" name="place_autocomplete_search_input">false</item>
+    <item type="id" name="place_autocomplete_clear_button">false</item>
+    <item type="id" name="place_autocomplete_separator">false</item>
+    <item type="id" name="place_autocomplete_powered_by_google">false</item>
+    <item type="id" name="place_autocomplete_progress">false</item>
+    <item type="id" name="place_autocomplete_prediction_primary_text">false</item>
+    <item type="id" name="place_autocomplete_prediction_secondary_text">false</item>
+</resources>

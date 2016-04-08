@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LenovoYPProvider</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="putao_mobile_service">中国移动客服</string>
+    <string name="putao_unicom_service">中国联通客服</string>
+    <string name="putao_telecom_service">中国电信客服</string>
+    <string name="putao_unknow_name">未知</string>
+</resources>

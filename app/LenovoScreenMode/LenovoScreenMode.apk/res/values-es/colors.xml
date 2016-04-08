@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="display_effect_divider_background">#33191919</color>
+    <color name="display_effect_text_color_title">#ff191919</color>
+    <color name="display_effect_text_color_summary">#99191919</color>
+</resources>

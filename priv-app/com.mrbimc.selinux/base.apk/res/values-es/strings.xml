@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About</string>
+    <string name="apache2">Apache-2.0</string>
+    <string name="app_name">SELinuxModeChanger</string>
+    <string name="category_author">Author</string>
+    <string name="category_licences">Licences</string>
+    <string name="category_source_code">Source Code</string>
+    <string name="close">Close</string>
+    <string name="credits_author_summary">Idea and Creation</string>
+    <string name="gpl2">GPLv2</string>
+    <string name="gpl3">GPLv3</string>
+    <string name="no_root_access">App was unable to gain root access</string>
+    <string name="no_root_access_summary">"Superuser manager doesn't allow app to access SU or you don't have root at all. Fix this to use this SELinuxModeChanger!"</string>
+    <string name="notify_on_mode_change">Show notification after mode changed</string>
+    <string name="ok">OK</string>
+    <string name="selinux_disabled">"Looks that you don't have SELinux or it is disabled"</string>
+    <string name="selinux_enforcing">Enforcing</string>
+    <string name="selinux_permissive">Permissive</string>
+    <string name="selinux_select_mode">Select SELinux mode:</string>
+    <string name="selinux_set_to_enforcing">SELinux mode changed to enforcing!</string>
+    <string name="selinux_set_to_permissive">SELinux mode changed to permissive!</string>
+    <string name="selinux_unreachable">"Can't reach SELinux"</string>
+</resources>

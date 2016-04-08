@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="display_effect_divider_size">1.0px</dimen>
+    <dimen name="display_effect_text_size_title">16.0sp</dimen>
+    <dimen name="display_effect_text_size_summary">12.0sp</dimen>
+    <dimen name="display_effect_space_large">16.0dip</dimen>
+    <dimen name="display_effect_space_medium">12.0dip</dimen>
+    <dimen name="display_effect_space_small">8.0dip</dimen>
+    <dimen name="display_effect_space_tiny">4.0dip</dimen>
+    <dimen name="display_effect_img_height">160.0dip</dimen>
+    <dimen name="display_effect_mode_item_height">60.0dip</dimen>
+    <dimen name="display_effect_mode_item_radio_size">32.0dip</dimen>
+    <dimen name="display_effect_bottom_height">56.0dip</dimen>
+    <dimen name="display_effect_bottom_button_divider_height">28.0dip</dimen>
+    <dimen name="display_effect_bottom_button_divider_margin_top">16.0dip</dimen>
+    <dimen name="display_effect_param_item_name_height">76.0dip</dimen>
+    <dimen name="display_effect_param_item_name_width">48.0dip</dimen>
+    <dimen name="display_effect_param_bar_margin_top">18.0dip</dimen>
+    <dimen name="display_effect_param_bar_layer_height">2.0dip</dimen>
+</resources>

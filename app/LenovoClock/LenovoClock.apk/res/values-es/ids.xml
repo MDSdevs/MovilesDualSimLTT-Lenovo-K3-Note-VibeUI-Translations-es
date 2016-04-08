@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="decor_content_parent" />
+    <item type="id" name="radio" />
+    <item type="id" name="action_mode_bar_stub" />
+    <item type="id" name="action_context_bar" />
+    <item type="id" name="expanded_menu" />
+    <item type="id" name="action_bar_title" />
+    <item type="id" name="icon" />
+    <item type="id" name="title" />
+    <item type="id" name="shortcut" />
+    <item type="id" name="action_mode_close_button" />
+    <item type="id" name="checkbox" />
+    <item type="id" name="tabcontent" />
+    <item type="id" name="action_bar_root" />
+    <item type="id" name="action_bar_subtitle" />
+    <item type="id" name="action_bar" />
+    <item type="id" name="action_bar_container" />
+    <item type="id" name="leac_fragment_view_index_tag" />
+    <item type="id" name="leac_fragment_view_option_tag" />
+    <item type="id" name="numbers_key" />
+    <item type="id" name="btn_add">false</item>
+    <item type="id" name="btn_settings">false</item>
+    <item type="id" name="description_icon">false</item>
+    <item type="id" name="description_text">false</item>
+    <item type="id" name="action_button">false</item>
+    <item type="id" name="separator">false</item>
+    <item type="id" name="action_icon">false</item>
+    <item type="id" name="action_text">false</item>
+    <item type="id" name="alarm_fullscreen_background">false</item>
+    <item type="id" name="LayoutCenter">false</item>
+    <item type="id" name="alert_time24or12">false</item>
+    <item type="id" name="alarm_time_display">false</item>
+    <item type="id" name="alert_lable_layout">false</item>
+    <item type="id" name="TVAlarmLabel">false</item>
+    <item type="id" name="doubleClickText">false</item>
+    <item type="id" name="wiper_switch">false</item>
+    <item type="id" name="DownIcon">false</item>
+    <item type="id" name="TVSnooze">false</item>
+    <item type="id" name="weather_layout">false</item>
+    <item type="id" name="weather_icon">false</item>
+    <item type="id" name="weather_city">false</item>
+    <item type="id" name="weather_tpye">false</item>
+    <item type="id" name="weather_temp">false</item>
+    <item type="id" name="alert_time_display">false</item>
+    <item type="id" name="alert_label_display">false</item>
+    <item type="id" name="alert_snooze_button">false</item>
+    <item type="id" name="alert_dismiss_button">false</item>
+    <item type="id" name="main">false</item>
+    <item type="id" name="alarms_list">false</item>
+    <item type="id" name="alarms_empty_view">false</item>
+    <item type="id" name="label">false</item>
+    <item type="id" name="alarm_item">false</item>
+    <item type="id" name="digital_clock">false</item>
+    <item type="id" name="onoff">false</item>
+    <item type="id" name="daysOfWeek">false</item>
+    <item type="id" name="alarmRemainingTime">false</item>
+    <item type="id" name="expand_area">false</item>
+    <item type="id" name="repeat_layout">false</item>
+    <item type="id" name="repeat_lable">false</item>
+    <item type="id" name="repeat_text">false</item>
+    <item type="id" name="fast_select_layout">false</item>
+    <item type="id" name="once_layout">false</item>
+    <item type="id" name="once">false</item>
+    <item type="id" name="weekdays_layout">false</item>
+    <item type="id" name="weekdays">false</item>
+    <item type="id" name="weekend_layout">false</item>
+    <item type="id" name="weekend">false</item>
+    <item type="id" name="everyday_layout">false</item>
+    <item type="id" name="everyday">false</item>
+    <item type="id" name="public_weekdays_layout">false</item>
+    <item type="id" name="public_weekdays">false</item>
+    <item type="id" name="repeat_days">false</item>
+    <item type="id" name="vibrate_layout">false</item>
+    <item type="id" name="vibrate_onoff">false</item>
+    <item type="id" name="poweroff_layout">false</item>
+    <item type="id" name="poweroff_onoff">false</item>
+    <item type="id" name="ringtone_layout">false</item>
+    <item type="id" name="ringtone_label">false</item>
+    <item type="id" name="choose_ringtone">false</item>
+    <item type="id" name="silent_onoff">false</item>
+    <item type="id" name="label_layout">false</item>
+    <item type="id" name="label_title">false</item>
+    <item type="id" name="edit_label">false</item>
+    <item type="id" name="collapse_expand">false</item>
+    <item type="id" name="hairline">false</item>
+    <item type="id" name="summary">false</item>
+    <item type="id" name="ring_time">false</item>
+    <item type="id" name="summary1">false</item>
+    <item type="id" name="delete">false</item>
+    <item type="id" name="bottom_line">false</item>
+    <item type="id" name="alarm_footer_filler">false</item>
+    <item type="id" name="alarm_timeline_title">false</item>
+    <item type="id" name="alarm_timeline_scroll_view">false</item>
+    <item type="id" name="alarm_timeline_view">false</item>
+    <item type="id" name="digital_alarmclock_layout">false</item>
+    <item type="id" name="digital_alarmclock">false</item>
+    <item type="id" name="analog_alarmclock_layout">false</item>
+    <item type="id" name="dial">false</item>
+    <item type="id" name="analog_alarm">false</item>
+    <item type="id" name="hour">false</item>
+    <item type="id" name="minute">false</item>
+    <item type="id" name="analog_appwidget">false</item>
+    <item type="id" name="cities_list">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="city_name">false</item>
+    <item type="id" name="city_time">false</item>
+    <item type="id" name="cities">false</item>
+    <item type="id" name="dial_clock">false</item>
+    <item type="id" name="analog_clock">false</item>
+    <item type="id" name="desk_clock_pager">false</item>
+    <item type="id" name="digital_layout">false</item>
+    <item type="id" name="time_line">false</item>
+    <item type="id" name="digital_nextAlarm">false</item>
+    <item type="id" name="digital_alarmLable">false</item>
+    <item type="id" name="digital_date">false</item>
+    <item type="id" name="analog_layout">false</item>
+    <item type="id" name="analog_nextAlarm">false</item>
+    <item type="id" name="analog_alarmLable">false</item>
+    <item type="id" name="analog_date">false</item>
+    <item type="id" name="digital_appwidget">false</item>
+    <item type="id" name="digital_appwidget_listview">false</item>
+    <item type="id" name="the_clock">false</item>
+    <item type="id" name="date">false</item>
+    <item type="id" name="nextAlarm">false</item>
+    <item type="id" name="time_from">false</item>
+    <item type="id" name="time_pause">false</item>
+    <item type="id" name="time_to">false</item>
+    <item type="id" name="labelBox">false</item>
+    <item type="id" name="lap_number">false</item>
+    <item type="id" name="lap_time">false</item>
+    <item type="id" name="lap_total">false</item>
+    <item type="id" name="action_mode_select_all_button">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="main_layout">false</item>
+    <item type="id" name="main_pagertabstrip">false</item>
+    <item type="id" name="top_container">false</item>
+    <item type="id" name="alarm_top_view">false</item>
+    <item type="id" name="worldclock_top_view">false</item>
+    <item type="id" name="stopwatch_top_view">false</item>
+    <item type="id" name="timer_top_view">false</item>
+    <item type="id" name="viewpage">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="repeatList">false</item>
+    <item type="id" name="text1">false</item>
+    <item type="id" name="alarm_revert">false</item>
+    <item type="id" name="alarm_delete">false</item>
+    <item type="id" name="alarm_save">false</item>
+    <item type="id" name="save_menu_item">false</item>
+    <item type="id" name="Globaltimepicker">false</item>
+    <item type="id" name="mTimePicker">false</item>
+    <item type="id" name="time_display">false</item>
+    <item type="id" name="set_alarm_btn_layout">false</item>
+    <item type="id" name="minutes_picker">false</item>
+    <item type="id" name="llStopwatchMainLayout">false</item>
+    <item type="id" name="start_space">false</item>
+    <item type="id" name="stopwatch_circle">false</item>
+    <item type="id" name="stopwatch_background">false</item>
+    <item type="id" name="stopwatch_time_text">false</item>
+    <item type="id" name="stopwatch_time">false</item>
+    <item type="id" name="stopwatch_left_button">false</item>
+    <item type="id" name="stopwatch_stop">false</item>
+    <item type="id" name="stopwatch_share_button">false</item>
+    <item type="id" name="end_space">false</item>
+    <item type="id" name="rlLapList">false</item>
+    <item type="id" name="tvLapTip">false</item>
+    <item type="id" name="laps_list">false</item>
+    <item type="id" name="llBtnControl">false</item>
+    <item type="id" name="alarms_footer_view">false</item>
+    <item type="id" name="llStartStopWatch">false</item>
+    <item type="id" name="start_stopwatch">false</item>
+    <item type="id" name="llResetStopWatch">false</item>
+    <item type="id" name="reset_stopwatch">false</item>
+    <item type="id" name="stopwatch_line_top">false</item>
+    <item type="id" name="stopwatch_line_bottom">false</item>
+    <item type="id" name="swn_collapsed_hitspace">false</item>
+    <item type="id" name="line1">false</item>
+    <item type="id" name="swn_collapsed_chronometer">false</item>
+    <item type="id" name="swn_collapsed_laps">false</item>
+    <item type="id" name="swn_expanded_hitspace">false</item>
+    <item type="id" name="swn_expanded_chronometer">false</item>
+    <item type="id" name="swn_expanded_laps">false</item>
+    <item type="id" name="swn_right_button">false</item>
+    <item type="id" name="swn_left_button">false</item>
+    <item type="id" name="notification_icon">false</item>
+    <item type="id" name="key_left">false</item>
+    <item type="id" name="key_middle">false</item>
+    <item type="id" name="key_right">false</item>
+    <item type="id" name="fragment_container">false</item>
+    <item type="id" name="dialog_lable">false</item>
+    <item type="id" name="closeBtn">false</item>
+    <item type="id" name="imgBackground">false</item>
+    <item type="id" name="timerCircleButton">false</item>
+    <item type="id" name="timerViewLayout">false</item>
+    <item type="id" name="timer_label_layout">false</item>
+    <item type="id" name="label_icon">false</item>
+    <item type="id" name="timer_label_edit">false</item>
+    <item type="id" name="UpIcon">false</item>
+    <item type="id" name="hours_ones">false</item>
+    <item type="id" name="hours_label">false</item>
+    <item type="id" name="minutes_tens">false</item>
+    <item type="id" name="minutes_ones">false</item>
+    <item type="id" name="minutes_label">false</item>
+    <item type="id" name="seconds">false</item>
+    <item type="id" name="seconds_label">false</item>
+    <item type="id" name="view_line01">false</item>
+    <item type="id" name="timerList">false</item>
+    <item type="id" name="timerListLapTime">false</item>
+    <item type="id" name="timerListLapName">false</item>
+    <item type="id" name="llTimerMainLayout">false</item>
+    <item type="id" name="timerLayoutRunningControl">false</item>
+    <item type="id" name="timerLayoutList">false</item>
+    <item type="id" name="timer_label">false</item>
+    <item type="id" name="timer_label_text">false</item>
+    <item type="id" name="timer_label_icon">false</item>
+    <item type="id" name="llSetTimer">false</item>
+    <item type="id" name="btnAddTime">false</item>
+    <item type="id" name="tvAddTime">false</item>
+    <item type="id" name="btnScreenOn">false</item>
+    <item type="id" name="tvScreenOn">false</item>
+    <item type="id" name="timer_btn_layout">false</item>
+    <item type="id" name="llStartTimer">false</item>
+    <item type="id" name="start_timer">false</item>
+    <item type="id" name="llPauseTimer">false</item>
+    <item type="id" name="pause_timer">false</item>
+    <item type="id" name="bottom_layout">false</item>
+    <item type="id" name="timer_collapsed_hitspace">false</item>
+    <item type="id" name="timer_collapsed_title">false</item>
+    <item type="id" name="timer_collapsed_text">false</item>
+    <item type="id" name="timer_expanded_hitspace">false</item>
+    <item type="id" name="timer_expanded_title">false</item>
+    <item type="id" name="timer_expanded_text">false</item>
+    <item type="id" name="timer_right_button">false</item>
+    <item type="id" name="timer_left_button">false</item>
+    <item type="id" name="tvPop">false</item>
+    <item type="id" name="timer_screen_on_layout">false</item>
+    <item type="id" name="timer_cb_screen_on">false</item>
+    <item type="id" name="timer_vibrate_layout">false</item>
+    <item type="id" name="timer_cb_vertical">false</item>
+    <item type="id" name="timer_ring_layout">false</item>
+    <item type="id" name="timer_ring_title">false</item>
+    <item type="id" name="timer_label_title">false</item>
+    <item type="id" name="city_item">false</item>
+    <item type="id" name="world_text">false</item>
+    <item type="id" name="home_icon">false</item>
+    <item type="id" name="city_day">false</item>
+    <item type="id" name="city_day_time">false</item>
+    <item type="id" name="city_name_layout">false</item>
+    <item type="id" name="city">false</item>
+    <item type="id" name="widget_item">false</item>
+    <item type="id" name="left_clock">false</item>
+    <item type="id" name="city_name_left">false</item>
+    <item type="id" name="city_day_left">false</item>
+    <item type="id" name="right_clock">false</item>
+    <item type="id" name="city_name_right">false</item>
+    <item type="id" name="city_day_right">false</item>
+    <item type="id" name="city_spacer">false</item>
+    <item type="id" name="menu_item_delete_alarm">false</item>
+    <item type="id" name="menu_item_sort">false</item>
+    <item type="id" name="action_search">false</item>
+    <item type="id" name="enable_alarm">false</item>
+    <item type="id" name="edit_alarm">false</item>
+    <item type="id" name="delete_alarm">false</item>
+    <item type="id" name="menu_items">false</item>
+    <item type="id" name="menu_item_night_mode">false</item>
+    <item type="id" name="menu_item_settings">false</item>
+    <item type="id" name="menu_item_help">false</item>
+    <item type="id" name="menu_set_alarm_items">false</item>
+    <item type="id" name="alarm_save_menu">false</item>
+    <item type="id" name="alarm_delete_menu">false</item>
+    <item type="id" name="menu_item_timer_edit">false</item>
+    <item type="id" name="timer_start">false</item>
+    <item type="id" name="timer_reset">false</item>
+    <item type="id" name="delete_item">false</item>
+    <item type="id" name="set_homezone">false</item>
+</resources>

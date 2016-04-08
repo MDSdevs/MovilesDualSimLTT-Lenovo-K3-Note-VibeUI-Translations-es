@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="decor_content_parent" />
+    <item type="id" name="radio" />
+    <item type="id" name="action_mode_bar_stub" />
+    <item type="id" name="action_context_bar" />
+    <item type="id" name="expanded_menu" />
+    <item type="id" name="action_bar_title" />
+    <item type="id" name="icon" />
+    <item type="id" name="title" />
+    <item type="id" name="shortcut" />
+    <item type="id" name="action_mode_close_button" />
+    <item type="id" name="checkbox" />
+    <item type="id" name="tabcontent" />
+    <item type="id" name="action_bar_root" />
+    <item type="id" name="action_bar_subtitle" />
+    <item type="id" name="action_bar" />
+    <item type="id" name="action_bar_container" />
+    <item type="id" name="leac_fragment_view_index_tag" />
+    <item type="id" name="leac_fragment_view_option_tag" />
+    <item type="id" name="list">false</item>
+    <item type="id" name="emptyview">false</item>
+    <item type="id" name="autoRecordAddButton">false</item>
+    <item type="id" name="number_field">false</item>
+    <item type="id" name="edittext">false</item>
+    <item type="id" name="select_contact">false</item>
+    <item type="id" name="main_frame">false</item>
+    <item type="id" name="summary">false</item>
+    <item type="id" name="rm_btn">false</item>
+    <item type="id" name="puk_panel">false</item>
+    <item type="id" name="puk2_label">false</item>
+    <item type="id" name="puk_retry_label">false</item>
+    <item type="id" name="puk_code">false</item>
+    <item type="id" name="bad_puk">false</item>
+    <item type="id" name="old_pin_panel">false</item>
+    <item type="id" name="old_pin_label">false</item>
+    <item type="id" name="pin_retry_label">false</item>
+    <item type="id" name="old_pin">false</item>
+    <item type="id" name="bad_pin">false</item>
+    <item type="id" name="new_pin1_label">false</item>
+    <item type="id" name="new_pin1">false</item>
+    <item type="id" name="new_pin2_label">false</item>
+    <item type="id" name="new_pin2">false</item>
+    <item type="id" name="mismatch">false</item>
+    <item type="id" name="button">false</item>
+    <item type="id" name="scroll">false</item>
+    <item type="id" name="color_00">false</item>
+    <item type="id" name="color_01">false</item>
+    <item type="id" name="color_02">false</item>
+    <item type="id" name="color_03">false</item>
+    <item type="id" name="msg">false</item>
+    <item type="id" name="ussd_update">false</item>
+    <item type="id" name="input_field">false</item>
+    <item type="id" name="pinc">false</item>
+    <item type="id" name="fdn_name">false</item>
+    <item type="id" name="fdn_number">false</item>
+    <item type="id" name="pin">false</item>
+    <item type="id" name="status">false</item>
+    <item type="id" name="infoText">false</item>
+    <item type="id" name="phoneNumber">false</item>
+    <item type="id" name="placeCall">false</item>
+    <item type="id" name="whole_view">false</item>
+    <item type="id" name="no_record_notice">false</item>
+    <item type="id" name="gemini_contact_check_btn">false</item>
+    <item type="id" name="gemini_contact_name">false</item>
+    <item type="id" name="gemini_contact_phone_num_type">false</item>
+    <item type="id" name="gemini_contact_phone_num">false</item>
+    <item type="id" name="gemini_contact_sim_status_layout">false</item>
+    <item type="id" name="gemini_contact_sim_status">false</item>
+    <item type="id" name="get_pin2_title">false</item>
+    <item type="id" name="pin2_retry_info_label">false</item>
+    <item type="id" name="pin2_invalid_info_label">false</item>
+    <item type="id" name="ok">false</item>
+    <item type="id" name="action_mode_select_all_button">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="LinearLayout01">false</item>
+    <item type="id" name="ViewTop">false</item>
+    <item type="id" name="EditPassword">false</item>
+    <item type="id" name="dialog_sum">false</item>
+    <item type="id" name="group">false</item>
+    <item type="id" name="enable">false</item>
+    <item type="id" name="disable">false</item>
+    <item type="id" name="edit_container">false</item>
+    <item type="id" name="EditNumber">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="save">false</item>
+    <item type="id" name="country_code">false</item>
+    <item type="id" name="country_name">false</item>
+    <item type="id" name="text1">false</item>
+    <item type="id" name="text2">false</item>
+    <item type="id" name="edit">false</item>
+    <item type="id" name="text3">false</item>
+    <item type="id" name="text4">false</item>
+    <item type="id" name="single1">false</item>
+    <item type="id" name="single2">false</item>
+    <item type="id" name="top_text">false</item>
+    <item type="id" name="select">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="show_always">false</item>
+    <item type="id" name="show_always_title">false</item>
+    <item type="id" name="cb_scroll">false</item>
+    <item type="id" name="edit_channel_name">false</item>
+    <item type="id" name="edit_channel_number">false</item>
+    <item type="id" name="checkbox_channel_enable">false</item>
+    <item type="id" name="internetIcon">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="done_menu_item">false</item>
+    <item type="id" name="select_items">false</item>
+    <item type="id" name="outgoing_call_broadcaster">false</item>
+    <item type="id" name="spinner">false</item>
+    <item type="id" name="sim_info_layout">false</item>
+    <item type="id" name="simIcon">false</item>
+    <item type="id" name="simStatus">false</item>
+    <item type="id" name="sim3g">false</item>
+    <item type="id" name="simNum">false</item>
+    <item type="id" name="text_layout">false</item>
+    <item type="id" name="operatorName">false</item>
+    <item type="id" name="showNumber">false</item>
+    <item type="id" name="lenovo_has_next">false</item>
+    <item type="id" name="edittext_container">false</item>
+    <item type="id" name="icon_layout">false</item>
+    <item type="id" name="rightWidget">false</item>
+    <item type="id" name="progressbar_layout">false</item>
+    <item type="id" name="progressbar_step01">false</item>
+    <item type="id" name="progressbar_step02">false</item>
+    <item type="id" name="progressbar_step03">false</item>
+    <item type="id" name="progressbar_step04">false</item>
+    <item type="id" name="progressbar_step05">false</item>
+    <item type="id" name="progressbar_step06">false</item>
+    <item type="id" name="progressbar_step07">false</item>
+    <item type="id" name="progressbar_step08">false</item>
+    <item type="id" name="progressbar_step09">false</item>
+    <item type="id" name="editTextname">false</item>
+    <item type="id" name="sim_color">false</item>
+    <item type="id" name="sim_status">false</item>
+    <item type="id" name="sim_short_number">false</item>
+    <item type="id" name="sim_main_layout">false</item>
+    <item type="id" name="sim_name">false</item>
+    <item type="id" name="sim_number">false</item>
+    <item type="id" name="entry_panel">false</item>
+    <item type="id" name="pin_entry">false</item>
+    <item type="id" name="ndp_unlock">false</item>
+    <item type="id" name="ndp_dismiss">false</item>
+    <item type="id" name="status_panel">false</item>
+    <item type="id" name="status_text">false</item>
+    <item type="id" name="widget_frame">false</item>
+    <item type="id" name="widget_checkbox">false</item>
+    <item type="id" name="widget_switch">false</item>
+    <item type="id" name="widget_radiobutton">false</item>
+    <item type="id" name="autorecord_radio_button">false</item>
+    <item type="id" name="frame">false</item>
+    <item type="id" name="switchWidget">false</item>
+    <item type="id" name="action_select_all">false</item>
+    <item type="id" name="action_unselect_all">false</item>
+    <item type="id" name="delete_selected">false</item>
+    <item type="id" name="add_contact">false</item>
+    <item type="id" name="action_settings">false</item>
+    <item type="id" name="editfdn_item">false</item>
+    <item type="id" name="fdn_item">false</item>
+    <item type="id" name="simple_item">false</item>
+    <item type="id" name="respond_via_message_reset">false</item>
+</resources>

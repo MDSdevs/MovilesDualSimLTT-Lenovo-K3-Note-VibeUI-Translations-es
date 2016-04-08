@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Engineering Code</string>
+    <string name="show_kernel_version_title">Kernel Version</string>
+    <string name="show_internal_version_title">Internal Version</string>
+    <string name="show_external_version_title">Version</string>
+    <string name="show_modem_version_title">Modem Version</string>
+    <string name="show_system_version_title">System Version</string>
+    <string name="show_sn_title">SN</string>
+    <string name="version_unavailable">Fail to get version</string>
+    <string name="factory_wipe_data">Wipe user data by factory mode</string>
+    <string name="factory_wipe_data_warning">Click OK button will clear all user data, but retain the installed applications, suggest ordinary users do not use it, to avoid losing data in the phone</string>
+    <string name="factory_wipe_data_cancel">cancel</string>
+    <string name="sdcard_not_found">factory wipe data failed</string>
+    <string name="sdcard_not_found_tip">"This feature requires the support of the SD card,
+        make sure that the available SD card inserted"</string>
+    <string name="sdcard_out_of_space">SD card is not enough space</string>
+    <string name="sdcard_out_of_space_tip">"SD only remaining %1$sM  available space, but this 
+functions require SD card has %2$sM available space"</string>
+    <string name="imei">IMEI</string>
+    <string name="imei_invalid">Invalid</string>
+    <string name="info_title_text">Lenovo Mobile Phone</string>
+    <string name="sar_text">Specific Absorption Rate information</string>
+    <string name="sar_explanation">"This mobile device meets India's national SAR Limits.
+The India SAR limit for mobile devices is 1.6 W/kg averaged over 1 grams of tissue. Test for SAR are conducted using standard operating positions with the device transmitting at its highest certified power level in all tested frequency bands.
+The highest SAR value for your Lenovo device when tested for use at the head and body is outlined as follows:"</string>
+    <string name="more_info">For more information, please consult the user manual.</string>
+    <string name="regulatory_information">Regulatory information</string>
+    <string name="version_info_title">Version information</string>
+    <string name="kernel_version">Kernel version</string>
+    <string name="baseband_version">Baseband version</string>
+    <string name="branch_name">Branch name</string>
+    <string name="hardware_version">Hardware version No.</string>
+    <string name="audio_paraver">Audio parameters</string>
+    <string name="lvp_version">LVP version No.</string>
+    <string name="title_hw_info">HW INFO</string>
+    <string name="hw_info_lcd">LCD:</string>
+    <string name="hw_info_touch">Touch:</string>
+    <string name="hw_info_sensor">Sensor:</string>
+    <string name="hw_info_LCM">LCM BIAS:</string>
+    <string name="hw_info_ICID">Charge ICID:</string>
+    <string name="hw_info_EMMC">EMMC type:</string>
+    <string name="hw_info_FLASHID">Flash ID:</string>
+    <string name="hw_info_ntcTemp">Ntc Temperature(Updated once every minute):</string>
+    <string name="hw_info_FGID">Fuel Gauges ID:</string>
+    <string name="power_warning">Warning</string>
+    <string name="power_warning_info">When the battery is at less than 30%, restoring the phone to factory settings may fail, so please recharge your phone</string>
+    <string name="debug_enable_mass_storage_title">Enable/Disable serial ports</string>
+    <string name="debug_enable_mass_storage_summary">Set attribute persist sys.usb.config to mass_storage,adb,acm / mtp,adb. This function is limited to debug mode.</string>
+    <string name="alert_message_ums_string">Press [OK] to switch to USB mode</string>
+    <string name="fb_switch_title">Feedback-switch</string>
+    <string name="fb_switch_message">Current state is %1$s, whether to %2$s the one-click feedback function ?</string>
+    <string name="openFbBtn">Open</string>
+    <string name="closeFbBtn">Close</string>
+    <string name="debug_cabc_switch_title">CABC SETTINGS</string>
+    <string name="debug_cabc_switch_summary">Set levl form 0 to 3</string>
+    <string name="sensor_correct">Psensor,Gsensor,Gyrosensor recalibration</string>
+    <string name="psensor_correct">Psensor recalibration</string>
+    <string name="gsensor_correct">Gsensor recalibration</string>
+    <string name="gyrosensor_correct">Gyrosensor recalibration</string>
+</resources>

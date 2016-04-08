@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="notification_number_text_color">#ffffffff</item>
+    <item type="drawable" name="ticker_background_color">#ff1d1d1d</item>
+    <item type="drawable" name="system_bar_background">@color/system_bar_background_opaque</item>
+    <item type="drawable" name="status_bar_recents_app_thumbnail_background">#88000000</item>
+    <item type="drawable" name="status_bar_notification_row_background_color">#ff090909</item>
+    <item type="drawable" name="recents_callout_line">#99ffffff</item>
+    <item type="drawable" name="heads_up_notification_bg_pressed">#ff33b5e5</item>
+    <item type="drawable" name="status_bar_expanded_header_divider">#4cffffff</item>
+    <item type="drawable" name="lenovo_notify_panel_header">#4d000000</item>
+    <item type="drawable" name="lenovo_bg_all_switch_gausscian">#4d000000</item>
+    <item type="drawable" name="lenovo_brightness_bar_bg_color">#8f26262c</item>
+    <item type="drawable" name="lenovo_qs_panel_bg">@color/lenovo_qs_panel_bg</item>
+    <item type="drawable" name="lenovo_notification_header_bg">@color/lenovo_qs_panel_bg</item>
+</resources>

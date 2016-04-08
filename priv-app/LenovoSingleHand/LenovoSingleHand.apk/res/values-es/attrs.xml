@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="keyCode" format="integer" />
+    <attr name="keyRepeat" format="boolean" />
+    <attr name="glowBackground" format="reference" />
+</resources>

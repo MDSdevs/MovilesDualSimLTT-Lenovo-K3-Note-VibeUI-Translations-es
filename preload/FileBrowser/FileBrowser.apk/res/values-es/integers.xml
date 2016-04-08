@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="leac_design_snackbar_text_max_lines">2</integer>
+    <integer name="anim_activity_in_duration">400</integer>
+    <integer name="anim_activity_out_duration">400</integer>
+</resources>

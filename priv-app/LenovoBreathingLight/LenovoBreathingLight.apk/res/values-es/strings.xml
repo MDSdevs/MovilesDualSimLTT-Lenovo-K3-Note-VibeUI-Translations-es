@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ABC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="colorLight_settings">Light</string>
+    <string name="color_light">Light</string>
+    <string name="color_light_demo">Light effect demonstration</string>
+    <string name="color_light_call">Incoming call</string>
+    <string name="color_light_missed_call">Missed calls</string>
+    <string name="color_light_unread_mms">Unread messages</string>
+    <string name="color_light_unread_email">Unread Emails</string>
+    <string name="color_light_battery">Low battery</string>
+    <string name="showing_color_light">Currently running light effect demonstration</string>
+    <string name="stop_color_light">Stop</string>
+    <string name="color_light_hasopen">Opened</string>
+    <string name="color_light_hasclose">Closed</string>
+    <string name="color_light_other_summary">Other</string>
+    <string name="color_light_other">WeChat, QQ, Weibo</string>
+    <string name="color_light_qq">QQ</string>
+    <string name="color_light_weixin">WeChat</string>
+    <string name="color_light_weibo">Weibo</string>
+    <string name="color_light_msg_title">Message</string>
+    <string name="color_light_close_light_midnight">Turn LED notifications off from 12am to 6am</string>
+    <string name="lightSummary">LED notification settings for missed calls, texts, unread emails and WeChat messages</string>
+</resources>

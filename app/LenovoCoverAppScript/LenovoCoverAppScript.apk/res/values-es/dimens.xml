@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lenovo_statusbar_height">25.0dip</dimen>
+    <dimen name="slide_down_status_bar_slop">25.0dip</dimen>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="0x7f020001" />
+    <public type="drawable" name="ic_arrow_white" id="0x7f020000" />
+    <public type="layout" name="activity_breathing_light" id="0x7f030000" />
+    <public type="layout" name="showmoreinf_preference" id="0x7f030001" />
+    <public type="xml" name="breathing_light_settings" id="0x7f040000" />
+    <public type="dimen" name="activity_horizontal_margin" id="0x7f050000" />
+    <public type="dimen" name="activity_vertical_margin" id="0x7f050001" />
+    <public type="string" name="app_name" id="0x7f060000" />
+    <public type="string" name="action_settings" id="0x7f060001" />
+    <public type="string" name="hello_world" id="0x7f060002" />
+    <public type="string" name="colorLight_settings" id="0x7f060003" />
+    <public type="string" name="color_light" id="0x7f060004" />
+    <public type="string" name="color_light_demo" id="0x7f060005" />
+    <public type="string" name="color_light_call" id="0x7f060006" />
+    <public type="string" name="color_light_missed_call" id="0x7f060007" />
+    <public type="string" name="color_light_unread_mms" id="0x7f060008" />
+    <public type="string" name="color_light_unread_email" id="0x7f060009" />
+    <public type="string" name="color_light_battery" id="0x7f06000a" />
+    <public type="string" name="showing_color_light" id="0x7f06000b" />
+    <public type="string" name="stop_color_light" id="0x7f06000c" />
+    <public type="string" name="color_light_hasopen" id="0x7f06000d" />
+    <public type="string" name="color_light_hasclose" id="0x7f06000e" />
+    <public type="string" name="color_light_other_summary" id="0x7f06000f" />
+    <public type="string" name="color_light_other" id="0x7f060010" />
+    <public type="string" name="color_light_qq" id="0x7f060011" />
+    <public type="string" name="color_light_weixin" id="0x7f060012" />
+    <public type="string" name="color_light_weibo" id="0x7f060013" />
+    <public type="string" name="color_light_msg_title" id="0x7f060014" />
+    <public type="string" name="color_light_close_light_midnight" id="0x7f060015" />
+    <public type="string" name="lightSummary" id="0x7f060016" />
+    <public type="style" name="AppTheme" id="0x7f070000" />
+    <public type="style" name="app_ColorAcitonbarTitleTextStyle" id="0x7f070001" />
+    <public type="style" name="app_ColorAcitonbarSubtitleTextStyle" id="0x7f070002" />
+    <public type="style" name="app_ColorActionBarStyle" id="0x7f070003" />
+    <public type="style" name="AppTheme_ColorActionbar" id="0x7f070004" />
+    <public type="style" name="AppBaseTheme" id="0x7f070005" />
+    <public type="menu" name="breathing_light" id="0x7f080000" />
+    <public type="id" name="action_settings" id="0x7f090000" />
+</resources>

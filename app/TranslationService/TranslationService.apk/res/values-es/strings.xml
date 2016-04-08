@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TranslationService</string>
+    <string name="no_word_selected">Please select at least one word</string>
+    <string name="editor_translate_network_traffic_title">Welcome to the translation service</string>
+    <string name="editor_translate_network_traffic_content">Dear user, translation service needs to be connected to the Internet when in use.</string>
+    <string name="editor_translate_network_traffic_data_usage_confirm">"Don't prompt"</string>
+    <string name="editor_translate_network_traffic_confirm">Agree and continue</string>
+    <string name="editor_translate_network_traffic_exit">Exit</string>
+    <string name="editor_popup_menu_translate_pending">Translating...</string>
+    <string name="editor_popup_menu_network_connect_fail">Network connection failed</string>
+    <string name="editor_popup_menu_retry">Retry</string>
+    <string name="editor_popup_menu_pronun_en">EN</string>
+    <string name="editor_popup_menu_pronun_am">US</string>
+    <string name="editor_popup_menu_pronun_other">Other</string>
+    <string name="editor_popup_menu_pronun_pinyin">Pinyin</string>
+    <string name="editor_popup_menu_translate_suggest">"Suggestion(s): "</string>
+    <string name="editor_popup_menu_translate_no_suggest">No suggestions</string>
+    <string name="editor_popup_menu_item_translate">Translate</string>
+    <string name="editor_popup_menu_jump_to_translate_app">Launch Powerword to view translations</string>
+    <string name="editor_popup_menu_no_network_permission" />
+    <string name="editor_translate_action_start_service">com.lenovo.component.translationservice.ACTION_START_SERVICE</string>
+    <string name="selectAll">Select all</string>
+    <string name="search_go">Search</string>
+    <string name="find">Find</string>
+    <string name="copy">Copy</string>
+    <string name="cut">Cut</string>
+    <string name="paste">Paste</string>
+    <string name="selectWord">Select</string>
+    <string name="replace">Replace</string>
+</resources>

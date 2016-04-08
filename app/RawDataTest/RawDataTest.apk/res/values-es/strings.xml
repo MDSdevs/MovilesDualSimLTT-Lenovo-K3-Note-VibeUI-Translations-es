@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RawDataTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="sample_raw_data">采集原始值</string>
+    <string name="raw_data_test">整机测试</string>
+    <string name="dialog_title">错误</string>
+    <string name="stop_hotknot_tips">"请先关闭hotknot服务!
+ 设置 -> Hotknot -> OFF"</string>
+    <string name="dialog_title_warning">警告</string>
+    <string name="dialog_positive_btn">确定</string>
+    <string name="dialog_negative_btn">取消</string>
+    <string name="dialog_tips_exit">确定退出画线测试?</string>
+    <string name="start_draw_line_test">进行画线测试!</string>
+    <string name="line_illegal">位置不合理</string>
+    <string name="testing_tips">正在检测，请勿触摸、请勿开关屏幕...</string>
+    <string name="test_fail">"测试失败！
+错误码："</string>
+    <string name="test_pass">"通过
+"</string>
+    <string name="test_ng">"异常情况：
+"</string>
+    <string name="beyond_max_limit">"最大值超过设定值
+"</string>
+    <string name="beyond_min_limit">"最小值超过设定值
+"</string>
+    <string name="beyond_accord_limit">"相邻数据偏差超限
+"</string>
+    <string name="beyond_offest_limit">"整屏数据的最大偏差比值超过设定值
+"</string>
+    <string name="beyond_jitter_limit">"整屏数据的最大抖动超过设定值
+"</string>
+    <string name="beyond_key_max_limit">"按键最大值超过设定值
+"</string>
+    <string name="beyond_key_min_limit">"按键最小值超过设定值
+"</string>
+    <string name="flash_layer_error">"flash保存数据出错
+"</string>
+    <string name="version_error">"IC固件版本出错
+"</string>
+    <string name="module_type_error">"模组ID不匹配
+"</string>
+    <string name="gt_short">"存在短路
+"</string>
+    <string name="beyond_uniformity_limit">"数据一致性超过设定值
+"</string>
+    <string name="sample_data">正在采集数据...</string>
+    <string name="sample_fail">数据采集出错</string>
+    <string name="sample_success">数据采集完成</string>
+    <string name="not_support_func">资源申请初始化失败，不支持此功能</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="fbSwitchDialogStyle" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:backgroundDimAmount">0.3</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

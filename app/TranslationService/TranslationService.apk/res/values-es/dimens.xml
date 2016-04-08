@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="editor_popup_menu_basic_height">50.0dip</dimen>
+    <dimen name="editor_popup_menu_extend_expand_height">233.0dip</dimen>
+    <dimen name="editor_popup_menu_extend_max_height">500.0dip</dimen>
+    <dimen name="editor_popup_menu_progress_bar_size">24.0dip</dimen>
+    <dimen name="editor_popup_menu_translate_pending_height">52.0dip</dimen>
+    <dimen name="editor_popup_menu_height">52.0dip</dimen>
+    <dimen name="editor_popup_menu_min_height">48.0dip</dimen>
+    <dimen name="editor_popup_menu_more_min_height">96.0dip</dimen>
+    <dimen name="editor_popup_menu_large_height">64.0dip</dimen>
+    <dimen name="editor_popup_menu_checkbox_height">48.0dip</dimen>
+    <dimen name="editor_popup_menu_basic_width">270.0dip</dimen>
+    <dimen name="editor_popup_menu_extend_horizontal_padding">10.0dip</dimen>
+    <dimen name="editor_popup_menu_large_margin">24.0dip</dimen>
+    <dimen name="editor_popup_menu_standard_margin">16.0dip</dimen>
+    <dimen name="editor_popup_menu_small_margin">10.0dip</dimen>
+    <dimen name="editor_popup_menu_smaller_margin">8.0dip</dimen>
+    <dimen name="editor_popup_menu_big_text_size">16.0sp</dimen>
+    <dimen name="editor_popup_menu_small_text_size">12.0sp</dimen>
+    <dimen name="editor_popup_menu_normal_text_size">14.0sp</dimen>
+</resources>

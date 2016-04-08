@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlipLockScreen</string>
+    <string name="preference_status_open">On</string>
+    <string name="preference_status_close">Off</string>
+    <string name="preference_status_unknown">Unknown</string>
+    <string name="i_know_it">I know it</string>
+    <string name="gesture_flip_title">Flip phone screen off</string>
+    <string name="gesture_flip_summary">While screen is on, flipping the phone so the screen is facing downwards will turn screen off</string>
+    <string name="gesture_flip_help">While screen is on, flipping the phone so the screen is facing downwards will turn screen off. Place the phone vertically in a pocket to turn the screen off too.</string>
+    <string name="gesture_pocket_title">Pocket to turn off screen</string>
+    <string name="gesture_pocket_summary">You can put the mobile phone vertically into a pocket and it will automatically turn off the screen</string>
+    <string name="gesture_pocket_help">You can put the mobile phone vertically into a pocket and it will automatically turn off the screen</string>
+    <string name="flash_mode_onoff">Switcher</string>
+</resources>

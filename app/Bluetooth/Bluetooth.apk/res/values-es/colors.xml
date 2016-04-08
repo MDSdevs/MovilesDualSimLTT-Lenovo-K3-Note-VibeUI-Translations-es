@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ltgrey">#55cccccc</color>
+    <color name="actionbar_text">#ffffffff</color>
+    <color name="actionbar_bg">#ff1976d2</color>
+    <color name="sub_text">#8a000000</color>
+    <color name="title_text">#de000000</color>
+</resources>

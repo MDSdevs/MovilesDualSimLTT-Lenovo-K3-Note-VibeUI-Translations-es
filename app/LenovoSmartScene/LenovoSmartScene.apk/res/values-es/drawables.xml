@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="class_free_normal_color">#ffffffff</item>
+    <item type="drawable" name="class_free_selected_color">#ffa3a3a3</item>
+    <item type="drawable" name="preference_pressed_color">#ffa3a3a3</item>
+    <item type="drawable" name="preference_normal_color">#00000000</item>
+    <item type="drawable" name="switch_on_light">#00000000</item>
+    <item type="drawable" name="edit_text_cursor_color">#ff2cadf1</item>
+    <item type="drawable" name="color_transpant">#00000000</item>
+</resources>

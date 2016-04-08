@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_name">Demo</string>
+    <string name="settings_detail">Cover App Demo</string>
+    <string name="settings_activity_name">Theme Settings</string>
+    <string name="init_tip">Loading lock screen theme package ...</string>
+</resources>

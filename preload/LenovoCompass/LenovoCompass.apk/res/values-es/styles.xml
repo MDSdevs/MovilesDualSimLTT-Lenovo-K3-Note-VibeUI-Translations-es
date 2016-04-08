@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="lenovo_Theme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="text_shadow_1">
+        <item name="android:shadowColor">#ffffffff</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">3.0</item>
+        <item name="android:shadowRadius">5.0</item>
+    </style>
+    <style name="text_shadow_2">
+        <item name="android:shadowColor">#ff000000</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">5.0</item>
+        <item name="android:shadowRadius">8.0</item>
+    </style>
+</resources>

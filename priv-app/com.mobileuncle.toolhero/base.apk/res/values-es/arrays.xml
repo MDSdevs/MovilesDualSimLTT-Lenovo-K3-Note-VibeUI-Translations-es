@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_array">
+        <item>Clear Cache</item>
+        <item>API test</item>
+        <item>To restart the phone</item>
+        <item>Reboot to recovery</item>
+        <item>Reboot to fastboot</item>
+        <item>About</item>
+    </string-array>
+    <array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </array>
+</resources>

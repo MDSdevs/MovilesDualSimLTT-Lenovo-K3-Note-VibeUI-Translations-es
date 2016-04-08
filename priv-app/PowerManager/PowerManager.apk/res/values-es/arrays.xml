@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="turnonnetwork">
+        <item>WLAN</item>
+        <item>DATA</item>
+    </string-array>
+    <string-array name="low_power_switch_strs">
+        <item>Off</item>
+        <item>At 10% battery</item>
+        <item>At 20% battery</item>
+        <item>At 30% battery</item>
+    </string-array>
+    <string-array name="low_power_switch_strs_summary">
+        <item>Off</item>
+        <item>At 10%% battery</item>
+        <item>At 20%% battery</item>
+        <item>At 30%% battery</item>
+    </string-array>
+    <string-array name="low_power_switch_values">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotificationCenterPlus</string>
+    <string name="permission_write_sys_file_desc">Write values to system files</string>
+    <string name="permission_set_app_notification_enabled_desc">Enable or disable notifications of apps</string>
+    <string name="permission_set_app_notification_priority_desc">Set notification priority for apps</string>
+</resources>

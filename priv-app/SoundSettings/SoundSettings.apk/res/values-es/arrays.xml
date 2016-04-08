@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="silent_mode_entries">
+        <item>“Close</item>
+        <item>Vibration</item>
+        <item>Silent</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Silent</item>
+        <item>Alert</item>
+        <item>Vibrate</item>
+    </string-array>
+</resources>

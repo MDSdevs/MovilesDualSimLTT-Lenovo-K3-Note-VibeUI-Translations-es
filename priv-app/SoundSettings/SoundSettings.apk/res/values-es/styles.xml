@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="info_label">
+        <item name="android:textAppearance">@style/TextAppearance.info_label</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="info_value">
+        <item name="android:textAppearance">@style/TextAppearance.info_value</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="info_small">
+        <item name="android:textAppearance">@style/TextAppearance.info_small</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="info_layout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="entry_layout">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="form_value">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TextAppearance" parent="@android:style/TextAppearance" />
+    <style name="TextAppearance.info_label" parent="@style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance.info_small" parent="@style/TextAppearance">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="TextAppearance.info_value" parent="@style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="TallTitleBarTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.CreateShortCut" parent="@android:style/Theme.Holo.DialogWhenLarge" />
+    <style name="wifi_item">
+        <item name="android:gravity">left</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">200.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginTop">8.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+    </style>
+    <style name="wifi_item_label">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="wifi_item_content">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="wifi_section">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="setup_wizard_button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Transparent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="CryptKeeperBlankTheme" parent="@android:style/Theme.Holo.NoActionBar">
+        <item name="android:background">#ff000000</item>
+    </style>
+    <style name="SecurityPreferenceButtonContainer" parent="@android:style/Holo.SegmentedButton">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:weightSum">2.0</item>
+        <item name="android:dividerPadding">8.0dip</item>
+    </style>
+    <style name="SecurityPreferenceButton" parent="@android:style/Widget.Holo.Button.Borderless">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="Preference.DeviceDefault" parent="@android:style/Preference.DeviceDefault">
+        <item name="android:widgetLayout">@layout/preference_widget_arrow</item>
+    </style>
+    <style name="Preference.DeviceDefault.PreferenceScreen" parent="@android:style/Preference.DeviceDefault.PreferenceScreen">
+        <item name="android:widgetLayout">@layout/preference_widget_arrow</item>
+    </style>
+    <style name="Preference.DeviceDefault.DialogPreference" parent="@android:style/Preference.DeviceDefault.DialogPreference">
+        <item name="android:widgetLayout">@layout/preference_widget_arrow</item>
+    </style>
+    <style name="Preference.DeviceDefault.RingtonePreference" parent="@android:style/Preference.DeviceDefault.RingtonePreference">
+        <item name="android:widgetLayout">@layout/preference_widget_arrow</item>
+    </style>
+    <style name="Theme.WifiDialog" parent="@android:style/Theme.Holo.Dialog.Alert">
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+    <style name="Theme.AccessibilityTutorialActivity" parent="@android:style/Theme.Holo" />
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar" />
+    <style name="Theme.ColorActionbar" parent="@style/Theme.SettingsBase" />
+    <style name="Theme.SwitchBar.Settings" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="switchBarMarginStart">@dimen/switchbar_margin_start</item>
+        <item name="switchBarMarginEnd">@dimen/switchbar_margin_end</item>
+    </style>
+    <style name="Theme.Settings" parent="@style/Theme.ColorActionbar">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="app_ColorAcitonbarTitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+    </style>
+    <style name="app_ColorActionBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:titleTextStyle">@style/app_ColorAcitonbarTitleTextStyle</item>
+    </style>
+    <style name="AccentColorDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+    <style name="AccentColorAlertDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog.Alert" />
+</resources>

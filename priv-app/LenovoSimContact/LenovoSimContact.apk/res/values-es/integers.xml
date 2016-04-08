@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="chips_max_lines">-1</integer>
+    <integer name="contact_tile_column_count_in_favorites">2</integer>
+    <integer name="contact_tile_column_count_in_favorites_new">3</integer>
+    <integer name="snippet_length_before_tokenize">30</integer>
+    <integer name="contact_list_space_layout_weight">0</integer>
+    <integer name="contact_list_card_layout_weight">0</integer>
+    <integer name="contact_tile_column_count">2</integer>
+    <integer name="quickcontact_title_lines">1</integer>
+</resources>

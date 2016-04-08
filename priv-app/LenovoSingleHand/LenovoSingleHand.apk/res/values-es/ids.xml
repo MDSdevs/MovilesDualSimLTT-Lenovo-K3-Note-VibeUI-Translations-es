@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="container">false</item>
+    <item type="id" name="layout_lenovo_pref">false</item>
+    <item type="id" name="txStatus">false</item>
+    <item type="id" name="lenovo_switch">false</item>
+    <item type="id" name="help_gif">false</item>
+    <item type="id" name="help_summary">false</item>
+    <item type="id" name="help_ok">false</item>
+    <item type="id" name="sh_edit">false</item>
+    <item type="id" name="main_frame">false</item>
+    <item type="id" name="lenovo_has_next">false</item>
+    <item type="id" name="gsh_main_top">false</item>
+    <item type="id" name="gsh_main_bottom">false</item>
+    <item type="id" name="gsh_main_bottom_left">false</item>
+    <item type="id" name="gsh_framework">false</item>
+    <item type="id" name="gsh_framework_top">false</item>
+    <item type="id" name="gsh_top_buttons">false</item>
+    <item type="id" name="gsh_edit_button">false</item>
+    <item type="id" name="gsh_quit_button">false</item>
+    <item type="id" name="gsh_framework_middle">false</item>
+    <item type="id" name="gsh_main_window_left_boarder">false</item>
+    <item type="id" name="gsh_main_window">false</item>
+    <item type="id" name="gsh_main_window_right_boarder">false</item>
+    <item type="id" name="gsh_framework_bottom">false</item>
+    <item type="id" name="menu">false</item>
+    <item type="id" name="home">false</item>
+    <item type="id" name="back">false</item>
+    <item type="id" name="gsh_main_bottom_right">false</item>
+    <item type="id" name="sh_top">false</item>
+    <item type="id" name="sh_top_top">false</item>
+    <item type="id" name="sh_top_bottom">false</item>
+    <item type="id" name="sh_top_bottom_left">false</item>
+</resources>

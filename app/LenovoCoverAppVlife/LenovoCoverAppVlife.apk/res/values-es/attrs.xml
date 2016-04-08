@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="handle" format="reference" />
+    <attr name="content" format="reference" />
+    <attr name="columnCount" format="integer" />
+    <attr name="horizontalSpacing" format="dimension" />
+    <attr name="verticalSpacing" format="dimension" />
+    <attr name="columnWidth" format="dimension" />
+    <attr name="touchVerticalSpacing" format="dimension" />
+    <attr name="touchHorizontalSpacing" format="dimension" />
+</resources>

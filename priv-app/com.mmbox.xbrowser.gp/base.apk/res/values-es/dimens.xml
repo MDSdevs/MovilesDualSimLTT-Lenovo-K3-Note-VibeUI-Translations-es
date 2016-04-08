@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="context_menu_item_height">50.0dip</dimen>
+    <dimen name="context_menu_item_img_height">24.0dip</dimen>
+    <dimen name="context_menu_item_img_width">24.0dip</dimen>
+    <dimen name="context_menu_item_tv_font_size">16.0sp</dimen>
+    <dimen name="ctx_menu_right_to_parent">16.0dip</dimen>
+    <dimen name="ctx_menu_width">200.0dip</dimen>
+    <dimen name="fav_icon_height">16.0dip</dimen>
+    <dimen name="fav_icon_width">16.0dip</dimen>
+    <dimen name="hotword_bottom_padding">15.0dip</dimen>
+    <dimen name="hotword_h_margin">15.0dip</dimen>
+    <dimen name="hotword_left_padding">10.0dip</dimen>
+    <dimen name="hotword_right_padding">10.0dip</dimen>
+    <dimen name="hotword_top_padding">15.0dip</dimen>
+    <dimen name="hotword_v_margin">10.0dip</dimen>
+    <dimen name="main_menu_col_width">90.0dip</dimen>
+    <dimen name="main_menu_item_font_size">14.0sp</dimen>
+    <dimen name="main_menu_item_height">70.0dip</dimen>
+    <dimen name="main_menu_item_width">70.0dip</dimen>
+    <dimen name="muti_window_item_height">50.0dip</dimen>
+    <dimen name="muti_window_item_img_height">24.0dip</dimen>
+    <dimen name="muti_window_item_img_width">24.0dip</dimen>
+    <dimen name="muti_window_item_tv_font_size">16.0sp</dimen>
+    <dimen name="pop_menu_left_margin">15.0dip</dimen>
+    <dimen name="pop_menu_top_margin">0.0dip</dimen>
+    <dimen name="search_box_fav_margin">5.0dip</dimen>
+    <dimen name="status_bar_height">25.0dip</dimen>
+    <dimen name="suggest_item_padding">8.0dip</dimen>
+</resources>

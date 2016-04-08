@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="circlePageIndicatorStyle" format="reference" />
+    <attr name="titlePageIndicatorStyle" format="reference" />
+    <attr name="tabPageIndicatorStyle" format="reference" />
+    <attr name="tabPageIndicatorStyleForArtist" format="reference" />
+    <attr name="centered" format="boolean" />
+    <attr name="fillColor" format="color" />
+    <attr name="orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="radius" format="dimension" />
+    <attr name="snap" format="boolean" />
+    <attr name="strokeColor" format="color" />
+    <attr name="strokeWidth" format="dimension" />
+    <attr name="adsorbableLayoutId" format="string" />
+    <attr name="adsorbableFuns" format="string" />
+    <attr name="collapsed_height" format="dimension" />
+    <attr name="drag_scroll_start" format="float" />
+    <attr name="max_drag_scroll_speed" format="float" />
+    <attr name="float_background_color" format="color" />
+    <attr name="remove_mode">
+        <enum name="clickRemove" value="0" />
+        <enum name="flingRemove" value="1" />
+    </attr>
+    <attr name="track_drag_sort" format="boolean" />
+    <attr name="float_alpha" format="float" />
+    <attr name="slide_shuffle_speed" format="float" />
+    <attr name="remove_animation_duration" format="integer" />
+    <attr name="drop_animation_duration" format="integer" />
+    <attr name="drag_enabled" format="boolean" />
+    <attr name="sort_enabled" format="boolean" />
+    <attr name="remove_enabled" format="boolean" />
+    <attr name="drag_start_mode">
+        <enum name="onDown" value="0" />
+        <enum name="onMove" value="1" />
+        <enum name="onLongPress" value="2" />
+    </attr>
+    <attr name="drag_handle_id" format="integer" />
+    <attr name="fling_handle_id" format="integer" />
+    <attr name="click_remove_id" format="integer" />
+    <attr name="use_default_controller" format="boolean" />
+    <attr name="scrollTime" format="integer" />
+    <attr name="maxDis" format="dimension" />
+    <attr name="leftFrontColor" format="reference|color" />
+    <attr name="leftEndColor" format="reference|color" />
+    <attr name="rightFrontColor" format="reference|color" />
+    <attr name="rightEndColor" format="reference|color" />
+    <attr name="menuId" format="string" />
+    <attr name="contentId" format="string" />
+    <attr name="openButtonId" format="string" />
+    <attr name="closeButtonId" format="string" />
+    <attr name="calIds" format="string" />
+    <attr name="text" format="string" />
+    <attr name="textColor" format="reference|color" />
+    <attr name="textSize" format="dimension" />
+    <attr name="background" format="reference|color" />
+    <attr name="padding" format="dimension" />
+    <attr name="alignment" format="integer" />
+    <attr name="imageSrc" format="reference|color" />
+    <attr name="imageBg" format="reference|color" />
+    <attr name="gravity" format="integer" />
+    <attr name="imageWidth" format="dimension" />
+    <attr name="imageHeight" format="dimension" />
+    <attr name="textStyle" format="string" />
+    <attr name="doDefaultFrame" format="boolean" />
+    <attr name="imageview01Frame" format="string" />
+    <attr name="imageview02Frame" format="string" />
+    <attr name="imageview03Frame" format="string" />
+    <attr name="imageview04Frame" format="string" />
+    <attr name="imageview01Duration" format="integer" />
+    <attr name="imageview02Duration" format="integer" />
+    <attr name="imageview03Duration" format="integer" />
+    <attr name="imageview04Duration" format="integer" />
+    <attr name="offsetx" format="reference|dimension" />
+    <attr name="offset_y" format="reference|dimension" />
+    <attr name="padding_y" format="reference|dimension" />
+    <attr name="highlightColor" format="reference|color" />
+    <attr name="normalColor" format="reference|color" />
+    <attr name="fontSize" format="reference|dimension" />
+    <attr name="defaultString" format="reference|string" />
+    <attr name="numRows" format="integer" />
+    <attr name="directions" format="reference|string" />
+    <attr name="scrollMode">
+        <enum name="line" value="0" />
+        <enum name="pixel" value="1" />
+    </attr>
+    <attr name="shadowable" format="boolean" />
+    <attr name="touchMode">
+        <enum name="none" value="0" />
+        <enum name="normal" value="1" />
+        <enum name="location" value="2" />
+    </attr>
+    <attr name="touchLineHeight" format="reference|dimension" />
+    <attr name="touchLineColor" format="reference|color" />
+    <attr name="shadowHeight" format="reference|dimension" />
+    <attr name="shadowFrontColor" format="reference|color" />
+    <attr name="shadowEndColor" format="reference|color" />
+    <attr name="aEvent" format="reference|string" />
+    <attr name="mode">
+        <enum name="left" value="0" />
+        <enum name="right" value="1" />
+        <enum name="left_right" value="2" />
+    </attr>
+    <attr name="viewAbove" format="reference" />
+    <attr name="viewBehind" format="reference" />
+    <attr name="behindOffset" format="dimension" />
+    <attr name="behindWidth" format="dimension" />
+    <attr name="behindScrollScale" format="float" />
+    <attr name="touchModeAbove">
+        <enum name="none" value="2" />
+        <enum name="margin" value="0" />
+        <enum name="fullscreen" value="1" />
+    </attr>
+    <attr name="touchModeBehind">
+        <enum name="none" value="2" />
+        <enum name="margin" value="0" />
+        <enum name="fullscreen" value="1" />
+    </attr>
+    <attr name="shadowDrawable" format="reference" />
+    <attr name="shadowWidth" format="dimension" />
+    <attr name="fadeEnabled" format="boolean" />
+    <attr name="fadeDegree" format="float" />
+    <attr name="focusDrawable" format="reference" />
+    <attr name="focusTextColor" format="reference|color" />
+    <attr name="normalTextColor" format="reference|color" />
+    <attr name="tabTextColor" format="reference|color" />
+    <attr name="aFontSize" format="reference|dimension" />
+    <attr name="gravitys" format="integer" />
+    <attr name="animationDuration" format="integer" />
+    <attr name="unselectedAlpha" format="float" />
+    <attr name="spacing" format="dimension" />
+    <attr name="entries" format="reference" />
+    <attr name="wv_TextColor" format="reference|color" />
+    <attr name="wv_TextFocusedColor" format="reference|color" />
+    <attr name="wv_LongScaleLineColor" format="reference|color" />
+    <attr name="wv_LongScaleLineFocusedColor" format="reference|color" />
+    <attr name="wv_ScaleLengthShort" format="reference|dimension" />
+    <attr name="wv_MarginTopOfLabel" format="reference|dimension" />
+    <attr name="wv_LongScaleWidth" format="reference|dimension" />
+    <attr name="wv_TextSize" format="reference|dimension" />
+    <attr name="wv_Horizontal" format="boolean" />
+    <attr name="circleBackColor" format="reference|color" />
+    <attr name="backgroundable" format="boolean" />
+    <attr name="pointDrawable" format="reference" />
+    <attr name="squareDrawable" format="reference" />
+    <attr name="pinkDrawable" format="reference" />
+    <attr name="signDrawable" format="reference" />
+    <attr name="unsignDrawable" format="reference" />
+    <attr name="isLargeView" format="boolean" />
+    <attr name="indicatorColor" format="color" />
+    <attr name="underlineColor" format="color" />
+    <attr name="dividerColor" format="color" />
+    <attr name="indicatorHeight" format="dimension" />
+    <attr name="underlineHeight" format="dimension" />
+    <attr name="dividerPadding" format="dimension" />
+    <attr name="tabPaddingLeftRight" format="dimension" />
+    <attr name="indicatorPaddingLeftRight" format="dimension" />
+    <attr name="scrollOffset" format="dimension" />
+    <attr name="tabBackground" format="reference" />
+    <attr name="shouldExpand" format="boolean" />
+    <attr name="textAllCaps" format="boolean" />
+</resources>

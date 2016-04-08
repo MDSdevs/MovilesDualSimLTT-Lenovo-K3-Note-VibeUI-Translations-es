@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Settings">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+    </style>
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:contentInsetStart">72.0dip</item>
+    </style>
+    <style name="AppTheme_Menu" parent="@style/AppTheme">
+        <item name="android:dialogTheme">@style/AlertDialog</item>
+        <item name="android:alertDialogTheme">@style/AlertDialog</item>
+        <item name="android:actionMenuTextAppearance">@style/ActionBarTheme_Color.MenuTextApperence</item>
+        <item name="android:actionMenuTextColor">#de000000</item>
+    </style>
+    <style name="ActionBarTheme_Color" parent="@android:style/Widget.Material.Light.ActionBar">
+        <item name="android:background">@color/ltblue</item>
+        <item name="android:height">56.0dip</item>
+        <item name="android:displayOptions">showTitle</item>
+        <item name="android:titleTextStyle">@style/ActionBarTheme_Color.TitleText</item>
+    </style>
+    <style name="ActionBarTheme_Color.TitleText" parent="@style/ActionBarTheme_Color">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="ActionBarTheme_Color.MenuTextApperence" parent="@style/ActionBarTheme_Color">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="Widget.ActionButton" parent="@android:style/Widget.ActionButton">
+        <item name="android:gravity">center</item>
+        <item name="android:height">200.0dip</item>
+    </style>
+    <style name="AlertDialog" parent="@android:style/Theme.Material.Light.Dialog">
+        <item name="android:listPreferredItemHeight">48.0dip</item>
+        <item name="android:listDividerAlertDialog">@null</item>
+        <item name="android:textAppearanceListItem">@style/AlertDialog.ListText</item>
+        <item name="android:listPreferredItemPaddingLeft">30.0dip</item>
+        <item name="android:listPreferredItemPaddingStart">20.0dip</item>
+    </style>
+    <style name="AlertDialog.ListText" parent="@style/AlertDialog">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/text_color_prime</item>
+    </style>
+    <style name="AlertDialog.Text" parent="@style/AlertDialog">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/ltblue</item>
+    </style>
+</resources>

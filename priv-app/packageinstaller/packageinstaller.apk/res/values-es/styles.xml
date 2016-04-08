@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.AppCompat.DrawerArrowToggle" parent="">
+        <item name="color">?android:colorControlNormal</item>
+        <item name="spinBars">true</item>
+        <item name="drawableSize">24.0dip</item>
+        <item name="gapBetweenBars">3.0dip</item>
+        <item name="arrowHeadLength">8.0dip</item>
+        <item name="arrowShaftLength">16.0dip</item>
+        <item name="barLength">18.0dip</item>
+        <item name="thickness">2.0dip</item>
+    </style>
+    <style name="Widget.Design.FloatingActionButton" parent="@android:style/Widget">
+        <item name="android:background">@drawable/leac_design_fab_background</item>
+        <item name="android:elevation">@dimen/leac_design_fab_elevation</item>
+        <item name="android:backgroundTint">?android:colorAccent</item>
+        <item name="rippleColor">?android:colorControlHighlight</item>
+        <item name="fabSize">normal</item>
+        <item name="pressedTranslationZ">@dimen/leac_design_fab_translation_z_pressed</item>
+        <item name="borderWidth">@dimen/leac_design_fab_border_width</item>
+    </style>
+    <style name="Widget.Design.ScrimInsetsFrameLayout" parent="">
+        <item name="insetForeground">#44000000</item>
+    </style>
+    <style name="Widget.Design.NavigationView" parent="">
+        <item name="android:background">?android:windowBackground</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:maxWidth">@dimen/leac_design_navigation_max_width</item>
+        <item name="android:elevation">@dimen/leac_design_navigation_elevation</item>
+    </style>
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:elevation">4.0dip</item>
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">fill</item>
+    </style>
+    <style name="Base.Widget.Design.TabLayout" parent="@android:style/Widget">
+        <item name="tabIndicatorHeight">2.0dip</item>
+        <item name="tabBackground">?android:selectableItemBackground</item>
+        <item name="tabMaxWidth">@dimen/leac_design_tab_max_width</item>
+        <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
+        <item name="tabPaddingStart">12.0dip</item>
+        <item name="tabPaddingEnd">12.0dip</item>
+    </style>
+    <style name="TextAppearance.Design.Tab" parent="@android:style/TextAppearance.Material.Button">
+        <item name="android:textSize">@dimen/leac_design_tab_text_size</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Widget.Design.TextInputLayout" parent="@android:style/Widget">
+        <item name="hintTextAppearance">@style/TextAppearance.Design.Hint</item>
+        <item name="errorTextAppearance">@style/TextAppearance.Design.Error</item>
+        <item name="counterTextAppearance">@style/TextAppearance.Design.Counter</item>
+        <item name="counterOverflowTextAppearance">@style/TextAppearance.Design.Counter.Overflow</item>
+    </style>
+    <style name="TextAppearance.Design.Hint" parent="@android:style/TextAppearance.Material.Caption">
+        <item name="android:textColor">?android:colorControlActivated</item>
+    </style>
+    <style name="TextAppearance.Design.Error" parent="@android:style/TextAppearance.Material.Caption">
+        <item name="android:textColor">@color/leac_design_textinput_error_color</item>
+    </style>
+    <style name="TextAppearance.Design.Counter" parent="@android:style/TextAppearance.Material.Caption" />
+    <style name="TextAppearance.Design.Counter.Overflow" parent="@android:style/TextAppearance.Material.Caption">
+        <item name="android:textColor">@color/leac_design_textinput_error_color</item>
+    </style>
+    <style name="TextAppearance.Design.Snackbar.Message" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/leac_design_snackbar_text_size</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="Widget.Design.Snackbar" parent="@android:style/Widget">
+        <item name="android:theme">@android:style/Theme.DeviceDefault</item>
+        <item name="android:background">@drawable/leac_design_snackbar_background</item>
+        <item name="android:paddingLeft">@dimen/leac_design_snackbar_padding_horizontal</item>
+        <item name="android:paddingRight">@dimen/leac_design_snackbar_padding_horizontal</item>
+        <item name="android:maxWidth">@dimen/leac_design_snackbar_max_width</item>
+        <item name="android:minWidth">@dimen/leac_design_snackbar_min_width</item>
+        <item name="android:elevation">@dimen/leac_design_snackbar_elevation</item>
+        <item name="maxActionInlineWidth">@dimen/leac_design_snackbar_action_inline_max_width</item>
+    </style>
+    <style name="Widget.Design.CollapsingToolbar" parent="@android:style/Widget">
+        <item name="expandedTitleMargin">32.0dip</item>
+        <item name="statusBarScrim">?android:colorPrimaryDark</item>
+    </style>
+    <style name="Widget.Design.AppBarLayout" parent="@android:style/Widget">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:elevation">@dimen/leac_design_appbar_elevation</item>
+    </style>
+    <style name="Widget.Design.CoordinatorLayout" parent="@android:style/Widget">
+        <item name="statusBarBackground">?android:colorPrimaryDark</item>
+    </style>
+    <style name="TextAppearance.Design.CollapsingToolbar.Expanded" parent="@android:style/TextAppearance.Material.Display1">
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+    <style name="CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style>
+    <style name="CardView.Light" parent="@style/CardView">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="CardView.Dark" parent="@style/CardView">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="padded">
+        <item name="android:paddingStart">16.0dip</item>
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.DeviceDefault.Light.DialogWhenLarge.NoActionBar" />
+    <style name="Theme.AlertDialogActivity" parent="@android:style/Theme.DeviceDefault.Light.Panel">
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Theme.Header.Settings" parent="@android:style/Theme.DeviceDefault.Settings" />
+    <style name="ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:contentInsetStart">72.0dip</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:colorPrimary">@color/head_background</item>
+        <item name="android:colorPrimaryDark">@color/head_background_statusbar</item>
+        <item name="android:colorAccent">@color/head_background</item>
+    </style>
+    <style name="PermissionRequestDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+    <style name="Settings" parent="@style/AppTheme" />
+    <style name="GrantPermissions" parent="@android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar" />
+    <style name="LenovoRevokePermissionsHintActivity" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+</resources>

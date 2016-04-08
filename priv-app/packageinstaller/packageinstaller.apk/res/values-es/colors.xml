@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="leac_design_fab_stroke_top_outer_color">#2effffff</color>
+    <color name="leac_design_fab_stroke_top_inner_color">#1affffff</color>
+    <color name="leac_design_fab_stroke_end_outer_color">#0f000000</color>
+    <color name="leac_design_fab_stroke_end_inner_color">#0a000000</color>
+    <color name="leac_design_fab_shadow_start_color">#44000000</color>
+    <color name="leac_design_fab_shadow_mid_color">#14000000</color>
+    <color name="leac_design_fab_shadow_end_color">@android:color/transparent</color>
+    <color name="leac_design_textinput_error_color">#ffdd2c00</color>
+    <color name="leac_design_snackbar_background_color">#ff323232</color>
+    <color name="cardview_light_background">#fffafafa</color>
+    <color name="cardview_dark_background">#ff202020</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="shadow">#cc222222</color>
+    <color name="transparent">#00000000</color>
+    <color name="header_background_color">#ff37474f</color>
+    <color name="grant_permissions_app_color">@android:color/primary_text_default_material_light</color>
+    <color name="grant_permissions_progress_color">#60000000</color>
+    <color name="lb_content_title_text_color">#fff1f1f1</color>
+    <color name="lb_content_breadcrumb_text_color">#88f1f1f1</color>
+    <color name="lb_content_description_text_color">#88f1f1f1</color>
+    <color name="lb_action_fragment_background">#ff111111</color>
+    <color name="lb_dialog_activity_background">#77000000</color>
+    <color name="virus_exist_color">#ffff0000</color>
+    <color name="head_background">#ff0288d1</color>
+    <color name="head_background_statusbar">#ff01669d</color>
+</resources>

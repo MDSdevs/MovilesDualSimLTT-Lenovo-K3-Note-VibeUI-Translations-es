@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="default_dlg_btn_cancel_normal">#ffdddddd</item>
+    <item type="drawable" name="default_dlg_btn_cancel_pressed">#ffa0b0b0</item>
+    <item type="drawable" name="default_dlg_btn_ok_normal">#ff5cb85c</item>
+    <item type="drawable" name="default_dlg_btn_ok_pressed">#ff449d44</item>
+    <item type="drawable" name="default_list_diver">#ffcccccc</item>
+    <item type="drawable" name="default_std_item_focused">#ffe5f1fe</item>
+    <item type="drawable" name="default_std_item_pressed">#ffe5f1fe</item>
+    <item type="drawable" name="night_dlg_btn_cancel_normal">#ffdddddd</item>
+    <item type="drawable" name="night_dlg_btn_cancel_pressed">#ffa0b0b0</item>
+    <item type="drawable" name="night_dlg_btn_ok_normal">#ff5cb85c</item>
+    <item type="drawable" name="night_dlg_btn_ok_pressed">#ff449d44</item>
+    <item type="drawable" name="night_list_diver">#88383e58</item>
+    <item type="drawable" name="night_std_item_focused">#88383e58</item>
+    <item type="drawable" name="night_std_item_pressed">#88383e58</item>
+    <item type="drawable" name="white">#ffffffff</item>
+</resources>

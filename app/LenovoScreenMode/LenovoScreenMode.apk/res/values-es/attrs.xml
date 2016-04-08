@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="hint_min" format="string" />
+    <attr name="hint_mid" format="string" />
+    <attr name="hint_max" format="string" />
+    <attr name="seekbar_max" format="integer" />
+    <attr name="seekbar_background" format="reference" />
+</resources>

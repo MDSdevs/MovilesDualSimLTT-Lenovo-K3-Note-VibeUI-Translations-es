@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="WebView">false</item>
+    <item type="id" name="debug_function_container">false</item>
+    <item type="id" name="debug_item_title">false</item>
+    <item type="id" name="debug_item_summary">false</item>
+    <item type="id" name="debug_item_btn">false</item>
+    <item type="id" name="hw_info_lcd_key">false</item>
+    <item type="id" name="hw_info_lcd">false</item>
+    <item type="id" name="hw_info_touch_key">false</item>
+    <item type="id" name="hw_info_touch">false</item>
+    <item type="id" name="hw_info_lcm_key">false</item>
+    <item type="id" name="hw_info_lcm">false</item>
+    <item type="id" name="hw_info_icid_key">false</item>
+    <item type="id" name="hw_info_icid">false</item>
+    <item type="id" name="hw_info_emmc_key">false</item>
+    <item type="id" name="hw_info_emmc">false</item>
+    <item type="id" name="hw_info_flashid_key">false</item>
+    <item type="id" name="hw_info_flashid">false</item>
+    <item type="id" name="hw_info_fgid_key">false</item>
+    <item type="id" name="hw_info_fgid">false</item>
+    <item type="id" name="hw_info_ntcTemp_key">false</item>
+    <item type="id" name="hw_info_ntcTemp">false</item>
+    <item type="id" name="lenovo_has_next">false</item>
+    <item type="id" name="sar_dialog">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="linear_layout">false</item>
+    <item type="id" name="info_title">false</item>
+    <item type="id" name="lenovo_product_name">false</item>
+    <item type="id" name="sar_text">false</item>
+    <item type="id" name="sar_explanation">false</item>
+    <item type="id" name="sar_value">false</item>
+    <item type="id" name="more_info">false</item>
+</resources>

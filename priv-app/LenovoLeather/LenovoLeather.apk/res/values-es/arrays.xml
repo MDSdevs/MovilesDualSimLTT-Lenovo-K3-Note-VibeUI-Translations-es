@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="lenovo_leather_time_num">
+        <item>@drawable/lenovo_leather_time_0</item>
+        <item>@drawable/lenovo_leather_time_1</item>
+        <item>@drawable/lenovo_leather_time_2</item>
+        <item>@drawable/lenovo_leather_time_3</item>
+        <item>@drawable/lenovo_leather_time_4</item>
+        <item>@drawable/lenovo_leather_time_5</item>
+        <item>@drawable/lenovo_leather_time_6</item>
+        <item>@drawable/lenovo_leather_time_7</item>
+        <item>@drawable/lenovo_leather_time_8</item>
+        <item>@drawable/lenovo_leather_time_9</item>
+    </array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LenovoAutoTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lcd_image_activity">imageTest</string>
+    <string name="hand_writing">touchTest</string>
+    <string name="touchpadtest_activity">touchpadTestActivity</string>
+    <string name="cam_activity">camActivity</string>
+    <string name="wifi_router_name">lenovo-guest</string>
+    <string name="wifi_testserver_ip">10.125.172.73</string>
+    <string name="bt_testserver_name">Lenovo P780</string>
+</resources>

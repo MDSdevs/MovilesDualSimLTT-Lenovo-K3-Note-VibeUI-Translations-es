@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="insert">false</item>
+    <item type="id" name="update">false</item>
+    <item type="id" name="query">false</item>
+    <item type="id" name="delete">false</item>
+    <item type="id" name="delete_all">false</item>
+    <item type="id" name="take_effect">false</item>
+    <item type="id" name="no_effect">false</item>
+</resources>

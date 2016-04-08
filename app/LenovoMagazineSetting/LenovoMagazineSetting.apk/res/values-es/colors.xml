@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="normal_text_color">#fffafafa</color>
+    <color name="press_text_color">#ff00baff</color>
+    <color name="split_line_color">#7ffafafa</color>
+    <color name="periodical_item_normal_text_color">#fffafafa</color>
+    <color name="periodical_item_normal_backgroud_color">#ffd3d3d3</color>
+    <color name="periodical_item_selected_text_color">#ff00baff</color>
+</resources>

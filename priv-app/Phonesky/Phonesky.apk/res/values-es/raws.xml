@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="raw" name="ic_drawer_myaccount">false</item>
+    <item type="raw" name="ic_drawer_settings">false</item>
+</resources>

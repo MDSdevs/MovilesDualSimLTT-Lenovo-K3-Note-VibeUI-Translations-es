@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="layout">false</item>
+    <item type="id" name="appIconImgView">false</item>
+    <item type="id" name="rightImgLyt">false</item>
+    <item type="id" name="rightTopImgView">false</item>
+    <item type="id" name="rightBottomImgView">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="notificatioImgView">false</item>
+    <item type="id" name="add">false</item>
+    <item type="id" name="del">false</item>
+    <item type="id" name="update">false</item>
+    <item type="id" name="query">false</item>
+    <item type="id" name="show">false</item>
+    <item type="id" name="btn">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="progress_bar">false</item>
+</resources>

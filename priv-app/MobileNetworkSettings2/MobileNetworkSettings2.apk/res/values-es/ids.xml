@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tag_intent" />
+    <item type="id" name="text_layout">false</item>
+    <item type="id" name="apn_radiobutton">false</item>
+    <item type="id" name="loading_container">false</item>
+    <item type="id" name="container_material">false</item>
+    <item type="id" name="pinned_header">false</item>
+    <item type="id" name="fab">false</item>
+    <item type="id" name="button_bar">false</item>
+    <item type="id" name="back_button">false</item>
+    <item type="id" name="skip_button">false</item>
+    <item type="id" name="next_button">false</item>
+    <item type="id" name="listContainer">false</item>
+</resources>

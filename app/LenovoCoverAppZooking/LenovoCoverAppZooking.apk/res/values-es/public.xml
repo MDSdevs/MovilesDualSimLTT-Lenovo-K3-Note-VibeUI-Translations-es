@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="lenovo_statusbar_background" id="0x7f020000" />
+    <public type="layout" name="base" id="0x7f030000" />
+    <public type="layout" name="main" id="0x7f030001" />
+    <public type="layout" name="settings" id="0x7f030002" />
+    <public type="raw" name="lockscreen" id="0x7f040000" />
+    <public type="dimen" name="lenovo_statusbar_height" id="0x7f050000" />
+    <public type="string" name="activity_name" id="0x7f060000" />
+    <public type="string" name="settings_detail" id="0x7f060001" />
+    <public type="string" name="settings_activity_name" id="0x7f060002" />
+    <public type="string" name="init_tip" id="0x7f060003" />
+    <public type="style" name="CoverAppBase" id="0x7f070000" />
+    <public type="style" name="CoverApp" id="0x7f070001" />
+    <public type="id" name="base" id="0x7f080000" />
+    <public type="id" name="initing" id="0x7f080001" />
+    <public type="id" name="initing_icon" id="0x7f080002" />
+    <public type="id" name="initing_label" id="0x7f080003" />
+    <public type="id" name="base_view" id="0x7f080004" />
+</resources>

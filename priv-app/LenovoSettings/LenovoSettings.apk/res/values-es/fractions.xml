@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="fingerprint_sensor_location_fraction_x">50.0%</fraction>
+    <fraction name="fingerprint_sensor_location_fraction_y">29.999996%</fraction>
+    <fraction name="moto_fingerprint_sensor_location_fraction_x">50.0%</fraction>
+    <fraction name="moto_fingerprint_sensor_location_fraction_y">93.00001%</fraction>
+    <fraction name="moto_fingerprint_sensor_location_fraction_left">47.000004%</fraction>
+    <fraction name="moto_fingerprint_sensor_location_fraction_top">90.0%</fraction>
+    <fraction name="moto_fingerprint_sensor_location_fraction_right">52.999996%</fraction>
+    <fraction name="moto_fingerprint_sensor_location_fraction_bottom">96.0%</fraction>
+</resources>

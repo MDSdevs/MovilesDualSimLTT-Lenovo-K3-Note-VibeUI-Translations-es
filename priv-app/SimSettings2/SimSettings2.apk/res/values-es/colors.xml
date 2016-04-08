@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sim_noitification">@android:color/material_deep_teal_500</color>
+    <color name="fab_ripple">#1fffffff</color>
+    <color name="fab_shape">?android:colorAccent</color>
+    <color name="switch_accent_color">#ff7fcac3</color>
+    <color name="switchbar_background_color">#ff37474f</color>
+</resources>

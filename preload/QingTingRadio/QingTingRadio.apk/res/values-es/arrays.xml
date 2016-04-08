@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shdown_title">
+        <item>@string/timer_not_set</item>
+        <item>@string/timer_attach_program</item>
+        <item>@string/timer_10m</item>
+        <item>@string/timer_20m</item>
+        <item>@string/timer_30m</item>
+        <item>@string/timer_60m</item>
+        <item>@string/timer_90m</item>
+        <item>@string/timer_120m</item>
+    </string-array>
+    <string-array name="radioaction">
+        <item>@string/radio_action_subscribe</item>
+        <item>@string/radio_action_delete</item>
+        <item>@string/radio_action_edit</item>
+    </string-array>
+    <string-array name="radioaction_collected">
+        <item>@string/radio_action_subscribed</item>
+        <item>@string/radio_action_delete</item>
+        <item>@string/radio_action_edit</item>
+    </string-array>
+    <string-array name="radio_scan_ways">
+        <item>@string/radio_scan_auto</item>
+        <item>@string/radio_scan_manual</item>
+    </string-array>
+    <string-array name="edit_selectall">
+        <item>@string/selectall</item>
+    </string-array>
+    <string-array name="edit_deselectall">
+        <item>@string/unselectall</item>
+    </string-array>
+    <string-array name="emails">
+        <item>\@gmail.com</item>
+        <item>\@hotmail.com</item>
+        <item>\@yahoo.com</item>
+        <item>\@live.com</item>
+    </string-array>
+</resources>

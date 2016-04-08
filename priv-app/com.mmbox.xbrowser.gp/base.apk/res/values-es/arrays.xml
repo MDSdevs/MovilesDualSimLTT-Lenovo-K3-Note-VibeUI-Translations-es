@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_search_choices">
+        <item>@string/search_name_google</item>
+        <item>@string/search_name_yahoo</item>
+        <item>@string/search_name_duckduckgo</item>
+        <item>@string/search_name_bing</item>
+        <item>@string/search_name_ask</item>
+        <item>@string/search_name_yandex</item>
+    </string-array>
+    <string-array name="settings_default_search_values" formatted="false">
+        <item>http://www.google.com/search?q=%keywords%</item>
+        <item>https://search.yahoo.com/mobile/s?p=%keywords%</item>
+        <item>https://duckduckgo.com/?q=%keywords%</item>
+        <item>http://www.bing.com/search?q=%keywords%</item>
+        <item>http://www.ask.com/web?q=%keywords%</item>
+        <item>http://www.yandex.com/search/touch/?text=%keywords%</item>
+    </string-array>
+</resources>

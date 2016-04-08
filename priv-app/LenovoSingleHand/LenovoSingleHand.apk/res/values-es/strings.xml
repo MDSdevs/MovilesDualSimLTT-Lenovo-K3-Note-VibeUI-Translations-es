@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="i_know_it">I know it</string>
+    <string name="try_it">Try it</string>
+    <string name="preference_status_open">On</string>
+    <string name="preference_status_close">Off</string>
+    <string name="preference_status_unknown">Unknown</string>
+    <string name="single_hand_title">One-handed Micro Screen</string>
+    <string name="single_hand_summary">Draw a \"C\" on the side of the screen to switch current interface to small window mode</string>
+    <string name="single_hand_help">Draw a \"C\" from the top edge of the screen to the bottom edge to bring up the one-handed micro screen. (Supports vertical screen only)</string>
+    <string name="flash_mode_onoff">Switcher</string>
+</resources>

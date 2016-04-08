@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Slower</item>
+        <item>Normal</item>
+        <item>Faster</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Left</item>
+        <item>Right</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Local time: %1$s</item>
+        <item>Sunrise: %1$s</item>
+        <item>Sunset: %1$s</item>
+        <item>Duration of day: %1$s h, %2$s m</item>
+        <item>Wind: %1$s</item>
+        <item>Humidity: %1$s</item>
+        <item>Latest update: %1$s hours, %2$s minutes ago</item>
+        <item>Latest update: %1$s minutes ago</item>
+        <item>Latest update: %1$s</item>
+        <item>Last update: %1$s h, %2$s m</item>
+        <item>Feels like %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>New moon</item>
+        <item>Waxing crescent</item>
+        <item>First quarter</item>
+        <item>Waxing gibbous</item>
+        <item>Full moon</item>
+        <item>Waning gibbous</item>
+        <item>Third quarter</item>
+        <item>Waning crescent</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Never</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>4 hours</item>
+        <item>6 hours</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Unavailable</item>
+        <item>Clear</item>
+        <item>Partly sunny</item>
+        <item>Sunny</item>
+        <item>Partly cloudy</item>
+        <item>Mostly cloudy</item>
+        <item>Mostly sunny</item>
+        <item>Overcast</item>
+        <item>Cloudy</item>
+        <item>Very cloudy</item>
+        <item>Chance of rain</item>
+        <item>Light rain</item>
+        <item>Rain</item>
+        <item>Scattered showers</item>
+        <item>Showers</item>
+        <item>Heavy showers</item>
+        <item>Chance of storm</item>
+        <item>Weak storms</item>
+        <item>Storm</item>
+        <item>Heavy storms</item>
+        <item>Chance of thunderstorm</item>
+        <item>Scattered thunderstorms</item>
+        <item>Thunderstorm</item>
+        <item>Chance of snow</item>
+        <item>Light snow</item>
+        <item>Snow</item>
+        <item>Heavy snow</item>
+        <item>Snow showers</item>
+        <item>Rain and snow</item>
+        <item>Freezing drizzle</item>
+        <item>Hail</item>
+        <item>Hail storms</item>
+        <item>Sleet</item>
+        <item>Icy</item>
+        <item>Mist</item>
+        <item>Dust</item>
+        <item>Fog</item>
+        <item>Smoke</item>
+        <item>Haze</item>
+        <item>Flurries</item>
+        <item>Sandstorm</item>
+        <item>Fair</item>
+        <item>Showers/clear</item>
+        <item>Tornado</item>
+        <item>Tropical storm</item>
+        <item>Hurricane</item>
+        <item>Cold</item>
+        <item>Hot</item>
+        <item>Windy</item>
+        <item>Cool</item>
+        <item>Mild</item>
+        <item>Warm</item>
+        <item>Beautiful</item>
+        <item>Breezy</item>
+        <item>Humid</item>
+        <item>Dry</item>
+        <item>Drizzle</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Monday, January 15</item>
+        <item>Mon, Jan 15, 2012</item>
+        <item>Monday 15 January</item>
+        <item>Mon, Jan 15 2012</item>
+        <item>Mon. 15 Jan 2012</item>
+        <item>Mon, Jan 15</item>
+        <item>Mon, 12/25/2012</item>
+        <item>Mon, 2012/12/25</item>
+        <item>Mon, 25.12.2012</item>
+        <item>JAN 15</item>
+        <item>15 January</item>
+        <item>January 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+    <string-array name="animationDelayValues">
+        <item>175</item>
+        <item>120</item>
+        <item>75</item>
+    </string-array>
+    <string-array name="batteryPositionValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Default</item>
+        <item>Afrikaans</item>
+        <item>Bahasa Indonesia</item>
+        <item>বাংলা</item>
+        <item>Català</item>
+        <item>Čeština</item>
+        <item>Dansk</item>
+        <item>Deutsch</item>
+        <item>English (United States)</item>
+        <item>Español (España)</item>
+        <item>Français (France)</item>
+        <item>हिन्दी</item>
+        <item>Hrvatski</item>
+        <item>Italiano</item>
+        <item>Lietuvių</item>
+        <item>ភាសាខ្មែរ</item>
+        <item>Magyar</item>
+        <item>Nederlands (Nederland)</item>
+        <item>Norsk</item>
+        <item>Polski</item>
+        <item>Português (Brazil)</item>
+        <item>Português (Portugal)</item>
+        <item>Română</item>
+        <item>Српски (Ћирилица)</item>
+        <item>Srpski (Latinica)</item>
+        <item>Slovenčina</item>
+        <item>Slovenščina</item>
+        <item>Suomi</item>
+        <item>Svenska</item>
+        <item>Tiếng Việt</item>
+        <item>Türkçe</item>
+        <item>Ελληνικά</item>
+        <item>български</item>
+        <item>Македонски</item>
+        <item>Русский</item>
+        <item>Українська</item>
+        <item>العربية</item>
+        <item>فارسی</item>
+        <item>한국어</item>
+        <item>中文 (简体)</item>
+        <item>中文 (繁體)</item>
+        <item>עברית‎</item>
+        <item>日本語</item>
+        <item>ไทย</item>
+    </string-array>
+    <string-array name="languageValues">
+        <item></item>
+        <item>af</item>
+        <item>in</item>
+        <item>bn</item>
+        <item>ca</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>hi</item>
+        <item>hr</item>
+        <item>it</item>
+        <item>lt</item>
+        <item>km</item>
+        <item>hu</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>pl</item>
+        <item>pt_BR</item>
+        <item>pt_PT</item>
+        <item>ro</item>
+        <item>sr_CL</item>
+        <item>sr</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>fi</item>
+        <item>sv</item>
+        <item>vi</item>
+        <item>tr</item>
+        <item>el</item>
+        <item>bg</item>
+        <item>mk</item>
+        <item>ru</item>
+        <item>uk</item>
+        <item>ar</item>
+        <item>fa</item>
+        <item>ko</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>iw</item>
+        <item>ja</item>
+        <item>th</item>
+    </string-array>
+    <string-array name="refreshPeriodValues">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>360</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>meters</item>
+        <item>kilometers</item>
+        <item>miles</item>
+    </string-array>
+    <string-array name="pressureUnitNames">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitNamesPrefs">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitValues">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mbar</item>
+        <item>mmhg</item>
+        <item>inhg</item>
+        <item>pa</item>
+        <item>hpa</item>
+        <item>kpa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="temperatureUnitNames">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="temperatureUnitValues">
+        <item>c</item>
+        <item>f</item>
+    </string-array>
+    <string-array name="visibilityUnitValues">
+        <item>m</item>
+        <item>km</item>
+        <item>mi</item>
+    </string-array>
+    <string-array name="windSpeedUnitNames">
+        <item>m/s</item>
+        <item>km/h</item>
+        <item>mph</item>
+        <item>Beaufort</item>
+        <item>knots</item>
+    </string-array>
+    <string-array name="windSpeedUnitValues">
+        <item>mps</item>
+        <item>kmph</item>
+        <item>mph</item>
+        <item>bft</item>
+        <item>kts</item>
+    </string-array>
+    <string-array name="dailyForecastDateFormatNames">
+        <item>m/d</item>
+        <item>d/m</item>
+        <item>m.d</item>
+        <item>d.m</item>
+        <item>m-d</item>
+        <item>d-m</item>
+    </string-array>
+    <string-array name="widgetDateFormatValues">
+        <item>EEEE, MMMM d</item>
+        <item>EEE, MMM d, yyyy</item>
+        <item>EEEE d MMMM</item>
+        <item>EEE, MMM d yyyy</item>
+        <item>EEE. d MMM yyyy</item>
+        <item>EEE, MMM d</item>
+        <item>EEE, MM/dd/yyyy</item>
+        <item>EEE, yyyy/MM/dd</item>
+        <item>EEE, dd.MM.yyyy</item>
+        <item>MMM dd</item>
+        <item>dd MMM</item>
+        <item>MMMM dd</item>
+        <item>dd MMMM</item>
+        <item>dd.MM.yyyy</item>
+        <item>dd.MM.yy</item>
+        <item>MM.dd.yyyy</item>
+        <item>MM.dd.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>MM/dd/yyyy</item>
+        <item>MM/dd/yy</item>
+        <item>dd-MM-yyyy</item>
+        <item>dd-MM-yy</item>
+        <item>MM-dd-yyyy</item>
+        <item>MM-dd-yy</item>
+        <item>yyyy-MM-dd</item>
+        <item>yyyy-M-d</item>
+        <item>yyyy/M/d</item>
+        <item>d/M/yyyy</item>
+        <item>d/M/yy</item>
+        <item>d.M.yyyy</item>
+        <item>d.M.yy</item>
+        <item>yy/M/d</item>
+        <item>yyyy/MM/dd</item>
+        <item>yy/MM/dd</item>
+    </string-array>
+    <string-array name="nextEventDateFormatNames">
+        <item>Mon 15</item>
+        <item>15 Mon</item>
+        <item>m/d</item>
+        <item>d/m</item>
+        <item>m.d</item>
+        <item>d.m</item>
+    </string-array>
+    <string-array name="dailyForecastDateFormatValues">
+        <item>M/d</item>
+        <item>d/M</item>
+        <item>M.d</item>
+        <item>d.M</item>
+        <item>M-d</item>
+        <item>d-M</item>
+    </string-array>
+    <string-array name="nextEventDateFormatValues">
+        <item>EEE d</item>
+        <item>d EEE</item>
+        <item>MM/dd</item>
+        <item>dd/MM</item>
+        <item>MM.dd</item>
+        <item>dd.MM</item>
+    </string-array>
+    <string-array name="skinArray">
+        <item>99</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>25</item>
+        <item>29</item>
+        <item>04</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>28</item>
+        <item>30</item>
+        <item>33</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>27</item>
+        <item>31</item>
+        <item>14</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>26</item>
+        <item>32</item>
+        <item>09</item>
+        <item>05</item>
+        <item>16</item>
+        <item>18</item>
+        <item>10</item>
+        <item>17</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="skin_01">
+        <item>1. 100% transparent</item>
+        <item>trans 01</item>
+        <item>theme_01</item>
+        <item>lp_back_00</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_02">
+        <item>2. 80% transparent</item>
+        <item>trans 01</item>
+        <item>theme_02</item>
+        <item>lp_back_01</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_03">
+        <item>3. 70% transparent</item>
+        <item>trans 01</item>
+        <item>theme_03</item>
+        <item>lp_back_02</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_04">
+        <item>4. Transparent b</item>
+        <item>trans 01</item>
+        <item>theme_04</item>
+        <item>lp_back_03</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_05">
+        <item>5. Dark text theme</item>
+        <item>trans 01</item>
+        <item>theme_05</item>
+        <item>lp_back_01</item>
+        <item>x1</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_06">
+        <item>6. 100% transparent</item>
+        <item>trans 02</item>
+        <item>theme_06</item>
+        <item>lp_back_00</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_07">
+        <item>7. 80% transparent</item>
+        <item>trans 02</item>
+        <item>theme_07</item>
+        <item>lp_back_01</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_08">
+        <item>8. 70% transparent</item>
+        <item>trans 02</item>
+        <item>theme_08</item>
+        <item>lp_back_02</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_09">
+        <item>9. Transparent b</item>
+        <item>trans 02</item>
+        <item>theme_09</item>
+        <item>lp_back_03</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_10">
+        <item>10. Dark text theme</item>
+        <item>trans 02</item>
+        <item>theme_10</item>
+        <item>lp_back_01</item>
+        <item>x1</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_11">
+        <item>11. 100% transparent, large text</item>
+        <item>trans 01</item>
+        <item>theme_11</item>
+        <item>lp_back_00</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_12">
+        <item>12. 80% transparent, large text</item>
+        <item>trans 01</item>
+        <item>theme_12</item>
+        <item>lp_back_01</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_13">
+        <item>13. 70% transparent, large text</item>
+        <item>trans 01</item>
+        <item>theme_13</item>
+        <item>lp_back_02</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_14">
+        <item>14. Transparent b, large text</item>
+        <item>trans 01</item>
+        <item>theme_14</item>
+        <item>lp_back_03</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_16">
+        <item>16. Dark text theme (80% transparent)</item>
+        <item>trans 01</item>
+        <item>theme_16</item>
+        <item>lp_back_01</item>
+        <item>x1</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_17">
+        <item>17. Dark text theme (100% transparent)</item>
+        <item>trans 02</item>
+        <item>theme_17</item>
+        <item>lp_back_00</item>
+        <item>x1</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_18">
+        <item>18. Dark text theme, large text (100% transp.)</item>
+        <item>trans 01 large</item>
+        <item>theme_18</item>
+        <item>lp_back_00</item>
+        <item>x1</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>ff000000</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_19">
+        <item>19. 100% transparent, emphasis on hour</item>
+        <item>trans 01</item>
+        <item>theme_19</item>
+        <item>lp_back_00</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font99</item>
+    </string-array>
+    <string-array name="skin_20">
+        <item>20. 80% transparent, emphasis on hour</item>
+        <item>trans 01</item>
+        <item>theme_20</item>
+        <item>lp_back_01</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font99</item>
+    </string-array>
+    <string-array name="skin_21">
+        <item>21. 70% transparent, emphasis on hour</item>
+        <item>trans 01</item>
+        <item>theme_21</item>
+        <item>lp_back_02</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font99</item>
+    </string-array>
+    <string-array name="skin_22">
+        <item>22. Black background</item>
+        <item>trans 01</item>
+        <item>theme_22</item>
+        <item>lp_back_04</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_23">
+        <item>23. Black background</item>
+        <item>trans 02</item>
+        <item>theme_23</item>
+        <item>lp_back_04</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_24">
+        <item>24. Black back., emphasis on hour</item>
+        <item>trans 01</item>
+        <item>theme_24</item>
+        <item>lp_back_04</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font99</item>
+    </string-array>
+    <string-array name="skin_25">
+        <item>25. 60% transparent</item>
+        <item>trans 01</item>
+        <item>theme_25</item>
+        <item>lp_back_05</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_26">
+        <item>26. 60% transparent</item>
+        <item>trans 02</item>
+        <item>theme_26</item>
+        <item>lp_back_05</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_27">
+        <item>27. 60% transparent, large text</item>
+        <item>trans 01</item>
+        <item>theme_27</item>
+        <item>lp_back_05</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_28">
+        <item>28. 60% transparent, emphasis on hour</item>
+        <item>trans 01</item>
+        <item>theme_28</item>
+        <item>lp_back_05</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font99</item>
+    </string-array>
+    <string-array name="skin_29">
+        <item>29. 50% transparent</item>
+        <item>trans 01</item>
+        <item>theme_29</item>
+        <item>lp_back_06</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_30">
+        <item>30. 50% transparent, emphasis on hour</item>
+        <item>trans 01</item>
+        <item>theme_30</item>
+        <item>lp_back_06</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font99</item>
+    </string-array>
+    <string-array name="skin_31">
+        <item>31. 50% transparent, large text</item>
+        <item>trans 01</item>
+        <item>theme_31</item>
+        <item>lp_back_06</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_32">
+        <item>32. 50% transparent</item>
+        <item>trans 02</item>
+        <item>theme_32</item>
+        <item>lp_back_06</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="skin_33">
+        <item>15. Transparent b, emphasis on hour</item>
+        <item>trans 01</item>
+        <item>theme_15</item>
+        <item>lp_back_03</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font99</item>
+    </string-array>
+    <string-array name="skin_99">
+        <item>Custom</item>
+        <item>trans 01</item>
+        <item>theme_99</item>
+        <item>lp_back_00</item>
+        <item>x0</item>
+        <item>ffffffff</item>
+        <item>ff000000</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>ffffffff</item>
+        <item>font_01.ttf</item>
+    </string-array>
+    <string-array name="weatherServerNames">
+        <item>Foreca</item>
+        <item>Yr.no</item>
+        <item>Weather Underground</item>
+        <item>Open Weather Map</item>
+    </string-array>
+    <string-array name="weatherServerValues">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1</item>
+    </string-array>
+</resources>

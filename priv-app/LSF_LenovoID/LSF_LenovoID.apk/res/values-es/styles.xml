@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="com_lenovo_lsf_ui" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowTitleSize">41.0dip</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="com_lenovo_lsf_ui.no_title" parent="@style/com_lenovo_lsf_ui">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="com_lenovo_lsf_ui.no_title_transparent" parent="@style/com_lenovo_lsf_ui">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="com_lenovo_lsf_head_text">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ff2e2e2e</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="LenovoSDKDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="login_autocomplete_drop">
+        <item name="android:focusable">true</item>
+        <item name="android:dropDownVerticalOffset">3.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_text">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff191919</item>
+    </style>
+    <style name="com_lenovo_lsf_text.white" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="com_lenovo_lsf_text.hint" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textColor">#ffa3a3a3</item>
+    </style>
+    <style name="com_lenovo_lsf_text.edit" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColorHint">#ffd1d1d1</item>
+    </style>
+    <style name="com_lenovo_lsf_text.resend" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="com_lenovo_lsf_text.tip" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff757575</item>
+    </style>
+    <style name="com_lenovo_lsf_text.error" parent="@style/com_lenovo_lsf_text">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffff0000</item>
+    </style>
+    <style name="com_lenovo_lsf_edit">
+        <item name="android:background">@drawable/com_lenovo_lsf_edittext_background_selector</item>
+        <item name="android:layout_height">@dimen/com_lenovo_lsf_content_edittext_height</item>
+    </style>
+    <style name="com_lenovo_lsf_button">
+        <item name="android:layout_height">32.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_button.commit" parent="@style/com_lenovo_lsf_text">
+        <item name="android:background">@drawable/com_lenovo_lsf_btn_inter_onekey_selector_up</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">36.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_button.commit.blue" parent="@style/com_lenovo_lsf_text.white">
+        <item name="android:background">@drawable/com_lenovo_lsf_btn_inter_onekey_selector_up</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">36.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_button.send" parent="@style/com_lenovo_lsf_button">
+        <item name="android:textAppearance">@style/com_lenovo_lsf_text.resend</item>
+        <item name="android:background">@drawable/com_lenovo_lsf_get_captcha_button_selector</item>
+        <item name="android:layout_width">106.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_content">
+        <item name="android:background">?android:windowBackground</item>
+        <item name="android:paddingLeft">@dimen/com_lenovo_lsf_content_padding_left_right</item>
+        <item name="android:paddingTop">@dimen/com_lenovo_lsf_content_margin_top</item>
+        <item name="android:paddingRight">@dimen/com_lenovo_lsf_content_padding_left_right</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="com_lenovo_lsf_ui.dialog" parent="@style/com_lenovo_lsf_ui">
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="com_lenovo_lsf_divider_title">
+        <item name="android:background">#ffd1d1d1</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+    </style>
+    <style name="com_lenovo_lsf_divider_line">
+        <item name="android:background">#ffd1d1d1</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">2.0px</item>
+    </style>
+    <style name="com_lenovo_lsf_divider_content">
+        <item name="android:background">#ffefefef</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0px</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="com_lenovo_lsf_setting_item">
+        <item name="android:background">@drawable/com_lenovo_lsf_list_item_selector</item>
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:paddingRight">18.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">48.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_setting_item_feed">
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:paddingRight">18.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="com_lenovo_lsf_setting_item_title">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff757575</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+    </style>
+    <style name="com_lenovo_lsf_setting_icon">
+        <item name="android:id">@android:id/icon</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="com_lenovo_lsf_regist_editext_hint_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColorHint">#ffd1d1d1</item>
+    </style>
+    <style name="com_lenovo_lsf_theme_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="com_lenovo_lsf_text_limit">
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxWidth">200.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="com_lenovo_lsf_content.left" parent="@style/com_lenovo_lsf_content">
+        <item name="android:background">?android:windowBackground</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="payeco_datepPickDialog" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="payeco_keyboardDigitButton_hx">
+        <item name="android:textSize">@dimen/payeco_pwkeyboard_button_textsize</item>
+        <item name="android:textColor">#ff0b0000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/payeco_keyboard_btn_selector2</item>
+        <item name="android:layout_width">0.0px</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="payeco_keyboardDigitButton">
+        <item name="android:textSize">@dimen/payeco_pwkeyboard_button_textsize</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/payeco_keyboard_btn_selector</item>
+        <item name="android:layout_width">0.0px</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="payeco_keyboardButton">
+        <item name="android:textSize">@dimen/payeco_pwkeyboard_button_textsize</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">70.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:button">@null</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="payeco_fullHeightDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="payeco_pluginSpinnerButton">
+        <item name="android:textSize">@dimen/payeco_small_textsize</item>
+        <item name="android:textColor">@color/payeco_textColorBlack</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/payeco_plugin_spinner_selector</item>
+        <item name="android:layout_height">35.0dip</item>
+    </style>
+    <style name="payeco_pluginNormalText">
+        <item name="android:textSize">@dimen/payeco_normal_textsize</item>
+        <item name="android:textColor">@color/payeco_textColorBlack</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_size_small">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="uititlebackground">
+        <item name="android:background">#fff2f2f2</item>
+    </style>
+    <style name="ui" parent="@android:style/Theme.Light">
+        <item name="android:windowBackground">@color/appcolor</item>
+        <item name="android:windowTitleSize">41.0dip</item>
+        <item name="android:windowTitleBackgroundStyle">@style/uititlebackground</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="layout_location">
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingRight">18.0dip</item>
+    </style>
+    <style name="layout_loc">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingLeft">18.0dip</item>
+        <item name="android:paddingRight">18.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_size_large">
+        <item name="android:textSize">30.0sp</item>
+    </style>
+    <style name="text_size_middle">
+        <item name="android:textSize">16.0sp</item>
+    </style>
+    <style name="input_edit">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="input_text">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">7.0dip</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="head_text">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="detail_text">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="myaccount_relative">
+        <item name="android:gravity">bottom</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_middle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_small">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_large">
+        <item name="android:textSize">30.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="bottom">
+        <item name="android:gravity">bottom|center</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">15.0dip</item>
+    </style>
+    <style name="spinner">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="NotificationText" parent="@android:style/TextAppearance.StatusBar.EventContent" />
+    <style name="NotificationTitle" parent="@android:style/TextAppearance.StatusBar.EventContent.Title" />
+    <style name="login_ui" parent="@android:style/Theme.Light">
+        <item name="android:windowBackground">@color/appcolor</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTitleBackgroundStyle">@style/uititlebackground</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="no_title" parent="@android:style/Theme.Light">
+        <item name="android:windowBackground">@color/appcolor</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTitleBackgroundStyle">@style/uititlebackground</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+    <style name="account_setting_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+    </style>
+    <style name="account_setting_text_small">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff9d9d9d</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+    </style>
+    <style name="TopImageViewStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TitleTextViewStyle">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">#ff191919</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="com_lenovo_lsf_ui.setup_no_title_transparent" parent="@style/com_lenovo_lsf_ui">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="ckyc_hfcx_mydialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>

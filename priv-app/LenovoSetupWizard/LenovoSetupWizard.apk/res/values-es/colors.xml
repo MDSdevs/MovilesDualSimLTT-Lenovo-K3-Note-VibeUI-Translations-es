@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_text_color">#ff585669</color>
+    <color name="default_text_message_color">#ff92929e</color>
+    <color name="checked_text_color">#ff9c9ea8</color>
+    <color name="unchecked_text_color">#ff585669</color>
+    <color name="summray_text_color">#ffb3b3b3</color>
+    <color name="summary_text_color">#ff191919</color>
+    <color name="title_text">#ff333333</color>
+    <color name="wifi_setting_item_title_normal">#ff9d9da8</color>
+    <color name="wifi_setting_item_summary_normal">#ffb9bbc2</color>
+    <color name="wifi_setting_item_title_selected">#ff585669</color>
+    <color name="wifi_setting_item_summary_selected">#ff92929e</color>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="try_it">E试用一下</string>
+    <string name="try_swing_lock_info">E请甩动手机进行屏幕锁定</string>
+    <string name="try_swing_lock_result_ok">E方法正确, 你可以使用该功能了</string>
+    <string name="try_swing_lock_result_harder">E摇晃力度不够, 请重试</string>
+    <string name="try_swing_lock_result_longer">E摇晃距离不够, 请重试</string>
+    <string name="app_name">Black screen unlock</string>
+    <string name="gesture_unlock_title">Black screen gesture unlock</string>
+    <string name="gesture_unlock_to">Unlock to  </string>
+    <string name="Cancel">Cancel</string>
+    <string name="gesture_app_settings_button">Settings</string>
+    <string name="gesture_unlock_category_title">Black screen unlock</string>
+    <string name="gesture_unlock_normal_title">Normal unlock</string>
+    <string name="gesture_unlock_normal_summary">Slide on the screen to unlock</string>
+    <string name="gesture_c_summary">Draw \"v\" on the screen</string>
+    <string name="gesture_e_summary">Draw \"o\" on the screen</string>
+    <string name="gesture_m_summary">Draw \"m\" on the screen</string>
+    <string name="gesture_v_summary">Draw \"v\" on the screen</string>
+    <string name="gesture_app_settings_title">Select apps</string>
+    <string name="gesture_animation_title">Black screen unlock gesture</string>
+    <string name="gesture_animation_demonstartion_title">Unlock gesture animation</string>
+    <string name="gesture_animation_demonstartion_summary">In the black screen interface, draw the specific letter on the screen to start an app</string>
+    <string name="gesture_animation_normal_unlock_screen_summary">Slide left or right on the bottom of the screen to unlock</string>
+    <string name="gesture_animation_normal_unlock_camera_summary">Draw \"v\" on the screen to unlock to the camera</string>
+    <string name="gesture_animation_normal_unlock_browser_summary">Draw \"o\" on the screen to unlock to the browser</string>
+    <string name="i_know_it">I know it</string>
+    <string name="preference_status_unknown">Unknown</string>
+    <string name="preference_status_open">On</string>
+    <string name="preference_status_close">Off</string>
+    <string name="gesture_flash_mode_on">On</string>
+    <string name="gesture_flash_mode_off">Off</string>
+    <string name="gesture_flash_mode_onoff">Switcher</string>
+    <string name="gesture_series_summary">During black screen, directly unlock or unlock to an app</string>
+    <string name="gesture_phone_screen">Screen</string>
+    <string name="gesture_warning">Tip</string>
+    <string name="gesture_help">Help</string>
+    <string name="gesture_learn_more">Learn more about black screen unlock</string>
+    <string name="gesture_no_show_again">"Don't show this again"</string>
+    <string name="gesture_warning_content">Because the app is frozen, uninstalled, you are in airplane mode, or for some other reason, %1$s and other apps cannot be directly unlocked and opened. You can only unlock to the screen. We suggest changing.</string>
+    <string name="gesture_series_title">Black screen unlock</string>
+</resources>

@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="keyborad_container" />
+    <item type="id" name="framework_pullrefresh_loading" />
+    <item type="id" name="images_layout" />
+    <item type="id" name="table_left_image" />
+    <item type="id" name="table_left_big_image" />
+    <item type="id" name="linearLayout1" />
+    <item type="id" name="table_left_text" />
+    <item type="id" name="line2_textlayout" />
+    <item type="id" name="table_left_text_2" />
+    <item type="id" name="table_left_text_3" />
+    <item type="id" name="table_left_text_4" />
+    <item type="id" name="table_arrow" />
+    <item type="id" name="table_toggleButton" />
+    <item type="id" name="table_right_image" />
+    <item type="id" name="linearLayout2" />
+    <item type="id" name="table_right_bottom_image" />
+    <item type="id" name="table_right_top_text" />
+    <item type="id" name="custom_check_box" />
+    <item type="id" name="link_text" />
+    <item type="id" name="checkCodeGetContainer" />
+    <item type="id" name="checkCodeInputBox" />
+    <item type="id" name="refreshImg" />
+    <item type="id" name="checkCodeImg" />
+    <item type="id" name="checkCodeSendButton" />
+    <item type="id" name="checkCodeSendInputBox" />
+    <item type="id" name="refresh_overView" />
+    <item type="id" name="framework_pullrefresh_progress" />
+    <item type="id" name="loading" />
+    <item type="id" name="framework_pullrefresh_normal" />
+    <item type="id" name="framework_pullrefresh_indicator" />
+    <item type="id" name="framework_pullrefresh_prompt" />
+    <item type="id" name="contentName" />
+    <item type="id" name="lastImgBtn" />
+    <item type="id" name="unit" />
+    <item type="id" name="btnContainer" />
+    <item type="id" name="clearButton" />
+    <item type="id" name="funcButton" />
+    <item type="id" name="content" />
+    <item type="id" name="body" />
+    <item type="id" name="message" />
+    <item type="id" name="grid_view" />
+    <item type="id" name="btn_cancel" />
+    <item type="id" name="titleBar" />
+    <item type="id" name="edit_text_layout" />
+    <item type="id" name="about_feedBack_txt" />
+    <item type="id" name="share_img" />
+    <item type="id" name="edit_text_box_notify_view" />
+    <item type="id" name="do_share" />
+    <item type="id" name="line_image" />
+    <item type="id" name="left_image" />
+    <item type="id" name="textView1" />
+    <item type="id" name="textView2" />
+    <item type="id" name="textView3" />
+    <item type="id" name="netWorkTip" />
+    <item type="id" name="tryAgain" />
+    <item type="id" name="table_right_text" />
+    <item type="id" name="table_right_text_2" />
+    <item type="id" name="table_right_text_3" />
+    <item type="id" name="titleContainer" />
+    <item type="id" name="confirmText" />
+    <item type="id" name="input_edittext" />
+    <item type="id" name="dataList" />
+    <item type="id" name="empty_view" />
+    <item type="id" name="empty_text_view" />
+    <item type="id" name="index_drawable" />
+    <item type="id" name="tip_content" />
+    <item type="id" name="leftImage" />
+    <item type="id" name="fristText" />
+    <item type="id" name="rightImage" />
+    <item type="id" name="rightText" />
+    <item type="id" name="secondText" />
+    <item type="id" name="sigle_tab_bg" />
+    <item type="id" name="tab_description" />
+    <item type="id" name="tab_flag" />
+    <item type="id" name="table_iconView" />
+    <item type="id" name="title_bar_title" />
+    <item type="id" name="title_bar_generic_button" />
+    <item type="id" name="switch_container" />
+    <item type="id" name="title_bar_left_button" />
+    <item type="id" name="title_bar_right_button" />
+    <item type="id" name="primary_action_view" />
+    <item type="id" name="contact_photo_view" />
+    <item type="id" name="item_name_view" />
+    <item type="id" name="valid_date_view" />
+    <item type="id" name="item_third_view" />
+    <item type="id" name="list_image" />
+    <item type="id" name="line1_text" />
+    <item type="id" name="line2_leftText" />
+    <item type="id" name="line2_rightText" />
+    <item type="id" name="leftText" />
+    <item type="id" name="account_action_bar">false</item>
+    <item type="id" name="account_detail">false</item>
+    <item type="id" name="headImage">false</item>
+    <item type="id" name="personNameTextView">false</item>
+    <item type="id" name="accountTextView">false</item>
+    <item type="id" name="paymentEdit">false</item>
+    <item type="id" name="transfer_confirm">false</item>
+    <item type="id" name="switchToMobile">false</item>
+    <item type="id" name="switchToAlipay">false</item>
+    <item type="id" name="switchToTaobao">false</item>
+    <item type="id" name="btnCancle">false</item>
+    <item type="id" name="authorization_content">false</item>
+    <item type="id" name="check_button">false</item>
+    <item type="id" name="authorization_title">false</item>
+    <item type="id" name="authorization_button">false</item>
+    <item type="id" name="to_auth_protocal">false</item>
+    <item type="id" name="loginBoxLinearLayout">false</item>
+    <item type="id" name="alipayLoginAccountInput">false</item>
+    <item type="id" name="loginAccountEditText">false</item>
+    <item type="id" name="offline">false</item>
+    <item type="id" name="accountClearButton">false</item>
+    <item type="id" name="loginAccountButton">false</item>
+    <item type="id" name="alipayLoginPasswordInput">false</item>
+    <item type="id" name="loginButton">false</item>
+    <item type="id" name="checkCodeGetter">false</item>
+    <item type="id" name="forgetPwd">false</item>
+    <item type="id" name="btnUserLogin">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="SLayout">false</item>
+    <item type="id" name="bank_logo">false</item>
+    <item type="id" name="btn_copy_card_no">false</item>
+    <item type="id" name="bank_title">false</item>
+    <item type="id" name="bank_card_type">false</item>
+    <item type="id" name="card_quickpay">false</item>
+    <item type="id" name="unknown_card">false</item>
+    <item type="id" name="card_number_txt">false</item>
+    <item type="id" name="linear_parent">false</item>
+    <item type="id" name="card_not_recognized_tip">false</item>
+    <item type="id" name="noIconLayout">false</item>
+    <item type="id" name="left_txt">false</item>
+    <item type="id" name="center_txt">false</item>
+    <item type="id" name="right_txt">false</item>
+    <item type="id" name="barcode_exp_action_bar">false</item>
+    <item type="id" name="barcode_exp_number">false</item>
+    <item type="id" name="barcode_exp_btncopy">false</item>
+    <item type="id" name="dynamic_btn_parent">false</item>
+    <item type="id" name="closing_info">false</item>
+    <item type="id" name="closing_warn_txt">false</item>
+    <item type="id" name="btn_1">false</item>
+    <item type="id" name="kakalib_demo_rel">false</item>
+    <item type="id" name="fragmentScan">false</item>
+    <item type="id" name="alipay_shadow">false</item>
+    <item type="id" name="alipay_cardline">false</item>
+    <item type="id" name="alipay_result">false</item>
+    <item type="id" name="modeControllerBar">false</item>
+    <item type="id" name="alipay_back">false</item>
+    <item type="id" name="txt_tip">false</item>
+    <item type="id" name="checkCodeTips">false</item>
+    <item type="id" name="DatePicker">false</item>
+    <item type="id" name="TimePicker">false</item>
+    <item type="id" name="discountSection">false</item>
+    <item type="id" name="origPriceSection">false</item>
+    <item type="id" name="origPrice">false</item>
+    <item type="id" name="discountDesc">false</item>
+    <item type="id" name="goodsInfosArea">false</item>
+    <item type="id" name="hintTitle">false</item>
+    <item type="id" name="hinttext1">false</item>
+    <item type="id" name="hinttext2">false</item>
+    <item type="id" name="hinttext3">false</item>
+    <item type="id" name="hinttext4">false</item>
+    <item type="id" name="commonInfosArea">false</item>
+    <item type="id" name="commonGoodsId">false</item>
+    <item type="id" name="commonGoodsList">false</item>
+    <item type="id" name="marketInfosArea">false</item>
+    <item type="id" name="marketGoodsId">false</item>
+    <item type="id" name="marketGoodslist">false</item>
+    <item type="id" name="img">false</item>
+    <item type="id" name="downloadimgline">false</item>
+    <item type="id" name="downloadimg">false</item>
+    <item type="id" name="webview">false</item>
+    <item type="id" name="linearLayout3">false</item>
+    <item type="id" name="datePicker1">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="information">false</item>
+    <item type="id" name="month_area">false</item>
+    <item type="id" name="month_up_btn">false</item>
+    <item type="id" name="month_text">false</item>
+    <item type="id" name="month_down_btn">false</item>
+    <item type="id" name="year_area">false</item>
+    <item type="id" name="year_up_btn">false</item>
+    <item type="id" name="year_text">false</item>
+    <item type="id" name="year_down_btn">false</item>
+    <item type="id" name="loginRootLayout">false</item>
+    <item type="id" name="tips">false</item>
+    <item type="id" name="action">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="productNameTableView">false</item>
+    <item type="id" name="supplierNameTableView">false</item>
+    <item type="id" name="nextBtn">false</item>
+    <item type="id" name="html_activity_title_bar">false</item>
+    <item type="id" name="htmlView">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="htmlActivityV2_title">false</item>
+    <item type="id" name="ProgressBar">false</item>
+    <item type="id" name="AlipayPushUrlWebView">false</item>
+    <item type="id" name="title_bar">false</item>
+    <item type="id" name="login_frame">false</item>
+    <item type="id" name="mini_root">false</item>
+    <item type="id" name="mini_main_title">false</item>
+    <item type="id" name="mini_main_btBack">false</item>
+    <item type="id" name="mini_linTitleContainer">false</item>
+    <item type="id" name="mini_form_btSwitch">false</item>
+    <item type="id" name="mini_linBlocksConpent">false</item>
+    <item type="id" name="mini_main_bottom">false</item>
+    <item type="id" name="mini_main_bt_devider">false</item>
+    <item type="id" name="mini_main_btn_container">false</item>
+    <item type="id" name="mini_main_btCancel">false</item>
+    <item type="id" name="mini_main_btConfirm">false</item>
+    <item type="id" name="mini_toast_text">false</item>
+    <item type="id" name="mini_guide_switch">false</item>
+    <item type="id" name="mini_guide_info">false</item>
+    <item type="id" name="mini_guide_hint">false</item>
+    <item type="id" name="mini_layout">false</item>
+    <item type="id" name="mini_safty_code_close">false</item>
+    <item type="id" name="mini_combox_label">false</item>
+    <item type="id" name="mini_combox_spinner">false</item>
+    <item type="id" name="mini_name">false</item>
+    <item type="id" name="mini_check">false</item>
+    <item type="id" name="mini_toast_icon">false</item>
+    <item type="id" name="mini_input_layout">false</item>
+    <item type="id" name="mini_input_lable">false</item>
+    <item type="id" name="mini_input_et">false</item>
+    <item type="id" name="mini_input_error_msg">false</item>
+    <item type="id" name="mini_page_add_title">false</item>
+    <item type="id" name="mini_page_add_account">false</item>
+    <item type="id" name="mini_page_add_input">false</item>
+    <item type="id" name="mini_page_add_tips">false</item>
+    <item type="id" name="mini_page_add_confirm">false</item>
+    <item type="id" name="mini_page_msg_title">false</item>
+    <item type="id" name="mini_page_msg_account">false</item>
+    <item type="id" name="mini_ui_custom_scrollview">false</item>
+    <item type="id" name="mini_page_msg_input_type">false</item>
+    <item type="id" name="mini_page_msg_input_type_label">false</item>
+    <item type="id" name="mini_page_msg_input_type_bank">false</item>
+    <item type="id" name="mini_page_msg_input_type_cardtype">false</item>
+    <item type="id" name="mini_page_msg_lin_name">false</item>
+    <item type="id" name="mini_page_msg_input_name">false</item>
+    <item type="id" name="mini_page_msg_name_line">false</item>
+    <item type="id" name="mini_page_msg_input_cert">false</item>
+    <item type="id" name="mini_page_msg_name_tip">false</item>
+    <item type="id" name="mini_page_msg_choose_link">false</item>
+    <item type="id" name="mini_page_msg_credit">false</item>
+    <item type="id" name="mini_page_msg_input_validate">false</item>
+    <item type="id" name="mini_page_msg_credit_line">false</item>
+    <item type="id" name="mini_page_msg_input_safe">false</item>
+    <item type="id" name="mini_page_msg_input_mobile">false</item>
+    <item type="id" name="mini_page_msg_input_pwd">false</item>
+    <item type="id" name="mini_page_msg_spwd_panel">false</item>
+    <item type="id" name="mini_page_msg_protocol_link">false</item>
+    <item type="id" name="mini_page_msg_btConfirm">false</item>
+    <item type="id" name="mini_list">false</item>
+    <item type="id" name="mini_list_mask">false</item>
+    <item type="id" name="mini_select_button_text">false</item>
+    <item type="id" name="mini_select_button_img">false</item>
+    <item type="id" name="mini_spwd_input">false</item>
+    <item type="id" name="mini_linSimplePwdComponent">false</item>
+    <item type="id" name="mini_spwd_rl_1">false</item>
+    <item type="id" name="mini_spwd_iv_1">false</item>
+    <item type="id" name="mini_spwd_rl_2">false</item>
+    <item type="id" name="mini_spwd_iv_2">false</item>
+    <item type="id" name="mini_spwd_rl_3">false</item>
+    <item type="id" name="mini_spwd_iv_3">false</item>
+    <item type="id" name="mini_spwd_rl_4">false</item>
+    <item type="id" name="mini_spwd_iv_4">false</item>
+    <item type="id" name="mini_spwd_rl_5">false</item>
+    <item type="id" name="mini_spwd_iv_5">false</item>
+    <item type="id" name="mini_spwd_rl_6">false</item>
+    <item type="id" name="mini_spwd_iv_6">false</item>
+    <item type="id" name="mini_web_title">false</item>
+    <item type="id" name="mini_webView_frame">false</item>
+    <item type="id" name="mini_web_ProgressBar_loading">false</item>
+    <item type="id" name="mini_webview_back">false</item>
+    <item type="id" name="mini_webview_forward">false</item>
+    <item type="id" name="mini_webview_refresh">false</item>
+    <item type="id" name="mini_widget_label_input">false</item>
+    <item type="id" name="mini_widget_label_input_label">false</item>
+    <item type="id" name="mini_widget_label_input_input">false</item>
+    <item type="id" name="loginTitleBar">false</item>
+    <item type="id" name="mobileInput">false</item>
+    <item type="id" name="nextStepBtn">false</item>
+    <item type="id" name="switchAccount">false</item>
+    <item type="id" name="registerAccount">false</item>
+    <item type="id" name="web_view">false</item>
+    <item type="id" name="agreement_list">false</item>
+    <item type="id" name="dialog_title">false</item>
+    <item type="id" name="dialog_divider">false</item>
+    <item type="id" name="dialog_message">false</item>
+    <item type="id" name="dialog_content_view">false</item>
+    <item type="id" name="dialog_button_group">false</item>
+    <item type="id" name="left_button">false</item>
+    <item type="id" name="dialog_split_v">false</item>
+    <item type="id" name="right_button">false</item>
+    <item type="id" name="main">false</item>
+    <item type="id" name="main_fragement">false</item>
+    <item type="id" name="check_box">false</item>
+    <item type="id" name="check_mark_right">false</item>
+    <item type="id" name="check_mark_left">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="combox_title">false</item>
+    <item type="id" name="combox_button">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="check">false</item>
+    <item type="id" name="link_title">false</item>
+    <item type="id" name="radio_group_title">false</item>
+    <item type="id" name="radio_group">false</item>
+    <item type="id" name="switcher">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="title_img">false</item>
+    <item type="id" name="title_name">false</item>
+    <item type="id" name="title_close">false</item>
+    <item type="id" name="xlistview_footer_content">false</item>
+    <item type="id" name="xlistview_footer_progressbar">false</item>
+    <item type="id" name="xlistview_footer_hint_textview">false</item>
+    <item type="id" name="xlistview_header_content">false</item>
+    <item type="id" name="xlistview_header_text">false</item>
+    <item type="id" name="xlistview_header_hint_textview">false</item>
+    <item type="id" name="xlistview_header_time">false</item>
+    <item type="id" name="xlistview_header_arrow">false</item>
+    <item type="id" name="xlistview_header_progressbar">false</item>
+    <item type="id" name="regist_protocol_tip">false</item>
+    <item type="id" name="protocolCheck">false</item>
+    <item type="id" name="ensureRegist">false</item>
+    <item type="id" name="price">false</item>
+    <item type="id" name="moneyText">false</item>
+    <item type="id" name="cmsField">false</item>
+    <item type="id" name="confirm">false</item>
+    <item type="id" name="framework_pullrefresh_text">false</item>
+    <item type="id" name="auth_titleBar">false</item>
+    <item type="id" name="contentContainer">false</item>
+    <item type="id" name="register_inputSmsCodeTip">false</item>
+    <item type="id" name="register_SmsCodeSendBox">false</item>
+    <item type="id" name="register_verifySmsCodeButton">false</item>
+    <item type="id" name="register_phoneNubInputBox">false</item>
+    <item type="id" name="register_CheckboxWithLinkText">false</item>
+    <item type="id" name="register_mtSmsButton">false</item>
+    <item type="id" name="register_user_container">false</item>
+    <item type="id" name="repayment_iconView">false</item>
+    <item type="id" name="table_right_txt">false</item>
+    <item type="id" name="search_bar_inputbox_layout_target">false</item>
+    <item type="id" name="search_bar_inputbox_target">false</item>
+    <item type="id" name="search_bar_search_btn_target">false</item>
+    <item type="id" name="search_bar_inputbox_layout">false</item>
+    <item type="id" name="search_bar_button">false</item>
+    <item type="id" name="search_bar_button_text">false</item>
+    <item type="id" name="search_bar_icon">false</item>
+    <item type="id" name="search_bar_inputbox">false</item>
+    <item type="id" name="btn_search_bar_clear">false</item>
+    <item type="id" name="table_left_image_cover">false</item>
+    <item type="id" name="selectedView">false</item>
+    <item type="id" name="security_back_loginpwd_titleBar">false</item>
+    <item type="id" name="security_select_account">false</item>
+    <item type="id" name="select_account_fragment">false</item>
+    <item type="id" name="security_confirm_register">false</item>
+    <item type="id" name="register_confirm_fragment">false</item>
+    <item type="id" name="security_set_simplepwd">false</item>
+    <item type="id" name="set_simple_pwd">false</item>
+    <item type="id" name="security_paypwd_scrollview">false</item>
+    <item type="id" name="security_back_loginpwd_step1">false</item>
+    <item type="id" name="security_paypwd1_login_id">false</item>
+    <item type="id" name="security_img_checkcode">false</item>
+    <item type="id" name="security_back_loginpwd1_next_step">false</item>
+    <item type="id" name="security_back_loginpwd2">false</item>
+    <item type="id" name="security_back_loginpwd2_warn_txt">false</item>
+    <item type="id" name="security_back_loginpwd2_CheckCodeSend">false</item>
+    <item type="id" name="security_back_loginpwd2_next_btn">false</item>
+    <item type="id" name="security_back_loginpwd3">false</item>
+    <item type="id" name="security_back_loginpwd_step3_socityId">false</item>
+    <item type="id" name="security_back_loginpwd_step3_next_step">false</item>
+    <item type="id" name="security_back_loginpwd4">false</item>
+    <item type="id" name="security_back_loginpwd_new_pwd">false</item>
+    <item type="id" name="pay_pwd_warn">false</item>
+    <item type="id" name="is_show_pwd">false</item>
+    <item type="id" name="security_back_loginpwd4_confirm">false</item>
+    <item type="id" name="security_back_paypwd_titleBar">false</item>
+    <item type="id" name="security_back_paypwd_step1">false</item>
+    <item type="id" name="socityId">false</item>
+    <item type="id" name="security_back_paypwd_step1_next_step">false</item>
+    <item type="id" name="security_back_paypwd_step21">false</item>
+    <item type="id" name="security_back_paypwd_step21_warn">false</item>
+    <item type="id" name="security_reconfirm_pwd">false</item>
+    <item type="id" name="security_send_checkcode_btn">false</item>
+    <item type="id" name="security_back_paypwd_step22">false</item>
+    <item type="id" name="security_back_paypwd_step22_warn">false</item>
+    <item type="id" name="security_back_paypwd_step22_payCheckCodeSend">false</item>
+    <item type="id" name="security_back_paypwd22_next_step">false</item>
+    <item type="id" name="security_back_paypwd_step3">false</item>
+    <item type="id" name="security_back_paypwd_new_pwd">false</item>
+    <item type="id" name="security_back_paypwd3_confirm">false</item>
+    <item type="id" name="security_bind_phone_titleBar">false</item>
+    <item type="id" name="securityBindPhoneStep11">false</item>
+    <item type="id" name="securityBindPhoneWarn3">false</item>
+    <item type="id" name="securityBindPhonePwd">false</item>
+    <item type="id" name="securityBindPhoneNextStep1">false</item>
+    <item type="id" name="securityBindPhoneStep12">false</item>
+    <item type="id" name="securityBindPhoneNum">false</item>
+    <item type="id" name="securityBindPhoneNextStep12">false</item>
+    <item type="id" name="securityBindPhoneStep22">false</item>
+    <item type="id" name="securityBindPhoneStep22Warn">false</item>
+    <item type="id" name="securityBindPhoneCheckCode">false</item>
+    <item type="id" name="securityBindPhonePayPwd22">false</item>
+    <item type="id" name="securityBindPhoneConfirmBtn22">false</item>
+    <item type="id" name="securityBindPhoneSuccess">false</item>
+    <item type="id" name="sucessParent">false</item>
+    <item type="id" name="drawSuccess">false</item>
+    <item type="id" name="successWarn1">false</item>
+    <item type="id" name="successWarn2">false</item>
+    <item type="id" name="securityBindPhoneSuccessBtn">false</item>
+    <item type="id" name="securityBindPhoneFail">false</item>
+    <item type="id" name="failParent">false</item>
+    <item type="id" name="drawFail">false</item>
+    <item type="id" name="failWarn1">false</item>
+    <item type="id" name="failWarn2">false</item>
+    <item type="id" name="securityBindPhoneFailBtn">false</item>
+    <item type="id" name="security_bind_phone_send_err">false</item>
+    <item type="id" name="security_bind_phone_resend">false</item>
+    <item type="id" name="security_bind_phone_setphone">false</item>
+    <item type="id" name="authcenter_binding_alipay_title">false</item>
+    <item type="id" name="ScrollView">false</item>
+    <item type="id" name="binding_alipay_user">false</item>
+    <item type="id" name="binding_alipay_user_logon_pwd">false</item>
+    <item type="id" name="authcenter_binding_alipay_submit">false</item>
+    <item type="id" name="authcenter_regiester_new_user">false</item>
+    <item type="id" name="userid_input">false</item>
+    <item type="id" name="userid_next_step">false</item>
+    <item type="id" name="security_first_btn">false</item>
+    <item type="id" name="security_second_btn">false</item>
+    <item type="id" name="complete_userinfo_container">false</item>
+    <item type="id" name="security_complete_userinfo_hint">false</item>
+    <item type="id" name="security_account_login_id_value">false</item>
+    <item type="id" name="security_user_name">false</item>
+    <item type="id" name="security_pay_password">false</item>
+    <item type="id" name="security_show_password_box">false</item>
+    <item type="id" name="complete_button">false</item>
+    <item type="id" name="relativeLayout1">false</item>
+    <item type="id" name="accountAutoComplete">false</item>
+    <item type="id" name="security_modify_loginpwd_titleBar">false</item>
+    <item type="id" name="security_loginpwd1">false</item>
+    <item type="id" name="security_loginpwd1_current_pwd">false</item>
+    <item type="id" name="security_loginpwd1_new_pwd">false</item>
+    <item type="id" name="security_loginpwd1_pay_pwd_warn">false</item>
+    <item type="id" name="security_loginpwd1_is_show_pwd">false</item>
+    <item type="id" name="security_loginpwd1_next_step">false</item>
+    <item type="id" name="security_loginpwd2">false</item>
+    <item type="id" name="security_loginpwd2_warn_txt">false</item>
+    <item type="id" name="security_loginpwd2_checkCodeSend">false</item>
+    <item type="id" name="security_loginpwd2_confirm">false</item>
+    <item type="id" name="security_modify_paypwd_titleBar">false</item>
+    <item type="id" name="security_paypwd1">false</item>
+    <item type="id" name="security_paypwd1_current_pwd">false</item>
+    <item type="id" name="security_paypwd1_new_pwd">false</item>
+    <item type="id" name="security_paypwd1_pay_pwd_warn">false</item>
+    <item type="id" name="security_paypwd1_is_show_pwd">false</item>
+    <item type="id" name="security_paypwd1_next_step">false</item>
+    <item type="id" name="security_paypwd2">false</item>
+    <item type="id" name="security_paypwd2_warn_txt">false</item>
+    <item type="id" name="security_paypwd2_payCheckCodeSend">false</item>
+    <item type="id" name="security_paypwd2_confirm">false</item>
+    <item type="id" name="login_adapter_layout">false</item>
+    <item type="id" name="security_selectUserTitle">false</item>
+    <item type="id" name="security_selectAccount_userListView">false</item>
+    <item type="id" name="pwd_selectAccount_userListView">false</item>
+    <item type="id" name="pwdInputTitle">false</item>
+    <item type="id" name="simple_pwd_input">false</item>
+    <item type="id" name="verifyBtn">false</item>
+    <item type="id" name="topDivideView">false</item>
+    <item type="id" name="otherAccountSwitcher">false</item>
+    <item type="id" name="security_userListTitle">false</item>
+    <item type="id" name="security_userListView">false</item>
+    <item type="id" name="pusb_wap_title">false</item>
+    <item type="id" name="setting_btn_no_pwd">false</item>
+    <item type="id" name="setting_btn_payment_channel">false</item>
+    <item type="id" name="setting_no_pwd_progress">false</item>
+    <item type="id" name="setting_no_pwd_tips2">false</item>
+    <item type="id" name="setting_channel_tip2">false</item>
+    <item type="id" name="setting_channel_group">false</item>
+    <item type="id" name="setting_channel_tip4">false</item>
+    <item type="id" name="setting_sub_channel_group">false</item>
+    <item type="id" name="setting_btn_point">false</item>
+    <item type="id" name="setting_channel_tip3">false</item>
+    <item type="id" name="setting_btn_autopay">false</item>
+    <item type="id" name="setting_input_password">false</item>
+    <item type="id" name="titleTip">false</item>
+    <item type="id" name="close_pwd_input">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="ensure">false</item>
+    <item type="id" name="parentPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="entry_view">false</item>
+    <item type="id" name="entry_title">false</item>
+    <item type="id" name="entry">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="pwdEt1">false</item>
+    <item type="id" name="pwdEt2">false</item>
+    <item type="id" name="pwdEt3">false</item>
+    <item type="id" name="pwdEt4">false</item>
+    <item type="id" name="pwdEt5">false</item>
+    <item type="id" name="pwdEt6">false</item>
+    <item type="id" name="checkCodeTip">false</item>
+    <item type="id" name="checkCodeSendBox">false</item>
+    <item type="id" name="submitSmsCode">false</item>
+    <item type="id" name="tipLinearLayout">false</item>
+    <item type="id" name="numberInput">false</item>
+    <item type="id" name="checkIdBySMS">false</item>
+    <item type="id" name="left_btn">false</item>
+    <item type="id" name="center_btn">false</item>
+    <item type="id" name="right_btn">false</item>
+    <item type="id" name="assetaccountinfoitem_layout">false</item>
+    <item type="id" name="btn1">false</item>
+    <item type="id" name="btn2">false</item>
+    <item type="id" name="btn3">false</item>
+    <item type="id" name="rightCheckBox">false</item>
+    <item type="id" name="title_bar_progress">false</item>
+    <item type="id" name="login_scrollView">false</item>
+    <item type="id" name="user_defined_image">false</item>
+    <item type="id" name="userAccount">false</item>
+    <item type="id" name="mobile_pwd_input">false</item>
+    <item type="id" name="gen_pwdInput">false</item>
+    <item type="id" name="btnLogin">false</item>
+    <item type="id" name="btnRegister">false</item>
+</resources>
