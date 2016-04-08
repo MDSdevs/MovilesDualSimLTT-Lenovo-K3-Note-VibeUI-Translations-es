@@ -79,7 +79,7 @@
     <string name="com_lenovo_lsf_account_settings">Account settings</string>
     <string name="com_lenovo_lsf_login_password_error">Wrong password. If you have forgotten the password, please try retrieve password.</string>
     <string name="com_lenovo_lsf_binding_string_account">Account:</string>
-    <string name="com_lenovo_lsf_binding_another_account">&lt;u&gt;Bind other account&lt;/u&gt;</string>
+    <string name="com_lenovo_lsf_binding_another_account"><u>Bind other account</u></string>
     <string name="com_lenovo_lsf_account_binding_welcome">Welcome.</string>
     <string name="com_lenovo_lsf_account_binding_description">Bind %1$s account with the following Lenovo ID</string>
     <string name="com_lenovo_lsf_account_binding_exists_account_description">"We've detect that the email address you've entered in %1$s account has registered a Lenovo account. Please enter the password to bind them."</string>
@@ -110,7 +110,7 @@
     <string name="com_lenovo_lsf_get_appkey_progress">Obtaining third-party appkey</string>
     <string name="com_lenovo_lsf_get_appkey_error">Failed to obtain third-party appkey</string>
     <string name="com_lenovo_lsf_third_token_time_out">Token has expired</string>
-    <string name="com_lenovo_lsf_choose_location_title"></string>
+    <string name="com_lenovo_lsf_choose_location_title" />
     <string name="com_lenovo_lsf_bind_third">Bind social-networking account</string>
     <string name="com_lenovo_lsf_webview_error_text1">Not connected to Internet</string>
     <string name="com_lenovo_lsf_webview_error_text2">Please check your network connection</string>
@@ -449,7 +449,7 @@
     <string name="com_lenovo_lsf_feed_has_commit">Your feedback has been submitted</string>
     <string name="com_lenovo_lsf_feedback_title">Feedback</string>
     <string name="com_lenovo_lsf_feedback">Please enter your feedback</string>
-    <string name="com_lenovo_lsf_feedback_factory">&lt;Data&gt;&lt;font color=#0000ff&gt;Download the latest version of LeFactory&lt;/font&gt; and communicate with our team of developers directly! &lt;/Data&gt;</string>
+    <string name="com_lenovo_lsf_feedback_factory"><Data>&lt;font color=#0000ff>Download the latest version of LeFactory&lt;/font> and communicate with our team of developers directly! </Data></string>
     <string name="com_lenovo_lsf_msg_title">Sending SMS</string>
     <string name="com_lenovo_lsf_msg_content">Sending SMS if continue，do you want to do that?</string>
     <string name="com_lenovo_lsf_no_such_permission">No such permission</string>
@@ -498,7 +498,7 @@
     <string name="com_lenovo_pay_dlg_tip_title_text">提示</string>
     <string name="com_lenovo_pay_title_account_text">帐号:</string>
     <string name="com_lenovo_pay_dlg_change_text">快速切换</string>
-    <string name="com_lenovo_pay_account_warning_tip">您当前游戏登录的帐号： &lt;Font color=\"#4c96e0\"&gt;%1$s,&lt;/Font&gt;与当前手机登录的联想帐号不一致，请在帐号设置中切换帐号，再进行充值。</string>
+    <string name="com_lenovo_pay_account_warning_tip">您当前游戏登录的帐号： &lt;Font color=\"#4c96e0\">%1$s,&lt;/Font>与当前手机登录的联想帐号不一致，请在帐号设置中切换帐号，再进行充值。</string>
     <string name="com_lenovo_pay_update_tip_text">您的联想帐号版本需要更新。</string>
     <string name="com_lenovo_pay_zuk_update_tip_text">您的ZUK帐号版本需要更新。</string>
     <string name="com_lenovo_pay_update_btn_text">更新</string>
@@ -562,7 +562,7 @@
     <string name="permdesc_downloadWithoutNotification">Allows the app to download files through the download manager without any notification being shown to the user</string>
     <string name="permlab_accessAllDownloads">Access all system downloads</string>
     <string name="permdesc_accessAllDownloads">Allows the app to view and modify all downloads initiated by any app on the system</string>
-    <string name="download_unknown_title">&lt;Untitled&gt;</string>
+    <string name="download_unknown_title">&lt;Untitled></string>
     <string name="notification_filename_separator">", "</string>
     <string name="notification_filename_extras">" …"</string>
     <string name="notification_download_complete">Download complete</string>
@@ -584,7 +584,7 @@
     <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
     <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
     <string name="no_downloads">No downloads</string>
-    <string name="missing_title">&lt;Unknown&gt;</string>
+    <string name="missing_title">&lt;Unknown></string>
     <string name="button_sort_by_size">Sort by size</string>
     <string name="button_sort_by_date">Sort by date</string>
     <string name="download_queued">Queued</string>
@@ -1328,7 +1328,7 @@
     <string name="designer_station_list_check_more">View details</string>
     <string name="text_contains_illegal">You have entered unrecognized characters. Please try again</string>
     <string name="ring_setdialog_title">Set%1$s as</string>
-    <string name="empty"></string>
+    <string name="empty" />
     <string name="ring_downloaded_tenthousand">%1$s 万</string>
     <string name="ring_downloaded_hundredmillion">%1$s 亿</string>
     <string name="ring_buy_setringtone">设置彩铃</string>

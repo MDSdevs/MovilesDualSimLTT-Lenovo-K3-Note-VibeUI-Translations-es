@@ -6,18 +6,18 @@
         <item>E</item>
         <item>SE</item>
         <item>S</item>
-        <item>SO</item>
-        <item>O</item>
-        <item>NO</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
     </string-array>
     <string-array name="maps_full_compass_directions">
-        <item>norte</item>
-        <item>noreste</item>
-        <item>este</item>
-        <item>sureste</item>
-        <item>sur</item>
-        <item>suroeste</item>
-        <item>oeste</item>
-        <item>noroeste</item>
+        <item>north</item>
+        <item>northeast</item>
+        <item>east</item>
+        <item>southeast</item>
+        <item>south</item>
+        <item>southwest</item>
+        <item>west</item>
+        <item>northwest</item>
     </string-array>
 </resources>

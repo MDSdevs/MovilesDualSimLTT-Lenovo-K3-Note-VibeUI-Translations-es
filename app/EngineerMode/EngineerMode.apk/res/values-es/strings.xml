@@ -179,7 +179,7 @@ Are you sure to allow mobile data service preferred?"</string>
     <string name="ChargeBattery">ChargeBattery</string>
     <string name="pmu_btn_get">Get</string>
     <string name="pmu_btn_set">Set</string>
-    <string name="address_text">Address[Hex input:Fz0xxxxx]-&gt; [z00xxxxx]</string>
+    <string name="address_text">Address[Hex input:Fz0xxxxx]-> [z00xxxxx]</string>
     <string name="address6575_text">Address[Hex 00-FF]</string>
     <string name="address6589_text">Address[Hex 0000-FFFF]</string>
     <string name="warning_text">WARNING: Wrong set may cause system error.</string>
@@ -188,7 +188,7 @@ Are you sure to allow mobile data service preferred?"</string>
     <string name="value6589_text">Value[Hex 0000-FFFF]</string>
     <string name="pmu_info_text">PMU Info</string>
     <string name="pmu_reg">PMU Register</string>
-    <string name="battery_charge_info_text"></string>
+    <string name="battery_charge_info_text" />
     <string name="IO">IO</string>
     <string name="EINT">EINT</string>
     <string name="GPIO">GPIO</string>
@@ -290,7 +290,7 @@ Are you sure to allow mobile data service preferred?"</string>
     <string name="hqa_cpustress_toast_not_force">Not force test mode</string>
     <string name="hqa_cpustress_on">On</string>
     <string name="hqa_cpustress_off">Off</string>
-    <string name="hqa_cpustress_result"></string>
+    <string name="hqa_cpustress_result" />
     <string name="hqa_cpustress_result_no_test">---</string>
     <string name="hqa_cpustress_result_pass">PASS</string>
     <string name="hqa_cpustress_result_fail">FAIL</string>
@@ -574,7 +574,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="wifi_toast_select_error">item select error</string>
     <string name="wifi_toast_packet_error">Do not accept packet count = 0, unlimited on Android</string>
     <string name="wifi_ok">OK</string>
-    <string name="wifi_empty"></string>
+    <string name="wifi_empty" />
     <string name="wifi_zero">0</string>
     <string name="wifi_tx">WiFi_Tx</string>
     <string name="wifi_rx">WiFi_Rx</string>
@@ -594,7 +594,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="wifi_rate_text">Rate:</string>
     <string name="wifi_mode_text">Mode:</string>
     <string name="wifi_xtaltrim_text">Xtal Trim:</string>
-    <string name="wifi_xtaltrim_edit"></string>
+    <string name="wifi_xtaltrim_edit" />
     <string name="wifi_xtaltrim_read">Read</string>
     <string name="wifi_xtaltrim_write">Write</string>
     <string name="wifi_alc">ALC Function for Normal Packet Tx/Rx</string>
@@ -610,18 +610,18 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="wifi_per_content">100</string>
     <string name="wifi_wordaccess_text">WORD Access:</string>
     <string name="wifi_addr_text">addr(h,byte):</string>
-    <string name="wifi_addr_content"></string>
+    <string name="wifi_addr_content" />
     <string name="wifi_value_text">value(h):</string>
-    <string name="wifi_value_content"></string>
+    <string name="wifi_value_content" />
     <string name="wifi_read_word">Read</string>
     <string name="wifi_write_word">Write</string>
     <string name="wifi_stringaccess_text">Byte String Access:</string>
     <string name="wifi_addr_text_string">addr(h,byte):</string>
-    <string name="wifi_addr_content_string"></string>
+    <string name="wifi_addr_content_string" />
     <string name="wifi_length_text_string">length(byte):</string>
-    <string name="wifi_length_content_string"></string>
+    <string name="wifi_length_content_string" />
     <string name="wifi_value_text_string">value(h):</string>
-    <string name="wifi_value_content_string"></string>
+    <string name="wifi_value_content_string" />
     <string name="wifi_savebtn">NVRAM Save As File</string>
     <string name="wifi_burnbtn">Burn From File</string>
     <string name="wifi_readallbtn">Read All</string>
@@ -644,7 +644,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="wifi_dpd_import">import DPD parameters from file</string>
     <string name="wifi_dpd_read">read DPD parameters</string>
     <string name="wifi_dpd_save">save DPD parameters to file</string>
-    <string name="wifi_dpd_info"></string>
+    <string name="wifi_dpd_info" />
     <string name="wifi_wfa_enabler">Enable WFA test UI</string>
     <string name="wifi_ctia_enabler">Enable CTIA test UI</string>
     <string name="wifi_ap_wps2_support_enabler">Enable WPS2 test to remove WPA security in Wi-Fi hotspot</string>
@@ -681,7 +681,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="ctia_flag">SW Flags</string>
     <string name="ctia_interval">Period of Counter log(sec)</string>
     <string name="ctia_id">ID</string>
-    <string name="ctia_value"></string>
+    <string name="ctia_value" />
     <string name="ctia_label">0x</string>
     <string name="ctia_default_val">0</string>
     <string name="ctia_btn_get">GET</string>
@@ -840,7 +840,7 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="StrFrequency">Tx channel:</string>
     <string name="StrPocketType">Pocket Type:</string>
     <string name="StrPocketLength">Pocket Length:</string>
-    <string name="emptyStr"></string>
+    <string name="emptyStr" />
     <string name="BTTestMode_edit">7</string>
     <string name="BTTestMode_edit_Text">Power Level: [0, 7]</string>
     <string name="RxPattern">Rx Pattern:</string>
@@ -855,8 +855,8 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="RxStop">Stop</string>
     <string name="RxSetPwr">Set</string>
     <string name="RxAccessCode">Access Code</string>
-    <string name="strTestMode">&lt;b&gt;Enable test mode&lt;/b&gt;</string>
-    <string name="SSPDebugMode">&lt;b&gt;Enable SSP debug mode&lt;/b&gt;</string>
+    <string name="strTestMode"><b>Enable test mode</b></string>
+    <string name="SSPDebugMode"><b>Enable SSP debug mode</b></string>
     <string name="BtDebugFeatureTitle">BT Debug Feature</string>
     <string name="BtDebugFeature">Enable BT debug feature</string>
     <string name="menu_done">Done</string>
@@ -873,10 +873,10 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="BT_ble_test_mode_Title">BLE Test Mode</string>
     <string name="BT_ble_test_channnel">CH</string>
     <string name="BLETestMode">BLE TestMode:</string>
-    <string name="BLETxRx"></string>
+    <string name="BLETxRx" />
     <string name="BLETestModeTx">Tx Test</string>
     <string name="BLETestModeRx">Rx Test</string>
-    <string name="BLEHoppingSingle"></string>
+    <string name="BLEHoppingSingle" />
     <string name="BLEHopping">Hopping</string>
     <string name="BLESingle">Single</string>
     <string name="BLEChannel">Channel:</string>
@@ -939,10 +939,10 @@ Start Preview item to open the camera and start camera preview, in the preview p
     <string name="desense_freqhopping_hint_time">Delta Time</string>
     <string name="desense_freqhopping_hint_upper">Upper Limit</string>
     <string name="desense_freqhopping_hint_down">Down Limit</string>
-    <string name="desense_mempll_200to266">200-&gt;266</string>
-    <string name="desense_mempll_266to200">266-&gt;200</string>
-    <string name="desense_mempll_266to333">266-&gt;333</string>
-    <string name="desense_mempll_333to266">333-&gt;266</string>
+    <string name="desense_mempll_200to266">200->266</string>
+    <string name="desense_mempll_266to200">266->200</string>
+    <string name="desense_mempll_266to333">266->333</string>
+    <string name="desense_mempll_333to266">333->266</string>
     <string name="desense_freqhopping_notsupport">Not support Frequency Hopping Setting</string>
     <string name="desense_freqhopping_set">Frequency Hopping set</string>
     <string name="desense_freqhopping_geterror">Get Frequency Hopping message error</string>
@@ -1090,7 +1090,7 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="fd_text_send">Send FD</string>
     <string name="fd_text_config_fd">Config FD</string>
     <string name="fd_text_unit">0.1s</string>
-    <string name="fd_text_unit_ap">1s (&gt;5s)</string>
+    <string name="fd_text_unit_ap">1s (>5s)</string>
     <string name="TVOut">TV Out Chinese Test</string>
     <string name="tv_system_title">TV system</string>
     <string name="TVOutEntry">TV Out</string>
@@ -1635,7 +1635,7 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="NFC_SoftwareStack_Scan_Read_PageII">Page II</string>
     <string name="NFC_SoftwareStack_Scan_Read_PageIII">Page III</string>
     <string name="NFC_SoftwareStack_Scan_Read_PageIV">Page IV</string>
-    <string name="NFC_SoftwareStack_Scan_PageX">Page &gt;</string>
+    <string name="NFC_SoftwareStack_Scan_PageX">Page ></string>
     <string name="NFC_SoftwareStack_Scan_Read_SectorInfo_Text">Sector Info</string>
     <string name="NFC_SoftwareStack_Scan_Read_SectorNo">Sector:</string>
     <string name="NFC_SoftwareStack_Scan_Read_BlockNo">Block:</string>
@@ -1746,7 +1746,7 @@ System may behave unpredictably after you set wrong value"</string>
     <string name="dcm_text_set">Set</string>
     <string name="dcm_text_dump_regs">Dump Regs</string>
     <string name="dcm_text_help">Help/?</string>
-    <string name="dcm_lpm_ref_clk_note">Note: 104M -&gt; Max 20.64s</string>
+    <string name="dcm_lpm_ref_clk_note">Note: 104M -> Max 20.64s</string>
     <string name="dcm_lpm_hint_good_dur">Good Dur</string>
     <string name="dcm_lpm_start">Start</string>
     <string name="dcm_lpm_stop">Stop</string>
@@ -1936,7 +1936,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
     <string name="cw_test_dialog_error">Error</string>
     <string name="cw_test_dialog_error_message">Please open GPS provider</string>
     <string name="cw_test_times_tx">Test times</string>
-    <string name="cw_test_interval_tx">Test interval(&gt;=3s)</string>
+    <string name="cw_test_interval_tx">Test interval(>=3s)</string>
     <string name="cw_test_cur_times_tx">Current times</string>
     <string name="cw_test_max_cnr">Max CNR=</string>
     <string name="cw_test_min_cnr">Min CNR=</string>
@@ -1960,7 +1960,7 @@ NOTE: Donnot cover P-Sensor after button clicked."</string>
     <string name="lte_wait_set">Send AT Command</string>
     <string name="lte_wait_get">Query Parameters</string>
     <string name="lte_error_set_invalid_value">Error: Invalid value</string>
-    <string name="lte_error_set_invalid_timer">Error: value must &gt;= 100</string>
+    <string name="lte_error_set_invalid_timer">Error: value must >= 100</string>
     <string name="lte_error_set_invalid_search_timer">Error: value cannot be 0</string>
     <string name="lte_error_rsrp_rsrq">Error: RSRP and RSRQ cannot both be 0</string>
     <string name="lte_error_get_invalid_value">Error: Get invalid data</string>

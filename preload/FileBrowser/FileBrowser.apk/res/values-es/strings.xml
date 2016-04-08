@@ -72,7 +72,7 @@
     <string name="com_lenovo_lsf_account_settings">Account settings</string>
     <string name="com_lenovo_lsf_login_password_error">Wrong password. If you have forgotten the password, please try retrieve password.</string>
     <string name="com_lenovo_lsf_binding_string_account">Account:</string>
-    <string name="com_lenovo_lsf_binding_another_account">&lt;u&gt;Bind other account&lt;/u&gt;</string>
+    <string name="com_lenovo_lsf_binding_another_account"><u>Bind other account</u></string>
     <string name="com_lenovo_lsf_account_binding_welcome">Welcome.</string>
     <string name="com_lenovo_lsf_account_binding_description">Bind %1$s account with the following Lenovo ID</string>
     <string name="com_lenovo_lsf_account_binding_exists_account_description">"We've detect that the email address you've entered in %1$s account has registered a Lenovo account. Please enter the password to bind them."</string>
@@ -103,7 +103,7 @@
     <string name="com_lenovo_lsf_get_appkey_progress">Obtaining third-party appkey</string>
     <string name="com_lenovo_lsf_get_appkey_error">Failed to obtain third-party appkey</string>
     <string name="com_lenovo_lsf_third_token_time_out">Token has expired</string>
-    <string name="com_lenovo_lsf_choose_location_title"></string>
+    <string name="com_lenovo_lsf_choose_location_title" />
     <string name="com_lenovo_lsf_bind_third">Bind social-networking account</string>
     <string name="com_lenovo_lsf_webview_error_text1">Not connected to Internet</string>
     <string name="com_lenovo_lsf_webview_error_text2">Please check your network connection</string>

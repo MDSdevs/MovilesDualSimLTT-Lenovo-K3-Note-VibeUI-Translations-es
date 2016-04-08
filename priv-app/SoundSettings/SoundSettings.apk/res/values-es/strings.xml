@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="additional_system_update"></string>
-    <string name="additional_system_update_menu"></string>
+    <string name="additional_system_update" />
+    <string name="additional_system_update_menu" />
     <string name="app_notifications_title">app_notifications</string>
     <string name="app_notification_block_title">Block</string>
     <string name="app_notification_block_summary">Never show notifications from this app</string>
@@ -13,7 +13,7 @@
     <string name="no">No</string>
     <string name="silent_mode_title">Silent mode</string>
     <string name="ringtone_title">Ringtone</string>
-    <string name="ringtone_summary"></string>
+    <string name="ringtone_summary" />
     <string name="all_volume_title">Volume</string>
     <string name="musicfx_title">Music effects</string>
     <string name="ring_volume_title">Volume</string>
@@ -30,7 +30,7 @@
     <string name="incoming_call_volume_title">Ringtones</string>
     <string name="notification_volume_title">Notifications</string>
     <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume as volume for notifications</string>
-    <string name="notification_sound_summary"></string>
+    <string name="notification_sound_summary" />
     <string name="notification_pulse_summary">Trackball indicator light will flicker on receipt of new notifications</string>
     <string name="notification_sound_dialog_title">Select notification ringtone</string>
     <string name="media_volume_title">Media</string>

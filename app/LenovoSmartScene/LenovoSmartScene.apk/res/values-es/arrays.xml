@@ -3,24 +3,24 @@
     <string-array name="sim_name">
         <item>SIM 1</item>
         <item>SIM 2</item>
-        <item>Cerrar</item>
+        <item>Close</item>
     </string-array>
     <string-array name="week_day">
-        <item>Domingo</item>
-        <item>Lunes</item>
-        <item>Martes</item>
-        <item>Miércoles</item>
-        <item>Jueves</item>
-        <item>Viernes</item>
-        <item>Sábado</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
     </string-array>
     <string-array name="short_week_day">
-        <item>DO</item>
-        <item>LU</item>
-        <item>MA</item>
-        <item>MI</item>
-        <item>JU</item>
-        <item>VI</item>
-        <item>SA</item>
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tues</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
     </string-array>
 </resources>

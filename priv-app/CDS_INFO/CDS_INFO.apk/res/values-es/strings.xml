@@ -223,9 +223,9 @@
 (please make GO and GC connect to the same AP first!)"</string>
     <string name="wifi_p2p_fast_connect_step0">Step(0): which role you are being?</string>
     <string name="wifi_p2p_FC_GO">GO/Receiver</string>
-    <string name="wifi_p2p_FC_GO_choosen">GO/Receiver--&gt; listen on port 55688, wlan0 IP</string>
+    <string name="wifi_p2p_FC_GO_choosen">GO/Receiver--> listen on port 55688, wlan0 IP</string>
     <string name="wifi_p2p_FC_GC">GC/Sender</string>
-    <string name="wifi_p2p_FC_GC_choosen">GC/Sender--&gt; to do Wifi Beam, input GO WLAN IP:</string>
+    <string name="wifi_p2p_FC_GC_choosen">GC/Sender--> to do Wifi Beam, input GO WLAN IP:</string>
     <string name="wifi_p2p_fast_connect_step1">Step(1): showing the connection status</string>
     <string name="wifi_p2p_FC_do">do fast connrct</string>
     <string name="wifi_p2p_FC_doing">working, please wait...</string>

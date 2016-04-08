@@ -22,7 +22,7 @@
     <string name="delete_profile_title">Remove work profile?</string>
     <string name="opening_paragraph_delete_profile_unknown_company">A work profile already exists and is managed by:</string>
     <string name="opening_paragraph_delete_profile_known_company">This work profile is managed for %s using:</string>
-    <string name="read_more_delete_profile">Before proceeding, &lt;a href="#read_this_link"&gt;read this&lt;/a&gt;.</string>
+    <string name="read_more_delete_profile">Before proceeding, <a href="#read_this_link">read this</a>.</string>
     <string name="sure_you_want_to_delete_profile">All apps and data in this profile will be deleted if you continue.</string>
     <string name="delete_profile">DELETE</string>
     <string name="cancel_delete_profile">CANCEL</string>

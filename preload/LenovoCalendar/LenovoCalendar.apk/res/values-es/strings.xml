@@ -32,7 +32,7 @@
     <string name="lenovo_about">关于</string>
     <string name="lenovo_about_update">检查升级</string>
     <string name="lenovo_about_update_now">马上升级</string>
-    <string name="lenovo_about_versoin">有版本更新&gt;&gt;</string>
+    <string name="lenovo_about_versoin">有版本更新>></string>
     <string name="lenovo_about_qqgroup">官方Q群</string>
     <string name="lenovo_about_weibo">新浪微博</string>
     <string name="lenovo_about_email">官方邮箱</string>
@@ -181,7 +181,7 @@
     <string name="choose_phone_number">选择号码</string>
     <string name="str_no_today_birth_ind">今天是个淡淡的日子！</string>
     <string name="no_birthday">你还未添加生日</string>
-    <string name="auto_import_indication_str">朋友生日不错过，赶紧去开启“设置”&gt;“自动导入联系人生日”开关，让我们及时为您提醒联系人的生日哦~</string>
+    <string name="auto_import_indication_str">朋友生日不错过，赶紧去开启“设置”>“自动导入联系人生日”开关，让我们及时为您提醒联系人的生日哦~</string>
     <string name="confirm_delete_all_birthday">删除所选生日</string>
     <string name="delete_birthday_label">删除生日</string>
     <string name="str_today_birth_indication_single">今天有%1$s位好友生日！</string>
@@ -249,7 +249,7 @@
     <string name="update_ringtime">更新响铃时间</string>
     <string name="new_share">分享</string>
     <string name="timezone_labs">时区</string>
-    <string name="str_more_timezones">更多时区 &gt;</string>
+    <string name="str_more_timezones">更多时区 ></string>
     <string name="saving">正在保存...</string>
     <string name="real_events">日程</string>
     <string name="reminderinfo_lable">提醒:</string>
@@ -263,7 +263,7 @@
     <string name="name_lunar_birthday_text">%s的农历生日</string>
     <string name="str_creditcard_title">还信用卡</string>
     <string name="no_cards">无信用卡还款提醒</string>
-    <string name="ampty_card_text">按时还款一身轻松，赶紧去开启“设置”&gt;“信用卡还款提醒”开关，您在收到还款短信后我们就会及时提醒您还款啦~</string>
+    <string name="ampty_card_text">按时还款一身轻松，赶紧去开启“设置”>“信用卡还款提醒”开关，您在收到还款短信后我们就会及时提醒您还款啦~</string>
     <string name="reminders">提醒</string>
     <string name="alarm_time">提醒时间：</string>
     <string name="alarm_count">提醒次数：</string>
@@ -307,7 +307,7 @@
     <string name="postcard_download_failed">模板下载失败</string>
     <string name="postcard_download_title">模板下载中</string>
     <string name="postcard_recommend_title">热门推荐</string>
-    <string name="postcard_list_item_more">更多&gt;&gt;</string>
+    <string name="postcard_list_item_more">更多>></string>
     <string name="postcard_list_item_there_ara">还有</string>
     <string name="postcard_list_item_days">天</string>
     <string name="createcard">正在生成卡片...</string>
@@ -445,7 +445,7 @@
     <string name="widget_view_more">VIEW MORE...</string>
     <string name="lemenubutton_title">菜单</string>
     <string name="no_titleyi_label">诸事皆宜</string>
-    <string name="no_titleji_label"></string>
+    <string name="no_titleji_label" />
     <string name="sms_checkiscredit_string1">还款</string>
     <string name="sms_checkiscredit_string2">应还</string>
     <string name="sms_checkiscredit_string3">还款日</string>
@@ -873,7 +873,7 @@
     <string name="day_view_new_event_hint">+ New event</string>
     <string name="template_announce_item_index">Event %1$s of %2$s.</string>
     <string name="acessibility_selected_marker_description">Selected event</string>
-    <string name="do_not_check">Do NOT check -&gt;</string>
+    <string name="do_not_check">Do NOT check -></string>
     <string name="recurrence_dialog_title">Repeat</string>
     <string name="recurrence_dialog_title_never">Never repeats</string>
     <string name="recurrence_month_pattern_by_day">on the same day each month</string>
@@ -882,7 +882,7 @@
     <string name="recurrence_end_date">Until %s</string>
     <string name="recurrence_end_count_label">For a number of events</string>
     <string name="acessibility_recurrence_choose_end_date_description">change end date</string>
-    <string name="notification_sender_id"></string>
+    <string name="notification_sender_id" />
     <string name="SUS_MSG_FAIL_NOWLANCONNECTED">请打开WLAN!</string>
     <string name="SUS_MSG_LATESTVERSION">已是最新版本~</string>
     <string name="SUS_MSG_NOTFOUND">没有找到可更新的版本!</string>

@@ -69,7 +69,7 @@
     <string name="com_lenovo_lsf_account_settings">Account settings</string>
     <string name="com_lenovo_lsf_login_password_error">Wrong password. If you have forgotten the password, please try retrieve password.</string>
     <string name="com_lenovo_lsf_binding_string_account">Account:</string>
-    <string name="com_lenovo_lsf_binding_another_account">&lt;u&gt;Bind other account&lt;/u&gt;</string>
+    <string name="com_lenovo_lsf_binding_another_account"><u>Bind other account</u></string>
     <string name="com_lenovo_lsf_account_binding_welcome">Welcome.</string>
     <string name="com_lenovo_lsf_account_binding_description">Bind %1$s account with the following Lenovo ID</string>
     <string name="com_lenovo_lsf_account_binding_exists_account_description">"We've detect that the email address you've entered in %1$s account has registered a Lenovo account. Please enter the password to bind them."</string>
@@ -100,7 +100,7 @@
     <string name="com_lenovo_lsf_get_appkey_progress">Obtaining third-party appkey</string>
     <string name="com_lenovo_lsf_get_appkey_error">Failed to obtain third-party appkey</string>
     <string name="com_lenovo_lsf_third_token_time_out">Token has expired</string>
-    <string name="com_lenovo_lsf_choose_location_title"></string>
+    <string name="com_lenovo_lsf_choose_location_title" />
     <string name="com_lenovo_lsf_bind_third">Bind social-networking account</string>
     <string name="com_lenovo_lsf_webview_error_text1">Not connected to Internet</string>
     <string name="com_lenovo_lsf_webview_error_text2">Please check your network connection</string>
@@ -437,7 +437,7 @@
     <string name="com_lenovo_lsf_feed_has_commit">Your feedback has been submitted</string>
     <string name="com_lenovo_lsf_feedback_title">Feedback</string>
     <string name="com_lenovo_lsf_feedback">Please enter your feedback</string>
-    <string name="com_lenovo_lsf_feedback_factory">&lt;Data&gt;&lt;font color=#0000ff&gt;Download the latest version of LeFactory&lt;/font&gt; and communicate with our team of developers directly! &lt;/Data&gt;</string>
+    <string name="com_lenovo_lsf_feedback_factory"><Data>&lt;font color=#0000ff>Download the latest version of LeFactory&lt;/font> and communicate with our team of developers directly! </Data></string>
     <string name="com_lenovo_lsf_msg_title">Sending SMS</string>
     <string name="com_lenovo_lsf_msg_content">Sending SMS if continue，do you want to do that?</string>
     <string name="com_lenovo_lsf_lenovo_service">Lenovo Service</string>
@@ -467,10 +467,10 @@
     <string name="com_lenovo_lsf_string_month">M</string>
     <string name="com_lenovo_lsf_string_day">D</string>
     <string name="com_lenovo_lsf_no_such_permission">No such permission</string>
-    <string name="com_lenovo_lsf_no_such_permission_sms">No SMS permission,please go to Settings-&gt;“App manager”-&gt;“My Account”-&gt;“Permission management” to open the permission</string>
-    <string name="com_lenovo_lsf_no_such_permission_camera">No camera permission,please go to Settings-&gt;“App manager”-&gt;“My Account”-&gt;“Permission management” to open the permission</string>
-    <string name="com_lenovo_lsf_no_such_permission_phone">No phone permission,please go to Settings-&gt;“App manager”-&gt;“My Account”-&gt;“Permission management” to open the permission</string>
-    <string name="com_lenovo_lsf_no_such_permission_location">No location permission,please go to Settings-&gt;“App manager”-&gt;“My Account”-&gt;“Permission management” to open the permission</string>
+    <string name="com_lenovo_lsf_no_such_permission_sms">No SMS permission,please go to Settings->“App manager”->“My Account”->“Permission management” to open the permission</string>
+    <string name="com_lenovo_lsf_no_such_permission_camera">No camera permission,please go to Settings->“App manager”->“My Account”->“Permission management” to open the permission</string>
+    <string name="com_lenovo_lsf_no_such_permission_phone">No phone permission,please go to Settings->“App manager”->“My Account”->“Permission management” to open the permission</string>
+    <string name="com_lenovo_lsf_no_such_permission_location">No location permission,please go to Settings->“App manager”->“My Account”->“Permission management” to open the permission</string>
     <string name="com_lenovo_lsf_device_management">Device Management</string>
     <string name="com_lenovo_lsf_network_blocked">"Network request was blocked by safecenter, app can't continue."</string>
     <string name="com_lenovo_lsf_phone_area_code">+86</string>
@@ -503,7 +503,7 @@
     <string name="unlock_parse_tgt_error">Error when parsing server returns tgt</string>
     <string name="boot_regist_login_error">We automatically for you registered LenovoID failure, please click here to register manually.</string>
     <string name="boot_regist_login_notification_msg">You have logged LenovoID.</string>
-    <string name="boot_wizard_tips">&lt;Data&gt;SMS,Contacts,Photos……Lenovo &lt;font color=#33b5e5&gt;Cloud Services &lt;/font&gt;help you &lt;font color=#33b5e5&gt;backup.&lt;/font&gt;&lt;/Data&gt;</string>
+    <string name="boot_wizard_tips"><Data>SMS,Contacts,Photos……Lenovo &lt;font color=#33b5e5>Cloud Services &lt;/font>help you &lt;font color=#33b5e5>backup.&lt;/font></Data></string>
     <string name="boot_wizard_registerbythis">Register via phone number</string>
     <string name="boot_wizard_iwantregister">Register</string>
     <string name="boot_wizard_login_email">Email Log in</string>
@@ -592,7 +592,7 @@
     <string name="pay_xlistview_header_last_time">上次更新时间：</string>
     <string name="pay_xlistview_footer_hint_normal">查看更多</string>
     <string name="pay_xlistview_footer_hint_ready">松开载入更多</string>
-    <string name="pay_traderecord_detail_text">订单详情 &gt;</string>
+    <string name="pay_traderecord_detail_text">订单详情 ></string>
     <string name="pay_traderecord_detail_productname_text">商品名称:</string>
     <string name="pay_traderecord_detail_productvalue_text">商品价值：</string>
     <string name="pay_traderecord_detail_tradestatus_text">交易状态：</string>
@@ -732,7 +732,7 @@
     <string name="string_logout_device">Delete device</string>
     <string name="string_logout_device_tips">"Current account on that device will need to re-login in order to access Lenovo's personal cloud after been deleted."</string>
     <string name="string_device_delete_tips">"Verify LenovoID's password"</string>
-    <string name="string_device_delete_how_to_find_password">If password forgot, can find it via “account setting &gt; modify password”.</string>
+    <string name="string_device_delete_how_to_find_password">If password forgot, can find it via “account setting > modify password”.</string>
     <string name="string_logouting_device">Deleting device...</string>
     <string name="permission_description">You need this permission to visit Lenovoid app.</string>
     <string name="SUS_MSG_FAIL_NOWLANCONNECTED">Please open the WLAN!</string>

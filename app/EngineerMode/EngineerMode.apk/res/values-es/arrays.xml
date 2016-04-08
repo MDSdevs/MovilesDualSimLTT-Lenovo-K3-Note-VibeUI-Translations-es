@@ -797,6 +797,10 @@
         <item>GMSK</item>
         <item>EDGE</item>
     </string-array>
+    <integer-array name="rf_desense_tx_test_gsm_modulation_values">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
     <string-array name="rf_desense_tx_test_gsm_band">
         <item>GSM 850</item>
         <item>P-GSM 900</item>
@@ -985,6 +989,10 @@
         <item>1X</item>
         <item>EVDO</item>
     </string-array>
+    <integer-array name="rf_desense_tx_test_cdma_modulation_values">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
     <string-array name="rf_desense_tx_test_cdma_band">
         <item>Band 0(North American Celluar Band)</item>
         <item>Band 1(North American PCS band)</item>
@@ -1097,6 +1105,16 @@ HSPA+ on"</item>
         <item>measured LTE RSRQ threshold (0~34):</item>
         <item>current LTE RSRQ minimal (0~34):</item>
     </string-array>
+    <integer-array name="lte_threshold_max">
+        <item>63</item>
+        <item>63</item>
+        <item>96</item>
+        <item>96</item>
+        <item>97</item>
+        <item>97</item>
+        <item>34</item>
+        <item>34</item>
+    </integer-array>
     <string-array name="lte_timer">
         <item>T1:</item>
         <item>T2:</item>
@@ -1392,30 +1410,12 @@ HSPA+ on"</item>
         <item>@string/usb_mode_bypass_ets</item>
         <item>@string/usb_mode_bypass_modem</item>
     </string-array>
-    <string-array name="c2k_ir_integrity_off">
-        <item>disable integrity check OFF</item>
-        <item>disable integrity check ON</item>
-    </string-array>
-    <integer-array name="rf_desense_tx_test_gsm_modulation_values">
-        <item>0</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="rf_desense_tx_test_cdma_modulation_values">
-        <item>0</item>
-        <item>1</item>
-    </integer-array>
-    <integer-array name="lte_threshold_max">
-        <item>63</item>
-        <item>63</item>
-        <item>96</item>
-        <item>96</item>
-        <item>97</item>
-        <item>97</item>
-        <item>34</item>
-        <item>34</item>
-    </integer-array>
     <integer-array name="bypass_codes">
         <item>8</item>
         <item>16</item>
     </integer-array>
+    <string-array name="c2k_ir_integrity_off">
+        <item>disable integrity check OFF</item>
+        <item>disable integrity check ON</item>
+    </string-array>
 </resources>

@@ -32,6 +32,10 @@
         <item>Common user</item>
         <item>Advanced user(QA)</item>
     </string-array>
+    <integer-array name="user_role_value_list">
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
     <string-array name="issue_priority_entry">
         <item>1.High</item>
         <item>2.Medium</item>
@@ -78,8 +82,4 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-    <integer-array name="user_role_value_list">
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
 </resources>

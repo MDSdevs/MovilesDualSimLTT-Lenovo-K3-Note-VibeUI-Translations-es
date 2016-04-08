@@ -45,9 +45,9 @@
     <string name="advanced_settings">Optional settings</string>
     <string name="auth_username_title">Authentication username</string>
     <string name="auth_username_summary">Username used for authentication</string>
-    <string name="default_preference_summary">&lt;Not set&gt;</string>
-    <string name="display_name_summary">&lt;Same as username&gt;</string>
-    <string name="optional_summary">&lt;Optional&gt;</string>
+    <string name="default_preference_summary">&lt;Not set></string>
+    <string name="display_name_summary">&lt;Same as username></string>
+    <string name="optional_summary">&lt;Optional></string>
     <string name="default_port">5060</string>
     <string name="default_transport">UDP</string>
     <string name="advanced_settings_show">▷ Touch to show all</string>
@@ -75,7 +75,7 @@
     <string name="dialpad_star_number">*</string>
     <string name="dialpad_pound_number">\#</string>
     <string name="dialpad_0_letters">+</string>
-    <string name="dialpad_1_letters"></string>
+    <string name="dialpad_1_letters" />
     <string name="dialpad_2_letters">ABC</string>
     <string name="dialpad_3_letters">DEF</string>
     <string name="dialpad_4_letters">GHI</string>
@@ -84,8 +84,8 @@
     <string name="dialpad_7_letters">PQRS</string>
     <string name="dialpad_8_letters">TUV</string>
     <string name="dialpad_9_letters">WXYZ</string>
-    <string name="dialpad_star_letters"></string>
-    <string name="dialpad_pound_letters"></string>
+    <string name="dialpad_star_letters" />
+    <string name="dialpad_pound_letters" />
     <string name="description_dialpad_overflow">More options</string>
     <string name="description_delete_button">backspace</string>
     <string name="description_image_button_plus">plus</string>
@@ -240,8 +240,8 @@ Please check the internet connection on your Wi-Fi router and try to connect aga
     <string name="wfc_volte_switch_title">VoLTE</string>
     <string name="ui_default_package">com.android.dialer</string>
     <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
-    <string name="carrier_settings"></string>
-    <string name="carrier_settings_menu"></string>
+    <string name="carrier_settings" />
+    <string name="carrier_settings_menu" />
     <string name="config_disable_cdma_activation_code">false</string>
     <string name="phoneAppLabel">Phone Services</string>
     <string name="emergencyDialerIconLabel">Emergency Dialer</string>
@@ -694,7 +694,7 @@ Try again or call customer service for more options."</string>
     <string name="alert_dialog_dismiss">Dismiss</string>
     <string name="voicemail_provider">Service</string>
     <string name="voicemail_settings">Setup</string>
-    <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
+    <string name="voicemail_number_not_set">&lt;Not set></string>
     <string name="other_settings">Other call settings</string>
     <string name="calling_via_template">Calling via %s</string>
     <string name="contactPhoto">contact photo</string>
@@ -718,7 +718,7 @@ Try again or call customer service for more options."</string>
     <string name="sim_description_emergency_calls">Emergency calling only</string>
     <string name="sim_description_default">SIM card, slot: %s</string>
     <string name="accessibility_settings_activity_title">Accessibility</string>
-    <string name="config_world_mode"></string>
+    <string name="config_world_mode" />
     <string name="status_hint_label_incoming_wifi_call">Incoming Wi-Fi call</string>
     <string name="status_hint_label_wifi_call">Wi-Fi call</string>
     <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>

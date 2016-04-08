@@ -17,9 +17,9 @@
     <string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
     <string name="lockpattern_retry_button_text">Retry</string>
     <string name="lockpattern_continue_button_text">Continue</string>
-    <string name="lockpattern_need_to_unlock_footer"></string>
+    <string name="lockpattern_need_to_unlock_footer" />
     <string name="lockpattern_need_to_unlock_wrong">Try again:</string>
-    <string name="lockpattern_need_to_unlock_wrong_footer"></string>
+    <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_recording_intro_header">Draw an unlock pattern</string>
     <string name="lockpattern_recording_intro_footer">Press Menu for help.</string>
     <string name="lockpattern_recording_inprogress">Release finger when done</string>

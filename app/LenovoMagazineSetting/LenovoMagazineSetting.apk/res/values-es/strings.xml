@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="nothing"></string>
-    <string name="space"></string>
+    <string name="nothing" />
+    <string name="space" />
     <string name="spacefull">　</string>
     <string name="activity_name">杂志锁屏</string>
     <string name="settings_detail">用于显示简约系列主题，支持多幅、可更换壁纸，支持时钟位置调整</string>

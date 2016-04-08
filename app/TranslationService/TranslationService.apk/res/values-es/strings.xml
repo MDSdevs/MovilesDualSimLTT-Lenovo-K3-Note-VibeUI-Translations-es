@@ -18,7 +18,7 @@
     <string name="editor_popup_menu_translate_no_suggest">No suggestions</string>
     <string name="editor_popup_menu_item_translate">Translate</string>
     <string name="editor_popup_menu_jump_to_translate_app">Launch Powerword to view translations</string>
-    <string name="editor_popup_menu_no_network_permission"></string>
+    <string name="editor_popup_menu_no_network_permission" />
     <string name="editor_translate_action_start_service">com.lenovo.component.translationservice.ACTION_START_SERVICE</string>
     <string name="selectAll">Select all</string>
     <string name="search_go">Search</string>

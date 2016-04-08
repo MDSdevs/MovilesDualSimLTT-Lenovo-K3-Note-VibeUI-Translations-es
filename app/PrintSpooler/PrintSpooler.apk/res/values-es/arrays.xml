@@ -134,6 +134,10 @@
         <item>PRC_9</item>
         <item>JIS_B5</item>
     </string-array>
+    <integer-array name="page_options_values">
+        <item>@integer/page_option_value_all</item>
+        <item>@integer/page_option_value_page_range</item>
+    </integer-array>
     <string-array name="color_mode_labels">
         <item>Black &amp; White</item>
         <item>Color</item>
@@ -147,9 +151,5 @@
         <item>Portrait</item>
         <item>Landscape</item>
     </string-array>
-    <integer-array name="page_options_values">
-        <item>@integer/page_option_value_all</item>
-        <item>@integer/page_option_value_page_range</item>
-    </integer-array>
     <item type="array" name="APKTOOL_DUMMY_0006">false</item>
 </resources>
