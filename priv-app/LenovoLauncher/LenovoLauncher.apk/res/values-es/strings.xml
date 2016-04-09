@@ -128,10 +128,10 @@
     <string name="config_folderAnimScaleString">2.5</string>
     <string name="config_folder_Launcher_alphaInOut">0.75</string>
     <string name="config_folder_low_Launcher_alphaInOut">0.95</string>
-    <string name="app_filter_class" />
+    <string name="app_filter_class"></string>
     <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-    <string name="apps_search_activity" />
+    <string name="apps_search_activity"></string>
     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
     <string name="default_search_domain">.google.com</string>
@@ -139,8 +139,8 @@
     <string name="delete_target_label">Remove</string>
     <string name="delete_target_uninstall_label">Uninstall</string>
     <string name="install_game_failed">%s install failed</string>
-    <string name="pref_default_theme">>DEFAULT THEME</string>
-    <string name="pref_switchwidget_text" />
+    <string name="pref_default_theme">&gt;DEFAULT THEME</string>
+    <string name="pref_switchwidget_text"></string>
     <string name="prefDefault_workspaceSlide">WAVE</string>
     <string name="pref_scroll_up_guesture_default_overseas">menu</string>
     <string name="pref_scroll_up_guesture_default">Positioning</string>
@@ -163,7 +163,7 @@
 Please check Preferences Network connection.
 Please make network connected."</string>
     <string name="version_update_query_version">Please wait while querying new version</string>
-    <string name="confirm_network_open">Please check the Preferences -> More settings -> Network connection, allows Lenovo Launcher to the network to obtain data？</string>
+    <string name="confirm_network_open">Please check the Preferences -&gt; More settings -&gt; Network connection, allows Lenovo Launcher to the network to obtain data？</string>
     <string name="download_app_fail">Download failed.</string>
     <string name="download_net_error">Network error. Please get online and try again.</string>
     <string name="failed_download_other_error">Download failed</string>
@@ -397,7 +397,7 @@ Please make network connected."</string>
     <string name="wallpaper_classification">Classification</string>
     <string name="theme_no_content">No content</string>
     <string name="theme_other_wallpaper">Other</string>
-    <string name="download_unknown_title">&lt;Untitled></string>
+    <string name="download_unknown_title">&lt;Untitled&gt;</string>
     <string name="notification_filename_separator">", "</string>
     <string name="notification_filename_extras">" …"</string>
     <string name="notification_download_complete">Download complete.</string>
@@ -419,7 +419,7 @@ Please make network connected."</string>
     <string name="download_title_sorted_by_date">Downloads - Sorted by date</string>
     <string name="download_title_sorted_by_size">Downloads - Sorted by size</string>
     <string name="no_downloads">No downloads.</string>
-    <string name="missing_title">&lt;Unknown></string>
+    <string name="missing_title">&lt;Unknown&gt;</string>
     <string name="button_sort_by_size">Sort by size</string>
     <string name="button_sort_by_date">Sort by date</string>
     <string name="download_queued">Queued</string>
@@ -581,7 +581,7 @@ Please make network connected."</string>
     <string name="feedback_hint">Please send us your questions and suggestions and we will work to improve (200 characters or less please)</string>
     <string name="feedback_send">Send</string>
     <string name="feedback_err_empty_message">No content, please re-enter it...</string>
-    <string name="feedback_err_network_disabled">The data traffic switch is turned off, select Desktop Settings -> More Settings -> Data Traffic Switch</string>
+    <string name="feedback_err_network_disabled">The data traffic switch is turned off, select Desktop Settings -&gt; More Settings -&gt; Data Traffic Switch</string>
     <string name="feedback_err_network_not_connected">Network connection failed, please open a connection</string>
     <string name="feedback_been_sent">Your suggestion was sent, thank you for your support!</string>
     <string name="feedback_sent_succeed">Sent. Thank you for your support!</string>
@@ -978,7 +978,7 @@ http://bbs.lenovo.com/launcher"</string>
     <string name="umeng_socialize_content_hint">说点啥…</string>
     <string name="umeng_socialize_cancel_btn_str">取消</string>
     <string name="umeng_socialize_send_btn_str">发送</string>
-    <string name="umeng_socialize_img_des" />
+    <string name="umeng_socialize_img_des"></string>
     <string name="umeng_socialize_share">分享</string>
     <string name="com_facebook_loading">Loading...</string>
 </resources>

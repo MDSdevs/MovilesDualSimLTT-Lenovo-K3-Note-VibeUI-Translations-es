@@ -25,7 +25,7 @@
     <string name="permdesc_downloadWithoutNotification">Allows the app to download files through the download manager without any notification being shown to the user.</string>
     <string name="permlab_accessAllDownloads">Access all system downloads</string>
     <string name="permdesc_accessAllDownloads">Allows the app to view and modify all downloads initiated by any app on the system.</string>
-    <string name="download_unknown_title">&lt;Untitled></string>
+    <string name="download_unknown_title">&lt;Untitled&gt;</string>
     <string name="notification_download_complete">Download complete.</string>
     <string name="notification_download_failed">Download unsuccessful.</string>
     <string name="notification_need_wifi_for_size">Download size requires Wi-Fi.</string>

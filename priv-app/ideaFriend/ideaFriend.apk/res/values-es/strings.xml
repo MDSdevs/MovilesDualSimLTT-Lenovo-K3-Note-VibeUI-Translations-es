@@ -150,7 +150,7 @@
     <string name="tip_loading">加载中...</string>
     <string name="tip_nearby_point_loading">附近网点加载中...</string>
     <string name="tip_nearby_point_not_find">没有找到相关结果！</string>
-    <string name="tip_nearby_point_refresh"><u>刷新试试</u></string>
+    <string name="tip_nearby_point_refresh">&lt;u&gt;刷新试试&lt;/u&gt;</string>
     <string name="tip_nearby_point_network_lose">对不起，网络出错了，轻触屏幕重新加载</string>
     <string name="duoqu_am">上午</string>
     <string name="duoqu_pm">下午</string>
@@ -163,16 +163,16 @@
     <string name="leac_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="leac_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="leac_more">More</string>
-    <string name="config_prohibited_phone_number_regexp" />
+    <string name="config_prohibited_phone_number_regexp"></string>
     <string name="config_export_vcard_type">default</string>
     <string name="config_import_vcard_type">default</string>
-    <string name="config_export_file_prefix" />
-    <string name="config_export_file_suffix" />
+    <string name="config_export_file_prefix"></string>
+    <string name="config_export_file_suffix"></string>
     <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_extensions_to_consider" />
-    <string name="help_url_people_main" />
-    <string name="help_url_people_add" />
-    <string name="help_url_people_edit" />
+    <string name="config_export_extensions_to_consider"></string>
+    <string name="help_url_people_main"></string>
+    <string name="help_url_people_add"></string>
+    <string name="help_url_people_edit"></string>
     <string name="app_label">Messages</string>
     <string name="mms_label">Messaging</string>
     <string name="new_message">New</string>
@@ -206,7 +206,7 @@ Attempt made: %s."</string>
     <string name="menu_forward">Forward</string>
     <string name="download">Download</string>
     <string name="downloading">Downloading</string>
-    <string name="inline_subject">&lt;Subject: %s></string>
+    <string name="inline_subject">&lt;Subject: %s&gt;</string>
     <string name="drm_protected_text">* DRM protected text *</string>
     <string name="insufficient_drm_rights">Insufficient DRM rights detected.</string>
     <string name="copy_message_text">Copy text</string>
@@ -253,7 +253,7 @@ Attempt made: %s."</string>
     <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
     <string name="forward_prefix">Fwd:</string>
     <string name="discard_message_reason">Your message will be discarded because it has no valid recipients.</string>
-    <string name="has_invalid_recipient">Invalid recipient(s): &lt;%1$s></string>
+    <string name="has_invalid_recipient">Invalid recipient(s): &lt;%1$s&gt;</string>
     <string name="invalid_destination">Invalid destination address.</string>
     <string name="service_not_activated">Service not activated on network.</string>
     <string name="service_message_not_found">Message expired or not available.</string>
@@ -596,7 +596,7 @@ Attempt made: %s."</string>
     <string name="dialerDialpadHintText">Dial to add call</string>
     <string name="callDetailsDurationFormat" formatted="false">%s mins %s secs</string>
     <string name="dialog_phone_call_prohibited_message">Call not made</string>
-    <string name="dialog_voicemail_not_ready_message">To set up voicemail, go to Menu > Settings.</string>
+    <string name="dialog_voicemail_not_ready_message">To set up voicemail, go to Menu &gt; Settings.</string>
     <string name="dialog_voicemail_airplane_mode_message">To call voicemail, first turn off Airplane mode.</string>
     <string name="contact_list_loading">Loading...</string>
     <string name="imei">IMEI</string>
@@ -1119,7 +1119,7 @@ Choose one of the following options:"</string>
     <string name="dialpad_star_number">*</string>
     <string name="dialpad_pound_number">\#</string>
     <string name="dialpad_0_letters">+</string>
-    <string name="dialpad_1_letters" />
+    <string name="dialpad_1_letters"></string>
     <string name="dialpad_2_letters">ABC</string>
     <string name="dialpad_3_letters">DEF</string>
     <string name="dialpad_4_letters">GHI</string>
@@ -1324,8 +1324,8 @@ Please open data connection or WLAN."</string>
     <string name="full_title">full</string>
     <string name="Lenovo_via_without_time_for_send">via</string>
     <string name="Lenovo_via_without_time_for_recieve">via</string>
-    <string name="Lenovo_via_without_time_for_send_ext" />
-    <string name="Lenovo_via_without_time_for_recieve_ext" />
+    <string name="Lenovo_via_without_time_for_send_ext"></string>
+    <string name="Lenovo_via_without_time_for_recieve_ext"></string>
     <string name="error_unsupported_scheme">That action is not currently supported.</string>
     <string name="wp_msg_expiration_label">Expired: %s</string>
     <string name="si_push_received_and_launch">"%s
@@ -1497,7 +1497,7 @@ WAP push message received. Launch browser?"</string>
     <string name="combine_app_name">Merge duplicate contacts</string>
     <string name="combine_auto_merge_info">Merge %1$s groups with identical contacts</string>
     <string name="combine_select_menu_str">Merge(%1$s)</string>
-    <string name="combine_view_auto_merge_info">View details >></string>
+    <string name="combine_view_auto_merge_info">View details &gt;&gt;</string>
     <string name="combine_auto_merge_title_info">Found %1$s groups with identical contacts</string>
     <string name="combine_manual_merge_info">Found %1$s group(s) with possible duplicate contacts</string>
     <string name="combine_auto_merge_title_no_info">No identical contacts found</string>
@@ -1931,11 +1931,11 @@ WAP push message received. Launch browser?"</string>
     <string name="volte_call_expand">And so on multi call</string>
     <string name="missing_required_permission">You have disabled a required permission</string>
     <string name="required_permissions_promo">Lenovo Contacts needs permission to SMS, Phone , Contacts and Storage at the same time.</string>
-    <string name="enable_permission_procedure">You can change permissions in Settings > Apps > Messaging > Permissions.</string>
-    <string name="next_with_arrow">Next ></string>
+    <string name="enable_permission_procedure">You can change permissions in Settings &gt; Apps &gt; Messaging &gt; Permissions.</string>
+    <string name="next_with_arrow">Next &gt;</string>
     <string name="next">Next</string>
     <string name="exit">Exit</string>
-    <string name="settings_with_arrow">Settings ></string>
+    <string name="settings_with_arrow">Settings &gt;</string>
     <string name="call_recorder_list_empty">No recorder</string>
     <string name="call_recorder_open_failed">There is no program can open the recording file.</string>
     <string name="combineservice_automerge_running">It is merging in background,please wait.</string>

@@ -37,7 +37,7 @@
     <string name="anti_resetpwdpanel_label">Reset password</string>
     <string name="anti_settingpanel_label">Security settings</string>
     <string name="anti_setpwdpanel_label">Set the password</string>
-    <string name="anti_forget_pwd"><u>Forget the password</u></string>
+    <string name="anti_forget_pwd">&lt;u&gt;Forget the password&lt;/u&gt;</string>
     <string name="anti_setpwdtrustpanel_label">Set security question</string>
     <string name="lock_state_close">Anti-theft protection disabled</string>
     <string name="lock_state_open">Anti-theft Enabled</string>
@@ -254,7 +254,7 @@ Click on the link below to view the map position information:
     <string name="install_text">Install</string>
     <string name="disable_text">Disable</string>
     <string name="enable_text">Enable</string>
-    <string name="enable_text_main">Enable or Install</string>
+    <string name="enable_text_main">Restore</string>
     <string name="enable_text_main_odm">Enable</string>
     <string name="clear_user_data_text">Clear data</string>
     <string name="app_factory_reset">Uninstall update</string>
@@ -272,10 +272,10 @@ Click on the link below to view the map position information:
     <string name="reset_app_preferences_title">Reset app preferences?</string>
     <string name="reset_app_preferences_desc">"This will reset all preferences for:
 
- "<li>Disabled apps</li>"
- "<li>Disabled app notifications</li>"
- "<li>Default applications for operations</li>"
- "<li>App background data restrictions</li>"
+ "&lt;li&gt;Disabled apps&lt;/li&gt;"
+ "&lt;li&gt;Disabled app notifications&lt;/li&gt;"
+ "&lt;li&gt;Default applications for operations&lt;/li&gt;"
+ "&lt;li&gt;App background data restrictions&lt;/li&gt;"
 
  You will not lose any app data."</string>
     <string name="reset_app_preferences_button">Reset apps</string>
@@ -316,7 +316,7 @@ Click on the link below to view the map position information:
     <string name="system_package">"System updates can't be installed on external media."</string>
     <string name="force_stop_dlg_title">Force stop?</string>
     <string name="force_stop_dlg_text">If you force stop an app, it may cause errors.</string>
-    <string name="move_app_failed_dlg_title" />
+    <string name="move_app_failed_dlg_title"></string>
     <string name="move_app_failed_dlg_text">Cannot move app. %1$s</string>
     <string name="app_disable_dlg_title">Disable app?</string>
     <string name="app_disable_dlg_text">If you disable an app, other apps may encounter errors.</string>
@@ -440,7 +440,7 @@ Click on the link below to view the map position information:
     <string name="reset_app_preferences_done">App preferences are reset</string>
     <string name="change_storage">Change storage</string>
     <string name="data_system">Data plan design settings</string>
-    <string name="month_data_settings">Monthly limit settings</string>
+    <string name="month_data_settings">Total traffic settings</string>
     <string name="month_data_unset">Not set</string>
     <string name="data_check">Traffic calibration settings</string>
     <string name="data_reminder_settings">Data traffic reminder settings</string>
@@ -473,14 +473,14 @@ Click on the link below to view the map position information:
     <string name="data_month_used_constance">Data(MB) used</string>
     <string name="data_month_brand_unset_reminder">No monthly limit set, please set in Settings</string>
     <string name="sim_isunready">No SIM card detected</string>
-    <string name="cali_month_used">Adjust used data for this month</string>
+    <string name="cali_month_used">The used data for monthly</string>
     <string name="month_suit_setting_summary">Set a data plan to avoid over-limit use</string>
-    <string name="month_suit_limit">Data limit</string>
+    <string name="month_suit_limit">Total traffic</string>
     <string name="month_suit_hint">Input value</string>
     <string name="month_suit_day">Day</string>
     <string name="daily_usage_remind_setting">Daily limit</string>
     <string name="daily_usage_recommend">(Recommend)</string>
-    <string name="daily_usage_custom">Custom：</string>
+    <string name="daily_usage_custom">Custom</string>
     <string name="daily_usage_off">Off</string>
     <string name="net_sim_location_set">Operator parameter settings</string>
     <string name="net_traffic_sms_query_config_set">Traffic calibration parameter settings</string>
@@ -505,7 +505,7 @@ Click on the link below to view the map position information:
     <string name="net_correct_setting_desc">Need to query operator SMS from network according to your operator parameter settings.</string>
     <string name="net_correct_config_desc">Please configure automatic calibration using flow:</string>
     <string name="net_correct_cancel">Cancel</string>
-    <string name="net_correct_setting_province">Province</string>
+    <string name="net_correct_setting_province">Region</string>
     <string name="net_correct_setting_city">City</string>
     <string name="net_correct_setting_carry">Operator</string>
     <string name="net_correct_setting_brand">Brand</string>
@@ -569,8 +569,8 @@ NOTE: The operator data may be delayed."</string>
     <string name="net_calibration_fail">Calibration failed</string>
     <string name="net_calibration_remain_data">Remaining:</string>
     <string name="net_calibration_used_data">, used:</string>
-    <string name="net_calibration_parse_error_remain_data">parse error -> residual flow:</string>
-    <string name="net_calibration_parse_error2_remain_data">parse error 2-> residual flow:</string>
+    <string name="net_calibration_parse_error_remain_data">parse error -&gt; residual flow:</string>
+    <string name="net_calibration_parse_error2_remain_data">parse error 2-&gt; residual flow:</string>
     <string name="net_correct_update_config_progress">Loading data from the clouds ......</string>
     <string name="net_correct_update_config_notice">SMS calibration instruction has been updated!</string>
     <string name="net_correct_limit_type">Operator info</string>
@@ -595,9 +595,9 @@ NOTE: The operator data may be delayed."</string>
     <string name="net_params_settings_title">Data design settings</string>
     <string name="net_loading_traffic_statistic">Loading traffic statistics…</string>
     <string name="net_sim_package_update_time">Updated:</string>
-    <string name="net_sim_package_normal_data">Normal</string>
-    <string name="net_sim_package_additional_data">Domestic</string>
-    <string name="net_sim_package_rest_data">Rest</string>
+    <string name="net_sim_package_normal_data">Normal </string>
+    <string name="net_sim_package_additional_data">Domestic </string>
+    <string name="net_sim_package_rest_data">Rest </string>
     <string name="net_sim_package_disclaimer">Uncalibrated flow of packages, package data for reference</string>
     <string name="net_sim_package_update">Update</string>
     <string name="net_sim_package_update_start">Traffic Package Updating…</string>
@@ -633,7 +633,7 @@ NOTE: The operator data may be delayed."</string>
     <string name="file_clean_size_total">Total</string>
     <string name="file_clean_daily_rubbish">Daily trash</string>
     <string name="file_clean_clean">One-key cleaning</string>
-    <string name="file_clean_update_db"><u>Update the database file</u></string>
+    <string name="file_clean_update_db">&lt;u&gt;Update the database file&lt;/u&gt;</string>
     <string name="file_clean_total_junk">Total clean</string>
     <string name="file_clean_query_db">Querying the database update</string>
     <string name="file_clean_db_update">Updating database</string>
@@ -685,13 +685,13 @@ NOTE: The operator data may be delayed."</string>
     <string name="acc_alert_perm_detail">Permission risk information</string>
     <string name="acc_suggest">Suggestion</string>
     <string name="acc_onkey_detail">One key process</string>
-    <string name="acc_user_close">More than %1$d users has been banned</string>
+    <string name="acc_user_close">More than %1$d users has been closed</string>
     <string name="acc_cost_power">Consumes more than%1$d mh in an hour</string>
     <string name="acc_system_suggest">System optimization suggestion</string>
     <string name="acc_boot_count">Start more than %1$d in an hour</string>
     <string name="acc_cost_net">Use traffic more than %1$s in an hour</string>
     <string name="acc_not_check_time">Not accelerate</string>
-    <string name="acc_suggest_deny">Suggest deny </string>
+    <string name="acc_suggest_deny">Suggest close </string>
     <string name="intercept_record">Intercepted Records</string>
     <string name="title_calllog">Prank calls</string>
     <string name="title_message">Spam messages</string>
@@ -702,7 +702,7 @@ NOTE: The operator data may be delayed."</string>
     <string name="remove_blacklist">Remove Black List</string>
     <string name="delete_title">Confirm delete?</string>
     <string name="remove_blacklist_title">Are you sure to remove from black list?</string>
-    <string name="menu_actionbar_selected_items">%s selected</string>
+    <string name="menu_actionbar_selected_items">%1$d selected</string>
     <string name="blocknumber_type_blacklist">Black list</string>
     <string name="blocknumber_type_ad">Advertising</string>
     <string name="blocknumber_type_harassment">Spam calls</string>
@@ -730,7 +730,7 @@ NOTE: The operator data may be delayed."</string>
     <string name="loading_conversations">Loading conversations</string>
     <string name="message_count_format">%1$s</string>
     <string name="restore_to_inbox">Restore to inbox</string>
-    <string name="inline_subject">&lt;Subject: %s></string>
+    <string name="inline_subject">&lt;Subject: %s&gt;</string>
     <string name="unknown_sender">Unknown sender</string>
     <string name="no_subject_view">(No subject)</string>
     <string name="message_size_label">"Message size: "</string>
@@ -835,8 +835,8 @@ NOTE: The operator data may be delayed."</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
     <string name="unlock_set_unlock_disabled_summary">Disabled by administrator, encryption policy, or credential storage</string>
     <string name="lockpattern_pattern_invalid_header">Password conflict, please reset</string>
-    <string name="lockpattern_need_to_unlock_footer" />
-    <string name="lockpattern_need_to_unlock_wrong_footer" />
+    <string name="lockpattern_need_to_unlock_footer"></string>
+    <string name="lockpattern_need_to_unlock_wrong_footer"></string>
     <string name="lockpattern_tutorial_cancel_label">Cancel</string>
     <string name="lockpattern_tutorial_continue_label">Next</string>
     <string name="notify">Notify</string>
@@ -863,7 +863,7 @@ NOTE: The operator data may be delayed."</string>
     <string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string>
     <string name="lockpassword_ok_label">OK</string>
     <string name="backup_lock_settings_picker_title">Choose backup lock</string>
-    <string name="help_url_choose_lockscreen" />
+    <string name="help_url_choose_lockscreen"></string>
     <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
     <string name="master_mode">System pattern</string>
     <string name="modify_master_pwd">Modify the system password</string>
@@ -906,7 +906,7 @@ NOTE: The operator data may be delayed."</string>
     <string name="private_mode_helper">"Private mode can help you to hide pictures, videos, contacts and apps through different lock screen. Please do not set the private password the same as the system password. Private mode will be synchronized with the factory password lock screen function. After opening into private mode, hidden contact's SMS will not be shown on the lock screen and the hidden contact's calls will also serve as a stranger. Privacy mode does not support third party application for privacy protection and malicious privacy content to crack behavior is not within our scope of protection."</string>
     <string name="private_mode_fingerprint">Use fingerprint</string>
     <string name="private_mode_fingerprint_detal">You can set and use fingerprint to enter private mode.</string>
-    <string name="private_mode_more_fingerprint">"Please set up at least 2 fingerprint
+    <string name="private_mode_more_fingerprint">"Please set up at least 2 fingerprints
 Enable this function need verify your privacy fingerprint"</string>
     <string name="private_mode_set_fingerprint_alert">Please go to the system setting to add 2 fingerprint and then enable privacy fingerprint function</string>
     <string name="private_mode_go_to_set">Go to Set</string>
@@ -1032,7 +1032,7 @@ Enable this function need verify your privacy fingerprint"</string>
     <string name="netmonitor_month_suit">Total traffic</string>
     <string name="netmonitor_calibration">Calibrate</string>
     <string name="netmonitor_calibration_busy_toast">"Can't calibrate in short term, please try later"</string>
-    <string name="netmonitor_observer">Network monitor</string>
+    <string name="netmonitor_observer">Network manager</string>
     <string name="netmonitor_no_sim">No SIM</string>
     <string name="netmonitor_no_sim_tablet">No SIM</string>
     <string name="netmonitor_settings">Traffic settings</string>
@@ -1147,15 +1147,15 @@ Enable this function need verify your privacy fingerprint"</string>
     <string name="optimization_detial_botton_msg">This application runs in the background and when there are recommendations to optimize, a popup reminder will appear.</string>
     <string name="optimization_detial_item_gps_msg_normal">Within 1 hour, GPS: %1$d time(s)</string>
     <string name="optimization_detial_item_gps_msg">Within 1 hour, GPS: %1$d time(s)</string>
-    <string name="optimization_detial_item_net_msg_normal">Within 1 hour, GPRS: %1$.2fM, WLAN: %2$.2fM</string>
-    <string name="optimization_detial_item_net_msg">Within 1 hour, GPRS: %1$.2fM, WLAN: %2$.2fM</string>
+    <string name="optimization_detial_item_net_msg_normal">Within 1 hour, GPRS: %1$.2fMB, WLAN: %2$.2fMB</string>
+    <string name="optimization_detial_item_net_msg">Within 1 hour, GPRS: %1$.2fMB, WLAN: %2$.2fMB</string>
     <string name="optimization_detial_item_power_msg_normal">"Within 1 hour, Power: About %1$dMAh 
-GPRS: %2$.2fM
-WLAN: %3$.2fM 
+GPRS: %2$.2fMB
+WLAN: %3$.2fMB 
 Sensitive Permission: %4$d time(s)"</string>
     <string name="optimization_detial_item_power_msg">"Within 1 hour, Power: About %1$dMAh。
-GPRS: %2$.2fM
-WLAN: %3$.2fM。
+GPRS: %2$.2fMB
+WLAN: %3$.2fMB。
 Sensitive Permission: %4$d time(s)"</string>
     <string name="optimization_detial_item_btn_advice">Proposed ban</string>
     <string name="optimization_detial_item_btn_ban">Banned</string>
@@ -1194,4 +1194,58 @@ Sensitive Permission: %4$d time(s)"</string>
     <string name="install_done">App installed.</string>
     <string name="install_failed">App not installed.</string>
     <string name="app_not_found_dlg_title">App not found</string>
+    <string name="leac_select_all">Select all</string>
+    <string name="leac_deselect_all">Deselect all</string>
+    <string name="app_edit">Edit</string>
+    <string name="clean_memory_done">Memory clean done</string>
+    <string name="app_restore_done">App is restored</string>
+    <string name="uninstall_app_title">Sure to uninstall the apps selected?</string>
+    <string name="uninstall_app_message">"The apps' data will also be deleted."</string>
+    <string name="installing_app">Installing…</string>
+    <string name="month_data_settings_sim1">SIM1 total traffic settings</string>
+    <string name="month_data_settings_sim2">SIM2 total traffic settings</string>
+    <string name="net_calibration_started">Calibrating, please wait</string>
+    <string name="net_calibration_failed_retry">Calibration failed, please try again</string>
+    <string name="net_params_settings_title_sim1">SIM1 data design settings</string>
+    <string name="net_params_settings_title_sim2">SIM2 data design settings</string>
+    <string name="net_using">Being used</string>
+    <string name="quota_no_settings">Quota no set</string>
+    <string name="netmonitor_observer_help">App traffic ranking and managerment</string>
+    <string name="netmonitor_settings_help">Traffic related alerts and quota settings</string>
+    <string name="sort_by_data">Sorting by mobile data</string>
+    <string name="close_all_data">Close all data connections</string>
+    <string name="close_all_wlan">Close all WLAN connections</string>
+    <string name="open_all_data">Open all data connections</string>
+    <string name="open_all_wlan">Open all WLAN connections</string>
+    <string name="already_used_x">Has been used %s</string>
+    <string name="file_scan_select_info">Scaning path:</string>
+    <string name="fileclean_total_select">Total %1$s rubbish</string>
+    <string name="file_scan_suggest_clean">Need Clean</string>
+    <string name="allow_overlay_description">This permission allows an app to display on top of other apps you’re using and may interfere with your use of the interface in other applications, or change what you think you are seeing in other applications.</string>
+    <string name="are_u_sure_to_restore">Are you sure to restore？</string>
+    <string name="delete_msg_title">Sure to delete the messages selected?</string>
+    <string name="delete_msg_message">This operation cannot be revoked.</string>
+    <string name="lockpassword_need_set_pwd_first">Please select password type first</string>
+    <string name="lockpassword_cancel_none">" "</string>
+    <string name="notification_manager_help_text">This permission allows that the application initiated message notification in the lock screen, notification bar, pop and other places.</string>
+    <string name="process_run_now">%1$s apps running</string>
+    <string name="process_memory_use">System memory remain %1$s</string>
+    <string name="system_memory_use">System storage space remain %1$s</string>
+    <string name="summary_trafficmonitor">Today has been used %1$s</string>
+    <string name="summary_anti_harass">Spam blocker and anti harass</string>
+    <string name="summary_anti_harass_no_sms">A new interceptor</string>
+    <string name="summary_file_not_clean">More than%1$s days without garbage</string>
+    <string name="summary_suggest_virus_scan">Please scan viruse now</string>
+    <string name="summary_battery_usage">Battery capacity %1$s</string>
+    <string name="summary_app_manager">App manager, unload and freeze</string>
+    <string name="summary_pure_background">The apps background of behavior management</string>
+    <string name="summary_anti_mainpanel">Anti-theft function %1$s</string>
+    <string name="summary_app_lock">Lock protection, prevent leakage of privacy</string>
+    <string name="function_enable">enable</string>
+    <string name="function_disable">disable</string>
+    <string name="netmonitor_not_set">The flow of packages is not set</string>
+    <string name="summary_clean">Storage space remain %1$s</string>
+    <string name="acc_info_good">System smooth</string>
+    <string name="acc_info_bad">System memory usage is high</string>
+    <string name="acc_info_need_clean">Please clean now</string>
 </resources>

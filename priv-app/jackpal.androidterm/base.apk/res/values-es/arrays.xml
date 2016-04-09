@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="control_keys_short_names">
-        <item>Ball</item>
+        <item>T.Ball</item>
         <item>\@</item>
-        <item>Left-Alt</item>
-        <item>Right-Alt</item>
-        <item>Vol-Up</item>
-        <item>Vol-Dn</item>
-        <item>Camera</item>
-        <item>None</item>
+        <item>Alt.Izq.</item>
+        <item>Alt.Dcha.</item>
+        <item>Vol.Subir</item>
+        <item>Vol.Bajar</item>
+        <item>Cámara</item>
+        <item>Ninguna</item>
     </string-array>
     <string-array name="entries_actionbar_preference">
-        <item>Always show action bar</item>
-        <item>Hide action bar (touch top of screen or Menu key to show)</item>
+        <item>Mostrar</item>
+        <item>Ocultar (Pulsa MENÚ para mostrarla)</item>
     </string-array>
     <string-array name="entries_backaction_preference">
-        <item>Closes all terminal windows</item>
-        <item>Closes this terminal window only</item>
-        <item>Closes activity, leaving sessions running</item>
-        <item>Sends ESC to terminal</item>
-        <item>Sends TAB to terminal</item>
+        <item>Cierra todas las ventanas</item>
+        <item>Cierra sólo la ventana actual</item>
+        <item>Sale del terminal, dejándolo en segundo plano</item>
+        <item>Envía ESC al terminal</item>
+        <item>Envía TAB al terminal</item>
     </string-array>
     <string-array name="entries_color_preference">
-        <item>Black text on white</item>
-        <item>White text on black</item>
-        <item>White text on blue</item>
-        <item>Green text on black</item>
-        <item>Amber text on black</item>
-        <item>Red text on black</item>
-        <item>Holo blue text on black</item>
+        <item>Negro en fondo blanco</item>
+        <item>Blanco en fondo negro</item>
+        <item>Blanco en fondo azul</item>
+        <item>Verde en fondo negro</item>
+        <item>Ámbar en fondo negro</item>
+        <item>Rojo en fondo negro</item>
+        <item>Azul en fondo negro</item>
         <item>Solarized Light</item>
         <item>Solarized Dark</item>
         <item>Linux Console</item>
     </string-array>
     <string-array name="entries_controlkey_preference">
-        <item>Jog ball</item>
-        <item>\@ key</item>
-        <item>Left Alt key</item>
-        <item>Right Alt key</item>
-        <item>Vol Up key</item>
-        <item>Vol Down key</item>
-        <item>Camera key</item>
-        <item>None</item>
+        <item>Track ball</item>
+        <item>Tecla @</item>
+        <item>Tecla Alt izquierda</item>
+        <item>Tecla Alt derecha</item>
+        <item>Tecla de subir volumen</item>
+        <item>Tecla de bajar volumen</item>
+        <item>Tecla de la cámara</item>
+        <item>Ninguna</item>
     </string-array>
     <string-array name="entries_cursorblink_preference">
-        <item>Non-blinking cursor</item>
-        <item>Blinking cursor</item>
+        <item>Cursor no-parpadeante</item>
+        <item>Cursor parpadeante</item>
     </string-array>
     <string-array name="entries_cursorstyle_preference">
-        <item>Rectangle</item>
-        <item>Underline</item>
-        <item>Vertical bar</item>
+        <item>Rectángulo</item>
+        <item>Subrayado</item>
+        <item>Barra vertical</item>
     </string-array>
     <string-array name="entries_fnkey_preference">
-        <item>Jog ball</item>
-        <item>\@ key</item>
-        <item>Left Alt key</item>
-        <item>Right Alt key</item>
-        <item>Vol Up key</item>
-        <item>Vol Down key</item>
-        <item>Camera key</item>
-        <item>None</item>
+        <item>Track ball</item>
+        <item>Tecla @</item>
+        <item>Tecla Alt izquierda</item>
+        <item>Tecla Alt derecha</item>
+        <item>Tecla de subir volumen</item>
+        <item>Tecla de bajar volumen</item>
+        <item>Tecla de la cámara</item>
+        <item>Ninguna</item>
     </string-array>
     <string-array name="entries_fontsize_preference">
-        <item>4 x 8 pixels</item>
+        <item>4 x 8 píxeles</item>
         <item>6 pt</item>
         <item>7 pt</item>
         <item>8 pt</item>
@@ -86,17 +86,17 @@
         <item>288 pt</item>
     </string-array>
     <string-array name="entries_ime_preference">
-        <item>Character-based</item>
-        <item>Word-based</item>
+        <item>Basada en carácteres</item>
+        <item>Basada en palabras</item>
     </string-array>
     <string-array name="entries_orientation_preference">
-        <item>Automatic</item>
-        <item>Landscape</item>
-        <item>Portrait</item>
+        <item>Automática</item>
+        <item>Horizontal</item>
+        <item>Vertical</item>
     </string-array>
     <string-array name="entries_statusbar_preference">
-        <item>Show status bar</item>
-        <item>Hide status bar</item>
+        <item>Mostrar</item>
+        <item>Ocultar</item>
     </string-array>
     <string-array name="entries_termtype_preference">
         <item>vt100</item>
@@ -194,13 +194,13 @@
         <item>0</item>
     </string-array>
     <string-array name="fn_keys_short_names">
-        <item>Ball</item>
+        <item>T.Ball</item>
         <item>\@</item>
-        <item>Left-Alt</item>
-        <item>Right-Alt</item>
-        <item>Vol-Up</item>
-        <item>Vol-Dn</item>
-        <item>Camera</item>
-        <item>None</item>
+        <item>Alt.Izq.</item>
+        <item>Alt.Dcha.</item>
+        <item>Vol.Subir</item>
+        <item>Vol.Bajar</item>
+        <item>Cámara</item>
+        <item>Ninguna</item>
     </string-array>
 </resources>

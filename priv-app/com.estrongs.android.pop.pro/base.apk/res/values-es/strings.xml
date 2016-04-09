@@ -61,7 +61,7 @@
     <string name="action_hide">Hide</string>
     <string name="action_open">Open</string>
     <string name="action_openas">Open As</string>
-    <string name="action_select">Select</string>
+    <string name="action_select">Seleccionar</string>
     <string name="action_select_all">Select All</string>
     <string name="action_select_none">Select None</string>
     <string name="action_edit">Edit</string>
@@ -179,7 +179,7 @@
     <string name="menu_shortcut">Add to desktop</string>
     <string name="create_shortcut_success">Shortcut created successfully</string>
     <string name="create_shortcut_fail">Failed to create shortcut</string>
-    <string name="app_name">ES File Explorer Pro</string>
+    <string name="app_name">ES Explorador de Archivos PRO</string>
     <string name="app_media_player">ES Media Player</string>
     <string name="app_ftp_sever">ES FTP Server</string>
     <string name="app_note_editor">ES Note Editor</string>
@@ -243,7 +243,7 @@
     <string name="refuse">Reject</string>
     <string name="receive_info_video">Video File, Could be played directly</string>
     <string name="select_device">Please select a device</string>
-    <string name="select_device_to_share">Select a device to send</string>
+    <string name="select_device_to_share">Elija un Dispositivo para enviar</string>
     <string name="file_play_notify">will share to you media file %1$s</string>
     <string name="file_recv_notify1">will send to you a folder %1$s</string>
     <string name="file_recv_notify2">will send to you %1$s</string>
@@ -528,7 +528,7 @@ Do you want to try this feature anyway?"</string>
     <string name="network_enable_ssl">Encrypted Transport</string>
     <string name="folder_empty">Empty Folder</string>
     <string name="sdcard_unmounted">SDCard unmounted</string>
-    <string name="list_empty">Add a server by New->Server</string>
+    <string name="list_empty">Add a server by New-&gt;Server</string>
     <string name="preference_cache_title">Clear cache</string>
     <string name="preference_cache_summary">Click to clear cached data (thumbnails etc.)</string>
     <string name="delete_text_success">Cached data was deleted successfully</string>
@@ -566,7 +566,7 @@ Do you want to find and install it?"</string>
  {0}"</string>
     <string name="msg_file_not_supported">The file type {0} is not supported now!</string>
     <string name="msg_file_not_start_sdcard">The output path should start with /sdcard/</string>
-    <string name="msg_file_has_spec_char">"The output path could not contain the char *  : / ? | &lt; >"</string>
+    <string name="msg_file_has_spec_char">"The output path could not contain the char *  : / ? | &lt; &gt;"</string>
     <string name="msg_operation_exception">Exception found!</string>
     <string name="dialog_extract_to">Extract selected files to</string>
     <string name="msg_counting_file_size">Please wait while counting files size</string>
@@ -582,7 +582,7 @@ Do you want to find and install it?"</string>
     <string name="video_player_play">Replay</string>
     <string name="bookmark">Bookmarks</string>
     <string name="msg_filename_is_empty">File name could not be empty</string>
-    <string name="msg_filename_has_spec_char">The file name could not contain the char * \\ / \" : ? | &lt; ></string>
+    <string name="msg_filename_has_spec_char">The file name could not contain the char * \\ / \" : ? | &lt; &gt;</string>
     <string name="module_not_find">Some modules are not found, you need them to get all features. Do you want to find and install it?</string>
     <string name="out_of_memory">Out of Memory</string>
     <string name="clear_cache_on_exit">Clear Cache on Exit</string>
@@ -919,7 +919,7 @@ Do you want to find and install it?"</string>
     <string name="preference_tools">TOOLS SETTINGS</string>
     <string name="preference_tools_app">App Manager</string>
     <string name="es_share_name">Send by LAN</string>
-    <string name="es_share_name_activity">Send by LAN</string>
+    <string name="es_share_name_activity">Enviar por LAN</string>
     <string name="progress_success">Successfully</string>
     <string name="progress_cancel">Canceled</string>
     <string name="msg_no_more_pictures">No more pictures</string>
@@ -1042,7 +1042,7 @@ Including %1$s item(s), %2$s Downloading task(s)"</string>
     <string name="owner_dialog_title">Owner</string>
     <string name="cloud_share_title">Share by cloud</string>
     <string name="action_scan">Scan</string>
-    <string name="audio_visiable_more_than_500">Only show audio files >500KB in the playlist</string>
+    <string name="audio_visiable_more_than_500">Only show audio files &gt;500KB in the playlist</string>
     <string name="select_wrong_type">Wrong file type, please select again</string>
     <string name="audio_player_song_added_editable_error">Fail to add song, playlist is not editable</string>
     <string name="apk_falsified_message">You are using an unofficial version of {0}! To ensure safety, please visit http://www.estrongs.com and download the official version</string>
@@ -1179,13 +1179,13 @@ Including %1$s item(s), %2$s Downloading task(s)"</string>
     <string name="input_document_ext">Please input document extension name</string>
     <string name="msg_document_ext_too_long">Too long document extension name, please change it</string>
     <string name="msg_document_ext_is_empty">Document extension name could not be empty</string>
-    <string name="msg_document_ext_has_spec_char">The document extension name could not contain the char * \\ / \" : ? | &lt; ></string>
+    <string name="msg_document_ext_has_spec_char">The document extension name could not contain the char * \\ / \" : ? | &lt; &gt;</string>
     <string name="install_system_confirm">Install system app, Confirm?</string>
     <string name="bt_discoverable">Bluetooth is already discoverable</string>
     <string name="usb_type_not_supported">Sorry, current OTG USB device format is not supported, ES supports FAT32 and NTFS now</string>
     <string name="preference_show_usb_prompt">USB plug-in message</string>
     <string name="preference_show_usb_prompt_summary">Show message when USB device is plugged in</string>
-    <string name="save_to_es">ES Save to...</string>
+    <string name="save_to_es">ES Guardar En</string>
     <string name="action_encrypt">Encrypt</string>
     <string name="action_decrypt">Decrypt</string>
     <string name="progress_encrypting">encrypting…</string>
@@ -1211,7 +1211,7 @@ You can delete associated folders"</string>
     <string name="permission_denied_compress_decompress">Cannot compress and decompress files in system directory on your device</string>
     <string name="recomm_item_package_name">Package Name:</string>
     <string name="recommend_update_failed">Failed to update data</string>
-    <string name="mediafire_foldername_length_warning">Folder name must be >= 3 characters</string>
+    <string name="mediafire_foldername_length_warning">Folder name must be &gt;= 3 characters</string>
     <string name="mediafire_foldername_change_ext_warning">Cannot change file extension</string>
     <string name="file_too_large_encrypt">The file(greater than 2G) is too large to encrypt</string>
     <string name="my_network">Network</string>
@@ -1331,7 +1331,7 @@ Please finish the running task and retry, or force eject."</string>
     <string name="pcs_normal_error_normaled">Formal account is created</string>
     <string name="pcs_normal_error_failed">Failed to create formal account</string>
     <string name="pcs_normal_error_divecenormalized">This device needs formal account to login</string>
-    <string name="pcs_password_format_error">Password need > 6 digits, and cannot be all numbers</string>
+    <string name="pcs_password_format_error">Password need &gt; 6 digits, and cannot be all numbers</string>
     <string name="action_cancel_share">Stop Share</string>
     <string name="set_as_default">Set as Default</string>
     <string name="sp_pcs_login_register">Please login or register before using this function</string>
@@ -1432,14 +1432,14 @@ If so, you will not get 2T capacity."</string>
     <string name="copyright">© 2009-2015, ES APP Group</string>
     <string name="url">www.estrongs.com</string>
     <string name="details_dimension_x">%1$dx%2$d</string>
-    <string name="spec_char">"*  : / ? | &lt; >"</string>
+    <string name="spec_char">"*  : / ? | &lt; &gt;"</string>
     <string name="cloud_share_make_url">......</string>
     <string name="favorite_facebook_title">Facebook</string>
     <string name="flash_air">FlashAir</string>
     <string name="pcs_register_message_address">10690195092</string>
     <string name="preference_ignore_inconsistent_sign_app">Ignore inconsistent signed App</string>
-    <string name="blank" />
-    <string name="unit_ge" />
+    <string name="blank"></string>
+    <string name="unit_ge"></string>
     <string name="crop_theme_background_title">Set background images</string>
     <string name="crop_saving">Saving images...</string>
     <string name="location_adb">Android TV</string>

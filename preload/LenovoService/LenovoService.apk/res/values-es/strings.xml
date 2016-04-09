@@ -239,12 +239,14 @@
     <string name="local_detail">显示定位详情</string>
     <string name="receiver_test_msg">"请点击“播放”开始检测。
 
-铃声由听筒发出，声音较小，点击“播放”后，请按音量+键将音量调到最大，并将您的设备"<b>贴着耳朵</b>"。
+铃声由听筒发出，声音较小，点击“播放”后，请按音量+键将音量调到最大，并将您的设备"&lt;b&gt;贴着耳朵&lt;/b&gt;"。
 
 检测过程中请勿使用耳机！"</string>
     <string name="favorable_content">恭喜！您获得%1$d元优惠券！扫描二维码可抵扣现金购物，亦可在线购买延长保修。</string>
     <string name="favorable_station">活动站点如下：</string>
-    <string name="promotion_content"><li><ul>雪碧<li>可乐</li><li>凉茶</li></ul></li></string>
+    <string name="promotion_content">&lt;li&gt;
+  &lt;ul&gt;雪碧&lt;li&gt;可乐&lt;/li&gt;&lt;li&gt;凉茶&lt;/li&gt;&lt;/ul&gt;
+&lt;/li&gt;</string>
     <string name="promotion_city">恭喜！您所在的城市%1$s</string>
     <string name="province_city_search_msg">城市获取中，请稍后</string>
     <string name="pay_result_tip">这个界面用于显示第三方app通过微信支付的结果</string>
@@ -361,7 +363,7 @@
     <string name="umeng_socialize_content_hint">说点啥…</string>
     <string name="umeng_socialize_cancel_btn_str">取消</string>
     <string name="umeng_socialize_send_btn_str">发送</string>
-    <string name="umeng_socialize_img_des" />
+    <string name="umeng_socialize_img_des"></string>
     <string name="umeng_socialize_share">分享</string>
     <string name="com_facebook_loading">Loading...</string>
 </resources>

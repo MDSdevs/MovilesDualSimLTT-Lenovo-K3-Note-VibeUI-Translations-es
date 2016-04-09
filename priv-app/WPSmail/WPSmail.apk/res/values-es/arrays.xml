@@ -114,17 +114,6 @@
         <item>@string/quick_3</item>
         <item>@string/quick_4</item>
     </string-array>
-    <array name="combined_view_account_colors">
-        <item>@color/combined_view_account_color_1</item>
-        <item>@color/combined_view_account_color_2</item>
-        <item>@color/combined_view_account_color_3</item>
-        <item>@color/combined_view_account_color_4</item>
-        <item>@color/combined_view_account_color_5</item>
-        <item>@color/combined_view_account_color_6</item>
-        <item>@color/combined_view_account_color_7</item>
-        <item>@color/combined_view_account_color_8</item>
-        <item>@color/combined_view_account_color_9</item>
-    </array>
     <string-array name="smtp_host_prefixes">
         <item>pop3</item>
         <item>pop</item>
@@ -273,14 +262,6 @@
         <item>@string/search_tabs_name_subject</item>
         <item>@string/search_tabs_name_all</item>
     </string-array>
-    <integer-array name="senders_with_attachment_lengths">
-        <item>25</item>
-        <item>25</item>
-    </integer-array>
-    <integer-array name="senders_lengths">
-        <item>27</item>
-        <item>27</item>
-    </integer-array>
     <string-array name="alphabet_chars">
         <item>☆</item>
         <item>A</item>
@@ -312,11 +293,6 @@
         <item>\#</item>
         <item>∅</item>
     </string-array>
-    <array name="welcome_pages">
-        <item>@layout/whats1</item>
-        <item>@layout/whats2</item>
-        <item>@layout/whats3</item>
-    </array>
     <string-array name="general_preference_text_zoom_size">
         <item>0.8</item>
         <item>0.9</item>
@@ -361,84 +337,108 @@
         <item>Best Regards</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Tiny</item>
-        <item>Small</item>
+        <item>Muy pequeño</item>
+        <item>Pequeño</item>
         <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Grande</item>
+        <item>Muy grande</item>
     </string-array>
     <string-array name="compose_modes">
-        <item>Reply</item>
-        <item>Reply to all</item>
-        <item>Forward</item>
+        <item>Responder</item>
+        <item>Responder a todos</item>
+        <item>Reenviar</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Recent</item>
-        <item>Format</item>
-        <item>Name</item>
-        <item>From</item>
-        <item>Date</item>
+        <item>Reciente</item>
+        <item>Formato</item>
+        <item>Nombre</item>
+        <item>De</item>
+        <item>Fecha</item>
     </string-array>
     <string-array name="sync_status">
-        <item>Sync succeeded</item>
-        <item>Error in network connection</item>
-        <item>Failed to sign in</item>
-        <item>Error in secure connection</item>
-        <item>Failed to sync</item>
-        <item>Server error</item>
+        <item>Sincronización correcta</item>
+        <item>Error al conectarse a la red</item>
+        <item>Error al iniciar sesión</item>
+        <item>Error de conexión segura</item>
+        <item>Error al sincronizar</item>
+        <item>Error del servidor</item>
     </string-array>
     <string-array name="moveto_folder_sections">
-        <item>System</item>
-        <item>Quick messages</item>
-        <item>All folders</item>
+        <item>Sistema</item>
+        <item>Mensajes rápidos</item>
+        <item>Todas las carpetas</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Next conversation</item>
-        <item>Previous conversation</item>
-        <item>Conversation list</item>
+        <item>Conversación siguiente</item>
+        <item>Conversación anterior</item>
+        <item>Lista de conversaciones</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
-        <item>Show next conversation after you delete</item>
-        <item>Show previous conversation after you delete</item>
-        <item>Show conversation list after you delete</item>
+        <item>Mostrar la siguiente conversación tras eliminar un mensaje</item>
+        <item>Mostrar la conversación anterior tras eliminar un mensaje</item>
+        <item>Mostrar la lista de conversaciones tras eliminar un mensaje</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
-        <item>Show archived items only</item>
-        <item>Show deleted items only</item>
-        <item>Show both archived and deleted items</item>
+        <item>Mostrar solo elementos archivados</item>
+        <item>Mostrar solo elementos eliminados</item>
+        <item>Mostrar elementos archivados y eliminados</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
-        <item>Show archived items only</item>
-        <item>Show deleted items only</item>
-        <item>Show both archived and deleted items</item>
+        <item>Mostrar solo elementos archivados</item>
+        <item>Mostrar solo elementos eliminados</item>
+        <item>Mostrar elementos archivados y eliminados</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
-        <item>Thanks,</item>
-        <item>Best Regards</item>
-        <item>Sent from my</item>
-        <item>Original email</item>
-        <item>Sent from my</item>
-        <item>Sent from</item>
-        <item>From</item>
-        <item>This email</item>
-        <item>Disclaimer</item>
-        <item>Email Disclaimer</item>
+        <item>Gracias,</item>
+        <item>Atentamente</item>
+        <item>Enviado desde mi</item>
+        <item>Correo electrónico original</item>
+        <item>Enviado desde mi</item>
+        <item>Enviado desde</item>
+        <item>De</item>
+        <item>Este correo electrónico</item>
+        <item>Declinación de responsabilidades</item>
+        <item>Declinación de responsabilidades por correo electrónico</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
-        <item>Address:</item>
-        <item>Tel:</item>
-        <item>Name:</item>
-        <item>Email:</item>
-        <item>Mobile:</item>
+        <item>Dirección:</item>
+        <item>Tel.:</item>
+        <item>Nombre:</item>
+        <item>Correo electrónico:</item>
+        <item>Teléfono móvil:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
-        <item>Postal Code:</item>
+        <item>Código postal:</item>
     </string-array>
     <string-array name="email_item_txt_line_size">
-        <item>One line</item>
-        <item>Two lines</item>
-        <item>Three lines</item>
-        <item>Four lines</item>
-        <item>Five lines</item>
+        <item>Una línea</item>
+        <item>Dos líneas</item>
+        <item>Tres líneas</item>
+        <item>Cuatro líneas</item>
+        <item>Cinco líneas</item>
     </string-array>
+    <array name="combined_view_account_colors">
+        <item>@color/combined_view_account_color_1</item>
+        <item>@color/combined_view_account_color_2</item>
+        <item>@color/combined_view_account_color_3</item>
+        <item>@color/combined_view_account_color_4</item>
+        <item>@color/combined_view_account_color_5</item>
+        <item>@color/combined_view_account_color_6</item>
+        <item>@color/combined_view_account_color_7</item>
+        <item>@color/combined_view_account_color_8</item>
+        <item>@color/combined_view_account_color_9</item>
+    </array>
+    <array name="welcome_pages">
+        <item>@layout/whats1</item>
+        <item>@layout/whats2</item>
+        <item>@layout/whats3</item>
+    </array>
+    <integer-array name="senders_with_attachment_lengths">
+        <item>25</item>
+        <item>25</item>
+    </integer-array>
+    <integer-array name="senders_lengths">
+        <item>27</item>
+        <item>27</item>
+    </integer-array>
 </resources>

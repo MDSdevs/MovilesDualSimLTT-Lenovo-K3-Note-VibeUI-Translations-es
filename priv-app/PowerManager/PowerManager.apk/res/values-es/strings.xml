@@ -145,7 +145,7 @@
     <string name="gprs">Data Conn.</string>
     <string name="wlan">WLAN</string>
     <string name="toast">Tip</string>
-    <string name="wifi_toast">Turn on WLAN? (When the phone is on standby, WLAN will be disabled.)</string>
+    <string name="wifi_toast">Turn on WLAN? (When the phone is on standby, WLAN will be disabled)</string>
     <string name="gprs_toast">Open data network connection? (When the phone is on standby, the data network will be disabled.)</string>
     <string name="full_point">.</string>
     <string name="consumption_high">High power</string>
@@ -246,4 +246,9 @@
     <string name="ignore_optimizations_title">Allow %s to ignore battery optimizations?</string>
     <string name="switch_on_text">On</string>
     <string name="switch_off_text">Off</string>
+    <string name="leac_cancel_select_all">Cancel select all</string>
+    <string name="classicmode_lable_Weibo">Weibo</string>
+    <string name="smart_battery_text">Smart battery saving mode will be automatically disabled when the device is charging.</string>
+    <string name="battery_stats_reset_title">Are you sure you want to reset the statistics?</string>
+    <string name="battery_stats_reset_message">Statistical battery usage data will be erased.</string>
 </resources>

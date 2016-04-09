@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="string" name="lb_guidedactions_item_unselected_text_alpha">1.0</item>
-    <item type="string" name="lb_guidedactions_item_unselected_description_text_alpha">0.5</item>
-    <item type="string" name="lb_guidedactions_item_enabled_chevron_alpha">1.0</item>
     <item type="string" name="lb_guidedactions_item_disabled_chevron_alpha">0.5</item>
     <string name="orb_search_action">Search Action</string>
     <string name="lb_search_bar_hint">Search</string>
@@ -104,7 +101,7 @@ All your previous user data will be saved."</string>
     <string name="uninstall_update_title">Uninstall update</string>
     <string name="uninstall_activity_text">%1$s is part of the following app:</string>
     <string name="uninstall_application_text">Do you want to uninstall this app?</string>
-    <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
+    <string name="uninstall_application_text_all_users">Do you want to uninstall this app for &lt;b&gt;all&lt;/b&gt; users? The application and its data will be removed from &lt;b&gt;all&lt;/b&gt; users on the device.</string>
     <string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
     <string name="uninstall_update_text">Do you want to replace this app with the factory version?</string>
     <string name="uninstalling">Uninstalling…</string>
@@ -151,9 +148,9 @@ All your previous user data will be saved."</string>
     <string name="other_permissions">Other app capabilities</string>
     <string name="permission_request_title">Permission request</string>
     <string name="screen_overlay_title">Screen overlay detected</string>
-    <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from SecurityIt > Anti harassment > Alert window</string>
+    <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from SecurityIt &gt; Anti harassment &gt; Alert window</string>
     <string name="screen_overlay_button">Open settings</string>
-    <string name="perms_config_hint">You can change this feature in SecurityIt > App manager > App privacy settings.</string>
+    <string name="perms_config_hint">You can change this feature in SecurityIt &gt; App manager &gt; App privacy settings.</string>
     <string name="del_file_after_install">Delete apk?</string>
     <string name="del_cache_after_uninstall">Delete remnants after the uninstall is complete?</string>
     <string name="virus_scan_ing">SecurityIt is scanning for viruses</string>
@@ -168,7 +165,7 @@ All your previous user data will be saved."</string>
     <string name="google_paly_uninstall_hint">Do you want to uninstall this app? It will disable the GMS Service, and some app that installed by Google Play maybe become abnormal.</string>
     <string name="only_wlan">WLAN only</string>
     <string name="permission_block_network">%s has blocked access to the network by SecurityIt</string>
-    <string name="internet_perm">access full network</string>
+    <string name="internet_perm">full network access</string>
     <string name="toast_deny_msg_body" formatted="false">%s is denied to %s.</string>
     <string name="permission_label_location">Get location</string>
     <string name="permission_label_read_contacts">Read contacts</string>
@@ -207,4 +204,7 @@ All your previous user data will be saved."</string>
     <string name="install_failed_new_sdk">The package only works on older versions of Android.</string>
     <string name="install_failed_permission_model_downgrade">An existing package by the same name with a large target sdk version is already installed.</string>
     <string name="install_failed_duplicate_permission">An existing package with conflicting custom permissions is installed</string>
+    <string name="leac_cancel_select_all">Cancel select all</string>
+    <string name="del_uninstall_rubbish">"Delete this app's rubbish?"</string>
+    <string name="hide_perm">Hide</string>
 </resources>

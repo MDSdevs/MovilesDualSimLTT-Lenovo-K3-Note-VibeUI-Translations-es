@@ -21,7 +21,7 @@
         <item quantity="one">To insert your SIM card, read the instructions that came with your phone.</item>
     </plurals>
     <plurals name="error_missing_apps_plurals">
-        <item quantity="other">" This account can't be used because it's missing the apps: ^1. Contact the domain administrator for "&lt;b>^2&lt;/b>" or sign in using another account. "</item>
-        <item quantity="one">" This account can't be used because it's missing the app: ^1. Contact the domain administrator for "&lt;b>^2&lt;/b>" or sign in using another account. "</item>
+        <item quantity="other">No se puede utilizar esta cuenta porque faltan las aplicaciones ^1. Ponte en contacto con el administrador de &lt;b&gt;^2&lt;/b&gt;" o inicia sesión con otra cuenta. "</item>
+        <item quantity="one">No se puede utilizar esta cuenta porque falta la aplicación ^1. Ponte en contacto con el administrador de &lt;b&gt;^2&lt;/b&gt;" o inicia sesión con otra cuenta. "</item>
     </plurals>
 </resources>

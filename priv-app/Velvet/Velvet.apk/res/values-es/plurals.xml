@@ -1,293 +1,293 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d selected</item>
-        <item quantity="zero">%1$d selected</item>
-        <item quantity="one">%1$d selected</item>
+        <item quantity="other">Seleccionados: %1$d</item>
+        <item quantity="zero">Seleccionados: %1$d</item>
+        <item quantity="one">Seleccionados: %1$d</item>
     </plurals>
     <plurals name="recurrence_end_count">
-        <item quantity="other">For %d events</item>
-        <item quantity="one">For %d event</item>
+        <item quantity="other">Para %d eventos</item>
+        <item quantity="one">Para %d evento</item>
     </plurals>
     <plurals name="recurrence_interval_daily">
-        <item quantity="other">Every %d days</item>
-        <item quantity="one">Every %d day</item>
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Cada %d día</item>
     </plurals>
     <plurals name="recurrence_interval_weekly">
-        <item quantity="other">Every %d weeks</item>
-        <item quantity="one">Every %d week</item>
+        <item quantity="other">Cada %d semanas</item>
+        <item quantity="one">Cada %d semana</item>
     </plurals>
     <plurals name="recurrence_interval_monthly">
-        <item quantity="other">Every %d months</item>
-        <item quantity="one">Every %d month</item>
+        <item quantity="other">Cada %d meses</item>
+        <item quantity="one">Cada %d mes</item>
     </plurals>
     <plurals name="recurrence_interval_yearly">
-        <item quantity="other">Every %d years</item>
-        <item quantity="one">Every %d year</item>
+        <item quantity="other">Cada %d años</item>
+        <item quantity="one">Cada %d año</item>
     </plurals>
     <plurals name="endByCount">
-        <item quantity="other">; for %d times</item>
-        <item quantity="one">; for one time</item>
+        <item quantity="other">; %d veces</item>
+        <item quantity="one">; una vez</item>
     </plurals>
     <plurals name="daily">
-        <item quantity="other">Every %d days</item>
-        <item quantity="one">Daily</item>
-        <item quantity="two">Every %d days</item>
-        <item quantity="few">Every %d days</item>
-        <item quantity="many">Every %d days</item>
+        <item quantity="other">Cada %d días</item>
+        <item quantity="one">Diariamente</item>
+        <item quantity="two">Cada %d días</item>
+        <item quantity="few">Cada %d días</item>
+        <item quantity="many">Cada %d días</item>
     </plurals>
     <plurals name="daily_lower">
-        <item quantity="other">every %d days</item>
-        <item quantity="one">daily</item>
-        <item quantity="two">every %d days</item>
-        <item quantity="few">every %d days</item>
-        <item quantity="many">every %d days</item>
+        <item quantity="other">cada %d días</item>
+        <item quantity="one">diariamente</item>
+        <item quantity="two">cada %d días</item>
+        <item quantity="few">cada %d días</item>
+        <item quantity="many">cada %d días</item>
     </plurals>
     <plurals name="weekly">
-        <item quantity="other">Every %1$d weeks on %2$s</item>
-        <item quantity="one">Weekly on %2$s</item>
-        <item quantity="two">Every %1$d weeks on %2$s</item>
-        <item quantity="few">Every %1$d weeks on %2$s</item>
-        <item quantity="many">Every %1$d weeks on %2$s</item>
+        <item quantity="other">Los %2$s cada %1$d semanas</item>
+        <item quantity="one">Todos los %2$s</item>
+        <item quantity="two">Los %2$s cada %1$d semanas</item>
+        <item quantity="few">Los %2$s cada %1$d semanas</item>
+        <item quantity="many">Los %2$s cada %1$d semanas</item>
     </plurals>
     <plurals name="weekly_lower">
-        <item quantity="other">every %1$d weeks on %2$s</item>
-        <item quantity="one">weekly on %2$s</item>
-        <item quantity="two">every %1$d weeks on %2$s</item>
-        <item quantity="few">every %1$d weeks on %2$s</item>
-        <item quantity="many">every %1$d weeks on %2$s</item>
+        <item quantity="other">los %2$s cada %1$d semanas</item>
+        <item quantity="one">todos los %2$s</item>
+        <item quantity="two">los %2$s cada %1$d semanas</item>
+        <item quantity="few">los %2$s cada %1$d semanas</item>
+        <item quantity="many">los %2$s cada %1$d semanas</item>
     </plurals>
     <plurals name="monthly_interval">
-        <item quantity="other">Every %1$d months</item>
-        <item quantity="one">Monthly</item>
-        <item quantity="two">Every %1$d months</item>
-        <item quantity="few">Every %1$d months</item>
-        <item quantity="many">Every %1$d months</item>
+        <item quantity="other">Cada %1$d meses</item>
+        <item quantity="one">Mensualmente</item>
+        <item quantity="two">Cada %1$d meses</item>
+        <item quantity="few">Cada %1$d meses</item>
+        <item quantity="many">Cada %1$d meses</item>
     </plurals>
     <plurals name="monthly_interval_lower">
-        <item quantity="other">every %1$d months</item>
-        <item quantity="one">monthly</item>
-        <item quantity="two">every %1$d months</item>
-        <item quantity="few">every %1$d months</item>
-        <item quantity="many">every %1$d months</item>
+        <item quantity="other">cada %1$d meses</item>
+        <item quantity="one">mensualmente</item>
+        <item quantity="two">cada %1$d meses</item>
+        <item quantity="few">cada %1$d meses</item>
+        <item quantity="many">cada %1$d meses</item>
     </plurals>
     <plurals name="yearly_interval_plain">
-        <item quantity="other">Every %1$d years</item>
-        <item quantity="one">Yearly</item>
-        <item quantity="two">Every %1$d years</item>
-        <item quantity="few">Every %1$d years</item>
-        <item quantity="many">Every %1$d years</item>
+        <item quantity="other">Cada %1$d años</item>
+        <item quantity="one">Anualmente</item>
+        <item quantity="two">Cada %1$d años</item>
+        <item quantity="few">Cada %1$d años</item>
+        <item quantity="many">Cada %1$d años</item>
     </plurals>
     <plurals name="yearly_interval_lower">
-        <item quantity="other">every %1$d years</item>
-        <item quantity="one">yearly</item>
-        <item quantity="two">every %1$d years</item>
-        <item quantity="few">every %1$d years</item>
-        <item quantity="many">every %1$d years</item>
+        <item quantity="other">cada %1$d años</item>
+        <item quantity="one">anualmente</item>
+        <item quantity="two">cada %1$d años</item>
+        <item quantity="few">cada %1$d años</item>
+        <item quantity="many">cada %1$d años</item>
     </plurals>
     <plurals name="duration_in_hours">
-        <item quantity="other">%1$d hours</item>
-        <item quantity="one">%1$d hour</item>
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
     </plurals>
     <plurals name="duration_in_hours_short">
-        <item quantity="other">%1$d hours</item>
-        <item quantity="one">%1$d hour</item>
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
     </plurals>
     <plurals name="duration_in_minutes">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">%1$d minute</item>
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
     </plurals>
     <plurals name="duration_in_minutes_short">
-        <item quantity="other">%1$d mins</item>
+        <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>
     </plurals>
     <plurals name="duration_in_days">
-        <item quantity="other">%1$d days</item>
-        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d días</item>
+        <item quantity="one">%1$d día</item>
     </plurals>
     <plurals name="duration_in_days_short">
-        <item quantity="other">%1$d days</item>
-        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d días</item>
+        <item quantity="one">%1$d día</item>
     </plurals>
     <plurals name="duration_in_months">
-        <item quantity="other">%1$d months</item>
-        <item quantity="one">%1$d month</item>
+        <item quantity="other">%1$d meses</item>
+        <item quantity="one">%1$d mes</item>
     </plurals>
     <plurals name="duration_in_months_short">
-        <item quantity="other">%1$d months</item>
-        <item quantity="one">%1$d month</item>
+        <item quantity="other">%1$d meses</item>
+        <item quantity="one">%1$d mes</item>
     </plurals>
     <plurals name="duration_in_years">
-        <item quantity="other">%1$d years</item>
-        <item quantity="one">%1$d year</item>
+        <item quantity="other">%1$d años</item>
+        <item quantity="one">%1$d año</item>
     </plurals>
     <plurals name="duration_in_years_short">
-        <item quantity="other">%1$d years</item>
-        <item quantity="one">%1$d year</item>
+        <item quantity="other">%1$d años</item>
+        <item quantity="one">%1$d año</item>
     </plurals>
     <plurals name="items_from_without_colon">
-        <item quantity="other">%1$d items from</item>
-        <item quantity="one">%1$d item from</item>
+        <item quantity="other">%1$d elementos de</item>
+        <item quantity="one">%1$d elemento de</item>
     </plurals>
     <plurals name="last_bus_home_departure_time">
-        <item quantity="other">Last bus home in %2$s%1$d minutes%3$s</item>
-        <item quantity="one">Last bus home in %2$s%1$d minute%3$s</item>
+        <item quantity="other">Último autobús a casa en %2$s%1$d minutos%3$s</item>
+        <item quantity="one">Último autobús a casa en %2$s%1$d minuto%3$s</item>
     </plurals>
     <plurals name="last_bus_to_hotel_departure_time">
-        <item quantity="other">Last bus to hotel in %2$s%1$d minutes%3$s</item>
-        <item quantity="one">Last bus to hotel in %2$s%1$d minute%3$s</item>
+        <item quantity="other">Último autobús al hotel en %2$s%1$d minutos%3$s</item>
+        <item quantity="one">Último autobús al hotel en %2$s%1$d minuto%3$s</item>
     </plurals>
     <plurals name="last_train_home_departure_time">
-        <item quantity="other">Last train home in %2$s%1$d mins%3$s</item>
-        <item quantity="one">Last train home in %2$s1 min%3$s</item>
+        <item quantity="other">Último tren a casa en %2$s%1$d min%3$s</item>
+        <item quantity="one">Último tren a casa en %2$s1 min%3$s</item>
     </plurals>
     <plurals name="last_train_to_hotel_departure_time">
-        <item quantity="other">Last train to hotel in %2$s%1$d mins%3$s</item>
-        <item quantity="one">Last train to hotel in %2$s1 min%3$s</item>
+        <item quantity="other">Último tren al hotel en %2$s%1$d min%3$s</item>
+        <item quantity="one">Último tren al hotel en %2$s1 min%3$s</item>
     </plurals>
     <plurals name="last_transit_home_departure_time">
-        <item quantity="other">Last ride home in %2$s%1$d minutes%3$s</item>
-        <item quantity="one">Last ride home in %2$s%1$d minute%3$s</item>
+        <item quantity="other">Último viaje a casa en %2$s%1$d minutos%3$s</item>
+        <item quantity="one">Último viaje a casa en %2$s%1$d minuto%3$s</item>
     </plurals>
     <plurals name="last_transit_to_hotel_departure_time">
-        <item quantity="other">Last ride to hotel in %2$s%1$d minutes%3$s</item>
-        <item quantity="one">Last ride to hotel in %2$s%1$d minute%3$s</item>
+        <item quantity="other">Último viaje al hotel en %2$s%1$d minutos%3$s</item>
+        <item quantity="one">Último viaje al hotel en %2$s%1$d minuto%3$s</item>
     </plurals>
     <plurals name="transit_next_line_departure_subtext_no_platform">
-        <item quantity="other">Walk %1$d mins to %2$s</item>
-        <item quantity="one">Walk 1 min to %2$s</item>
+        <item quantity="other">Anda %1$d min hasta %2$s</item>
+        <item quantity="one">Anda 1 min hasta %2$s</item>
     </plurals>
     <plurals name="minutes_delay">
-        <item quantity="other">%1$d minutes delay</item>
+        <item quantity="other">%1$d minutos de retraso</item>
         <item quantity="zero">no delay</item>
-        <item quantity="one">1 minute delay</item>
+        <item quantity="one">1 minuto de retraso</item>
     </plurals>
     <plurals name="minutes_delay_more_than_usual">
-        <item quantity="other">%1$d minutes more than usual</item>
+        <item quantity="other">%1$d minutos más de lo normal</item>
         <item quantity="zero">no delay</item>
-        <item quantity="one">1 minute more than usual</item>
+        <item quantity="one">1 minuto más de lo normal</item>
     </plurals>
     <plurals name="minutes_delay_less_than_usual">
-        <item quantity="other">%1$d minutes less than usual</item>
+        <item quantity="other">%1$d minutos menos de lo normal</item>
         <item quantity="zero">no delay</item>
-        <item quantity="one">1 minute less than usual</item>
+        <item quantity="one">1 minuto menos de lo normal</item>
     </plurals>
     <plurals name="usual_traffic_minutes_delay">
-        <item quantity="other">Usual traffic: %1$d minutes delay</item>
+        <item quantity="other">Tráfico normal: %1$d minutos de retraso</item>
         <item quantity="zero">Usual traffic: no delay</item>
-        <item quantity="one">Usual traffic: 1 minute delay</item>
+        <item quantity="one">Tráfico normal: 1 minuto de retraso</item>
     </plurals>
     <plurals name="num_min_late">
-        <item quantity="other">%1$d mins late</item>
-        <item quantity="one">1 min late</item>
+        <item quantity="other">%1$d min tarde</item>
+        <item quantity="one">1 min tarde</item>
     </plurals>
     <plurals name="num_min_early">
-        <item quantity="other">%1$d mins early</item>
-        <item quantity="one">1 min early</item>
+        <item quantity="other">%1$d min antes</item>
+        <item quantity="one">1 min antes</item>
     </plurals>
     <plurals name="transit_interval_in_minutes">
-        <item quantity="other">· every %1$s mins</item>
-        <item quantity="one">· every %1$s min</item>
+        <item quantity="other">· cada %1$s min</item>
+        <item quantity="one">· cada %1$s min</item>
     </plurals>
     <plurals name="transit_interval_in_hours">
-        <item quantity="other">· every %1$d hours</item>
-        <item quantity="one">· every %1$d hour</item>
+        <item quantity="other">· cada %1$d horas</item>
+        <item quantity="one">· cada %1$d hora</item>
     </plurals>
     <plurals name="qp_transit_interval_in_minutes">
-        <item quantity="other">Every %1$s mins</item>
-        <item quantity="one">Every %1$s min</item>
+        <item quantity="other">Cada %1$s min</item>
+        <item quantity="one">Cada %1$s min</item>
     </plurals>
     <plurals name="qp_transit_interval_in_hours">
-        <item quantity="other">Every %1$d hours</item>
-        <item quantity="one">Every %1$d hour</item>
+        <item quantity="other">Cada %1$d horas</item>
+        <item quantity="one">Cada %1$d hora</item>
     </plurals>
     <plurals name="sports_overtime_period_header">
-        <item quantity="other">%1$dOT</item>
-        <item quantity="one">OT</item>
+        <item quantity="other">%1$dTE</item>
+        <item quantity="one">TE</item>
     </plurals>
     <plurals name="time_to_leave_user_arrival_generic">
-        <item quantity="other">Arrive %1$d mins early</item>
-        <item quantity="one">Arrive %1$d min early</item>
+        <item quantity="other">Llegarás %1$d min antes</item>
+        <item quantity="one">Llegarás %1$d min antes</item>
     </plurals>
     <plurals name="time_to_leave_user_arrival_flight">
-        <item quantity="other">Arrive %1$d mins before departure</item>
-        <item quantity="one">Arrive %1$d min before departure</item>
+        <item quantity="other">Llegarás %1$d min antes de la salida</item>
+        <item quantity="one">Llegarás %1$d min antes de la salida</item>
     </plurals>
     <plurals name="time_to_leave_user_arrival_reservation">
-        <item quantity="other">Arrive %1$d mins before reservation</item>
-        <item quantity="one">Arrive %1$d min before reservation</item>
+        <item quantity="other">Llegarás %1$d min antes de la reserva</item>
+        <item quantity="one">Llegarás %1$d min antes de la reserva</item>
     </plurals>
     <plurals name="time_to_leave_user_arrival_movie">
-        <item quantity="other">Arrive %1$d mins before movie</item>
-        <item quantity="one">Arrive %1$d min before movie</item>
+        <item quantity="other">Llegarás %1$d min antes de la película</item>
+        <item quantity="one">Llegarás %1$d min antes de la película</item>
     </plurals>
     <plurals name="time_to_leave_user_arrival_concert">
-        <item quantity="other">Arrive %1$d mins before concert</item>
-        <item quantity="one">Arrive %1$d min before concert</item>
+        <item quantity="other">Llegarás %1$d min antes del concierto</item>
+        <item quantity="one">Llegarás %1$d min antes del concierto</item>
     </plurals>
     <plurals name="email_everyone">
-        <item quantity="other">Email everyone (%1$d)</item>
-        <item quantity="one">Email everyone (%1$d)</item>
+        <item quantity="other">Enviar correo a todos (%1$d)</item>
+        <item quantity="one">Enviar correo a todos (%1$d)</item>
     </plurals>
     <plurals name="card_count">
-        <item quantity="other">%1$d cards</item>
+        <item quantity="other">%1$d tarjetas</item>
         <item quantity="zero">No cards</item>
-        <item quantity="one">1 card</item>
+        <item quantity="one">1 tarjeta</item>
     </plurals>
     <plurals name="num_movie_tickets">
-        <item quantity="other">%1$d tickets</item>
-        <item quantity="one">%1$d ticket</item>
+        <item quantity="other">%1$d entradas</item>
+        <item quantity="one">%1$d entrada</item>
     </plurals>
     <plurals name="qp_hotel_reservation_length">
-        <item quantity="other">Room reservation for %1$d nights</item>
-        <item quantity="one">Room reservation for %1$d night</item>
+        <item quantity="other">Reserva de habitación para %1$d noches</item>
+        <item quantity="one">Reserva de habitación para %1$d noche</item>
     </plurals>
     <plurals name="reminders">
-        <item quantity="other">%1$d reminders</item>
-        <item quantity="one">%1$d reminder</item>
+        <item quantity="other">%1$d recordatorios</item>
+        <item quantity="one">%1$d recordatorio</item>
     </plurals>
     <plurals name="number_of_location_sharers">
-        <item quantity="other">%1$d people sharing with you</item>
-        <item quantity="one">%1$d person sharing with you</item>
+        <item quantity="other">%1$d personas han compartido su ubicación contigo</item>
+        <item quantity="one">%1$d persona ha compartido su ubicación contigo</item>
     </plurals>
     <plurals name="expiring_duration_in_days">
-        <item quantity="other">Expires in %1$d days</item>
-        <item quantity="one">Expires in %1$d day</item>
+        <item quantity="other">Caduca en %1$d días</item>
+        <item quantity="one">Caduca en %1$d día</item>
     </plurals>
     <plurals name="expiring_duration_in_hours">
-        <item quantity="other">Expires in %1$d hours</item>
-        <item quantity="one">Expires in %1$d hour</item>
+        <item quantity="other">Caduca en %1$d horas</item>
+        <item quantity="one">Caduca en %1$d hora</item>
     </plurals>
     <plurals name="expiring_duration_in_minutes">
-        <item quantity="other">Expires in %1$d minutes</item>
-        <item quantity="one">Expires in %1$d minute</item>
+        <item quantity="other">Caduca en %1$d minutos</item>
+        <item quantity="one">Caduca en %1$d minuto</item>
     </plurals>
     <plurals name="view_count">
-        <item quantity="other">%1$,d views</item>
-        <item quantity="one">%1$,d view</item>
+        <item quantity="other">Visto %1$,d veces</item>
+        <item quantity="one">Visto %1$,d vez</item>
     </plurals>
     <plurals name="transportation_seat">
-        <item quantity="other">%1$d Seats</item>
-        <item quantity="one">Seat</item>
+        <item quantity="other">%1$d asientos</item>
+        <item quantity="one">1 asiento</item>
     </plurals>
     <plurals name="more_directions">
-        <item quantity="other">+ %1$d more directions</item>
-        <item quantity="one">+ %1$d more direction</item>
+        <item quantity="other">%1$d indicaciones más</item>
+        <item quantity="one">%1$d indicación más</item>
     </plurals>
     <plurals name="time_duration_spoken_hour">
-        <item quantity="other">%1$d hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">1 hora</item>
     </plurals>
     <plurals name="time_duration_spoken_minute">
-        <item quantity="other">%1$d minutes</item>
-        <item quantity="one">1 minute</item>
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">1 minuto</item>
     </plurals>
     <plurals name="time_duration_spoken_second">
-        <item quantity="other">%1$d seconds</item>
-        <item quantity="one">1 second</item>
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">1 segundo</item>
     </plurals>
     <plurals name="agenda_eyes_free_all_day_events">
-        <item quantity="other">%2$s you have %1$d all-day events: %3$s.</item>
-        <item quantity="one">%2$s you have an all-day event: %3$s.</item>
+        <item quantity="other">El día %2$s tienes %1$d eventos que duran todo el día: %3$s.</item>
+        <item quantity="one">El día %2$s tienes un evento que dura todo el día: %3$s.</item>
     </plurals>
 </resources>

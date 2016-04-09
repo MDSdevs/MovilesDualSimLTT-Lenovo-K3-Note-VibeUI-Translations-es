@@ -6,8 +6,8 @@
     <string name="leac_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="leac_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="leac_more">More</string>
-    <string name="additional_system_update" />
-    <string name="additional_system_update_menu" />
+    <string name="additional_system_update"></string>
+    <string name="additional_system_update_menu"></string>
     <string name="app_notifications_title">app_notifications</string>
     <string name="app_notification_block_title">Block</string>
     <string name="app_notification_block_summary">Never show notifications from this app</string>
@@ -19,7 +19,7 @@
     <string name="no">No</string>
     <string name="silent_mode_title">Silent mode</string>
     <string name="ringtone_title">Ringtone</string>
-    <string name="ringtone_summary" />
+    <string name="ringtone_summary"></string>
     <string name="all_volume_title">Volume</string>
     <string name="musicfx_title">Music effects</string>
     <string name="ring_volume_title">Volume</string>
@@ -36,7 +36,7 @@
     <string name="incoming_call_volume_title">Ringtones</string>
     <string name="notification_volume_title">Notifications</string>
     <string name="checkbox_notification_same_as_incoming_call">Use incoming call volume as volume for notifications</string>
-    <string name="notification_sound_summary" />
+    <string name="notification_sound_summary"></string>
     <string name="notification_pulse_summary">Trackball indicator light will flicker on receipt of new notifications</string>
     <string name="notification_sound_dialog_title">Select notification ringtone</string>
     <string name="media_volume_title">Media</string>
@@ -53,7 +53,7 @@
     <string name="emergency_tone_vibrate">Vibrate</string>
     <string name="audio_record_proc_title">Reduce noise</string>
     <string name="volume_media_description">Music, videos, games and other media</string>
-    <string name="volume_ring_description">Calls, messages</string>
+    <string name="volume_ring_description">Ring</string>
     <string name="volume_notification_description">Notifications</string>
     <string name="volume_alarm_description">Alarm</string>
     <string name="dtmf_tone_enable_summary_on">Touching dialpad makes noise</string>

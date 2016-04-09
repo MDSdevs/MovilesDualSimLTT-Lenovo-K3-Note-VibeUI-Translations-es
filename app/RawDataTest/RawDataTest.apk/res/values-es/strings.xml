@@ -7,7 +7,7 @@
     <string name="raw_data_test">整机测试</string>
     <string name="dialog_title">错误</string>
     <string name="stop_hotknot_tips">"请先关闭hotknot服务!
- 设置 -> Hotknot -> OFF"</string>
+ 设置 -&gt; Hotknot -&gt; OFF"</string>
     <string name="dialog_title_warning">警告</string>
     <string name="dialog_positive_btn">确定</string>
     <string name="dialog_negative_btn">取消</string>

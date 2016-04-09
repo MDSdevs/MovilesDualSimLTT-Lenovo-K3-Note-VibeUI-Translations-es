@@ -74,4 +74,20 @@
     <string name="exit_message_info">Tap back again to exit</string>
     <string name="record_ticket_message">In the recording, back by clicking</string>
     <string name="record_pause_message">Recording has been suspended, click on continue recording</string>
+    <string name="leac_select_all">Select all</string>
+    <string name="leac_deselect_all">Deselect all</string>
+    <string name="record_share">Share</string>
+    <string name="nomal_time">00:00:00</string>
+    <string name="nomal_record_name">New recorder</string>
+    <string name="appbar_scrolling_view_behavior">lenovo.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="edit_mode">edit</string>
+    <string name="share">share</string>
+    <string name="lowmemory_dialog_yes">yes</string>
+    <string name="lowmemory_dialog_no">no</string>
+    <string name="lowmemory_dialog_message">Insufficient storage space! Whether to immediately clean up?</string>
+    <string name="sd_root_permission_tip1">No external sd card associated permissions, please refer to the instructions</string>
+    <string name="sd_root_permission_tip2">Select the external sd card root directory</string>
+    <string name="sd_root_permission_tip3">Permission for external sd card is granted, please proceed</string>
+    <string name="record_listview_empty_text">no new record</string>
+    <string name="record_filename_head">New recorder</string>
 </resources>

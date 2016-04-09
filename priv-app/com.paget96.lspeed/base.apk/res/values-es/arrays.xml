@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cache_allocation_entries">
-        <item>@string/array_entries_default</item>
-        <item>@string/cache_allocation_entries_medium</item>
-        <item>@string/cache_allocation_entries_large</item>
+        <item>Default</item>
+        <item>Medium</item>
+        <item>Large</item>
     </string-array>
     <string-array name="cache_reclaiming_entries">
-        <item>@string/array_entries_default</item>
-        <item>@string/cache_reclaiming_entries_minimum</item>
-        <item>@string/array_entries_moderate</item>
-        <item>@string/cache_reclaiming_entries_doubled</item>
+        <item>Default</item>
+        <item>Minimum</item>
+        <item>Moderate</item>
+        <item>Doubled</item>
     </string-array>
     <string-array name="kernel_tweaks_entries">
-        <item>@string/array_entries_disabled</item>
-        <item>@string/array_entries_light</item>
-        <item>@string/kernel_tweaks_entries_heavy</item>
+        <item>Disabled</item>
+        <item>Light</item>
+        <item>Heavy</item>
     </string-array>
     <string-array name="net_buffer_entries">
-        <item>@string/array_entries_default</item>
-        <item>@string/net_buffer_entries_small</item>
-        <item>@string/net_buffer_entries_big</item>
+        <item>Default</item>
+        <item>Small</item>
+        <item>Big</item>
     </string-array>
     <string-array name="oom_killer_entries">
-        <item>@string/array_entries_default</item>
-        <item>@string/oom_killer_entries_enabled</item>
-        <item>@string/array_entries_disabled</item>
+        <item>Default</item>
+        <item>Enabled</item>
+        <item>Disabled</item>
     </string-array>
     <string-array name="ram_manager_entries">
-        <item>@string/array_entries_default</item>
-        <item>@string/ram_manager_entries_multitasking</item>
-        <item>@string/ram_manager_entries_balanced</item>
-        <item>@string/ram_manager_entries_gaming</item>
+        <item>Default</item>
+        <item>Multitasking</item>
+        <item>Balanced</item>
+        <item>Gaming</item>
     </string-array>
     <string-array name="seeder_entries">
-        <item>@string/array_entries_default</item>
-        <item>@string/array_entries_light</item>
-        <item>@string/seeder_entries_enlarger</item>
-        <item>@string/array_entries_moderate</item>
-        <item>@string/seeder_entries_aggressive</item>
+        <item>Default</item>
+        <item>Light</item>
+        <item>Enlarger</item>
+        <item>Moderate</item>
+        <item>Aggressive</item>
     </string-array>
 </resources>

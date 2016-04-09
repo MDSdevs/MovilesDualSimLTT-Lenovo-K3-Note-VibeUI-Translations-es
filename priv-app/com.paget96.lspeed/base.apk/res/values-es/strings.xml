@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
-    <string name="abc_capital_off">OFF</string>
-    <string name="abc_capital_on">ON</string>
-    <string name="abc_search_hint">Search…</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
-    <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">NO</string>
+    <string name="abc_capital_on">SÍ</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="KSM">Kernel Samepage Merging</string>
     <string name="about">About</string>
     <string name="action_reboot">Reboot</string>
-    <string name="alda_hint">Dedicated developer</string>
-    <string name="androidforums_help">Specific forum for your device</string>
+    <string name="alda_hint">Desarrolador dedicado</string>
+    <string name="androidforums_help">Foro Específico para tu dispositivo</string>
     <string name="app_cache_cleaner">Clean app cache</string>
     <string name="app_cache_clear">App cache cleared</string>
-    <string name="application">Application</string>
-    <string name="array_entries_default">Default</string>
-    <string name="array_entries_disabled">Disabled</string>
-    <string name="array_entries_light">Light</string>
-    <string name="array_entries_moderate">Moderate</string>
+    <string name="application">Aplicación</string>
+    <string name="array_entries_default">Por Defecto</string>
+    <string name="array_entries_disabled">Desactivado</string>
+    <string name="array_entries_light">Liviano</string>
+    <string name="array_entries_moderate">Moderado</string>
     <string name="assertive_display">Assertive display</string>
     <string name="assertive_display_activated">Assertive display activated</string>
     <string name="assertive_display_deactivated">Assertive display deactivated</string>
@@ -61,18 +61,18 @@
     <string name="cache_alloc_large">Large cache allocation activated</string>
     <string name="cache_alloc_medium">Medium cache allocation activated</string>
     <string name="cache_allocation">Cache Allocation</string>
-    <string name="cache_allocation_entries_large">Large</string>
-    <string name="cache_allocation_entries_medium">Medium</string>
+    <string name="cache_allocation_entries_large">Grande</string>
+    <string name="cache_allocation_entries_medium">Medio</string>
     <string name="cache_clear">Cache partition cleared, please reboot</string>
     <string name="cache_reclaim_default">Cache reclaiming is set to default</string>
-    <string name="cache_reclaim_doubled">Doubled cache reclaiming activated</string>
+    <string name="cache_reclaim_doubled">Double cache reclaiming activated</string>
     <string name="cache_reclaim_minimum">Minimum cache reclaiming activated</string>
     <string name="cache_reclaim_moderate">Moderate cache reclaiming activated</string>
     <string name="cache_reclaiming">Cache Reclaiming</string>
-    <string name="cache_reclaiming_entries_doubled">Doubled</string>
-    <string name="cache_reclaiming_entries_minimum">Minimum</string>
+    <string name="cache_reclaiming_entries_doubled">Doble</string>
+    <string name="cache_reclaiming_entries_minimum">Mínimo</string>
     <string name="changelog">Changelog</string>
-    <string name="changelog_text">Tap to view current and previous changes</string>
+    <string name="changelog_text">Toca para ver cambios anteriores y actuales</string>
     <string name="charge_charger">Connected to charger</string>
     <string name="charge_status">"Charge Status: %1$s 
 "</string>
@@ -86,7 +86,7 @@
     <string name="cleaner_disabled">Cleaner on boot is disabled</string>
     <string name="cleaner_enabled">Cleaner on boot is enabled</string>
     <string name="cleaner_on_boot">Run cleaner on boot</string>
-    <string name="content_provider">"Content provider:\u0009 %1$sMB 
+    <string name="content_provider">"Proveedores de Contenido:\u0009 %1$sMB 
 "</string>
     <string name="cpuMod">CPU Tuning</string>
     <string name="cpu_information">CPU information</string>
@@ -94,10 +94,10 @@
     <string name="cpu_opt_deactivated">CPU Optimizer deactivated</string>
     <string name="cpu_optimizer">CPU Optimizer</string>
     <string name="cpu_tuner">CPU Tuner</string>
-    <string name="credits">L Speed Creators</string>
-    <string name="current_entropy">Current Entropy:</string>
-    <string name="current_memory_status">Current memory status:</string>
-    <string name="current_minfree">Current minfree:</string>
+    <string name="credits">Creadores de L Speed</string>
+    <string name="current_entropy">Entropia Disponible:</string>
+    <string name="current_memory_status">Estado actual de Memoria:</string>
+    <string name="current_minfree">Valores de Limpieza de Memoria Actuales:</string>
     <string name="dalvik_clear">Dalvik cache cleared, please reboot</string>
     <string name="dashboard">Dashboard</string>
     <string name="debugOpt">Debugging Options</string>
@@ -114,13 +114,13 @@
     <string name="donate_text">If you want to donate me a nice cup of coffee, click here :D</string>
     <string name="drain_fix_disabled">Google services drain fix disabled</string>
     <string name="drain_fix_enabled">Google services drain fix enabled</string>
-    <string name="empty_app">"Empty app:\u0009 %1$sMB 
+    <string name="empty_app">"Aplicaciones vacías:\u0009 %1$sMB 
 "</string>
-    <string name="entropy_information">Entropy Information</string>
+    <string name="entropy_information">Información de Entropía</string>
     <string name="extended_queue_activated">IO extended queue activated</string>
     <string name="extended_queue_deactivated">IO extended queue deactivated</string>
-    <string name="f4uzan_hint">Designer, Git destroyer</string>
-    <string name="f4uzan_summary">Still F4uzan</string>
+    <string name="f4uzan_hint">Diseñador, Destructor del Git</string>
+    <string name="f4uzan_summary">Todavía F4uzan</string>
     <string name="fast_charge">Fast charge</string>
     <string name="fast_charge_activated">Fast charge activated</string>
     <string name="fast_charge_deactivated">Fast charge deactivated</string>
@@ -137,7 +137,7 @@
     <string name="flag_tuner">Flag tuner</string>
     <string name="flag_tuner_activated">Flag tuner activated</string>
     <string name="flag_tuner_deactivated">Flag tuner deactivated</string>
-    <string name="foreground_app">"Foreground app:\u0009 %1$sMB 
+    <string name="foreground_app">"Aplicaciones primer plano:\u0009 %1$sMB 
 "</string>
     <string name="fstrim_now">Fstrim Now</string>
     <string name="general">General</string>
@@ -145,16 +145,16 @@
     <string name="gingerbread_usage_explanation">No, this application requires Android 4.0+ to function. However, you can use the flashable version of L Speed since it works on nearly all version of Android</string>
     <string name="google_dns_activated">Google DNS enabled</string>
     <string name="google_dns_deactivated">Google DNS disabled</string>
-    <string name="google_help">How to root (name of your device)</string>
+    <string name="google_help">Como rootear (Nombre de tu dispositivo)</string>
     <string name="google_services_drain_fix">Google services drain fix</string>
     <string name="health">"Health: %1$s 
 "</string>
     <string name="health_good">Good</string>
     <string name="help">Help</string>
-    <string name="hidden_app">"Hidden app:\u0009 %1$sMB 
+    <string name="hidden_app">"Aplicaciones ocultas:\u0009 %1$sMB 
 "</string>
-    <string name="how_root">How can I root my device?</string>
-    <string name="how_root_explanation">You can find websites that guides you to achieve root down below</string>
+    <string name="how_root">¿Como puedo rootear mi dispositivo?</string>
+    <string name="how_root_explanation">Puedes encontrar sitios que te guien para rootear tu dispositivo</string>
     <string name="improve_battery">Battery improvement</string>
     <string name="improve_image_activated">Improve image quality activated</string>
     <string name="improve_image_deactivated">Improve image quality deactivated</string>
@@ -178,15 +178,15 @@
     <string name="kernel_sleepers_optimization">Kernel sleepers optimization</string>
     <string name="kernel_tweaks">Kernel Tweaks</string>
     <string name="kernel_tweaks_disabled">Kernel tweaks disabled</string>
-    <string name="kernel_tweaks_entries_heavy">Heavy</string>
+    <string name="kernel_tweaks_entries_heavy">Intenso</string>
     <string name="kernel_tweaks_heavy">Heavy kernel tweaks activated</string>
     <string name="kernel_tweaks_light">Light kernel tweaks activated</string>
     <string name="kill_media_server">Kill media server</string>
     <string name="ksm_activated">Kernel Samepage Merging activated</string>
     <string name="ksm_deactivated">Kernel Samepage Merging deactivated</string>
     <string name="lSpeed_difference">What makes L Speed different from other mods?</string>
-    <string name="lSpeed_difference_explanation">L Speed have a lot of options and most of them are unique from each other</string>
-    <string name="launch">Launch explanation</string>
+    <string name="lSpeed_difference_explanation">L Speed have a lot of options and the most of them are unique from each other</string>
+    <string name="launch">Abrir explicación</string>
     <string name="level">"Level: %1$s%% 
 "</string>
     <string name="liquid_UI">Liquid smooth UI</string>
@@ -210,14 +210,14 @@
     <string name="netOpt">LNET Optimizations</string>
     <string name="net_buffer_big">Big net buffers activated</string>
     <string name="net_buffer_default">Net buffers is set to default</string>
-    <string name="net_buffer_entries_big">Big</string>
-    <string name="net_buffer_entries_small">Small</string>
+    <string name="net_buffer_entries_big">Mayor</string>
+    <string name="net_buffer_entries_small">Menor</string>
     <string name="net_buffer_small">Small net buffers activated</string>
     <string name="net_buffers">NET Buffers</string>
     <string name="net_protect_activated">NET protection activated</string>
     <string name="net_protect_deactivated">NET protection deactivated</string>
     <string name="net_protection">NET Protection</string>
-    <string name="no">No</string>
+    <string name="no">@android:string/no</string>
     <string name="no_blackscreen_activated">Fix blackscreen issue activated</string>
     <string name="no_blackscreen_deactivated">Fix blackscreen issue deactivated</string>
     <string name="no_kernel_panic_activated">Disable kernel panic activated</string>
@@ -226,14 +226,14 @@
     <string name="oom_killer_default">OOM killer profile is set to default</string>
     <string name="oom_killer_disabled">OOM killer disabled</string>
     <string name="oom_killer_enabled">OOM killer enabled</string>
-    <string name="oom_killer_entries_enabled">Enabled</string>
+    <string name="oom_killer_entries_enabled">Activado</string>
     <string name="otherMod">Other Tweaks</string>
-    <string name="paget_hint">Developer, founder, maintainer</string>
+    <string name="paget_hint">Desarrollador, Fundador, Mantenedor</string>
     <string name="paget_summary">Danijel Markov</string>
     <string name="partition_remount">Partition remount</string>
     <string name="partition_remounting_activated">Partition remounting activated</string>
     <string name="partition_remounting_deactivated">Partition remounting deactivated</string>
-    <string name="peter_hint">Part-time dedicated developer</string>
+    <string name="peter_hint">Desarrollador dedicado de medio tiempo</string>
     <string name="pop_no_arch">Unknown architecture: %1$s</string>
     <string name="pop_no_toolbox">Cannot extract toolbox</string>
     <string name="pop_req_root">L Speed requires root</string>
@@ -241,33 +241,33 @@
     <string name="ram_manager">RAM Manager</string>
     <string name="ram_manager_balanced">Balanced profile activated</string>
     <string name="ram_manager_default">RAM manager is set to default</string>
-    <string name="ram_manager_entries_balanced">Balanced</string>
-    <string name="ram_manager_entries_gaming">Gaming</string>
-    <string name="ram_manager_entries_multitasking">Multitasking</string>
+    <string name="ram_manager_entries_balanced">Balanceado</string>
+    <string name="ram_manager_entries_gaming">Jugador</string>
+    <string name="ram_manager_entries_multitasking">Multi tarea</string>
     <string name="ram_manager_gaming">Gaming profile activated</string>
     <string name="ram_manager_multitask">Multitasking profile activated</string>
     <string name="reboot_confirm">Reboot device?</string>
-    <string name="reset_confirm">Reset configuration to default?</string>
+    <string name="reset_confirm">¿Revertir la configuración por defecto?</string>
     <string name="reset_to_default">Reset to default</string>
     <string name="ril_tweak_activated">RIL tweaks activated</string>
     <string name="ril_tweak_deactivated">RIL tweaks deactivated</string>
     <string name="ril_tweaks">RIL tweaks</string>
-    <string name="root_explanation">"L Speed requires root because it needs to modify files that can't be reached by a non rooted device"</string>
+    <string name="root_explanation">L Speed requiere root porque necesita modificar archivos que no pueden ser ser modificados por un dispositivo no rooteado</string>
     <string name="root_required">Root required</string>
-    <string name="root_safe">Is rooting my device safe?</string>
-    <string name="root_safe_explanation">"Rooting your device poses some security risk, but it's generally safe to do"</string>
+    <string name="root_safe">¿Es seguro rootear mi dispositivo?</string>
+    <string name="root_safe_explanation">Rootear tu dispositivo puede tener ciertos riesgos, pero es generalmente seguro de hacer</string>
     <string name="sd_tweak">SD tweak</string>
     <string name="sd_tweak_activated">SD tweaks activated</string>
     <string name="sd_tweak_deactivated">SD tweaks deactivated</string>
-    <string name="search_for_hint">Search for</string>
-    <string name="secondary_server">"Secondary server:\u0009 %1$sMB 
+    <string name="search_for_hint">Buscar para</string>
+    <string name="secondary_server">"Servidor secundario:\u0009 %1$sMB 
 "</string>
     <string name="seeder">Seeder</string>
     <string name="seeder_aggressive">Aggressive seeder profile activated</string>
     <string name="seeder_default">Seeder profile is set to default</string>
     <string name="seeder_enlarger">Enlarger seeder profile activated</string>
-    <string name="seeder_entries_aggressive">Aggressive</string>
-    <string name="seeder_entries_enlarger">Enlarger</string>
+    <string name="seeder_entries_aggressive">Agresivo</string>
+    <string name="seeder_entries_enlarger">Extendido</string>
     <string name="seeder_light">Light seeder profile activated</string>
     <string name="seeder_moderate">Moderate seeder profile activated</string>
     <string name="splash">Splash screen</string>
@@ -277,14 +277,14 @@
     <string name="status_discharging">Discharging</string>
     <string name="status_full">Fully charged</string>
     <string name="sysOpt">System Tweaks</string>
-    <string name="tap_to_open">Tap to view</string>
+    <string name="tap_to_open">Tap here to open…</string>
     <string name="technology">"Technology: %1$s 
 "</string>
     <string name="temp">Temperature:</string>
     <string name="uiOpt">UI Optimizations</string>
     <string name="usage_with_mods">Can I use it with other mods?</string>
     <string name="usage_with_mods_explanation">No, there is a possibility that other mods will conflict with L Speed</string>
-    <string name="visible_app">"Visible app:\u0009 %1$sMB 
+    <string name="visible_app">"Aplicaciones accesibles:\u0009 %1$sMB 
 "</string>
     <string name="volt">Voltage: %1$s mV</string>
     <string name="what_can_do">What can I do with L Speed?</string>
@@ -298,8 +298,8 @@
     <string name="wifi_sleeper_deactivated">WiFi sleepers disabled</string>
     <string name="wipe_cache">Wipe cache partition</string>
     <string name="wipe_dalvik">Wipe dalvik cache</string>
-    <string name="xda_help">Rooting guide for your device</string>
-    <string name="yes">Yes</string>
+    <string name="xda_help">Guia para rootear tu dispositivo</string>
+    <string name="yes">@android:string/yes</string>
     <string name="zipalign">Zipalign on boot</string>
     <string name="zipalign_activated">Zipalign on boot activated</string>
     <string name="zipalign_deactivated">Zipalign on boot deactivated</string>
@@ -308,7 +308,7 @@
     <string name="androidforums">AndroidForums</string>
     <string name="app_name">L Speed</string>
     <string name="app_package">com.paget96.lspeed</string>
-    <string name="app_version">1.3.8</string>
+    <string name="app_version">1.3.6</string>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
@@ -318,4 +318,18 @@
     <string name="peter">SeptentrioGR</string>
     <string name="peter_summary">Petros Kitsaras</string>
     <string name="xda">XDA-Developers</string>
+    <string name="navigate_up">Navigate up</string>
+    <string name="package_name">Package name</string>
+    <string name="tap_to_open_changelog">Tap to open changelog</string>
+    <string name="thanked_to">"Chainfire
+Aldanopolis
+F4uzan
+BlackGunZ
+SeptentrioGR
+All the testers and the L Speed community at XDA-Developers.com."</string>
+    <string name="thanks">Thanks to</string>
+    <string name="version">Version</string>
+    <string name="zram">zRAM</string>
+    <string name="zram_activated">zRAM activated</string>
+    <string name="zram_deactivated">zRAM deactivated</string>
 </resources>

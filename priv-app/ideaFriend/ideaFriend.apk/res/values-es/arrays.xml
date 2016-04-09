@@ -82,35 +82,6 @@
         <item>Smirk</item>
         <item>Poker face</item>
     </string-array>
-    <array name="letter_tile_colors">
-        <item>#ffc1d4dd</item>
-    </array>
-    <array name="contact_detail_photo_bg_colors">
-        <item>#ff0288d1</item>
-        <item>#ff00b674</item>
-        <item>#ff00aec7</item>
-        <item>#ffe59038</item>
-    </array>
-    <array name="letter_tile_colors_dark">
-        <item>#ffc53929</item>
-        <item>#ffc2185b</item>
-        <item>#ff7b1fa2</item>
-        <item>#ff512da8</item>
-        <item>#ff303f9f</item>
-        <item>#ff3367d6</item>
-        <item>#ff0277bd</item>
-        <item>#ff006064</item>
-        <item>#ff00796b</item>
-        <item>#ff0b8043</item>
-        <item>#ff33691e</item>
-        <item>#ffe65100</item>
-        <item>#ffe64a19</item>
-        <item>#ff424242</item>
-    </array>
-    <array name="KeySequence" />
-    <array name="KeySequenceIntents" />
-    <array name="KeyPattern" />
-    <array name="KeyPatternIntents" />
     <string-array name="default_smiley_texts">
         <item>:-)</item>
         <item>:-(</item>
@@ -264,4 +235,33 @@
         <item>Default</item>
         <item>Piano</item>
     </string-array>
+    <array name="letter_tile_colors">
+        <item>#ffc1d4dd</item>
+    </array>
+    <array name="contact_detail_photo_bg_colors">
+        <item>#ff0288d1</item>
+        <item>#ff00b674</item>
+        <item>#ff00aec7</item>
+        <item>#ffe59038</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#ffc53929</item>
+        <item>#ffc2185b</item>
+        <item>#ff7b1fa2</item>
+        <item>#ff512da8</item>
+        <item>#ff303f9f</item>
+        <item>#ff3367d6</item>
+        <item>#ff0277bd</item>
+        <item>#ff006064</item>
+        <item>#ff00796b</item>
+        <item>#ff0b8043</item>
+        <item>#ff33691e</item>
+        <item>#ffe65100</item>
+        <item>#ffe64a19</item>
+        <item>#ff424242</item>
+    </array>
+    <array name="KeySequence"></array>
+    <array name="KeySequenceIntents"></array>
+    <array name="KeyPattern"></array>
+    <array name="KeyPatternIntents"></array>
 </resources>

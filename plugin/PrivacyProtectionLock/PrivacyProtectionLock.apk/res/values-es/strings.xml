@@ -47,7 +47,7 @@
     <string name="hint_setup_password_input_2">Please input again</string>
     <string name="hint_trusted_contact">Number from your kith and kin suggested</string>
     <string name="hint_update_trusted_contact">Number from your kith and kin suggested</string>
-    <string name="content_setup_send_manual">&lt;p>1. Remote phone lock&lt;/p>&lt;p>Send message &lt;font color=#33B5E5>#suoding#&lt;/font>&lt;/p>&lt;p>2. Remote data wipe&lt;/p>&lt;p>Send message &lt;font color=#33B5E5>#xiaohui#&lt;/font>&lt;/p>&lt;p>3. Fetch back anti-theft PIN&lt;/p>&lt;p>Send message &lt;font color=#33B5E5>#mima#&lt;/font>&lt;/p></string>
+    <string name="content_setup_send_manual">&lt;p&gt;1. Remote phone lock&lt;/p&gt;&lt;p&gt;Send message &lt;font color=#33B5E5&gt;#suoding#&lt;/font&gt;&lt;/p&gt;&lt;p&gt;2. Remote data wipe&lt;/p&gt;&lt;p&gt;Send message &lt;font color=#33B5E5&gt;#xiaohui#&lt;/font&gt;&lt;/p&gt;&lt;p&gt;3. Fetch back anti-theft PIN&lt;/p&gt;&lt;p&gt;Send message &lt;font color=#33B5E5&gt;#mima#&lt;/font&gt;&lt;/p&gt;</string>
     <string name="toast_passwords_do_not_match">Two inputted PINs are different.</string>
     <string name="toast_password_is_incorrect">The password is incorrect</string>
     <string name="toast_no_phone_number">No phone number found</string>

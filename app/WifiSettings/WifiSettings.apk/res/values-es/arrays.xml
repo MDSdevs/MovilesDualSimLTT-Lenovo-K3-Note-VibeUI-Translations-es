@@ -82,13 +82,13 @@
         <item>Small</item>
         <item>Normal</item>
         <item>Large</item>
-        <item>Extra large</item>
+        <item>Huge</item>
     </string-array>
     <string-array name="entryvalues_font_size">
-        <item>0.9</item>
+        <item>0.85</item>
         <item>1.0</item>
-        <item>1.1</item>
         <item>1.15</item>
+        <item>1.30</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
@@ -192,6 +192,9 @@
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Push button</item>
@@ -213,9 +216,9 @@
     </string-array>
     <string-array name="wifi_signal">
         <item>Poor</item>
-        <item>Bad</item>
         <item>Fair</item>
         <item>Good</item>
+        <item>Excellent</item>
         <item>Excellent</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
@@ -306,14 +309,40 @@
         <item>IPV4V6</item>
     </string-array>
     <string-array name="bearer_entries">
-        <item>LTE</item>
-        <item>eHRPD</item>
         <item>Unspecified</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
     </string-array>
     <string-array name="bearer_values">
-        <item>14</item>
-        <item>13</item>
         <item>0</item>
+        <item>14</item>
+        <item>15</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>13</item>
+        <item>12</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
     </string-array>
     <string-array name="mvno_type_entries">
         <item>None</item>
@@ -355,7 +384,7 @@
         <item>modify call log</item>
         <item>read calendar</item>
         <item>modify calendar</item>
-        <item>WLAN scan</item>
+        <item>wi-fi scan</item>
         <item>notification</item>
         <item>cell scan</item>
         <item>call phone</item>
@@ -392,6 +421,9 @@
         <item>mute/unmute microphone</item>
         <item>project media</item>
         <item>activate VPN</item>
+        <item>write wallpaper</item>
+        <item>assist structure</item>
+        <item>assist screenshot</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Location</item>
@@ -441,6 +473,9 @@
         <item>Mute/unmute microphone</item>
         <item>Project media</item>
         <item>Activate VPN</item>
+        <item>Write wallpaper</item>
+        <item>Assist structure</item>
+        <item>Assist screenshot</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Short</item>
@@ -456,8 +491,9 @@
         <item>Default</item>
         <item>Sans-serif</item>
         <item>Sans-serif condensed</item>
+        <item>Sans-serif monospace</item>
         <item>Serif</item>
-        <item>Monospace</item>
+        <item>Serif monospace</item>
         <item>Casual</item>
         <item>Cursive</item>
         <item>Small capitals</item>
@@ -466,8 +502,9 @@
         <item></item>
         <item>sans-serif</item>
         <item>sans-serif-condensed</item>
+        <item>sans-serif-monospace</item>
         <item>serif</item>
-        <item>monospace</item>
+        <item>serif-monospace</item>
         <item>casual</item>
         <item>cursive</item>
         <item>sans-serif-smallcaps</item>
@@ -494,14 +531,6 @@
         <item>Raised</item>
         <item>Depressed</item>
     </string-array>
-    <integer-array name="captioning_edge_type_selector_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="captioning_color_selector_titles">
         <item>@string/color_unspecified</item>
         <item>@string/color_white</item>
@@ -513,85 +542,12 @@
         <item>@string/color_blue</item>
         <item>@string/color_magenta</item>
     </string-array>
-    <integer-array name="captioning_color_selector_values">
-        <item>0x100</item>
-        <item>0xffffffff</item>
-        <item>0xff000000</item>
-        <item>0xffff0000</item>
-        <item>0xffffff00</item>
-        <item>0xff00ff00</item>
-        <item>0xff00ffff</item>
-        <item>0xff0000ff</item>
-        <item>0xffff00ff</item>
-        <item>0xff000055</item>
-        <item>0xff0000aa</item>
-        <item>0xff005500</item>
-        <item>0xff005555</item>
-        <item>0xff0055aa</item>
-        <item>0xff0055ff</item>
-        <item>0xff00aa00</item>
-        <item>0xff00aa55</item>
-        <item>0xff00aaaa</item>
-        <item>0xff00aaff</item>
-        <item>0xff00ff55</item>
-        <item>0xff00ffaa</item>
-        <item>0xff550000</item>
-        <item>0xff550055</item>
-        <item>0xff5500aa</item>
-        <item>0xff5500ff</item>
-        <item>0xff555500</item>
-        <item>0xff555555</item>
-        <item>0xff5555aa</item>
-        <item>0xff5555ff</item>
-        <item>0xff55aa00</item>
-        <item>0xff55aa55</item>
-        <item>0xff55aaaa</item>
-        <item>0xff55aaff</item>
-        <item>0xff55ff00</item>
-        <item>0xff55ff55</item>
-        <item>0xff55ffaa</item>
-        <item>0xff55ffff</item>
-        <item>0xffaa0000</item>
-        <item>0xffaa0055</item>
-        <item>0xffaa00aa</item>
-        <item>0xffaa00ff</item>
-        <item>0xffaa5500</item>
-        <item>0xffaa5555</item>
-        <item>0xffaa55aa</item>
-        <item>0xffaa55ff</item>
-        <item>0xffaaaa00</item>
-        <item>0xffaaaa55</item>
-        <item>0xffaaaaaa</item>
-        <item>0xffaaaaff</item>
-        <item>0xffaaff00</item>
-        <item>0xffaaff55</item>
-        <item>0xffaaffaa</item>
-        <item>0xffaaffff</item>
-        <item>0xffff0055</item>
-        <item>0xffff00aa</item>
-        <item>0xffff5500</item>
-        <item>0xffff5555</item>
-        <item>0xffff55aa</item>
-        <item>0xffff55ff</item>
-        <item>0xffffaa00</item>
-        <item>0xffffaa55</item>
-        <item>0xffffaaaa</item>
-        <item>0xffffaaff</item>
-        <item>0xffffff55</item>
-        <item>0xffffffaa</item>
-    </integer-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
         <item>50%</item>
         <item>75%</item>
         <item>100%</item>
     </string-array>
-    <integer-array name="captioning_opacity_selector_values">
-        <item>0x40ffffff</item>
-        <item>0x80ffffff</item>
-        <item>0xc0ffffff</item>
-        <item>0xffffffff</item>
-    </integer-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Use app defaults</item>
         <item>White on black</item>
@@ -600,14 +556,6 @@
         <item>Yellow on blue</item>
         <item>Custom</item>
     </string-array>
-    <integer-array name="captioning_preset_selector_values">
-        <item>4</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>-1</item>
-    </integer-array>
     <string-array name="select_logd_size_titles">
         <item>64K</item>
         <item>256K</item>
@@ -705,22 +653,30 @@
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>None</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (secure)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (secure)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (secure)</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (secure)</item>
+        <item>1080p</item>
+        <item>1080p (secure)</item>
+        <item>4K</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
-        <item>720x480/160</item>
-        <item>720x480/160,secure</item>
+        <item>720x480/142</item>
+        <item>720x480/142,secure</item>
         <item>1280x720/213</item>
         <item>1280x720/213,secure</item>
         <item>1920x1080/320</item>
         <item>1920x1080/320,secure</item>
+        <item>3840x2160/320</item>
+        <item>3840x2160/320,secure</item>
+        <item>1920x1080/320|3840x2160/640</item>
+        <item>1920x1080/320|3840x2160/640,secure</item>
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
@@ -825,10 +781,11 @@
         <item>Always allow</item>
     </string-array>
     <string-array name="ram_states">
-        <item>normal</item>
-        <item>moderate</item>
-        <item>low</item>
-        <item>critical</item>
+        <item>Normal</item>
+        <item>Moderate</item>
+        <item>Low</item>
+        <item>Critical</item>
+        <item>\?</item>
     </string-array>
     <string-array name="daltonizer_type_entries">
         <item>@string/daltonizer_mode_deuteranomaly</item>
@@ -864,11 +821,6 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-    <integer-array name="battery_saver_trigger_values">
-        <item>0</item>
-        <item>5</item>
-        <item>15</item>
-    </integer-array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>
         <item>Moderate</item>
@@ -897,12 +849,6 @@
         <item>@string/color_green</item>
         <item>@string/color_purple</item>
     </string-array>
-    <integer-array name="sim_info_picker_color_values">
-        <item>0xfffda71d</item>
-        <item>0xffec5830</item>
-        <item>0xff71cf1f</item>
-        <item>0xff8e51fe</item>
-    </integer-array>
     <string-array name="wifi_sleep_policy_entries_smart">
         <item>Always</item>
         <item>Only when plugged in</item>
@@ -1166,7 +1112,176 @@
         <item>2</item>
         <item>0</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_006f">false</item>
-    <item type="array" name="APKTOOL_DUMMY_0070">false</item>
+    <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_full">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_only">
+        <item>@string/wifi_ap_choose_2G</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Teal</item>
+        <item>Blue</item>
+        <item>Indigo</item>
+        <item>Purple</item>
+        <item>Pink</item>
+        <item>Red</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="usb_configuration_values">
+        <item>none</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+    </string-array>
+    <string-array name="night_mode_entries">
+        <item>@string/night_mode_no</item>
+        <item>@string/night_mode_yes</item>
+        <item>@string/night_mode_auto</item>
+    </string-array>
+    <string-array name="night_mode_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices">
+        <item>Wi-Fi preferred</item>
+        <item>Cellular preferred</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+    </string-array>
+    <integer-array name="captioning_edge_type_selector_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="captioning_color_selector_values">
+        <item>0xffffff</item>
+        <item>0xffffffff</item>
+        <item>0xff000000</item>
+        <item>0xffff0000</item>
+        <item>0xffffff00</item>
+        <item>0xff00ff00</item>
+        <item>0xff00ffff</item>
+        <item>0xff0000ff</item>
+        <item>0xffff00ff</item>
+        <item>0xff000055</item>
+        <item>0xff0000aa</item>
+        <item>0xff005500</item>
+        <item>0xff005555</item>
+        <item>0xff0055aa</item>
+        <item>0xff0055ff</item>
+        <item>0xff00aa00</item>
+        <item>0xff00aa55</item>
+        <item>0xff00aaaa</item>
+        <item>0xff00aaff</item>
+        <item>0xff00ff55</item>
+        <item>0xff00ffaa</item>
+        <item>0xff550000</item>
+        <item>0xff550055</item>
+        <item>0xff5500aa</item>
+        <item>0xff5500ff</item>
+        <item>0xff555500</item>
+        <item>0xff555555</item>
+        <item>0xff5555aa</item>
+        <item>0xff5555ff</item>
+        <item>0xff55aa00</item>
+        <item>0xff55aa55</item>
+        <item>0xff55aaaa</item>
+        <item>0xff55aaff</item>
+        <item>0xff55ff00</item>
+        <item>0xff55ff55</item>
+        <item>0xff55ffaa</item>
+        <item>0xff55ffff</item>
+        <item>0xffaa0000</item>
+        <item>0xffaa0055</item>
+        <item>0xffaa00aa</item>
+        <item>0xffaa00ff</item>
+        <item>0xffaa5500</item>
+        <item>0xffaa5555</item>
+        <item>0xffaa55aa</item>
+        <item>0xffaa55ff</item>
+        <item>0xffaaaa00</item>
+        <item>0xffaaaa55</item>
+        <item>0xffaaaaaa</item>
+        <item>0xffaaaaff</item>
+        <item>0xffaaff00</item>
+        <item>0xffaaff55</item>
+        <item>0xffaaffaa</item>
+        <item>0xffaaffff</item>
+        <item>0xffff0055</item>
+        <item>0xffff00aa</item>
+        <item>0xffff5500</item>
+        <item>0xffff5555</item>
+        <item>0xffff55aa</item>
+        <item>0xffff55ff</item>
+        <item>0xffffaa00</item>
+        <item>0xffffaa55</item>
+        <item>0xffffaaaa</item>
+        <item>0xffffaaff</item>
+        <item>0xffffff55</item>
+        <item>0xffffffaa</item>
+    </integer-array>
+    <integer-array name="captioning_opacity_selector_values">
+        <item>0x40ffffff</item>
+        <item>0x80ffffff</item>
+        <item>0xc0ffffff</item>
+        <item>0xffffffff</item>
+    </integer-array>
+    <integer-array name="captioning_preset_selector_values">
+        <item>4</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="battery_saver_trigger_values">
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+    </integer-array>
+    <integer-array name="sim_info_picker_color_values">
+        <item>0xfffda71d</item>
+        <item>0xffec5830</item>
+        <item>0xff71cf1f</item>
+        <item>0xff8e51fe</item>
+    </integer-array>
     <item type="array" name="APKTOOL_DUMMY_0071">false</item>
+    <array name="ram_colors">
+        <item>@color/memory_normal</item>
+        <item>@color/memory_moderate</item>
+        <item>@color/memory_low</item>
+        <item>@color/memory_critical</item>
+    </array>
 </resources>

@@ -10,7 +10,7 @@
     <string name="sendCheckCode">"  发送校验码  "</string>
     <string name="resendCheckCode">"  重发校验码  "</string>
     <string name="timeAfter">" $s$秒后重发 "</string>
-    <string name="useragent" />
+    <string name="useragent"></string>
     <string name="warnning">提醒</string>
     <string name="time_update">上次更新%s</string>
     <string name="timeAfter_type2">接受短信大约需要$s$秒</string>
@@ -19,7 +19,7 @@
     <string name="share_name_sms">短信</string>
     <string name="share_name_weibo">新浪微博</string>
     <string name="checkCodeLoading">加载中</string>
-    <string name="flow_network_error">网络无法连接&lt;br/>请检查你的手机是否联网</string>
+    <string name="flow_network_error">网络无法连接&lt;br/&gt;请检查你的手机是否联网</string>
     <string name="share_name_linkcopy">复制链接</string>
     <string name="share_name_laiwang">来往</string>
     <string name="share_name_laiwang_timeline">来往动态</string>
@@ -31,7 +31,7 @@
     <string name="search">搜索</string>
     <string name="mobile_input_checkCode">请输入校验码</string>
     <string name="mobile_input_resent_checkCode">重新获取校验码</string>
-    <string name="mini_str_null" />
+    <string name="mini_str_null"></string>
     <string name="network_error">网络异常</string>
     <string name="network_error_check_network">网络无法连接</string>
     <string name="network_error_wait_retry">网络连接超时</string>
@@ -189,7 +189,7 @@
     <string name="setting_input_password">支付密码</string>
     <string name="setting_ensure">确认</string>
     <string name="setting_empty_tips">密码不能为空</string>
-    <string name="msp_str_null" />
+    <string name="msp_str_null"></string>
     <string name="msp_app_name">支付宝快捷支付服务</string>
     <string name="msp_loading_default">加载中</string>
     <string name="msp_redo">重试</string>
@@ -294,7 +294,7 @@
     <string name="security_same_pwd_err">新密码和旧密码不能相同</string>
     <string name="security_accountmanager_account_changing">账户切换中</string>
     <string name="security_accountmanager_network_error">无法连接网络，请检查网络设置，稍后再试</string>
-    <string name="security_accountmanager_loading" />
+    <string name="security_accountmanager_loading"></string>
     <string name="security_otp_init_fail">安全模块初始化失败</string>
     <string name="security_otp_alipay_account">支付宝账户：</string>
     <string name="security_otp_close_confirm_msg">你将关闭所有设备上的宝令服务，确认关闭？</string>
@@ -560,7 +560,7 @@
     <string name="label">支付宝扫码</string>
     <string name="upgrade_for_scheme">请升级客户端才能执行相应的操作。</string>
     <string name="name">支付宝扫码</string>
-    <string name="channels" />
+    <string name="channels"></string>
     <string name="updateInfo">当前版本暂不支持该功能，请升级后再试。</string>
     <string name="cancleUpdate">取消</string>
     <string name="confirmUpdate">升级</string>

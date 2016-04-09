@@ -62,8 +62,8 @@ Continue to press with 2 seconds for restart after shutdown"</string>
     <string name="reboot_dialog_msg_by_long_press">Press power key to reboot after ^1 seconds.</string>
     <string name="dlg_use_ipo_confirm">Quick bootup at next booting</string>
     <string name="dlg_ipo_confirm_warning">In the fast boot mode, the system is not completely powered off, please do not plug the SIM card or memory card in this state that may damage to the card.</string>
-    <string name="powerOnWarning_alarm_msg">Alarm clock will wake up at %1$s</string>
-    <string name="powerOnWarning_boot_msg">Your phone will power on at %1$s</string>
+    <string name="powerOnWarning_alarm_msg">Next Alarm Clock: %1$s</string>
+    <string name="powerOnWarning_boot_msg">Next PowerOn: %1$s</string>
     <string name="global_actions_toggle_open_airplane_mode_confirm">Are you sure you want to activate airplane mode?</string>
     <string name="shutdown_alarm_confirm">Alarm will wakeup at %1$s.</string>
     <string name="global_action_restart">Restart</string>
@@ -93,7 +93,7 @@ Continue to press with 2 seconds for restart after shutdown"</string>
     <string name="editor_popup_menu_translate_no_suggest">No suggestions</string>
     <string name="editor_popup_menu_item_translate">Translate</string>
     <string name="editor_popup_menu_jump_to_translate_app">Launch Powerword to view translations</string>
-    <string name="editor_popup_menu_no_network_permission" />
+    <string name="editor_popup_menu_no_network_permission"></string>
     <string name="editor_translate_network_traffic_title">Welcome to the translation service</string>
     <string name="editor_translate_network_traffic_content">Dear user, this translation service needs to be connected to the Internet when in use.</string>
     <string name="editor_translate_network_traffic_data_usage_confirm">"Don't prompt"</string>
@@ -108,4 +108,5 @@ Continue to press with 2 seconds for restart after shutdown"</string>
     <string name="paste">Paste</string>
     <string name="selectWord">Select</string>
     <string name="replace">Replace</string>
+    <string name="systemui_screen_pinning_lock_to_app_toast">To unpin this screen, long press Back.</string>
 </resources>

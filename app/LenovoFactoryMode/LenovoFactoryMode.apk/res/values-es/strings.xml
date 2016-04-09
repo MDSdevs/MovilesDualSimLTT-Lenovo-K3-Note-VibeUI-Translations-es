@@ -204,7 +204,7 @@
     <string name="battery_plugged_no">no</string>
     <string name="battery_test_result">Charging Result:</string>
     <string name="battery_test_fail_info">Abnormal! Use another battery or lay aside for a while to confirm.</string>
-    <string name="battery_test_retry_info">Battery is nearly full（>80%）. If failed, please using a battery with low capacity！</string>
+    <string name="battery_test_retry_info">Battery is nearly full（&gt;80%）. If failed, please using a battery with low capacity！</string>
     <string name="sdcard_total">total：</string>
     <string name="sdcard_free">free：</string>
     <string name="sdcard_mount">unmount sd</string>
@@ -252,7 +252,7 @@ brighter conditions: light effect sensor is greater than 25 and distance sensor 
     <string name="Battery_fail_text">Battery_fail_text</string>
     <string name="ygps_activity">YGPS</string>
     <string name="ygps_text">start YGPS</string>
-    <string name="FMR_Freq_text">Freq(MHz<string name="action_settings">Settings</string>)</string>
+    <string name="FMR_Freq_text">Freq(MHz&lt;string name="action_settings"&gt;Settings&lt;/string&gt;)</string>
     <string name="FMR_Freq_tune">Tune</string>
     <string name="FMR_Antenna_text">Antenna Type</string>
     <string name="FMR_Antenna_short">Short</string>
