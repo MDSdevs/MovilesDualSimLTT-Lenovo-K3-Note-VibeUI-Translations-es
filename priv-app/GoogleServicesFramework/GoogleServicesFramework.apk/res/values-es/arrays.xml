@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="passwordStrength">
-        <item>poor</item>
-        <item>fair</item>
-        <item>good</item>
-        <item>strong</item>
+        <item>mala</item>
+        <item>aceptable</item>
+        <item>buena</item>
+        <item>muy buena</item>
     </string-array>
     <string-array name="alphabet_keys">
         <item>a</item>
@@ -68,7 +68,7 @@
         <item>32x</item>
     </string-array>
     <string-array name="ampm">
-        <item>AM</item>
-        <item>PM</item>
+        <item>a.m.</item>
+        <item>p.m.</item>
     </string-array>
 </resources>

@@ -22,7 +22,7 @@
     <string name="delete_profile_title">Remove work profile?</string>
     <string name="opening_paragraph_delete_profile_unknown_company">A work profile already exists and is managed by:</string>
     <string name="opening_paragraph_delete_profile_known_company">This work profile is managed for %s using:</string>
-    <string name="read_more_delete_profile">Before proceeding, <a href="#read_this_link">read this</a>.</string>
+    <string name="read_more_delete_profile">Before proceeding, &lt;a href="#read_this_link"&gt;read this&lt;/a&gt;.</string>
     <string name="sure_you_want_to_delete_profile">All apps and data in this profile will be deleted if you continue.</string>
     <string name="delete_profile">DELETE</string>
     <string name="cancel_delete_profile">CANCEL</string>
@@ -82,11 +82,5 @@
     <string name="setup_device_progress">Set up your device. Showing progress</string>
     <string name="learn_more_label">Learn more button</string>
     <string name="mdm_icon_label">%1$s icon</string>
-    <item type="string" name="APKTOOL_DUMMY_0052">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0053">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0054">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0055">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0056">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0057">false</item>
     <item type="string" name="APKTOOL_DUMMY_0058">false</item>
 </resources>

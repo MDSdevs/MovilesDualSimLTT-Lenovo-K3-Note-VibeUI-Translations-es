@@ -39,7 +39,7 @@
     <string name="anti_resetpwdpanel_label">Reset password</string>
     <string name="anti_settingpanel_label">Security settings</string>
     <string name="anti_setpwdpanel_label">Set the password</string>
-    <string name="anti_forget_pwd"><u>Forget the password</u></string>
+    <string name="anti_forget_pwd">&lt;u&gt;Forget the password&lt;/u&gt;</string>
     <string name="anti_setpwdtrustpanel_label">Set security question</string>
     <string name="lock_state_close">Anti-theft protection disabled</string>
     <string name="lock_state_open">Anti-theft Enabled</string>
@@ -274,10 +274,10 @@ Click on the link below to view the map position information:
     <string name="reset_app_preferences_title">Reset app preferences?</string>
     <string name="reset_app_preferences_desc">"This will reset all preferences for:
 
- "<li>Disabled apps</li>"
- "<li>Disabled app notifications</li>"
- "<li>Default applications for operations</li>"
- "<li>App background data restrictions</li>"
+ "&lt;li&gt;Disabled apps&lt;/li&gt;"
+ "&lt;li&gt;Disabled app notifications&lt;/li&gt;"
+ "&lt;li&gt;Default applications for operations&lt;/li&gt;"
+ "&lt;li&gt;App background data restrictions&lt;/li&gt;"
 
  You will not lose any app data."</string>
     <string name="reset_app_preferences_button">Reset apps</string>
@@ -318,7 +318,7 @@ Click on the link below to view the map position information:
     <string name="system_package">"System updates can't be installed on external media."</string>
     <string name="force_stop_dlg_title">Force stop?</string>
     <string name="force_stop_dlg_text">If you force stop an app, it may cause errors.</string>
-    <string name="move_app_failed_dlg_title" />
+    <string name="move_app_failed_dlg_title"></string>
     <string name="move_app_failed_dlg_text">Cannot move app. %1$s</string>
     <string name="app_disable_dlg_title">Disable app?</string>
     <string name="app_disable_dlg_text">If you disable an app, other apps may encounter errors.</string>
@@ -581,8 +581,8 @@ NOTE: The operator data may be delayed."</string>
     <string name="net_calibration_fail">Calibration failed</string>
     <string name="net_calibration_remain_data">Remaining:</string>
     <string name="net_calibration_used_data">, used:</string>
-    <string name="net_calibration_parse_error_remain_data">parse error -> residual flow:</string>
-    <string name="net_calibration_parse_error2_remain_data">parse error 2-> residual flow:</string>
+    <string name="net_calibration_parse_error_remain_data">parse error -&gt; residual flow:</string>
+    <string name="net_calibration_parse_error2_remain_data">parse error 2-&gt; residual flow:</string>
     <string name="net_correct_update_config_progress">Loading data from the clouds ......</string>
     <string name="net_correct_update_config_notice">SMS calibration instruction has been updated!</string>
     <string name="net_correct_limit_type">Operator info</string>
@@ -657,7 +657,7 @@ NOTE: The operator data may be delayed."</string>
     <string name="file_clean_size_total">Total</string>
     <string name="file_clean_daily_rubbish">Daily trash</string>
     <string name="file_clean_clean">One-key cleaning</string>
-    <string name="file_clean_update_db"><u>Update the database file</u></string>
+    <string name="file_clean_update_db">&lt;u&gt;Update the database file&lt;/u&gt;</string>
     <string name="file_clean_total_junk">Total clean</string>
     <string name="file_clean_query_db">Querying the database update</string>
     <string name="file_clean_db_update">Updating database</string>
@@ -757,7 +757,7 @@ NOTE: The operator data may be delayed."</string>
     <string name="loading_conversations">Loading conversations</string>
     <string name="message_count_format">%1$s</string>
     <string name="restore_to_inbox">Restore to inbox</string>
-    <string name="inline_subject">&lt;Subject: %s></string>
+    <string name="inline_subject">&lt;Subject: %s&gt;</string>
     <string name="unknown_sender">Unknown sender</string>
     <string name="no_subject_view">(No subject)</string>
     <string name="message_size_label">"Message size: "</string>
@@ -865,8 +865,8 @@ NOTE: The operator data may be delayed."</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
     <string name="unlock_set_unlock_disabled_summary">Disabled by administrator, encryption policy, or credential storage</string>
     <string name="lockpattern_pattern_invalid_header">Password conflict, please reset</string>
-    <string name="lockpattern_need_to_unlock_footer" />
-    <string name="lockpattern_need_to_unlock_wrong_footer" />
+    <string name="lockpattern_need_to_unlock_footer"></string>
+    <string name="lockpattern_need_to_unlock_wrong_footer"></string>
     <string name="lockpattern_tutorial_cancel_label">Cancel</string>
     <string name="lockpattern_tutorial_continue_label">Next</string>
     <string name="notify">Notify</string>
@@ -893,7 +893,7 @@ NOTE: The operator data may be delayed."</string>
     <string name="lockpassword_confirm_your_pin_header">Confirm your PIN</string>
     <string name="lockpassword_ok_label">OK</string>
     <string name="backup_lock_settings_picker_title">Choose backup lock</string>
-    <string name="help_url_choose_lockscreen" />
+    <string name="help_url_choose_lockscreen"></string>
     <string name="lockpassword_choose_lock_generic_header">Unlock selection</string>
     <string name="master_mode">System pattern</string>
     <string name="modify_master_pwd">Modify the system password</string>

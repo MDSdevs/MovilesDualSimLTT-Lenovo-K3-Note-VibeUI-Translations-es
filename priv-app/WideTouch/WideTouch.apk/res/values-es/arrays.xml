@@ -10,16 +10,6 @@
         <item>@drawable/back</item>
         <item>@drawable/camera</item>
     </array>
-    <string-array name="snooze_dismiss_descriptions">
-        <item>@string/widetouch_note</item>
-        <item>@string/widetouch_alarm</item>
-        <item>@string/widetouch_add_app</item>
-        <item>@string/widetouch_calculator</item>
-        <item>@string/widetouch_favor</item>
-        <item>@string/widetouch_torchlight</item>
-        <item>@string/widetouch_back</item>
-        <item>@string/widetouch_camera</item>
-    </string-array>
     <array name="snooze_dismiss_direction_descriptions">
         <item>@null</item>
         <item>@null</item>
@@ -60,4 +50,14 @@
         <item>@null</item>
         <item>@null</item>
     </array>
+    <string-array name="snooze_dismiss_descriptions">
+        <item>@string/widetouch_note</item>
+        <item>@string/widetouch_alarm</item>
+        <item>@string/widetouch_add_app</item>
+        <item>@string/widetouch_calculator</item>
+        <item>@string/widetouch_favor</item>
+        <item>@string/widetouch_torchlight</item>
+        <item>@string/widetouch_back</item>
+        <item>@string/widetouch_camera</item>
+    </string-array>
 </resources>

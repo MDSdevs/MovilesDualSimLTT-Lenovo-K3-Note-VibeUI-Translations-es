@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
-    <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="ROM">ROM</string>
     <string name="Recovery">Recovery</string>
     <string name="about">About ToolHero</string>
@@ -30,14 +30,14 @@
     <string name="alert_root_request_msg_root_start_apk">Please ROOT your device, click OK to start ROOT tools</string>
     <string name="alert_root_request_root">This feature requires ROOT permission</string>
     <string name="all">All</string>
-    <string name="all_rights_reserved" />
+    <string name="all_rights_reserved"></string>
     <string name="alreadyDownloading">Download task already exists. Please wait.</string>
     <string name="ap_name">WIFI server name</string>
     <string name="apk_search_count_and_size">Download:%1$d times Size:%2$s</string>
     <string name="app_apk">APP</string>
     <string name="app_autostart_manage">Auto-start management</string>
     <string name="app_detail">Software details</string>
-    <string name="app_information" />
+    <string name="app_information"></string>
     <string name="app_memory_clean">Memory acceleration</string>
     <string name="app_name">ToolHero</string>
     <string name="app_no_new_update">No find new version</string>
@@ -375,9 +375,7 @@ Log to `%1$s`."</string>
     <string name="UMUpdateTitle">发现新版本</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="com_facebook_loading">Loading...</string>
-    <item type="string" name="cpb_default_rotation_speed">1.0</item>
-    <item type="string" name="cpb_default_sweep_speed">1.0</item>
-    <string name="define_smoothprogressbar" />
+    <string name="define_smoothprogressbar"></string>
     <string name="library_smoothprogressbar_author">Antoine Merle</string>
     <string name="library_smoothprogressbar_authorWebsite">https://github.com/castorflex</string>
     <string name="library_smoothprogressbar_isOpenSource">true</string>
@@ -391,7 +389,6 @@ Log to `%1$s`."</string>
     <string name="pull_to_refresh_refreshing_label">加载中…</string>
     <string name="pull_to_refresh_release_label">松开可以刷新</string>
     <string name="pull_to_refresh_tap_label">点击刷新</string>
-    <item type="string" name="spb_default_speed">1.0</item>
     <string name="tb_munion_tip_download_prefix">正在下载:</string>
     <string name="umeng_common_action_cancel">取消</string>
     <string name="umeng_common_action_continue">继续</string>
@@ -415,7 +412,7 @@ Log to `%1$s`."</string>
     <string name="umeng_socialize_comment_detail">评论详情</string>
     <string name="umeng_socialize_content_hint">说点啥…</string>
     <string name="umeng_socialize_friends">关注的好友</string>
-    <string name="umeng_socialize_img_des" />
+    <string name="umeng_socialize_img_des"></string>
     <string name="umeng_socialize_laiwang_default_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能</string>
     <string name="umeng_socialize_login">登录</string>
     <string name="umeng_socialize_login_qq">QQ空间</string>
@@ -466,4 +463,5 @@ Log to `%1$s`."</string>
     <string name="umeng_socialize_tip_loginfailed">登录失败…</string>
     <string name="umeng_socialize_ucenter_login_title_guide">游客登录</string>
     <string name="umeng_socialize_ucenter_login_title_platform">登录帐号</string>
+    <item type="string" name="spb_default_speed">1.0</item>
 </resources>

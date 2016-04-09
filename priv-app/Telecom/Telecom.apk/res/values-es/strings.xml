@@ -3,7 +3,7 @@
     <string name="dialpad_star_number">*</string>
     <string name="dialpad_pound_number">\#</string>
     <string name="dialpad_0_letters">+</string>
-    <string name="dialpad_1_letters" />
+    <string name="dialpad_1_letters"></string>
     <string name="dialpad_2_letters">ABC</string>
     <string name="dialpad_3_letters">DEF</string>
     <string name="dialpad_4_letters">GHI</string>
@@ -12,8 +12,8 @@
     <string name="dialpad_7_letters">PQRS</string>
     <string name="dialpad_8_letters">TUV</string>
     <string name="dialpad_9_letters">WXYZ</string>
-    <string name="dialpad_star_letters" />
-    <string name="dialpad_pound_letters" />
+    <string name="dialpad_star_letters"></string>
+    <string name="dialpad_pound_letters"></string>
     <string name="description_dialpad_overflow">More options</string>
     <string name="description_delete_button">backspace</string>
     <string name="description_image_button_plus">plus</string>
@@ -115,7 +115,7 @@ On Conditional"</string>
     <string name="respond_via_sms_canned_response_4">"Can't talk now. Call me later?"</string>
     <string name="respond_via_sms_setting_title">Quick responses</string>
     <string name="respond_via_sms_setting_title_2">Edit quick responses</string>
-    <string name="respond_via_sms_setting_summary" />
+    <string name="respond_via_sms_setting_summary"></string>
     <string name="respond_via_sms_edittext_dialog_title">Quick response</string>
     <string name="respond_via_sms_confirmation_format">Message sent to %s.</string>
     <string name="enable_account_preference_title">Calling accounts</string>
@@ -139,21 +139,5 @@ On Conditional"</string>
     <string name="test_account_2_short_description">Talk to everyone in your Circles!</string>
     <string name="test_account_3_short_description">Chat with Chat Network users</string>
     <string name="handle_restricted">RESTRICTED</string>
-    <item type="string" name="APKTOOL_DUMMY_0029">false</item>
-    <item type="string" name="APKTOOL_DUMMY_002a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_002b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_002c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_002d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_002e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_002f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0030">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0031">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0032">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0094">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0095">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0096">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0097">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0098">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0099">false</item>
     <item type="string" name="APKTOOL_DUMMY_009a">false</item>
 </resources>

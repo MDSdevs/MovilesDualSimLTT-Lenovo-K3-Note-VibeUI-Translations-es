@@ -738,7 +738,6 @@
     <string-array name="default_corpora_suggest_uris">
         <item>content://com.android.contacts/search_suggest_query</item>
     </string-array>
-    <array name="hidden_corpora" />
     <string-array name="search_engines">
         <item>baidu_en</item>
         <item>google</item>
@@ -856,4 +855,5 @@
         <item>Normal</item>
         <item>Large(Default)</item>
     </string-array>
+    <array name="hidden_corpora"></array>
 </resources>

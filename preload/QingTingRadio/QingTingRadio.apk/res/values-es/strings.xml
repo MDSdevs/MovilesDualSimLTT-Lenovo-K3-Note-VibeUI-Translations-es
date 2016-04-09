@@ -2,26 +2,26 @@
 <resources>
     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_action_bar_home_description">Navigate home</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
-    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_search_hint">Search…</string>
-    <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
-    <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="abc_capital_on">ON</string>
-    <string name="abc_capital_off">OFF</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="abc_capital_on">SÍ</string>
+    <string name="abc_capital_off">NO</string>
     <string name="com_lenovo_lsf_lenovouser_app_name">Lenovo ID</string>
     <string name="com_lenovo_lsf_lenovouser_btn_ok">OK</string>
     <string name="com_lenovo_lsf_lenovouser_btn_cancel">Cancel</string>
@@ -91,7 +91,7 @@
     <string name="com_lenovo_lsf_account_settings">Account settings</string>
     <string name="com_lenovo_lsf_login_password_error">Wrong password. If you have forgotten the password, please try retrieve password.</string>
     <string name="com_lenovo_lsf_binding_string_account">Account:</string>
-    <string name="com_lenovo_lsf_binding_another_account"><u>Bind other account</u></string>
+    <string name="com_lenovo_lsf_binding_another_account">&lt;u&gt;Bind other account&lt;/u&gt;</string>
     <string name="com_lenovo_lsf_account_binding_welcome">Welcome.</string>
     <string name="com_lenovo_lsf_account_binding_description">Bind %1$s account with the following Lenovo ID</string>
     <string name="com_lenovo_lsf_account_binding_exists_account_description">"We've detect that the email address you've entered in %1$s account has registered a Lenovo account. Please enter the password to bind them."</string>
@@ -122,7 +122,7 @@
     <string name="com_lenovo_lsf_get_appkey_progress">Obtaining third-party appkey</string>
     <string name="com_lenovo_lsf_get_appkey_error">Failed to obtain third-party appkey</string>
     <string name="com_lenovo_lsf_third_token_time_out">Token has expired</string>
-    <string name="com_lenovo_lsf_choose_location_title" />
+    <string name="com_lenovo_lsf_choose_location_title"></string>
     <string name="com_lenovo_lsf_bind_third">Bind social-networking account</string>
     <string name="com_lenovo_lsf_webview_error_text1">Not connected to Internet</string>
     <string name="com_lenovo_lsf_webview_error_text2">Please check your network connection</string>
@@ -457,7 +457,7 @@
     <string name="com_lenovo_lsf_feed_has_commit">Your feedback has been submitted</string>
     <string name="com_lenovo_lsf_feedback_title">Feedback</string>
     <string name="com_lenovo_lsf_feedback">Please enter your feedback</string>
-    <string name="com_lenovo_lsf_feedback_factory"><Data>&lt;font color=#0000ff>Download the latest version of LeFactory&lt;/font> and communicate with our team of developers directly! </Data></string>
+    <string name="com_lenovo_lsf_feedback_factory">&lt;Data&gt;&lt;font color=#0000ff&gt;Download the latest version of LeFactory&lt;/font&gt; and communicate with our team of developers directly! &lt;/Data&gt;</string>
     <string name="com_lenovo_lsf_msg_title">Sending SMS</string>
     <string name="com_lenovo_lsf_msg_content">Sending SMS if continue，do you want to do that?</string>
     <string name="com_lenovo_lsf_no_such_permission">No such permission</string>
@@ -506,7 +506,7 @@
     <string name="com_lenovo_pay_dlg_tip_title_text">提示</string>
     <string name="com_lenovo_pay_title_account_text">帐号:</string>
     <string name="com_lenovo_pay_dlg_change_text">快速切换</string>
-    <string name="com_lenovo_pay_account_warning_tip">您当前游戏登录的帐号： &lt;Font color=\"#4c96e0\">%1$s,&lt;/Font>与当前手机登录的联想帐号不一致，请在帐号设置中切换帐号，再进行充值。</string>
+    <string name="com_lenovo_pay_account_warning_tip">您当前游戏登录的帐号： &lt;Font color=\"#4c96e0\"&gt;%1$s,&lt;/Font&gt;与当前手机登录的联想帐号不一致，请在帐号设置中切换帐号，再进行充值。</string>
     <string name="com_lenovo_pay_update_tip_text">您的联想帐号版本需要更新。</string>
     <string name="com_lenovo_pay_zuk_update_tip_text">您的ZUK帐号版本需要更新。</string>
     <string name="com_lenovo_pay_update_btn_text">更新</string>

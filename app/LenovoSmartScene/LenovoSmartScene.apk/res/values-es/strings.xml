@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_mode_done">Done</string>
-    <string name="abc_action_bar_home_description">Navigate home</string>
-    <string name="abc_action_bar_up_description">Navigate up</string>
-    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_searchview_description_search">Search</string>
-    <string name="abc_searchview_description_query">Search query</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
-    <string name="abc_searchview_description_voice">Voice search</string>
-    <string name="abc_activitychooserview_choose_application">Choose an app</string>
-    <string name="abc_activity_chooser_view_see_all">See all</string>
-    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="time_picker_dialog_title">Set time</string>
     <string name="date_picker_dialog_title">Set date</string>
     <string name="date_time_set">Set</string>
@@ -119,18 +119,18 @@
     <string name="null_package_name_note">No application selected.</string>
     <string name="next">Next</string>
     <string name="title_activity_help">Help</string>
-    <string name="help_title"><b>Introduction to Smart scenes and Priority levels</b></string>
+    <string name="help_title">&lt;b&gt;Introduction to Smart scenes and Priority levels&lt;/b&gt;</string>
     <string name="help_summary">There are three types of smart scenes</string>
-    <string name="help_content"><b>By time:</b>" Automatically triggers scenes based on the set times;
-"<b>By network:</b>" Automatically triggers scenes upon connection based on bound networks;
-"<b>By class start/end times:</b>" Automatically triggers scenes based on the set class start/end times;
-"<b>Priority level:</b> In-class scene > Timed scene > Bound WLAN scene.</string>
-    <string name="help_summary_nfc"><b>There are four types of smart scenes</b></string>
-    <string name="help_content_nfc"><b>By time:</b>" Automatically triggers scenes based on the set times;
-"<b>By network:</b>" Automatically triggers scenes upon connection based on bound networkst;
-"<b>By NFC:</b>" Triggers scenes based on the programmed NFC tag;
-"<b>By class start/end times:</b>" Automatically triggers scenes based on the set class start/end times;
-"<b>Priority level:</b> NFC scene > In-class scene > Timed scene > Bound WLAN scene.</string>
+    <string name="help_content">&lt;b&gt;By time:&lt;/b&gt;" Automatically triggers scenes based on the set times;
+"&lt;b&gt;By network:&lt;/b&gt;" Automatically triggers scenes upon connection based on bound networks;
+"&lt;b&gt;By class start/end times:&lt;/b&gt;" Automatically triggers scenes based on the set class start/end times;
+"&lt;b&gt;Priority level:&lt;/b&gt; In-class scene &gt; Timed scene &gt; Bound WLAN scene.</string>
+    <string name="help_summary_nfc">&lt;b&gt;There are four types of smart scenes&lt;/b&gt;</string>
+    <string name="help_content_nfc">&lt;b&gt;By time:&lt;/b&gt;" Automatically triggers scenes based on the set times;
+"&lt;b&gt;By network:&lt;/b&gt;" Automatically triggers scenes upon connection based on bound networkst;
+"&lt;b&gt;By NFC:&lt;/b&gt;" Triggers scenes based on the programmed NFC tag;
+"&lt;b&gt;By class start/end times:&lt;/b&gt;" Automatically triggers scenes based on the set class start/end times;
+"&lt;b&gt;Priority level:&lt;/b&gt; NFC scene &gt; In-class scene &gt; Timed scene &gt; Bound WLAN scene.</string>
     <string name="new_sim">New SIM card</string>
     <string name="icon_select_title">Scene icon</string>
     <string name="exit_edit_dialog_title">Discard</string>

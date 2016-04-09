@@ -483,12 +483,6 @@
         <item>Critical</item>
         <item>\?</item>
     </string-array>
-    <array name="ram_colors">
-        <item>@color/memory_normal</item>
-        <item>@color/memory_moderate</item>
-        <item>@color/memory_low</item>
-        <item>@color/memory_critical</item>
-    </array>
     <string-array name="proc_stats_memory_states">
         <item>Normal</item>
         <item>Moderate</item>
@@ -875,14 +869,6 @@
         <item>1.5</item>
         <item>2.0</item>
     </string-array>
-    <integer-array name="captioning_edge_type_selector_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="captioning_color_selector_titles">
         <item>@string/color_unspecified</item>
         <item>@string/color_white</item>
@@ -894,93 +880,12 @@
         <item>@string/color_blue</item>
         <item>@string/color_magenta</item>
     </string-array>
-    <integer-array name="captioning_color_selector_values">
-        <item>0xffffff</item>
-        <item>0xffffffff</item>
-        <item>0xff000000</item>
-        <item>0xffff0000</item>
-        <item>0xffffff00</item>
-        <item>0xff00ff00</item>
-        <item>0xff00ffff</item>
-        <item>0xff0000ff</item>
-        <item>0xffff00ff</item>
-        <item>0xff000055</item>
-        <item>0xff0000aa</item>
-        <item>0xff005500</item>
-        <item>0xff005555</item>
-        <item>0xff0055aa</item>
-        <item>0xff0055ff</item>
-        <item>0xff00aa00</item>
-        <item>0xff00aa55</item>
-        <item>0xff00aaaa</item>
-        <item>0xff00aaff</item>
-        <item>0xff00ff55</item>
-        <item>0xff00ffaa</item>
-        <item>0xff550000</item>
-        <item>0xff550055</item>
-        <item>0xff5500aa</item>
-        <item>0xff5500ff</item>
-        <item>0xff555500</item>
-        <item>0xff555555</item>
-        <item>0xff5555aa</item>
-        <item>0xff5555ff</item>
-        <item>0xff55aa00</item>
-        <item>0xff55aa55</item>
-        <item>0xff55aaaa</item>
-        <item>0xff55aaff</item>
-        <item>0xff55ff00</item>
-        <item>0xff55ff55</item>
-        <item>0xff55ffaa</item>
-        <item>0xff55ffff</item>
-        <item>0xffaa0000</item>
-        <item>0xffaa0055</item>
-        <item>0xffaa00aa</item>
-        <item>0xffaa00ff</item>
-        <item>0xffaa5500</item>
-        <item>0xffaa5555</item>
-        <item>0xffaa55aa</item>
-        <item>0xffaa55ff</item>
-        <item>0xffaaaa00</item>
-        <item>0xffaaaa55</item>
-        <item>0xffaaaaaa</item>
-        <item>0xffaaaaff</item>
-        <item>0xffaaff00</item>
-        <item>0xffaaff55</item>
-        <item>0xffaaffaa</item>
-        <item>0xffaaffff</item>
-        <item>0xffff0055</item>
-        <item>0xffff00aa</item>
-        <item>0xffff5500</item>
-        <item>0xffff5555</item>
-        <item>0xffff55aa</item>
-        <item>0xffff55ff</item>
-        <item>0xffffaa00</item>
-        <item>0xffffaa55</item>
-        <item>0xffffaaaa</item>
-        <item>0xffffaaff</item>
-        <item>0xffffff55</item>
-        <item>0xffffffaa</item>
-    </integer-array>
     <string-array name="captioning_opacity_selector_titles">
         <item>25%</item>
         <item>50%</item>
         <item>75%</item>
         <item>100%</item>
     </string-array>
-    <integer-array name="captioning_opacity_selector_values">
-        <item>0x40ffffff</item>
-        <item>0x80ffffff</item>
-        <item>0xc0ffffff</item>
-        <item>0xffffffff</item>
-    </integer-array>
-    <integer-array name="captioning_preset_selector_values">
-        <item>4</item>
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>-1</item>
-    </integer-array>
     <string-array name="select_logd_size_values">
         <item>65536</item>
         <item>262144</item>
@@ -1109,11 +1014,6 @@
         <item>1</item>
         <item>3</item>
     </string-array>
-    <integer-array name="battery_saver_trigger_values">
-        <item>0</item>
-        <item>5</item>
-        <item>15</item>
-    </integer-array>
     <string-array name="usb_configuration_titles">
         <item>@string/usb_use_charging_only</item>
         <item>MTP (Media Transfer Protocol)</item>
@@ -1154,4 +1054,104 @@
         <item>2</item>
         <item>1</item>
     </string-array>
+    <array name="ram_colors">
+        <item>@color/memory_normal</item>
+        <item>@color/memory_moderate</item>
+        <item>@color/memory_low</item>
+        <item>@color/memory_critical</item>
+    </array>
+    <integer-array name="captioning_edge_type_selector_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="captioning_color_selector_values">
+        <item>0xffffff</item>
+        <item>0xffffffff</item>
+        <item>0xff000000</item>
+        <item>0xffff0000</item>
+        <item>0xffffff00</item>
+        <item>0xff00ff00</item>
+        <item>0xff00ffff</item>
+        <item>0xff0000ff</item>
+        <item>0xffff00ff</item>
+        <item>0xff000055</item>
+        <item>0xff0000aa</item>
+        <item>0xff005500</item>
+        <item>0xff005555</item>
+        <item>0xff0055aa</item>
+        <item>0xff0055ff</item>
+        <item>0xff00aa00</item>
+        <item>0xff00aa55</item>
+        <item>0xff00aaaa</item>
+        <item>0xff00aaff</item>
+        <item>0xff00ff55</item>
+        <item>0xff00ffaa</item>
+        <item>0xff550000</item>
+        <item>0xff550055</item>
+        <item>0xff5500aa</item>
+        <item>0xff5500ff</item>
+        <item>0xff555500</item>
+        <item>0xff555555</item>
+        <item>0xff5555aa</item>
+        <item>0xff5555ff</item>
+        <item>0xff55aa00</item>
+        <item>0xff55aa55</item>
+        <item>0xff55aaaa</item>
+        <item>0xff55aaff</item>
+        <item>0xff55ff00</item>
+        <item>0xff55ff55</item>
+        <item>0xff55ffaa</item>
+        <item>0xff55ffff</item>
+        <item>0xffaa0000</item>
+        <item>0xffaa0055</item>
+        <item>0xffaa00aa</item>
+        <item>0xffaa00ff</item>
+        <item>0xffaa5500</item>
+        <item>0xffaa5555</item>
+        <item>0xffaa55aa</item>
+        <item>0xffaa55ff</item>
+        <item>0xffaaaa00</item>
+        <item>0xffaaaa55</item>
+        <item>0xffaaaaaa</item>
+        <item>0xffaaaaff</item>
+        <item>0xffaaff00</item>
+        <item>0xffaaff55</item>
+        <item>0xffaaffaa</item>
+        <item>0xffaaffff</item>
+        <item>0xffff0055</item>
+        <item>0xffff00aa</item>
+        <item>0xffff5500</item>
+        <item>0xffff5555</item>
+        <item>0xffff55aa</item>
+        <item>0xffff55ff</item>
+        <item>0xffffaa00</item>
+        <item>0xffffaa55</item>
+        <item>0xffffaaaa</item>
+        <item>0xffffaaff</item>
+        <item>0xffffff55</item>
+        <item>0xffffffaa</item>
+    </integer-array>
+    <integer-array name="captioning_opacity_selector_values">
+        <item>0x40ffffff</item>
+        <item>0x80ffffff</item>
+        <item>0xc0ffffff</item>
+        <item>0xffffffff</item>
+    </integer-array>
+    <integer-array name="captioning_preset_selector_values">
+        <item>4</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>-1</item>
+    </integer-array>
+    <integer-array name="battery_saver_trigger_values">
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+    </integer-array>
 </resources>

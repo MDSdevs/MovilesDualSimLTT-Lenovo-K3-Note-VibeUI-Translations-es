@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="empty_subject_strings">
-        <item>no subject</item>
+        <item>sin asunto</item>
     </string-array>
     <string-array name="settings_common">
         <item>@string/settings_yellowpage</item>
@@ -21,43 +21,43 @@
         <item>1</item>
     </string-array>
     <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
-        <item>Forward directly</item>
-        <item>Indicate name</item>
-        <item>Indicate name and number</item>
+        <item>Hacia adelante</item>
+        <item>Viene con el nombre del remitente</item>
+        <item>Viene con el nombre y el número del remitente</item>
     </string-array>
     <string-array name="forward_pref_sms_forward_need_add_choices">
-        <item>Forward directly</item>
-        <item>Indicate name</item>
-        <item>Indicate name and number</item>
-        <item>Prompt every time</item>
+        <item>Hacia adelante</item>
+        <item>Viene con el nombre del remitente</item>
+        <item>Viene con el nombre y el número del remitente</item>
+        <item>Pregunta cuando quieras</item>
     </string-array>
     <string-array name="pref_sms_save_location_choices">
-        <item>Phone</item>
-        <item>SIM Card</item>
+        <item>Teléfono</item>
+        <item>tarjeta SIM</item>
     </string-array>
     <string-array name="pref_tablet_sms_save_location_choices">
-        <item>Device</item>
-        <item>SIM Card</item>
+        <item>equipo</item>
+        <item>tarjeta SIM</item>
     </string-array>
     <string-array name="pref_sms_save_location_choices_ct">
-        <item>Phone</item>
-        <item>UIM Card</item>
+        <item>Teléfono</item>
+        <item>tarjeta UIM</item>
     </string-array>
     <string-array name="pref_key_mms_priority_choices">
-        <item>High</item>
-        <item>Normal</item>
-        <item>Low</item>
+        <item>alto</item>
+        <item>en</item>
+        <item>bajo</item>
     </string-array>
     <string-array name="default_quick_texts">
-        <item>Where are you?</item>
-        <item>What are you doing?</item>
-        <item>Call me back please!</item>
-        <item>Sorry, I am in a meeting.</item>
-        <item>Call you soon.</item>
-        <item>"Don't worry! I'm fine."</item>
-        <item>On my way home.</item>
-        <item>Will arrive soon.</item>
-        <item>Be there or be square!</item>
+        <item>¿Dónde estás?</item>
+        <item>¿Qué estás haciendo?</item>
+        <item>¡ansioso! Gallardo espalda.</item>
+        <item>En este momento, estamos en una reunión.</item>
+        <item>Usted se vuelve un poco más tarde el teléfono.</item>
+        <item>Estoy bien, no te preocupes.</item>
+        <item>Estamos en el camino a casa.</item>
+        <item>Fui rápidamente a.</item>
+        <item>¡Te veo allí!</item>
     </string-array>
     <string-array name="default_smiley_names">
         <item>Happy</item>
@@ -82,48 +82,6 @@
         <item>Smirk</item>
         <item>Poker face</item>
     </string-array>
-    <array name="letter_tile_colors">
-        <item>#ffdb4437</item>
-        <item>#ffe91e63</item>
-        <item>#ff9c27b0</item>
-        <item>#ff673ab7</item>
-        <item>#ff3f51b5</item>
-        <item>#ff4285f4</item>
-        <item>#ff039be5</item>
-        <item>#ff0097a7</item>
-        <item>#ff009688</item>
-        <item>#ff0f9d58</item>
-        <item>#ff689f38</item>
-        <item>#ffef6c00</item>
-        <item>#ffff5722</item>
-        <item>#ff757575</item>
-    </array>
-    <array name="contact_detail_photo_bg_colors">
-        <item>#ff0288d1</item>
-        <item>#ff00b674</item>
-        <item>#ff00aec7</item>
-        <item>#ffe59038</item>
-    </array>
-    <array name="letter_tile_colors_dark">
-        <item>#ffc53929</item>
-        <item>#ffc2185b</item>
-        <item>#ff7b1fa2</item>
-        <item>#ff512da8</item>
-        <item>#ff303f9f</item>
-        <item>#ff3367d6</item>
-        <item>#ff0277bd</item>
-        <item>#ff006064</item>
-        <item>#ff00796b</item>
-        <item>#ff0b8043</item>
-        <item>#ff33691e</item>
-        <item>#ffe65100</item>
-        <item>#ffe64a19</item>
-        <item>#ff424242</item>
-    </array>
-    <array name="KeySequence" />
-    <array name="KeySequenceIntents" />
-    <array name="KeyPattern" />
-    <array name="KeyPatternIntents" />
     <string-array name="default_smiley_texts">
         <item>:-)</item>
         <item>:-(</item>
@@ -248,79 +206,121 @@
         <item>1f6d0</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 second</item>
-        <item>2 seconds</item>
-        <item>3 seconds</item>
-        <item>4 seconds</item>
-        <item>5 seconds</item>
-        <item>6 seconds</item>
-        <item>7 seconds</item>
-        <item>8 seconds</item>
-        <item>9 seconds</item>
-        <item>10 seconds</item>
-        <item>Others</item>
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>otro</item>
     </string-array>
     <string-array name="otherLabels">
-        <item>Work unit</item>
-        <item>Note</item>
+        <item>organización</item>
+        <item>Observación</item>
     </string-array>
     <string-array name="settings_minmatch_array">
-        <item>By 11</item>
-        <item>By 7</item>
+        <item>11</item>
+        <item>7</item>
     </string-array>
     <string-array name="lunar_month_array">
-        <item>"Jan "</item>
-        <item>"Feb "</item>
-        <item>"Mar "</item>
-        <item>"Apr "</item>
-        <item>"May "</item>
-        <item>"June "</item>
-        <item>"July "</item>
-        <item>"Aug "</item>
-        <item>"Sep "</item>
-        <item>"Oct "</item>
-        <item>"Nov "</item>
-        <item>"Dec "</item>
+        <item>Primer mes</item>
+        <item>febrero</item>
+        <item>marzo</item>
+        <item>abril</item>
+        <item>Mayo</item>
+        <item>junio</item>
+        <item>julio</item>
+        <item>agosto</item>
+        <item>septiembre</item>
+        <item>octubre</item>
+        <item>noviembre</item>
+        <item>diciembre</item>
     </string-array>
     <string-array name="lunar_day_array">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
+        <item>Primer día</item>
+        <item>Dos días</item>
+        <item>Tres días</item>
+        <item>Cuarto día</item>
+        <item>Quinto día</item>
+        <item>Sexto</item>
+        <item>Séptimo</item>
+        <item>chuba</item>
+        <item>Noveno</item>
+        <item>Décimo</item>
+        <item>once</item>
+        <item>doce</item>
+        <item>trece</item>
+        <item>catorce</item>
+        <item>quince</item>
+        <item>dieciséis</item>
+        <item>De diecisiete</item>
+        <item>Dieciocho</item>
+        <item>Diecinueve</item>
+        <item>veinte</item>
+        <item>Veinte</item>
+        <item>Veintidós</item>
+        <item>Niansan</item>
+        <item>Veinticuatro</item>
+        <item>Veinticinco</item>
+        <item>Nianliu</item>
+        <item>Nianqi</item>
+        <item>Nianba</item>
+        <item>Víspera</item>
+        <item>treinta</item>
     </string-array>
     <string-array name="sound_effect_list">
-        <item>Default</item>
-        <item>Piano</item>
+        <item>defecto</item>
+        <item>piano</item>
     </string-array>
     <string-array name="setting_dialer_sound_array">
-        <item>None</item>
-        <item>Default</item>
-        <item>Piano</item>
+        <item>no</item>
+        <item>defecto</item>
+        <item>piano</item>
     </string-array>
+    <array name="letter_tile_colors">
+        <item>#ffdb4437</item>
+        <item>#ffe91e63</item>
+        <item>#ff9c27b0</item>
+        <item>#ff673ab7</item>
+        <item>#ff3f51b5</item>
+        <item>#ff4285f4</item>
+        <item>#ff039be5</item>
+        <item>#ff0097a7</item>
+        <item>#ff009688</item>
+        <item>#ff0f9d58</item>
+        <item>#ff689f38</item>
+        <item>#ffef6c00</item>
+        <item>#ffff5722</item>
+        <item>#ff757575</item>
+    </array>
+    <array name="contact_detail_photo_bg_colors">
+        <item>#ff0288d1</item>
+        <item>#ff00b674</item>
+        <item>#ff00aec7</item>
+        <item>#ffe59038</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#ffc53929</item>
+        <item>#ffc2185b</item>
+        <item>#ff7b1fa2</item>
+        <item>#ff512da8</item>
+        <item>#ff303f9f</item>
+        <item>#ff3367d6</item>
+        <item>#ff0277bd</item>
+        <item>#ff006064</item>
+        <item>#ff00796b</item>
+        <item>#ff0b8043</item>
+        <item>#ff33691e</item>
+        <item>#ffe65100</item>
+        <item>#ffe64a19</item>
+        <item>#ff424242</item>
+    </array>
+    <array/>
+    <array/>
+    <array/>
+    <array/>
 </resources>

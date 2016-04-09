@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="appdetail_access_items">
-        <item>Prompt</item>
-        <item>Grant</item>
-        <item>Deny</item>
+        <item>Preguntar</item>
+        <item>Permitir</item>
+        <item>Denegar</item>
     </string-array>
     <string-array name="appdetail_access_items_pro">
-        <item>Prompt</item>
-        <item>Grant</item>
-        <item>Grant+Time</item>
-        <item>Deny</item>
-        <item>Deny+Time</item>
+        <item>Sugerir</item>
+        <item>Permitir</item>
+        <item>Permitir+Tiempo</item>
+        <item>Denegar</item>
+        <item>Denegar+Tiempo</item>
     </string-array>
     <string-array name="appdetail_logging_items">
-        <item>Global default</item>
-        <item>Full content</item>
-        <item>Access only</item>
-        <item>None</item>
+        <item>Acción por defecto</item>
+        <item>Contenido completo</item>
+        <item>Sólo acceso.</item>
+        <item>Ninguno.</item>
     </string-array>
     <string-array name="appdetail_notification_items">
-        <item>Global default</item>
-        <item>Enabled</item>
-        <item>Disabled</item>
+        <item>General</item>
+        <item>Activado</item>
+        <item>Desactivado</item>
     </string-array>
     <string-array name="expire_timer">
-        <item>Indefinitely</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>15 minutes</item>
-        <item>30 minutes</item>
-        <item>1 hour</item>
-        <item>3 hours</item>
-        <item>6 hours</item>
-        <item>12 hours</item>
-        <item>24 hours</item>
+        <item>Indefinidamente</item>
+        <item>Un minuto</item>
+        <item>Cinco minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>Una hora</item>
+        <item>Tres horas</item>
+        <item>Seis horas</item>
+        <item>12 horas</item>
+        <item>24 horas</item>
     </string-array>
     <string-array name="settings_default_access_items">
-        <item>Prompt</item>
-        <item>Grant</item>
-        <item>Deny</item>
+        <item>Preguntar</item>
+        <item>Permitir.</item>
+        <item>Denegar.</item>
     </string-array>
     <string-array name="settings_log_age_items">
-        <item>Never</item>
-        <item>2 weeks</item>
-        <item>1 week</item>
-        <item>3 days</item>
-        <item>2 days</item>
-        <item>1 day</item>
+        <item>Nunca</item>
+        <item>2 Semanas.</item>
+        <item>1 Semana.</item>
+        <item>3 Días.</item>
+        <item>2 Días.</item>
+        <item>1 día</item>
     </string-array>
     <string-array name="settings_log_format_items">
         <item>31/12 23:59</item>
@@ -55,8 +55,8 @@
         <item>12/31 11:59 PM</item>
     </string-array>
     <string-array name="settings_log_items">
-        <item>Full content</item>
-        <item>Access only</item>
-        <item>None</item>
+        <item>Contenido completo.</item>
+        <item>Sólo acceso</item>
+        <item>Ninguno</item>
     </string-array>
 </resources>

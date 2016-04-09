@@ -17,92 +17,92 @@
         <item quantity="one">GB</item>
     </plurals>
     <plurals name="Nsongs">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">1 song</item>
+        <item quantity="other">%d canciones</item>
+        <item quantity="one">1 canción</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">%d albums</item>
-        <item quantity="one">1 album</item>
+        <item quantity="other">%d álbumes</item>
+        <item quantity="one">1 álbum</item>
     </plurals>
     <plurals name="playlist_add_count_tip">
-        <item quantity="other">%d songs added to:</item>
-        <item quantity="one">1 song added to:</item>
+        <item quantity="other">%d canciones agregadas a:</item>
+        <item quantity="one">1 canción agregada a:</item>
     </plurals>
     <plurals name="Ntracks">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">1 song</item>
+        <item quantity="other">%d Canciones</item>
+        <item quantity="one">1 canción</item>
     </plurals>
     <plurals name="Nalbum">
-        <item quantity="other">%d albums</item>
-        <item quantity="one">1 album</item>
+        <item quantity="other">%d álbumes</item>
+        <item quantity="one">1 álbum</item>
     </plurals>
     <plurals name="Nfolders">
-        <item quantity="other">%d folders</item>
-        <item quantity="one">1 folder</item>
+        <item quantity="other">%d carpetas</item>
+        <item quantity="one">1 carpeta</item>
     </plurals>
     <plurals name="Nartists">
-        <item quantity="other">%d artists</item>
-        <item quantity="one">1 artist</item>
+        <item quantity="other">%d artistas</item>
+        <item quantity="one">1 artista</item>
     </plurals>
     <plurals name="Nlists">
-        <item quantity="other">%d playlists</item>
-        <item quantity="one">1 playlist</item>
+        <item quantity="other">%d listas de reproducción</item>
+        <item quantity="one">1 lista de reproducción</item>
     </plurals>
     <plurals name="local_count_songs">
-        <item quantity="other">Total: %d songs</item>
-        <item quantity="one">Total: 1 song</item>
+        <item quantity="other">Total: %d canciones</item>
+        <item quantity="one">Total: 1 canción</item>
     </plurals>
     <plurals name="local_count_playLists">
-        <item quantity="other">Total: %d playlists</item>
-        <item quantity="one">Total: 1 playlist</item>
+        <item quantity="other">Total: %d listas de reproducción</item>
+        <item quantity="one">Total: 1 lista de reproducción</item>
     </plurals>
     <plurals name="local_count_artists">
-        <item quantity="other">Total: %d artists</item>
-        <item quantity="one">Total: 1 artist</item>
+        <item quantity="other">Total: %d artistas</item>
+        <item quantity="one">Total: 1 artista</item>
     </plurals>
     <plurals name="local_count_folders">
-        <item quantity="other">Total: %d folders</item>
-        <item quantity="one">Total: 1 folder</item>
+        <item quantity="other">Total: %d carpetas</item>
+        <item quantity="one">Total: 1 carpeta</item>
     </plurals>
     <plurals name="local_count_albums">
-        <item quantity="other">Total: %d albums</item>
-        <item quantity="one">Total: 1 album</item>
+        <item quantity="other">Total: %d álbumes</item>
+        <item quantity="one">Total: 1 álbum</item>
     </plurals>
     <plurals name="online_search_result_tip">
-        <item quantity="other">%d albums</item>
-        <item quantity="one">1 album</item>
+        <item quantity="other">%d álbumes</item>
+        <item quantity="one">1 álbum</item>
     </plurals>
     <plurals name="local_edit_delete_songs">
-        <item quantity="other">%d songs deleted</item>
-        <item quantity="one">1 song deleted</item>
+        <item quantity="other">%d canciones eliminadas</item>
+        <item quantity="one">1 canción eliminada</item>
     </plurals>
     <plurals name="online_count_songs">
-        <item quantity="other">%d songs loaded</item>
-        <item quantity="one">1 song loaded</item>
+        <item quantity="other">%d canciones cargadas</item>
+        <item quantity="one">1 canción cargada</item>
     </plurals>
     <plurals name="online_count_artists">
-        <item quantity="other">%d artists loaded</item>
-        <item quantity="one">1 artist loaded</item>
+        <item quantity="other">%d artistas cargados</item>
+        <item quantity="one">1 artista cargado</item>
     </plurals>
     <plurals name="online_count_albums">
-        <item quantity="other">%d albums loaded</item>
-        <item quantity="one">1 album loaded</item>
+        <item quantity="other">%d álbumes cargados</item>
+        <item quantity="one">1 álbum cargado</item>
     </plurals>
     <plurals name="media_playlist_title_count_songs">
-        <item quantity="other">%d songs in total</item>
-        <item quantity="one">1 song in total</item>
+        <item quantity="other">%d canciones en total</item>
+        <item quantity="one">1 canción en total</item>
     </plurals>
     <plurals name="local_edit_remove_songs">
-        <item quantity="other">%d songs removed</item>
-        <item quantity="one">1 song removed</item>
+        <item quantity="other">%d canciones borradas</item>
+        <item quantity="one">1 canción borrada</item>
     </plurals>
     <plurals name="local_edit_selected_songs">
-        <item quantity="other">%d songs selected</item>
-        <item quantity="one">1 song selected</item>
+        <item quantity="other">%d canciones seleccionadas</item>
+        <item quantity="one">1 canción seleccionada</item>
     </plurals>
     <plurals name="add_songs_to_queue">
-        <item quantity="other">%d songs added to playlist</item>
-        <item quantity="one">1 song added to playlist</item>
+        <item quantity="other">%d canciones agregadas a lista de reproducción</item>
+        <item quantity="one">1 canción agregada a lista de reproducción</item>
     </plurals>
     <plurals name="search_result_tip">
         <item quantity="other">Found %d matching item</item>

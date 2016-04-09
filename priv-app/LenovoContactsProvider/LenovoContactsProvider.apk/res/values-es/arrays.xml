@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="common_nicknames" />
+    <array name="common_nicknames"></array>
     <string-array name="unrestricted_packages">
         <item>com.facebook.katana</item>
         <item>com.lenovo.ideafriend</item>

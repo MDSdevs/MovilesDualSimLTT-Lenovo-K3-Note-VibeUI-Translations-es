@@ -196,7 +196,7 @@ Please try again in %d seconds."</string>
     <string name="description_direction_up">Slide up to dismiss</string>
     <string name="description_direction_down">Slide down to snooze</string>
     <string name="press_color_to_apply">Press on Color to apply</string>
-    <string name="color_picker_select">-></string>
+    <string name="color_picker_select">-&gt;</string>
     <string name="headset_pin_recognition">Your earphones are not compatible with the Phone.Please try another ones</string>
     <string name="usb_autorun_cdrom_notification_title">Connected as an autorun cdrom</string>
     <string name="ct_net_name">CTNET</string>
@@ -273,109 +273,6 @@ Please try again in %d seconds."</string>
     <string name="wfc_403_auth_scheme_unsupported">Error403: authentication scheme unsupported</string>
     <string name="wfc_403_handset_blacklisted">Error403: handset is blacklisted</string>
     <string name="wfc_911_missing">REG09: Missing 911 Address</string>
-    <string name="denied_required_permission">Permissions denied. You can change them in Settings > Apps.</string>
-    <item type="string" name="APKTOOL_DUMMY_00f0">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00f1">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00f2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00f3">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00f4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00f5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00f6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00f7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00f8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00f9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00fa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00fb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00fc">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00fd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_00ff">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0125">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0126">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0127">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0128">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0129">false</item>
-    <item type="string" name="APKTOOL_DUMMY_012a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_012b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_012c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_012d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_012e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_012f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0130">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0131">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0132">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0133">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0134">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0135">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0136">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0137">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0138">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0139">false</item>
-    <item type="string" name="APKTOOL_DUMMY_013a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_013b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_013c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_013d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_013e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_013f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0140">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0141">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0142">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0143">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0144">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0145">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0146">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0147">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0148">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0149">false</item>
-    <item type="string" name="APKTOOL_DUMMY_014a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_014b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_014c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_014d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_014e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_014f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0150">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0151">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0152">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0153">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0154">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0155">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0156">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0157">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0158">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0159">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_015f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0160">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0161">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0162">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0163">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0164">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0165">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0166">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0167">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0168">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0169">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_016f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0170">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0171">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0172">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0173">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0174">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0175">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0176">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0177">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0178">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0179">false</item>
-    <item type="string" name="APKTOOL_DUMMY_017a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_017b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_017c">false</item>
+    <string name="denied_required_permission">Permissions denied. You can change them in Settings &gt; Apps.</string>
     <item type="string" name="APKTOOL_DUMMY_017d">false</item>
 </resources>
