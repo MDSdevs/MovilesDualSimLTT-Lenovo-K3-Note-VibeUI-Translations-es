@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="filedialog_id" name="btnNew">false</item>
+    <item type="filedialog_id" name="btnSelect">false</item>
+    <item type="filedialog_id" name="tvLocation">false</item>
+    <item type="filedialog_id" name="filelist">false</item>
+    <item type="filedialog_id" name="fileIcon">false</item>
+    <item type="filedialog_id" name="fileName">false</item>
+</resources>

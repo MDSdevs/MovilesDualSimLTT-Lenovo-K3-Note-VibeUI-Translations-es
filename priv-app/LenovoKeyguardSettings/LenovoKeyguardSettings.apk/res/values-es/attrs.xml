@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="keywords" format="string" />
+    <attr name="switchBarTheme" format="reference" />
+    <attr name="switchBarMarginStart" format="dimension" />
+    <attr name="switchBarMarginEnd" format="dimension" />
+    <attr name="preferenceBackgroundColor" format="color" />
+    <attr name="aspect" format="string" />
+    <attr name="pathColor" format="reference|color" />
+    <attr name="regularColor" format="reference|color" />
+    <attr name="errorColor" format="reference|color" />
+    <attr name="successColor" format="reference|color" />
+    <attr name="suwLayoutTheme" format="reference" />
+    <attr name="suwCardBackground" format="reference|color" />
+    <attr name="suwNavBarBackButton" format="reference" />
+    <attr name="suwNavBarBackgroundColor" format="color" />
+    <attr name="suwNavBarButtonBackground" format="reference|color" />
+    <attr name="suwNavBarMoreButton" format="reference" />
+    <attr name="suwNavBarNextButton" format="reference" />
+    <attr name="suwNavBarTextColor" format="color" />
+    <attr name="suwNavBarTheme" format="reference" />
+    <attr name="suwAspectRatio" format="float" />
+    <attr name="suwHeader" format="reference" />
+    <attr name="suwBackground" format="reference|color" />
+    <attr name="suwBackgroundTile" format="reference|color" />
+    <attr name="suwHeaderText" format="string" localization="suggested" />
+    <attr name="suwDecorPaddingTop" format="reference|dimension" />
+    <attr name="suwIllustration" format="reference|color" />
+    <attr name="suwIllustrationAspectRatio" format="reference|float" />
+    <attr name="suwIllustrationHorizontalTile" format="reference|color" />
+    <attr name="suwIllustrationImage" format="reference|color" />
+    <attr name="fingerprint_layout_theme" format="reference" />
+    <attr name="fingerprint_progress_bar_size" format="reference|dimension" />
+    <attr name="fingerprint_ring_radius" format="reference|dimension" />
+    <attr name="ic_menu_add" format="reference" />
+    <attr name="ic_menu_moreoverflow" format="reference" />
+    <attr name="ic_wps" format="reference" />
+    <attr name="setup_divider_color" format="reference" />
+    <attr name="side_margin" format="reference|dimension" />
+    <attr name="wifi_signal_color" format="reference" />
+    <attr name="wifi_signal" format="reference" />
+</resources>

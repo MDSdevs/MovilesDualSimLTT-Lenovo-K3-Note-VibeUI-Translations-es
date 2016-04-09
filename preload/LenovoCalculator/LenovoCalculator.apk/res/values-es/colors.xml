@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="magic_flame">#11111111</color>
+    <color name="button_text">#ff818181</color>
+    <color name="digit_button_text">#ff818181</color>
+    <color name="button_line">#ffb4b4b4</color>
+    <color name="button_equal">#007cc4cd</color>
+    <color name="digit_button_color">#fff4f4f4</color>
+    <color name="button_color">#ffdcdddd</color>
+    <color name="winbg_color">#ff000000</color>
+    <color name="white_color">#ffffffff</color>
+    <color name="clear_color">#ffea9059</color>
+    <color name="result_color">#ff333333</color>
+    <color name="button_text_v2">#ffc3c2c2</color>
+    <color name="digit_button_text_v2">#fffff3d2</color>
+    <color name="button_line_v2">#00707070</color>
+    <color name="digit_button_color_v2">#00aaaaaa</color>
+    <color name="button_color_v2">#00868585</color>
+    <color name="not_see_color">#00000000</color>
+    <color name="see_color1">#ff000000</color>
+    <color name="digit_color">#ff6c6c6c</color>
+    <color name="operator_color">#ffffffff</color>
+    <color name="digit_shadow_color">#aaffffff</color>
+    <color name="operator_shadow_color">#66000000</color>
+    <color name="result_text_color">#ffff6633</color>
+    <color name="cursor_color">#ff2cadf1</color>
+    <color name="handle_normal">#ff757575</color>
+    <color name="text_color">#ff191919</color>
+    <color name="calculator_accent_color">#19191919</color>
+</resources>

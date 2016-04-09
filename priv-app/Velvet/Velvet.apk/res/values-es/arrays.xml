@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="notification_options_timed_minutes">
+        <item>120</item>
+        <item>2880</item>
+        <item>1440</item>
+        <item>10080</item>
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>10</item>
+    </integer-array>
+    <integer-array name="notification_options_timed_methods">
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="notification_options_allday_minutes">
+        <item>9540</item>
+        <item>2340</item>
+        <item>19620</item>
+        <item>9540</item>
+        <item>900</item>
+        <item>420</item>
+        <item>-540</item>
+        <item>900</item>
+    </integer-array>
+    <integer-array name="notification_options_allday_methods">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="recurrence_freq">
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Does not repeat</item>
+        <item>Every day</item>
+        <item>Every week</item>
+        <item>Every month</item>
+        <item>Every year</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>on every first Tuesday</item>
+        <item>on every second Tuesday</item>
+        <item>on every third Tuesday</item>
+        <item>on every fourth Tuesday</item>
+        <item>on every last Tuesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>on every first Wednesday</item>
+        <item>on every second Wednesday</item>
+        <item>on every third Wednesday</item>
+        <item>on every fourth Wednesday</item>
+        <item>on every last Wednesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>on every first Thursday</item>
+        <item>on every second Thursday</item>
+        <item>on every third Thursday</item>
+        <item>on every fourth Thursday</item>
+        <item>on every last Thursday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>on every first Friday</item>
+        <item>on every second Friday</item>
+        <item>on every third Friday</item>
+        <item>on every fourth Friday</item>
+        <item>on every last Friday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>on every first Saturday</item>
+        <item>on every second Saturday</item>
+        <item>on every third Saturday</item>
+        <item>on every fourth Saturday</item>
+        <item>on every last Saturday</item>
+    </string-array>
+    <array name="material_google_colors">
+        <item>@color/quantum_googblue</item>
+        <item>@color/quantum_googred</item>
+        <item>@color/quantum_googyellow</item>
+        <item>@color/quantum_googgreen</item>
+    </array>
+    <string-array name="baseball_innings">
+        <item>1st inning</item>
+        <item>2nd inning</item>
+        <item>3rd inning</item>
+        <item>4th inning</item>
+        <item>5th inning</item>
+        <item>6th inning</item>
+        <item>7th inning</item>
+        <item>8th inning</item>
+        <item>9th inning</item>
+        <item>10th inning</item>
+        <item>11th inning</item>
+        <item>12th inning</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Top 1st</item>
+        <item>Top 2nd</item>
+        <item>Top 3rd</item>
+        <item>Top 4th</item>
+        <item>Top 5th</item>
+        <item>Top 6th</item>
+        <item>Top 7th</item>
+        <item>Top 8th</item>
+        <item>Top 9th</item>
+        <item>Top 10th</item>
+        <item>Top 11th</item>
+        <item>Top 12th</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Bot 1st</item>
+        <item>Bot 2nd</item>
+        <item>Bot 3rd</item>
+        <item>Bot 4th</item>
+        <item>Bot 5th</item>
+        <item>Bot 6th</item>
+        <item>Bot 7th</item>
+        <item>Bot 8th</item>
+        <item>Bot 9th</item>
+        <item>Bot 10th</item>
+        <item>Bot 11th</item>
+        <item>Bot 12th</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikaans (South Africa)</item>
+        <item>Arabic (Algeria)</item>
+        <item>Arabic (Egypt)</item>
+        <item>Arabic (Iraq)</item>
+        <item>Arabic (Israel)</item>
+        <item>Arabic (Jordan)</item>
+        <item>Arabic (Kuwait)</item>
+        <item>Arabic (Lebanon)</item>
+        <item>Arabic (Libya)</item>
+        <item>Arabic (Morocco)</item>
+        <item>Arabic (Qatar)</item>
+        <item>Arabic (Saudi Arabia)</item>
+        <item>Arabic (Sudan)</item>
+        <item>Arabic (Syria)</item>
+        <item>Arabic (Tunisia)</item>
+        <item>Arabic (United Arab Emirates)</item>
+        <item>Arabic (Yemen)</item>
+        <item>Belarusian (Belarus)</item>
+        <item>Bengali (Bangladesh)</item>
+        <item>Bulgarian (Bulgaria)</item>
+        <item>Catalan (Spain)</item>
+        <item>Chinese, Mandarin (China, Simplified)</item>
+        <item>Chinese, Mandarin (Hong Kong, Simplified)</item>
+        <item>Chinese, Mandarin (Hong Kong, Traditional)</item>
+        <item>Chinese, Mandarin (Singapore, Simplified)</item>
+        <item>Chinese, Mandarin (Taiwan, Simplified)</item>
+        <item>Chinese, Mandarin (Taiwan, Traditional)</item>
+        <item>Chinese, Yue (China, Simplified)</item>
+        <item>Chinese, Yue (Hong Kong, Traditional)</item>
+        <item>Croatian (Croatia)</item>
+        <item>Czech (Czech Republic)</item>
+        <item>Danish (Denmark)</item>
+        <item>Dutch (Belgium)</item>
+        <item>Dutch (Netherlands)</item>
+        <item>English (Generic)</item>
+        <item>English (Australia)</item>
+        <item>English (Bangladesh)</item>
+        <item>English (Canada)</item>
+        <item>English (Hong Kong)</item>
+        <item>English (India)</item>
+        <item>English (Ireland)</item>
+        <item>English (Kenya)</item>
+        <item>English (Malaysia)</item>
+        <item>English (New Zealand)</item>
+        <item>English (Nigeria)</item>
+        <item>English (Pakistan)</item>
+        <item>English (Philippines)</item>
+        <item>English (Singapore)</item>
+        <item>English (South Africa)</item>
+        <item>English (Sudan)</item>
+        <item>English (Tanzania)</item>
+        <item>English (Uganda)</item>
+        <item>English (UK)</item>
+        <item>English (US)</item>
+        <item>Estonian (Estonia)</item>
+        <item>Filipino (Philippines)</item>
+        <item>Finnish (Finland)</item>
+        <item>French (Belgium)</item>
+        <item>French (Canada)</item>
+        <item>French (France)</item>
+        <item>French (Switzerland)</item>
+        <item>Galician (Spain)</item>
+        <item>German (Austria)</item>
+        <item>German (Germany)</item>
+        <item>German (Switzerland)</item>
+        <item>German (Liechtenstein)</item>
+        <item>Greek (Greece)</item>
+        <item>Hebrew (Israel)</item>
+        <item>Hindi (India)</item>
+        <item>Hungarian (Hungary)</item>
+        <item>Icelandic (Iceland)</item>
+        <item>Indonesian (Indonesia)</item>
+        <item>Irish (Ireland)</item>
+        <item>isiNdebele (South Africa)</item>
+        <item>isiXhosa (South Africa)</item>
+        <item>isiZulu (South Africa)</item>
+        <item>Italian (Italy)</item>
+        <item>Italian (Switzerland)</item>
+        <item>Japanese (Japan)</item>
+        <item>Korean (South Korea)</item>
+        <item>Latvian (Latvia)</item>
+        <item>Lithuanian (Lithuania)</item>
+        <item>Malay (Malaysia)</item>
+        <item>Malay (Singapore)</item>
+        <item>Norwegian Bokmål (Norway)</item>
+        <item>Norwegian Nynorsk (Norway)</item>
+        <item>Persian (Iran)</item>
+        <item>Polish (Poland)</item>
+        <item>Portuguese (Angola)</item>
+        <item>Portuguese (Brazil)</item>
+        <item>Portuguese (Portugal)</item>
+        <item>Romanian (Romania)</item>
+        <item>Russian (Belarus)</item>
+        <item>Russian (Russia)</item>
+        <item>Sepedi (South Africa)</item>
+        <item>Serbian (Serbia, Cyrillic)</item>
+        <item>Sesotho (South Africa)</item>
+        <item>Setswana (South Africa)</item>
+        <item>siSwati (South Africa)</item>
+        <item>Slovak (Slovakia)</item>
+        <item>Slovenian (Slovenia)</item>
+        <item>Spanish (Argentina)</item>
+        <item>Spanish (Bolivia)</item>
+        <item>Spanish (Chile)</item>
+        <item>Spanish (Colombia)</item>
+        <item>Spanish (Costa Rica)</item>
+        <item>Spanish (Cuba)</item>
+        <item>Spanish (Dominican Republic)</item>
+        <item>Spanish (Ecuador)</item>
+        <item>Spanish (El Salvador)</item>
+        <item>Spanish (Guatemala)</item>
+        <item>Spanish (Honduras)</item>
+        <item>Spanish (Mexico)</item>
+        <item>Spanish (Nicaragua)</item>
+        <item>Spanish (Panama)</item>
+        <item>Spanish (Paraguay)</item>
+        <item>Spanish (Peru)</item>
+        <item>Spanish (Puerto Rico)</item>
+        <item>Spanish (Spain)</item>
+        <item>Spanish (US)</item>
+        <item>Spanish (Uruguay)</item>
+        <item>Spanish (Venezuela)</item>
+        <item>Swahili (Kenya)</item>
+        <item>Swahili (Tanzania)</item>
+        <item>Swahili (Uganda)</item>
+        <item>Swedish (Finland)</item>
+        <item>Swedish (Sweden)</item>
+        <item>Thai (Thailand)</item>
+        <item>Tshivenda (South Africa)</item>
+        <item>Turkish (Turkey)</item>
+        <item>Ukrainian (Ukraine)</item>
+        <item>Urdu (Pakistan)</item>
+        <item>Vietnamese (Vietnam)</item>
+        <item>Xitsonga (South Africa)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>Occasionally</item>
+        <item>Set date…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+        <item>All day</item>
+        <item>Set time…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Arrive</item>
+        <item>Leave</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Set location…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>"This Internet connection isn't reliable right now."</item>
+        <item>"This Internet connection isn't reliable at the moment."</item>
+        <item>"This Internet connection isn't stable right now."</item>
+        <item>"This Internet connection isn't stable at the moment."</item>
+        <item>"This Internet connection isn't strong enough right now."</item>
+        <item>"This Internet connection isn't strong enough at the moment."</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>read it</item>
+        <item>read the message</item>
+        <item>read that text</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>reply</item>
+        <item>send reply</item>
+        <item>send a reply</item>
+        <item>reply to the text message</item>
+        <item>send reply to it</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>call back sender of last message</item>
+        <item>call him</item>
+        <item>call him back</item>
+        <item>call her</item>
+        <item>call her back</item>
+    </string-array>
+    <string-array name="action_local_directions_travel_mode">
+        <item>@string/action_travel_mode_driving</item>
+        <item>@string/action_travel_mode_walking</item>
+        <item>@string/action_travel_mode_transit</item>
+        <item>@string/action_travel_mode_biking</item>
+    </string-array>
+    <integer-array name="action_local_directions_travel_mode_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+    </integer-array>
+    <string-array name="action_local_navigate_travel_mode">
+        <item>@string/action_travel_mode_driving</item>
+        <item>@string/action_travel_mode_walking</item>
+    </string-array>
+    <integer-array name="action_local_navigate_travel_mode_values">
+        <item>1</item>
+        <item>3</item>
+    </integer-array>
+    <string-array name="cardmaker_types">
+        <item>@string/cardmaker_generic_type</item>
+        <item>@string/cardmaker_list_type</item>
+        <item>@string/cardmaker_table_type</item>
+        <item>@string/cardmaker_barcode_type</item>
+        <item>@string/cardmaker_map_type</item>
+        <item>@string/cardmaker_video_type</item>
+    </string-array>
+    <string-array name="android_wear_capabilities">
+        <item>card_sync_provider</item>
+    </string-array>
+    <array name="letter_tile_colors">
+        <item>#ff33b679</item>
+        <item>#ff536173</item>
+        <item>#ff855e86</item>
+        <item>#ffdf5948</item>
+        <item>#ffaeb857</item>
+        <item>#ff547bca</item>
+        <item>#ffae6b23</item>
+        <item>#ffe5ae4f</item>
+    </array>
+    <string-array name="countrycode_domain_overrides">
+        <item>cn</item>
+        <item>.google.com.hk</item>
+    </string-array>
+    <string-array name="default_source_suggest_uris">
+        <item>content://applications/search_suggest_query</item>
+        <item>content://browser/bookmarks/search_suggest_query</item>
+        <item>content://com.android.chrome.browser/search_suggest_query</item>
+        <item>content://com.android.contacts/search_suggest_query</item>
+        <item>content://com.google.android.videos/search_suggest_query</item>
+        <item>content://com.google.android.music.MusicContent/search/search_suggest_query</item>
+        <item>content://com.google.android.apps.books/search_suggest_query</item>
+    </string-array>
+    <array name="default_sources" />
+    <string-array name="google_search_paths">
+        <item>/search</item>
+        <item>/m/search</item>
+        <item>/webhp</item>
+        <item>/s</item>
+    </string-array>
+    <string-array name="google_search_logout_redirects">
+        <item>/Logout</item>
+        <item>/accounts/ClearSID</item>
+        <item>/accounts/Logout2</item>
+    </string-array>
+    <string-array name="ignored_sources">
+        <item>com.google.android.voicesearch/.Shortcuts</item>
+    </string-array>
+    <array name="ignored_icing_source_packages" />
+    <string-array name="full_size_icon_icing_packages">
+        <item>com.google.android.music</item>
+    </string-array>
+    <string-array name="full_size_icon_source_suggest_uris">
+        <item>content://com.google.android.music.MusicContent/search/search_suggest_query</item>
+    </string-array>
+    <string-array name="domain_whitelist">
+        <item>google.com</item>
+        <item>googlemail.com</item>
+        <item>gmail.com</item>
+        <item>youtube.com</item>
+        <item>yahoo.com</item>
+        <item>hotmail.com</item>
+    </string-array>
+    <string-array name="background_tasks">
+        <item>bloblobber_sync</item>
+        <item>refresh_search_history</item>
+        <item>update_gservices_config</item>
+        <item>update_icing_corpora</item>
+        <item>send_gsa_home_request</item>
+        <item>send_gsa_home_request_then_crash</item>
+        <item>refresh_search_domain_then_send_gsa_home_request</item>
+        <item>delete_local_search_history</item>
+        <item>update_language_packs</item>
+        <item>refresh_auth_tokens</item>
+        <item>send_training_answers</item>
+        <item>clear_training_data</item>
+        <item>sync_gel_prefs</item>
+        <item>log_contacts_to_clearcut_unconditionally</item>
+        <item>log_contacts_to_clearcut_after_hash_check</item>
+        <item>log_contacts_to_clearcut_incrementally</item>
+        <item>log_applications_to_clearcut_unconditionally</item>
+        <item>log_applications_to_clearcut_after_hash_check</item>
+        <item>log_attempted_searches_to_kansas</item>
+        <item>update_hotword_models</item>
+        <item>silent_speakerid_enrollment</item>
+        <item>migrate_relationships</item>
+        <item>prefetch_base_page_content</item>
+        <item>predictive_card_preferences_sync</item>
+        <item>fetch_opt_in_statuses</item>
+        <item>fetch_location_reporting_state</item>
+        <item>refresh_now_configuration</item>
+        <item>prefetch_now_suw_opt_in_info</item>
+        <item>refresh_doodle</item>
+        <item>cleanup_extradex_registry</item>
+        <item>throttling_logger_send_to_clearcut</item>
+        <item>upload_audio_logs</item>
+        <item>velour_upgrade_tasks</item>
+        <item>clear_search_history_queries</item>
+    </string-array>
+    <array name="click_ad_url_exception_patterns" />
+    <string-array name="click_ad_url_substitutions">
+        <item>(?&lt;=[?&amp;])rct=j&amp;</item>
+        <item></item>
+        <item>([?&amp;])rct=j$</item>
+        <item></item>
+    </string-array>
+    <string-array name="clicked_result_destination_params">
+        <item>url</item>
+        <item>q</item>
+    </string-array>
+    <array name="gws_path_allow_back_from_whitelist" />
+    <string-array name="action_discovery_supported_locales">
+        <item>en_us</item>
+        <item>en_gb</item>
+        <item>en_ca</item>
+        <item>en_au</item>
+        <item>en</item>
+    </string-array>
+    <string-array name="tv_search_query_by_locale">
+        <item>en_us</item>
+        <item>"What's on my TV"</item>
+    </string-array>
+    <string-array name="offline_options_telephony">
+        <item>Make a call</item>
+        <item>Send a text</item>
+    </string-array>
+    <string-array name="offline_options_none_telephony">
+        <item>Play music</item>
+        <item>Open Gmail</item>
+        <item>Turn on Wi-Fi</item>
+        <item>Turn up the volume</item>
+        <item>Turn on the flashlight</item>
+        <item>Turn off airplane mode</item>
+        <item>Turn on Bluetooth</item>
+        <item>Dim the screen</item>
+    </string-array>
+    <array name="cardsync_cluster_header_background_colors">
+        <item>@color/google_blue</item>
+        <item>@color/google_red</item>
+        <item>@color/google_yellow</item>
+        <item>@color/google_green</item>
+    </array>
+    <string-array name="flight_status_summary">
+        <item>@string/flight_status_unknown</item>
+        <item>@string/flight_status_scheduled</item>
+        <item>@string/flight_status_on_time</item>
+        <item>@string/flight_status_landed</item>
+        <item>@string/flight_status_delayed</item>
+        <item>@string/flight_status_cancelled</item>
+        <item>@string/flight_status_diverted</item>
+        <item>@string/flight_status_redirected</item>
+        <item>@string/flight_status_not_operational</item>
+    </string-array>
+    <string-array name="traffic_mode_entries">
+        <item>@string/traffic_mode_driving</item>
+        <item>@string/traffic_mode_transit</item>
+        <item>@string/traffic_mode_walking</item>
+        <item>@string/traffic_mode_biking</item>
+    </string-array>
+    <string-array name="traffic_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="traffic_mode_entries_no_biking">
+        <item>@string/traffic_mode_driving</item>
+        <item>@string/traffic_mode_transit</item>
+        <item>@string/traffic_mode_walking</item>
+    </string-array>
+    <string-array name="traffic_mode_values_no_biking">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="languageCodes">
+        <item>af-ZA</item>
+        <item>ar-DZ</item>
+        <item>ar-EG</item>
+        <item>ar-IQ</item>
+        <item>ar-IL</item>
+        <item>ar-JO</item>
+        <item>ar-KW</item>
+        <item>ar-LB</item>
+        <item>ar-LY</item>
+        <item>ar-MA</item>
+        <item>ar-QA</item>
+        <item>ar-SA</item>
+        <item>ar-SD</item>
+        <item>ar-SY</item>
+        <item>ar-TN</item>
+        <item>ar-AE</item>
+        <item>ar-YE</item>
+        <item>be-BY</item>
+        <item>bn-BD</item>
+        <item>bg-BG</item>
+        <item>ca-ES</item>
+        <item>cmn-Hans-CN</item>
+        <item>cmn-Hans-HK</item>
+        <item>cmn-Hant-HK</item>
+        <item>cmn-Hans-SG</item>
+        <item>cmn-Hans-TW</item>
+        <item>cmn-Hant-TW</item>
+        <item>yue-Hans-CN</item>
+        <item>yue-Hant-HK</item>
+        <item>hr-HR</item>
+        <item>cs-CZ</item>
+        <item>da-DK</item>
+        <item>nl-BE</item>
+        <item>nl-NL</item>
+        <item>en-001</item>
+        <item>en-AU</item>
+        <item>en-BD</item>
+        <item>en-CA</item>
+        <item>en-HK</item>
+        <item>en-IN</item>
+        <item>en-IE</item>
+        <item>en-KE</item>
+        <item>en-MY</item>
+        <item>en-NZ</item>
+        <item>en-NG</item>
+        <item>en-PK</item>
+        <item>en-PH</item>
+        <item>en-SG</item>
+        <item>en-ZA</item>
+        <item>en-SD</item>
+        <item>en-TZ</item>
+        <item>en-UG</item>
+        <item>en-GB</item>
+        <item>en-US</item>
+        <item>et-EE</item>
+        <item>fil-PH</item>
+        <item>fi-FI</item>
+        <item>fr-BE</item>
+        <item>fr-CA</item>
+        <item>fr-FR</item>
+        <item>fr-CH</item>
+        <item>gl-ES</item>
+        <item>de-AT</item>
+        <item>de-DE</item>
+        <item>de-CH</item>
+        <item>de-LI</item>
+        <item>el-GR</item>
+        <item>iw-IL</item>
+        <item>hi-IN</item>
+        <item>hu-HU</item>
+        <item>is-IS</item>
+        <item>id-ID</item>
+        <item>ga-IE</item>
+        <item>nr-ZA</item>
+        <item>xh-ZA</item>
+        <item>zu-ZA</item>
+        <item>it-IT</item>
+        <item>it-CH</item>
+        <item>ja-JP</item>
+        <item>ko-KR</item>
+        <item>lv-LV</item>
+        <item>lt-LT</item>
+        <item>ms-MY</item>
+        <item>ms-SG</item>
+        <item>nb-NO</item>
+        <item>nn-NO</item>
+        <item>fa-IR</item>
+        <item>pl-PL</item>
+        <item>pt-AO</item>
+        <item>pt-BR</item>
+        <item>pt-PT</item>
+        <item>ro-RO</item>
+        <item>ru-BY</item>
+        <item>ru-RU</item>
+        <item>nso-ZA</item>
+        <item>sr-Cyrl-RS</item>
+        <item>st-ZA</item>
+        <item>tn-ZA</item>
+        <item>ss-ZA</item>
+        <item>sk-SK</item>
+        <item>sl-SI</item>
+        <item>es-AR</item>
+        <item>es-BO</item>
+        <item>es-CL</item>
+        <item>es-CO</item>
+        <item>es-CR</item>
+        <item>es-CU</item>
+        <item>es-DO</item>
+        <item>es-EC</item>
+        <item>es-SV</item>
+        <item>es-GT</item>
+        <item>es-HN</item>
+        <item>es-MX</item>
+        <item>es-NI</item>
+        <item>es-PA</item>
+        <item>es-PY</item>
+        <item>es-PE</item>
+        <item>es-PR</item>
+        <item>es-ES</item>
+        <item>es-US</item>
+        <item>es-UY</item>
+        <item>es-VE</item>
+        <item>sw-KE</item>
+        <item>sw-TZ</item>
+        <item>sw-UG</item>
+        <item>sv-FI</item>
+        <item>sv-SE</item>
+        <item>th-TH</item>
+        <item>ve-ZA</item>
+        <item>tr-TR</item>
+        <item>uk-UA</item>
+        <item>ur-PK</item>
+        <item>vi-VN</item>
+        <item>ts-ZA</item>
+    </string-array>
+    <string-array name="prefEntries_ttsMode">
+        <item>@string/prefSummary_ttsModeOn</item>
+        <item>@string/prefSummary_ttsModeHandsFreeOnly</item>
+    </string-array>
+    <string-array name="prefValues_ttsMode">
+        <item>always</item>
+        <item>handsFreeOnly</item>
+    </string-array>
+    <array name="emptyArray" />
+</resources>

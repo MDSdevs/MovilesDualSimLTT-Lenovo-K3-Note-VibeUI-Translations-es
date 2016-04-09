@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ltgrey">#55cccccc</color>
+    <color name="actionbar_text">#ffffffff</color>
+    <color name="actionbar_bg">#ff1976d2</color>
+    <color name="sub_text">#8a000000</color>
+    <color name="title_text">#de000000</color>
+    <color name="leac_background_material_dark">#ff191919</color>
+    <color name="leac_background_material_light">#fffafafa</color>
+    <color name="leac_primary_material_dark">#ff212121</color>
+    <color name="leac_primary_material_light">#fff3f3f3</color>
+    <color name="leac_primary_dark_material_dark">#ff212121</color>
+    <color name="leac_primary_dark_material_light">#fff3f3f3</color>
+    <color name="leac_control_normal">#ff2cadf1</color>
+    <color name="leac_control_disable">#332cadf1</color>
+    <color name="leac_bright_foreground_material_dark">@android:color/white</color>
+    <color name="leac_bright_foreground_material_light">@android:color/black</color>
+    <color name="leac_bright_foreground_disabled_material_dark">#80ffffff</color>
+    <color name="leac_bright_foreground_disabled_material_light">#80000000</color>
+    <color name="leac_primary_text_default_material_light">#de000000</color>
+    <color name="leac_secondary_text_default_material_light">#8a000000</color>
+    <color name="leac_primary_text_default_material_dark">#ffffffff</color>
+    <color name="leac_secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="leac_primary_text_disabled_material_light">#39000000</color>
+    <color name="leac_secondary_text_disabled_material_light">#24000000</color>
+    <color name="leac_primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="leac_secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="leac_input_method_navigation_guard">@android:color/black</color>
+    <color name="leac_action_mode_background">#ff474747</color>
+</resources>

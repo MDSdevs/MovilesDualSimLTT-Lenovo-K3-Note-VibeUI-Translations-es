@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.AppCompat.DrawerArrowToggle" parent="">
+        <item name="android:color">?android:textColorSecondary</item>
+        <item name="abcSpinBars">true</item>
+        <item name="abcDrawableSize">24.0dip</item>
+        <item name="abcGapBetweenBars">3.0dip</item>
+        <item name="abcTopBottomBarArrowSize">11.309998dip</item>
+        <item name="abcMiddleBarArrowSize">16.0dip</item>
+        <item name="abcBarSize">18.0dip</item>
+        <item name="abcThickness">2.0dip</item>
+    </style>
+    <style name="Theme.AppCompat.CompactMenu" parent="">
+        <item name="android:listViewStyle">?android:listViewStyle</item>
+        <item name="android:itemTextAppearance">?android:textAppearanceMedium</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="">
+        <item name="android:paddingRight">8.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem" parent="">
+        <item name="android:paddingRight">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup" parent="">
+        <item name="android:layout_marginLeft">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Text" parent="">
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="AboutTheme.Calendar" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="mainDivider">#ffa3a3a3</item>
+        <item name="mainBackground">#ffffffff</item>
+        <item name="appNameTextColor">#ff191919</item>
+        <item name="versionNameTextColor">#ff191919</item>
+        <item name="listViewDivider">#ffe8e8e8</item>
+        <item name="listViewTextColor">@color/ab_list_view_text_color_light</item>
+        <item name="listViewSummaryTextColor">@color/ab_list_view_summary_text_color_light</item>
+        <item name="copyrightTextColor">#ff9b9b9b</item>
+        <item name="copyrightBackground">#ffe8e8e8</item>
+        <item name="tableItemViewDivider">#ffe8e8e8</item>
+        <item name="backButton">@drawable/ab_ic_back_light</item>
+        <item name="backButtonBg">@drawable/ab_ic_back_light_bg</item>
+        <item name="cmccPromptTextColor">#ff191919</item>
+        <item name="padLandRightBackground">#fff3f3f3</item>
+        <item name="moreButton">@drawable/ab_ic_light_arrow</item>
+        <item name="listItemSelector">@drawable/ab_list_item_selector_light</item>
+    </style>
+    <style name="lenovo_about_stytle" parent="@style/UpdateActivityTheme" />
+    <style name="UpdateActivityTheme" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@color/lenovo_about_transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:background">@color/lenovo_about_transparent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="UpdateActivityTheme.Light" parent="@style/UpdateActivityTheme">
+        <item name="defaultTextColor">#ff191919</item>
+    </style>
+    <style name="UpdateActivityTheme.Dark" parent="@style/UpdateActivityTheme">
+        <item name="defaultTextColor">#ffffffff</item>
+    </style>
+    <style name="FeedbackTheme.Calendar" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="titleBarBackground">#ffffffff</item>
+        <item name="titleNameTextColor">#ff191919</item>
+        <item name="fbTipTextColor">#ff757575</item>
+        <item name="titleBarBackgroundOpposite">#ff000000</item>
+        <item name="shapeCornerLine">@drawable/fb_shape_corner_line_light</item>
+        <item name="fbLineColor">#ffa3a3a3</item>
+        <item name="fbListViewLineColor">#ffe8e8e8</item>
+        <item name="fbMyfeedbackTimeTextColor">#ff757575</item>
+        <item name="fbTextColorOpposite">#ffffffff</item>
+        <item name="fbIMBackground">#fff8f8f8</item>
+        <item name="fbIMInfoBackground">#ffffffff</item>
+        <item name="fbListItemTextColor">@color/ab_list_view_text_color_light</item>
+        <item name="fbListItemTextTimeColor">@color/fb_list_view_text_time_color_light</item>
+        <item name="fbListEmptyTextTimeColor">#ff191919</item>
+        <item name="fbBackButton">@drawable/ab_ic_back_light</item>
+        <item name="fbBackButtonBg">@drawable/ab_ic_back_light_bg</item>
+        <item name="personalInfoBtn">@drawable/fb_ic_info_light</item>
+        <item name="myFeedbackBtn">@drawable/fb_ic_list_light</item>
+        <item name="addFeedbackBtn">@drawable/fb_ic_add_light</item>
+        <item name="feedbackIcAddPic">@drawable/fb_ic_add_pic_light</item>
+        <item name="submitBtnTextColor">@drawable/fb_submit_btn_text_light</item>
+        <item name="submitBtnBackgroundColor">@drawable/fb_submit_btn_background_light</item>
+        <item name="fbIcSendSelector">@drawable/fb_ic_send_selector_light</item>
+        <item name="fbMoreButton">@drawable/ab_ic_light_arrow</item>
+        <item name="fbListItemSelector">@drawable/ab_list_item_selector_light</item>
+    </style>
+    <style name="FbEditorTitleTextViewStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="FbEditTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Medium">
+        <item name="android:textColor">@color/fb_black_text</item>
+        <item name="android:textColorHint">@color/fb_gray_text</item>
+        <item name="android:textCursorDrawable">@null</item>
+    </style>
+    <style name="FbChatNameStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/fb_gray_text</item>
+    </style>
+    <style name="FbChatTextStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/fb_black_text</item>
+        <item name="android:minWidth">100.0dip</item>
+    </style>
+    <style name="FbStyleGlobalBg">
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="FbMainActivityBg">
+        <item name="android:background">@color/fb_main</item>
+    </style>
+    <style name="ChipTitleStyle">
+        <item name="android:paddingLeft">@dimen/chip_title_padding_start</item>
+    </style>
+    <style name="ChipSubtitleStyle">
+        <item name="android:paddingLeft">@dimen/chip_subtitle_padding_start</item>
+    </style>
+    <style name="ChipIconStyle">
+        <item name="android:layout_marginLeft">@dimen/chip_icon_margin_start</item>
+    </style>
+    <style name="RecipientEditTextView" parent="@android:attr/autoCompleteTextViewStyle">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48.0dip</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing_extra</item>
+        <item name="android:inputType">textEmailAddress|textMultiLine</item>
+        <item name="android:imeOptions">actionNext|flagNoFullscreen</item>
+        <item name="android:dropDownHorizontalOffset">-16.0dip</item>
+        <item name="android:dropDownVerticalOffset">-6.0dip</item>
+        <item name="android:textDirection">locale</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="LeComponentsTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">false</item>
+    </style>
+    <style name="ToolBarMonthSelectTitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/toolbar_color_white</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="WidgetDateStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#0dffffff</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="WidgetDayStyle">
+        <item name="android:textSize">34.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#0dffffff</item>
+        <item name="android:shadowRadius">3.0</item>
+    </style>
+    <style name="EventEntryTitle" parent="@android:style/Widget.Holo.TextView">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="EventEntryDetails" parent="@android:style/Widget.Holo.TextView">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ffbbbbbb</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="CalendarCellHeaderText">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textColor">#ffd7d5d5</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="CalendarCell">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="CalendarCellText">
+        <item name="android:textSize">17.0dip</item>
+        <item name="android:textColor">@color/color_sonar_text</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="CalendarCellSubText">
+        <item name="android:textSize">10.0dip</item>
+        <item name="android:textColor">@color/color_lunar_text</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">-2.0dip</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    <style name="spannable_TextSize">
+        <item name="android:textSize">13.0dip</item>
+    </style>
+    <style name="EditBirthdayDivider2">
+        <item name="android:background">#ffd9d9d9</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.5dip</item>
+    </style>
+    <style name="EditEventTextLarge" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/list_item_primary_text_normal</item>
+    </style>
+    <style name="EditEventTextMedium" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/list_item_primary_text_normal</item>
+    </style>
+    <style name="EditEventLayout">
+        <item name="android:layout_marginLeft">25.0dip</item>
+        <item name="android:layout_marginRight">25.0dip</item>
+        <item name="android:minHeight">@dimen/edit_event_min_height</item>
+    </style>
+    <style name="EditEventDivider">
+        <item name="android:background">@drawable/divider</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+        <item name="android:layout_marginTop">2.0dip</item>
+        <item name="android:layout_marginBottom">2.0dip</item>
+    </style>
+    <style name="actonbar_btn_shadow">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/bottom_btn_text_color</item>
+        <item name="android:background">@drawable/btn_bar_background</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:shadowColor">#b0ffffff</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="cabbottomitemcommontextstyles">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textColor">@drawable/cab_bottom_text_common</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="cabbottomitemonlytextstyles">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">@dimen/cab_bottom_text_size</item>
+        <item name="android:textColor">@drawable/cab_bottom_text_common</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ShowMore">
+        <item name="android:windowEnterAnimation">@anim/cab_show_more</item>
+        <item name="android:windowExitAnimation">@anim/cab_hide_more</item>
+    </style>
+    <style name="Theme.Widget.Button.Msg" parent="@android:style/Widget.Holo.Button">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:background">@drawable/theme_btn_msg</item>
+        <item name="android:layout_height">@dimen/bottom_button_panel_height</item>
+    </style>
+    <style name="EditBirthdayItemInd">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/edit_birthday_ind</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+    </style>
+    <style name="EditBirthdayItemValue">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/edit_birthday_value</item>
+        <item name="android:gravity">center|left</item>
+    </style>
+    <style name="BirthdayLayout_up_bottom">
+        <item name="android:layout_marginTop">20.0dip</item>
+        <item name="android:layout_marginBottom">20.0dip</item>
+    </style>
+    <style name="DropDownDown">
+        <item name="android:windowEnterAnimation">@anim/grow_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/shrink_fade_out</item>
+    </style>
+    <style name="global_checkbox_style">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/dark_light</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@drawable/checkbox_selector</item>
+    </style>
+    <style name="progress" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="EditEventTextSmall" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/list_item_primary_text_normal</item>
+    </style>
+    <style name="CalendarButtonBarButtonStyle" parent="@android:attr/buttonBarStyle">
+        <item name="android:background">@drawable/buttonbar_line</item>
+        <item name="android:divider">@drawable/button_divider</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">8.0dip</item>
+    </style>
+    <style name="TextAppearance.ActionBarTitle" parent="@style/TextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/actionbar_title_color</item>
+    </style>
+    <style name="Theme.Widget.Configuration.Bg" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+    <style name="ContactDetailItemType">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="AlertDialogStyle">
+        <item name="android:textAppearance">@android:style/TextAppearance</item>
+        <item name="android:textAppearanceInverse">@android:style/TextAppearance.Inverse</item>
+        <item name="android:windowBackground">@drawable/round_corner_bg</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:buttonBarStyle">@android:style/DeviceDefault.ButtonBar</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:listPreferredItemPaddingLeft">16.0dip</item>
+        <item name="android:listPreferredItemPaddingRight">16.0dip</item>
+    </style>
+    <style name="SyncInfoTextViewStyle">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">10.0dip</item>
+        <item name="android:paddingBottom">10.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="SyncInfoDividerStyle">
+        <item name="android:background">#10333333</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">2.0dip</item>
+    </style>
+    <style name="CalendarImporterDialogTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="CalendarTheme.WithActionBar.Festivaldetail" parent="@style/CalendarTheme.WithActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name="ButtonBarStyle" parent="@android:style/DeviceDefault.Light.ButtonBar">
+        <item name="android:background">@drawable/ab_bottom_solid_light_holo</item>
+        <item name="android:divider">@drawable/divider</item>
+    </style>
+    <style name="ButtonOkStyle" parent="@android:style/Widget.Holo.Light.Button">
+        <item name="android:textColor">#ff191919</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+    </style>
+    <style name="ButtonCancelStyle" parent="@android:style/Widget.Holo.Light.Button">
+        <item name="android:textColor">#ff191919</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+    </style>
+    <style name="MinusButton">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:src">@drawable/ic_menu_remove_field_holo_light</item>
+    </style>
+    <style name="MonthView_DayLabel">
+        <item name="android:textAppearance">@style/TextAppearance.MonthView_DayLabel</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+        <item name="android:layout_width">29.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="MonthView_MiniMonthLabel">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/month_mini_day_number</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">2.0dip</item>
+    </style>
+    <style name="TextAppearance" parent="@android:style/TextAppearance" />
+    <style name="TextAppearance.SelectCalendar_Name" parent="@style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="TextAppearance.MonthView_MiniDayLabel" parent="@style/TextAppearance">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/month_other_month_day_number</item>
+    </style>
+    <style name="TextAppearance.MonthView_DayLabel" parent="@style/TextAppearance">
+        <item name="android:textSize">@dimen/day_label_text_size</item>
+        <item name="android:textColor">@color/month_day_names_color</item>
+        <item name="android:paddingLeft">2.0dip</item>
+    </style>
+    <style name="TextAppearance.AgendaView_ValueLabel" parent="@style/TextAppearance">
+        <item name="android:textSize">14.0sp</item>
+    </style>
+    <style name="TextAppearance.EditEvent_Label" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center|left|top</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">-16.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEvent_Button" parent="@style/TextAppearance.EditEvent_Label">
+        <item name="android:textColor">#ff777777</item>
+    </style>
+    <style name="TextAppearance.Recurrence_Button" parent="@style/TextAppearance.EditEvent_Label">
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="TextAppearance.EditEvent_LabelSmall" parent="@style/TextAppearance.EditEvent_Small">
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:layout_width">144.0dip</item>
+        <item name="android:layout_marginLeft">16.0dip</item>
+        <item name="android:layout_marginRight">16.0dip</item>
+        <item name="android:layout_marginBottom">-12.0dip</item>
+        <item name="android:minHeight">24.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEvent_Small" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffaaaaaa</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TextAppearance.EditEvent" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+    </style>
+    <style name="TextAppearance.EditEvent_Value" parent="@style/TextAppearance.EditEvent">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">12.0dip</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEventCalSpinner" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearance.EditEvent_CalSpinnerValue" parent="@style/TextAppearance.EditEventCalSpinner">
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEvent_Spinner" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:layout_marginLeft">12.0dip</item>
+        <item name="android:layout_marginRight">12.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEvent_SpinnerButton" parent="@style/TextAppearance.EditEvent_Spinner">
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+    </style>
+    <style name="TextAppearance.EditEvent_homeTime" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+        <item name="android:paddingRight">2.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="TextAppearance.EventInfo_Label" parent="@style/TextAppearance">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:paddingLeft">16.0dip</item>
+    </style>
+    <style name="EditEvent_Layout" parent="@android:style/Theme.Holo.Light" />
+    <style name="TextAppearance.Date_Range_Title" parent="@style/TextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@color/calendar_date_range_color</item>
+    </style>
+    <style name="CalendarTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="CalendarTheme.WithActionBar" parent="@android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:startYear">1970</item>
+        <item name="android:endYear">2036</item>
+        <item name="android:windowActionBar">true</item>
+        <item name="android:actionBarStyle">@style/CalendarActionBarStyle</item>
+    </style>
+    <style name="CalendarActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:displayOptions">showCustom</item>
+    </style>
+    <style name="CalendarTheme.WithActionBarWallpaper" parent="@style/CalendarTheme.WithActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
+    <style name="MultiStateButton">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:gravity">center|left</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="EditEventSeparator">
+        <item name="android:background">@color/edit_event_separator</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">15.0dip</item>
+        <item name="android:layout_marginTop">10.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="EditEventCustomActionButton" parent="@android:style/Widget.Holo.Light.ActionButton">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:focusable">true</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="EditEventCustomActionButtonImage">
+        <item name="android:padding">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="EditEventCustomActionButtonText">
+        <item name="android:textAppearance">?android:actionMenuTextAppearance</item>
+        <item name="android:textColor">?android:actionMenuTextColor</item>
+        <item name="android:ellipsize">none</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:padding">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="WidgetDayOfWeekStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">-5.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="NotificationPrimaryText" parent="@android:style/TextAppearance.StatusBar.EventContent.Title" />
+    <style name="NotificationSecondaryText" parent="@android:style/TextAppearance.Holo">
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.RecurrencePickerStyle" parent="@style/TextAppearance">
+        <item name="android:textSize">15.0sp</item>
+    </style>
+    <style name="TextAppearance.Recurrence_SpinnerButton" parent="@android:style/Widget.Holo.Light.Spinner" />
+    <style name="RecurrenceDayOfWeekStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/recurrence_bubble_text_color</item>
+        <item name="android:background">@drawable/recurrence_bubble_fill</item>
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginTop">4.0dip</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+        <item name="android:layout_marginBottom">4.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="mydialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="CDataTimePicker" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+</resources>

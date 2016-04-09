@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_allocation_entries">
+        <item>@string/array_entries_default</item>
+        <item>@string/cache_allocation_entries_medium</item>
+        <item>@string/cache_allocation_entries_large</item>
+    </string-array>
+    <string-array name="cache_reclaiming_entries">
+        <item>@string/array_entries_default</item>
+        <item>@string/cache_reclaiming_entries_minimum</item>
+        <item>@string/array_entries_moderate</item>
+        <item>@string/cache_reclaiming_entries_doubled</item>
+    </string-array>
+    <string-array name="kernel_tweaks_entries">
+        <item>@string/array_entries_disabled</item>
+        <item>@string/array_entries_light</item>
+        <item>@string/kernel_tweaks_entries_heavy</item>
+    </string-array>
+    <string-array name="net_buffer_entries">
+        <item>@string/array_entries_default</item>
+        <item>@string/net_buffer_entries_small</item>
+        <item>@string/net_buffer_entries_big</item>
+    </string-array>
+    <string-array name="oom_killer_entries">
+        <item>@string/array_entries_default</item>
+        <item>@string/oom_killer_entries_enabled</item>
+        <item>@string/array_entries_disabled</item>
+    </string-array>
+    <string-array name="ram_manager_entries">
+        <item>@string/array_entries_default</item>
+        <item>@string/ram_manager_entries_multitasking</item>
+        <item>@string/ram_manager_entries_balanced</item>
+        <item>@string/ram_manager_entries_gaming</item>
+    </string-array>
+    <string-array name="seeder_entries">
+        <item>@string/array_entries_default</item>
+        <item>@string/array_entries_light</item>
+        <item>@string/seeder_entries_enlarger</item>
+        <item>@string/array_entries_moderate</item>
+        <item>@string/seeder_entries_aggressive</item>
+    </string-array>
+</resources>

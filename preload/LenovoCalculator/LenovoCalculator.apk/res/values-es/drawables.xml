@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="digit_bg_normal">#fffafafa</item>
+    <item type="drawable" name="digit_bg_pressed">#ff8b8b8b</item>
+    <item type="drawable" name="operator_bg_normal">#fff3f3f3</item>
+    <item type="drawable" name="operator_bg_pressed">#ff787878</item>
+    <item type="drawable" name="choose_bg_normal">#ff474747</item>
+    <item type="drawable" name="choose_bg_pressed">#ff7f7f7f</item>
+    <item type="drawable" name="handler_bg_normal">#ffcfd8dc</item>
+</resources>

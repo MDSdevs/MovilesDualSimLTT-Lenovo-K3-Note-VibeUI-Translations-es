@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navigation_key_width">40.0dip</dimen>
+    <dimen name="navigation_menu_key_width">20.0dip</dimen>
+    <dimen name="item_preference_pading_left">16.0dip</dimen>
+    <dimen name="item_preference_pading_right">16.0dip</dimen>
+    <dimen name="screen_size_width">360.0dip</dimen>
+    <dimen name="screen_size_height">640.0dip</dimen>
+    <dimen name="main_view_gsh_main_top_height">125.0dip</dimen>
+    <dimen name="main_view_gsh_main_bottom_left_width">100.0dip</dimen>
+    <dimen name="main_view_gsh_framework_top_height">38.0dip</dimen>
+    <dimen name="main_view_gsh_top_buttons_width">67.0dip</dimen>
+    <dimen name="main_view_gsh_edit_button_width">32.0dip</dimen>
+    <dimen name="main_view_gsh_top_buttons_spilt">3.0dip</dimen>
+    <dimen name="main_view_gsh_quit_button_width">32.0dip</dimen>
+    <dimen name="main_view_gsh_framework_middle_padding">3.0dip</dimen>
+    <dimen name="main_view_gsh_main_window_height">448.0dip</dimen>
+    <dimen name="main_view_gsh_framework_bottom_height">34.0dip</dimen>
+    <dimen name="main_view_gsh_main_bottom_right_width">100.0dip</dimen>
+    <dimen name="top_view_sh_top_top_height">125.0dip</dimen>
+    <dimen name="top_view_sh_top_bottom_left_width">100.0dip</dimen>
+</resources>

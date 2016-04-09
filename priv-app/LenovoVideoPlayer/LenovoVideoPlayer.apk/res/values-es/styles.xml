@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Vibe3BaseTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:actionModeBackground">@color/primary_color</item>
+    </style>
+    <style name="SplashActivityTheme" parent="@style/VideoplayerTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="HomePageActivityTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:tabWidgetStyle">@style/myTabwidget</item>
+    </style>
+    <style name="VideoplayerTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:tabWidgetStyle">@style/myTabwidget</item>
+    </style>
+    <style name="VideoplayerThemeDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+    <style name="VideoplayerThemeLight" parent="@android:style/Theme.DeviceDefault.Light" />
+    <style name="SplashActivityThemeLight" parent="@style/VideoplayerThemeLight">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="NostartWindowTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme" parent="@android:style/Theme" />
+    <style name="Theme.LeVideo" parent="@android:style/Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="frame_preview">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="img_preview">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/grid_video_item_height</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="text_showname">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">2.0dip</item>
+        <item name="android:layout_marginBottom">0.0dip</item>
+        <item name="android:hint">@string/showname</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowRadius">3.2</item>
+    </style>
+    <style name="frame_previewer">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/video_thumb_background</item>
+        <item name="android:layout_width">133.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="image_preview">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">132.0dip</item>
+        <item name="android:layout_height">170.0dip</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="text_name">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:background">@drawable/videoname_background</item>
+        <item name="android:layout_width">130.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">0.0dip</item>
+        <item name="android:hint">@string/showname</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowRadius">3.2</item>
+    </style>
+    <style name="MyActionButton.Dark" parent="@android:style/Widget.Holo.ActionButton">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:paddingRight">15.0dip</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:minWidth">56.0dip</item>
+        <item name="android:minHeight">?android:actionBarSize</item>
+    </style>
+    <style name="ActionBar.Light" parent="@style/ActionBar">
+        <item name="android:background">@color/actionbar_background_dark</item>
+    </style>
+    <style name="ActionBar.Dark" parent="@style/ActionBar">
+        <item name="android:background">@color/actionbar_background_dark</item>
+    </style>
+    <style name="myactionMenuTextAppearance" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="text_category">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">@color/text_3c3c3c</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">60.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">1.0dip</item>
+    </style>
+    <style name="text_category_port">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">@color/text_3c3c3c</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">45.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">1.0dip</item>
+    </style>
+    <style name="text_divider">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">@color/text_3c3c3c</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">3.0dip</item>
+        <item name="android:layout_marginRight">3.0dip</item>
+        <item name="android:src">@drawable/video_divider</item>
+    </style>
+    <style name="text_divider_port">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">@color/text_3c3c3c</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:src">@drawable/video_divider</item>
+    </style>
+    <style name="img_divider">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">1.0dip</item>
+        <item name="android:layout_marginTop">1.0dip</item>
+        <item name="android:layout_marginBottom">1.0dip</item>
+        <item name="android:src">@drawable/video_divider</item>
+    </style>
+    <style name="img_divider_port">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">1.0dip</item>
+        <item name="android:layout_marginTop">1.0dip</item>
+        <item name="android:layout_marginBottom">1.0dip</item>
+        <item name="android:src">@drawable/video_divider</item>
+    </style>
+    <style name="widget_frame_preview">
+        <item name="android:background">@drawable/video_thumb_background</item>
+        <item name="android:layout_width">215.0dip</item>
+        <item name="android:layout_height">144.0dip</item>
+    </style>
+    <style name="widget_frame_preview_port">
+        <item name="android:background">@drawable/video_thumb_background</item>
+        <item name="android:layout_width">167.0dip</item>
+        <item name="android:layout_height">106.0dip</item>
+    </style>
+    <style name="play_label">
+        <item name="android:layout_gravity">bottom|center|right</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/video_play</item>
+    </style>
+    <style name="play_label_port">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/video_play</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="widget_img_preview">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">212.0dip</item>
+        <item name="android:layout_height">139.0dip</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="widget_img_preview_port">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">160.0dip</item>
+        <item name="android:layout_height">100.0dip</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <style name="next_page">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:layout_width">30.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginRight">20.0dip</item>
+        <item name="android:src">@drawable/video_next</item>
+    </style>
+    <style name="widget_text_showname">
+        <item name="android:textSize">18.0dip</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:background">@drawable/videoname_background</item>
+        <item name="android:layout_width">212.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">3.0dip</item>
+        <item name="android:hint">@string/showname</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowRadius">3.2</item>
+    </style>
+    <style name="widget_text_showname_port">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">@color/text_white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:background">@drawable/videoname_background</item>
+        <item name="android:layout_width">160.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">3.0dip</item>
+        <item name="android:hint">@string/showname</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowDx">1.2</item>
+        <item name="android:shadowDy">1.2</item>
+        <item name="android:shadowRadius">3.2</item>
+    </style>
+    <style name="welcome">
+        <item name="android:textSize">25.0dip</item>
+        <item name="android:textColor">@color/text_3c3c3c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">160.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="loading">
+        <item name="android:textSize">25.0dip</item>
+        <item name="android:textColor">@color/text_3c3c3c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20.0dip</item>
+    </style>
+    <style name="welcome_port">
+        <item name="android:textSize">25.0dip</item>
+        <item name="android:textColor">@color/text_3c3c3c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">160.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="loading_port">
+        <item name="android:textSize">25.0dip</item>
+        <item name="android:textColor">@color/text_3c3c3c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">20.0dip</item>
+    </style>
+    <style name="no_network_text">
+        <item name="android:textSize">25.0dip</item>
+        <item name="android:textColor">@color/text_3c3c3c</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">bottom|center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">170.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">@color/shadow_white</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">3.0</item>
+    </style>
+    <style name="ActionBarTwoLinePrimary" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title" />
+    <style name="ActionBarTwoLineSecondary" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Subtitle" />
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="MenuTitleTextStyle">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ffb9b9b9</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">#ff000000</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+    </style>
+    <style name="SplashActivityThemeDemo_Button" parent="@android:style/Widget.DeviceDefault.Button">
+        <item name="android:textAppearance">?android:textAppearanceSmallInverse</item>
+    </style>
+    <style name="SplashActivityThemeDemo" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:buttonStyle">@style/SplashActivityThemeDemo_Button</item>
+        <item name="android:windowBackground">@color/online_color_transparent_half</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="progress_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/online_color_transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="simple_progress_bar_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="ActionBar">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">@drawable/video_menu_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/action_bar_height</item>
+    </style>
+    <style name="NetworkConfirmTheme" parent="@style/VideoplayerTheme">
+        <item name="android:windowBackground">@color/online_color_transparent_half</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="SplashActivityTheme4Detail" parent="@style/VideoplayerTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="myTabwidget" parent="@android:style/Widget.TabWidget" />
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="content_grid_columns">3</integer>
+    <integer name="load_imgs_num">18</integer>
+    <integer name="column_land_gridview">4</integer>
+    <integer name="column_port_gridview">3</integer>
+    <integer name="column_episodes_count">5</integer>
+    <integer name="sort_series_count">30</integer>
+    <integer name="column_episodes_count_detail">5</integer>
+    <integer name="sort_series_count_detail">30</integer>
+    <integer name="column_episodes_margin">-10</integer>
+    <integer name="suggest_hor_num">3</integer>
+    <integer name="image_fetcher_width">160</integer>
+    <integer name="image_fetcher_height">160</integer>
+    <integer name="image_fetcher_banner_width">640</integer>
+    <integer name="image_fetcher_banner_height">360</integer>
+    <integer name="local_screen_cut_image_w">480</integer>
+    <integer name="local_screen_cut_image_h">320</integer>
+</resources>

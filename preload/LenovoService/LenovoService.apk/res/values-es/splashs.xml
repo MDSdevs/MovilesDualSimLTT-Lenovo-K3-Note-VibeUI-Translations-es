@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="splash" name="layout_bg">false</item>
+    <item type="splash" name="tv_hint">false</item>
+</resources>

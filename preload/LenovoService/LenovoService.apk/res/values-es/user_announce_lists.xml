@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="user_announce_list" name="btn_back">false</item>
+    <item type="user_announce_list" name="menu_newest">false</item>
+    <item type="user_announce_list" name="menu_software">false</item>
+    <item type="user_announce_list" name="menu_tip">false</item>
+    <item type="user_announce_list" name="list_view">false</item>
+    <item type="user_announce_list" name="loading_layout">false</item>
+</resources>

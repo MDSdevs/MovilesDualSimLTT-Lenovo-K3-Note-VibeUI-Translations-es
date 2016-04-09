@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="level_bubble">#ff222222</color>
+    <color name="level_cross">#ffc377a7</color>
+    <color name="transparent">#00000000</color>
+    <color name="primary_color">#ff2b2b2b</color>
+    <color name="text_color">#ff000000</color>
+    <color name="confirm_btn_text_color">#ff009688</color>
+    <color name="confirm_btn_bg_normal_color">@android:color/transparent</color>
+    <color name="confirm_btn_bg_press_color">#33cccccc</color>
+</resources>

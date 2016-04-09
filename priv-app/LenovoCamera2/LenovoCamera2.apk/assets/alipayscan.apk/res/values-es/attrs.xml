@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="framework_keyboardEdittext_keyboardId" format="reference" />
+    <attr name="framework_pullrefresh_indicator_upDrawable" format="reference" />
+    <attr name="framework_pullrefresh_indicator_downDrawable" format="reference" />
+    <attr name="framework_pullrefresh_textColor" format="reference|color" />
+    <attr name="framework_pullrefresh_progressDrawable" format="reference" />
+    <attr name="framework_default_pullrefresh_style" format="reference" />
+    <attr name="inputName" format="reference|string" />
+    <attr name="inputNameTextSize" format="dimension" />
+    <attr name="inputTextSize" format="dimension" />
+    <attr name="inputTextColor" format="reference|color" />
+    <attr name="inputId" format="reference|integer" />
+    <attr name="funcBtnBg" format="reference|integer" />
+    <attr name="funcBtnVisiable" format="boolean" />
+    <attr name="isAlwayHide" format="boolean" />
+    <attr name="inputHint" format="reference|string" />
+    <attr name="inputHintTextColor" format="reference|color" />
+    <attr name="maxLength" format="integer" />
+    <attr name="isAlipayMoney" format="boolean" />
+    <attr name="inputType">
+        <flag name="textNormal" value="0x00000001" />
+        <flag name="textNumber" value="0x00000002" />
+        <flag name="textDecimal" value="0x00002002" />
+        <flag name="textPassword" value="0x00000081" />
+    </attr>
+    <attr name="inputUnit" format="reference|string" />
+    <attr name="extraImgButtonBg" format="reference|color" />
+    <attr name="separateList" format="string" />
+    <attr name="isBold" format="boolean" />
+    <attr name="bgType">
+        <flag name="top" value="0x00000001" />
+        <flag name="center" value="0x00000002" />
+        <flag name="bottom" value="0x00000003" />
+        <flag name="normal" value="0x00000004" />
+    </attr>
+    <attr name="tableType">
+        <flag name="top" value="0x00000011" />
+        <flag name="center" value="0x00000013" />
+        <flag name="bottom" value="0x00000012" />
+        <flag name="normal" value="0x00000010" />
+    </attr>
+    <attr name="show_arrow" format="boolean" />
+    <attr name="left_text" format="reference|string" />
+    <attr name="left_text_2" format="reference|string" />
+    <attr name="left_text_3" format="reference|string" />
+    <attr name="left_image" format="reference" />
+    <attr name="left_imageWidth" format="reference|dimension" />
+    <attr name="left_imageHeight" format="reference|dimension" />
+    <attr name="left_largeSize" format="boolean" />
+    <attr name="right_text" format="reference|string" />
+    <attr name="right_image" format="reference" />
+    <attr name="show_togglebutton" format="boolean" />
+    <attr name="change_backgroud" format="boolean" />
+    <attr name="ttLeftText" format="reference|string" />
+    <attr name="ttRightText" format="reference|string" />
+    <attr name="ttLeftTextSize" format="dimension" />
+    <attr name="ttRightTextSize" format="dimension" />
+    <attr name="ttLeftTextColor" format="reference|color" />
+    <attr name="ttRightTextColor" format="reference|color" />
+    <attr name="BCLI_tableType">
+        <flag name="top" value="0x00000011" />
+        <flag name="center" value="0x00000013" />
+        <flag name="bottom" value="0x00000012" />
+        <flag name="normal" value="0x00000010" />
+    </attr>
+    <attr name="BCLI_show_arrow" format="boolean" />
+    <attr name="BCLI_left_text" format="reference|string" />
+    <attr name="BCLI_left_text_2" format="reference|string" />
+    <attr name="BCLI_left_text_3" format="reference|string" />
+    <attr name="BCLI_left_text_4" format="reference|string" />
+    <attr name="BCLI_left_image" format="reference" />
+    <attr name="BCLI_right_bottom_image" format="reference" />
+    <attr name="BCLI_right_top_text" format="reference|string" />
+    <attr name="BCLI_right_image" format="reference" />
+    <attr name="BCLI_show_togglebutton" format="boolean" />
+    <attr name="BCLI_change_backgroud" format="boolean" />
+    <attr name="RS_tableType">
+        <flag name="top" value="0x00000011" />
+        <flag name="center" value="0x00000013" />
+        <flag name="bottom" value="0x00000012" />
+        <flag name="normal" value="0x00000010" />
+    </attr>
+    <attr name="RS_show_arrow" format="boolean" />
+    <attr name="RS_left_text" format="reference|string" />
+    <attr name="RS_left_text_2" format="reference|string" />
+    <attr name="RS_right_text" format="reference|string" />
+    <attr name="RS_right_text_2" format="reference|string" />
+    <attr name="RS_right_text_3" format="reference|string" />
+    <attr name="RS_show_togglebutton" format="boolean" />
+    <attr name="RS_change_backgroud" format="boolean" />
+    <attr name="titleText" format="reference|string" />
+    <attr name="genericButtonText" format="reference|string" />
+    <attr name="leftText" format="reference|string" />
+    <attr name="rightText" format="reference|string" />
+    <attr name="showSwitch" format="boolean" />
+    <attr name="showGenericButton" format="boolean" />
+    <attr name="showInputBox" format="boolean" />
+    <attr name="checkBoxText" format="reference|string" />
+    <attr name="linkText" format="reference|string" />
+    <attr name="tableStyle">
+        <flag name="round_corner" value="0x00000010" />
+        <flag name="list_item" value="0x00000011" />
+    </attr>
+    <attr name="right_text_first" format="boolean" />
+    <attr name="sticky" format="boolean" />
+    <attr name="arrow_type">
+        <flag name="arrow_right" value="0x00000020" />
+        <flag name="arrow_down" value="0x00000021" />
+    </attr>
+    <attr name="genericButtonIcon" format="reference" />
+    <attr name="leftButtonIcon" format="reference" />
+    <attr name="rightButtonIcon" format="reference" />
+    <attr name="left_tab_text" format="reference|string" />
+    <attr name="middle_tab_text" format="reference|string" />
+    <attr name="right_tab_text" format="reference|string" />
+    <attr name="left_is_pressed" format="boolean" />
+    <attr name="middle_is_pressed" format="boolean" />
+    <attr name="right_is_pressed" format="boolean" />
+    <attr name="left_tv_text" format="reference|string" />
+    <attr name="center_tv_text" format="reference|string" />
+    <attr name="right_tv_text" format="reference|string" />
+    <attr name="isClickable" format="boolean" />
+    <attr name="roundWidth" format="dimension" />
+    <attr name="roundHeight" format="dimension" />
+    <attr name="showRound" format="boolean" />
+    <attr name="maxlength" format="reference|integer" />
+    <attr name="showInputTarget" format="boolean" />
+    <attr name="textViewWithCheckBoxleftText" format="reference|string" />
+    <attr name="rightcheckBoxDefaultChecked" format="boolean" />
+    <attr name="showType">
+        <flag name="top" value="0x00000011" />
+        <flag name="center" value="0x00000013" />
+        <flag name="bottom" value="0x00000012" />
+        <flag name="normal" value="0x00000010" />
+    </attr>
+    <attr name="flow_tip_view_type">
+        <flag name="network_error" value="0x00000010" />
+        <flag name="empty" value="0x00000011" />
+        <flag name="warning" value="0x00000012" />
+    </attr>
+    <attr name="withKeyboard" format="boolean" />
+    <attr name="startDate" format="reference|string" />
+    <attr name="bindingWidget" format="string" />
+    <attr name="labelName" format="reference|string" />
+    <attr name="rightIcon" format="reference" />
+    <attr name="miniInputHint" format="reference|string" />
+    <attr name="isPassword" format="boolean" />
+    <attr name="maxInputLength" format="integer" />
+    <attr name="circlePageIndicatorStyle" format="reference" />
+    <attr name="titlePageIndicatorStyle" format="reference" />
+    <attr name="pi_centered" format="boolean" />
+    <attr name="fillColor" format="color" />
+    <attr name="pi_orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="pi_radius" format="dimension" />
+    <attr name="snap" format="boolean" />
+    <attr name="strokeColor" format="color" />
+    <attr name="strokeWidth" format="dimension" />
+    <attr name="pi_clipPadding" format="dimension" />
+    <attr name="pi_footerColor" format="color" />
+    <attr name="pi_footerLineHeight" format="dimension" />
+    <attr name="footerIndicatorStyle">
+        <enum name="none" value="0" />
+        <enum name="triangle" value="1" />
+        <enum name="underline" value="2" />
+    </attr>
+    <attr name="footerIndicatorHeight" format="dimension" />
+    <attr name="footerIndicatorUnderlinePadding" format="dimension" />
+    <attr name="footerPadding" format="dimension" />
+    <attr name="pi_selectedColor" format="color" />
+    <attr name="pi_selectedBold" format="boolean" />
+    <attr name="pi_textColor" format="color" />
+    <attr name="pi_textSize" format="dimension" />
+    <attr name="pi_titlePadding" format="dimension" />
+    <attr name="topPadding" format="dimension" />
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="decor_content_parent" />
+    <item type="id" name="radio" />
+    <item type="id" name="action_mode_bar_stub" />
+    <item type="id" name="action_context_bar" />
+    <item type="id" name="expanded_menu" />
+    <item type="id" name="action_bar_title" />
+    <item type="id" name="icon" />
+    <item type="id" name="title" />
+    <item type="id" name="shortcut" />
+    <item type="id" name="action_mode_close_button" />
+    <item type="id" name="checkbox" />
+    <item type="id" name="tabcontent" />
+    <item type="id" name="action_bar_root" />
+    <item type="id" name="action_bar_subtitle" />
+    <item type="id" name="action_bar" />
+    <item type="id" name="action_bar_container" />
+    <item type="id" name="leac_fragment_view_index_tag" />
+    <item type="id" name="leac_fragment_view_option_tag" />
+    <item type="id" name="pager">false</item>
+    <item type="id" name="v_divider">false</item>
+    <item type="id" name="edititem_layout">false</item>
+    <item type="id" name="name_box">false</item>
+    <item type="id" name="favoriteLayout">false</item>
+    <item type="id" name="Name">false</item>
+    <item type="id" name="Freq">false</item>
+    <item type="id" name="favorite">false</item>
+    <item type="id" name="MHz">false</item>
+    <item type="id" name="channel1">false</item>
+    <item type="id" name="channel2">false</item>
+    <item type="id" name="delete_button">false</item>
+    <item type="id" name="layout_total">false</item>
+    <item type="id" name="item_checkbox">false</item>
+    <item type="id" name="layout_icon">false</item>
+    <item type="id" name="record_icon">false</item>
+    <item type="id" name="layout_name">false</item>
+    <item type="id" name="record_name">false</item>
+    <item type="id" name="record_time">false</item>
+    <item type="id" name="record_len">false</item>
+    <item type="id" name="action_mode_select_all_button">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="home">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="listView">false</item>
+    <item type="id" name="failLayout">false</item>
+    <item type="id" name="failImage">false</item>
+    <item type="id" name="failText1">false</item>
+    <item type="id" name="waitText2">false</item>
+    <item type="id" name="background">false</item>
+    <item type="id" name="white_background">false</item>
+    <item type="id" name="online_mask">false</item>
+    <item type="id" name="back_title">false</item>
+    <item type="id" name="tabspace">false</item>
+    <item type="id" name="logintitle">false</item>
+    <item type="id" name="button_recorder">false</item>
+    <item type="id" name="recorder_time">false</item>
+    <item type="id" name="tuneimage_favorite">false</item>
+    <item type="id" name="radio_name">false</item>
+    <item type="id" name="channal_layout">false</item>
+    <item type="id" name="display_panel">false</item>
+    <item type="id" name="textViewchannel1">false</item>
+    <item type="id" name="tv_fm">false</item>
+    <item type="id" name="tv_mhz">false</item>
+    <item type="id" name="fmpre">false</item>
+    <item type="id" name="fmnext">false</item>
+    <item type="id" name="freq_background">false</item>
+    <item type="id" name="seekFm">false</item>
+    <item type="id" name="listtopline">false</item>
+    <item type="id" name="fragment_content">false</item>
+    <item type="id" name="local_channel_list">false</item>
+    <item type="id" name="control_layout">false</item>
+    <item type="id" name="button_play">false</item>
+    <item type="id" name="button_prior">false</item>
+    <item type="id" name="button_next">false</item>
+    <item type="id" name="button_more_row">false</item>
+    <item type="id" name="linear_menu_parent">false</item>
+    <item type="id" name="tabGroup">false</item>
+    <item type="id" name="tabBtn1">false</item>
+    <item type="id" name="tabBtn2">false</item>
+    <item type="id" name="tabBtn3">false</item>
+    <item type="id" name="popText">false</item>
+    <item type="id" name="notification_bg">false</item>
+    <item type="id" name="toolbar">false</item>
+    <item type="id" name="editeIcon">false</item>
+    <item type="id" name="left_por">false</item>
+    <item type="id" name="title_line">false</item>
+    <item type="id" name="llscrollbar">false</item>
+    <item type="id" name="tab_bottom_line">false</item>
+    <item type="id" name="bar">false</item>
+    <item type="id" name="rl_for_delete_button">false</item>
+    <item type="id" name="cab_demo_layout">false</item>
+    <item type="id" name="clickLayout">false</item>
+    <item type="id" name="detail">false</item>
+    <item type="id" name="editBtn">false</item>
+    <item type="id" name="deleteBtn">false</item>
+    <item type="id" name="edit_text">false</item>
+    <item type="id" name="left_layout">false</item>
+    <item type="id" name="status_icon">false</item>
+    <item type="id" name="right_layout">false</item>
+    <item type="id" name="status_button_play">false</item>
+    <item type="id" name="status_button_appexit">false</item>
+    <item type="id" name="middle_layout">false</item>
+    <item type="id" name="status_application">false</item>
+    <item type="id" name="status_info">false</item>
+    <item type="id" name="menu_type">false</item>
+    <item type="id" name="menu_type1">false</item>
+    <item type="id" name="menu_type2">false</item>
+    <item type="id" name="clear_item">false</item>
+    <item type="id" name="rename_item">false</item>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="queue_item" name="queueName">false</item>
+    <item type="queue_item" name="online">false</item>
+    <item type="queue_item" name="waiting">false</item>
+</resources>

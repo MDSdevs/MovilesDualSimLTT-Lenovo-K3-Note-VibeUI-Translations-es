@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="listDragShadowBackground" format="reference" />
+    <attr name="menuIconWebNav" format="reference" />
+    <attr name="menuIconOfflineDownload" format="reference" />
+    <attr name="menuIconSearch" format="reference" />
+</resources>

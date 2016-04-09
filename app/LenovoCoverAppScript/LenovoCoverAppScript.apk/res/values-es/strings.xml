@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_temp_c_unit">℃</string>
+    <string name="app_name">cover:script</string>
+    <string name="activity_name">脚本</string>
+    <string name="settings_detail">用于显示脚本主题，玩家可通过主题编辑器或文本编辑器便利地制作主题包</string>
+    <string name="settings_activity_name">主题设置</string>
+    <string name="init_tip">Loading lockscreen theme pack...</string>
+    <string name="create_plug_fail">"This theme pack's resources are incomplete or incompatible. Please choose another theme pack."</string>
+    <string name="lenovo_keyguard_leather_sheath_weather_description_unknown">Please add city in desktop weather</string>
+</resources>

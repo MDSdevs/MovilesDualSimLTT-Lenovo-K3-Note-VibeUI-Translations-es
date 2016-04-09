@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Location-based WLAN</string>
+    <string name="enable_wifi_hint">Location-based WLAN is now connecting to WLAN network to save your data flow</string>
+    <string name="disable_wifi_hint">Location-based WLAN is now turning off WLAN to save power</string>
+    <string name="wifi_switch_settings_title">Location-based WLAN</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="offlinemessage_id" name="btnRobot">false</item>
+    <item type="offlinemessage_id" name="btnQueue">false</item>
+    <item type="offlinemessage_id" name="title">false</item>
+    <item type="offlinemessage_id" name="content">false</item>
+    <item type="offlinemessage_id" name="username">false</item>
+    <item type="offlinemessage_id" name="email">false</item>
+    <item type="offlinemessage_id" name="phone">false</item>
+</resources>

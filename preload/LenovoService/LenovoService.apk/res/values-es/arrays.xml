@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cc_rd1">
+        <item>Lenovo 2 A7-30TC</item>
+    </string-array>
+    <string-array name="cc_rd2">
+        <item>Lenovo A808t</item>
+        <item>Lenovo S898t</item>
+        <item>Lenovo X2-TO</item>
+        <item>Lenovo S90-t</item>
+        <item>Lenovo S856</item>
+        <item>Lenovo S850</item>
+        <item>Lenovo K50-t5</item>
+        <item>Lenovo P1C58</item>
+        <item>Lenovo P1C72</item>
+    </string-array>
+    <string-array name="cc_odm">
+        <item>Lenovo K30-T</item>
+        <item>Lenovo S8-50LC</item>
+        <item>Tab2A7-10F</item>
+        <item>Lenovo K80M</item>
+        <item>Lenovo P70-t</item>
+    </string-array>
+    <string-array name="cc_shell_cmd_list">
+        <item>pwd</item>
+    </string-array>
+    <string-array name="LenovoA320t">
+        <item>Service_a320t.apk</item>
+    </string-array>
+    <string-array name="hobby">
+        <item>回复</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="settext">
+        <item>大</item>
+        <item>小</item>
+    </string-array>
+    <string-array name="setpost">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="light">
+        <item>暗</item>
+        <item>中</item>
+        <item>亮</item>
+    </string-array>
+</resources>

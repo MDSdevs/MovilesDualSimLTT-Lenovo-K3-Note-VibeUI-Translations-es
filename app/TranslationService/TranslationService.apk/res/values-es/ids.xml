@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="editor_translate_traffic_dialog_content">false</item>
+    <item type="id" name="editor_translate_traffic_dialog_checkbox">false</item>
+    <item type="id" name="translate_original">false</item>
+    <item type="id" name="word_original">false</item>
+    <item type="id" name="translate_result">false</item>
+    <item type="id" name="word_pronunciation">false</item>
+    <item type="id" name="word_translation">false</item>
+    <item type="id" name="turn_to_translate_app">false</item>
+    <item type="id" name="translate_pending">false</item>
+    <item type="id" name="translate_error">false</item>
+</resources>

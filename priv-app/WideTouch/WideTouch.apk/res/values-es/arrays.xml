@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="snooze_dismiss_drawables">
+        <item>@drawable/note</item>
+        <item>@drawable/alarm</item>
+        <item>@drawable/add_app</item>
+        <item>@drawable/calculator</item>
+        <item>@drawable/favor</item>
+        <item>@drawable/torchlight</item>
+        <item>@drawable/back</item>
+        <item>@drawable/camera</item>
+    </array>
+    <string-array name="snooze_dismiss_descriptions">
+        <item>@string/widetouch_note</item>
+        <item>@string/widetouch_alarm</item>
+        <item>@string/widetouch_add_app</item>
+        <item>@string/widetouch_calculator</item>
+        <item>@string/widetouch_favor</item>
+        <item>@string/widetouch_torchlight</item>
+        <item>@string/widetouch_back</item>
+        <item>@string/widetouch_camera</item>
+    </string-array>
+    <array name="snooze_dismiss_direction_descriptions">
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="dismiss_drawables">
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="dismiss_descriptions">
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+    <array name="dismiss_direction_descriptions">
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+        <item>@null</item>
+    </array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="hotline" name="tv_number">false</item>
+    <item type="hotline" name="tv_not_open">false</item>
+    <item type="hotline" name="tv_open_time">false</item>
+    <item type="hotline" name="layout_call">false</item>
+    <item type="hotline" name="btn_call">false</item>
+    <item type="hotline" name="tv_guide_to_self_help">false</item>
+    <item type="hotline" name="announce_layout">false</item>
+    <item type="hotline" name="announce_list_view">false</item>
+</resources>

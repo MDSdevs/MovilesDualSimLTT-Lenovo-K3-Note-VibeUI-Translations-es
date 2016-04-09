@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.AppCompat.DrawerArrowToggle" parent="">
+        <item name="android:color">?android:textColorSecondary</item>
+        <item name="abcSpinBars">true</item>
+        <item name="abcDrawableSize">24.0dip</item>
+        <item name="abcGapBetweenBars">3.0dip</item>
+        <item name="abcTopBottomBarArrowSize">11.309998dip</item>
+        <item name="abcMiddleBarArrowSize">16.0dip</item>
+        <item name="abcBarSize">18.0dip</item>
+        <item name="abcThickness">2.0dip</item>
+    </style>
+    <style name="Theme.AppCompat.CompactMenu" parent="">
+        <item name="android:listViewStyle">?android:listViewStyle</item>
+        <item name="android:itemTextAppearance">?android:textAppearanceMedium</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="">
+        <item name="android:paddingRight">8.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem" parent="">
+        <item name="android:paddingRight">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup" parent="">
+        <item name="android:layout_marginLeft">16.0dip</item>
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Text" parent="">
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:preferenceScreenStyle">@style/Preference.DeviceDefault.PreferenceScreen</item>
+        <item name="android:preferenceStyle">@style/Preference.DeviceDefault</item>
+        <item name="android:dialogPreferenceStyle">@style/Preference.DeviceDefault.DialogPreference</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="ClassicModeTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="style_consume_btn">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">@dimen/button_height</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:layout_marginTop">0.0dip</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+        <item name="android:layout_marginBottom">0.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="style_detail_layout">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">1.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">1.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="listview">
+        <item name="android:cacheColorHint">@color/transparent</item>
+        <item name="android:divider">@color/divider_all</item>
+        <item name="android:dividerHeight">@dimen/line_view_height</item>
+        <item name="android:overScrollMode">never</item>
+    </style>
+    <style name="consumption_listview">
+        <item name="android:cacheColorHint">@color/transparent</item>
+        <item name="android:divider">@null</item>
+        <item name="android:overScrollMode">never</item>
+    </style>
+    <style name="custom_progress_style" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:maxWidth">38.0dip</item>
+        <item name="android:maxHeight">38.0dip</item>
+        <item name="android:minWidth">38.0dip</item>
+        <item name="android:minHeight">38.0dip</item>
+    </style>
+    <style name="style_title_text_withreturn">
+        <item name="android:textSize">21.0sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+    </style>
+    <style name="style_title_img_return">
+        <item name="android:paddingLeft">7.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:src">@drawable/selector_back_btn</item>
+    </style>
+    <style name="style_dialog_title_text">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="activity_divider_new">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingTop">4.33197dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="style_commonsettings_main_item">
+        <item name="android:background">@drawable/menu_click_bg</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">60.0dip</item>
+    </style>
+    <style name="advancedsettings_image">
+        <item name="android:paddingLeft">8.0dip</item>
+        <item name="android:paddingRight">8.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="advancedsettings_text_title">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/text_color_light</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="advancedsettings_text_des">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/text_color_grey</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">6</item>
+    </style>
+    <style name="prefs_text_title">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="prefs_text_des">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">6</item>
+    </style>
+    <style name="advancedsettings_sub_text_des">
+        <item name="android:textColor">@color/grey929292</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">5</item>
+    </style>
+    <style name="style_dialog_title_text_nobg">
+        <item name="android:textSize">19.0sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">0.0</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="style_dialog_middle_layout">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="DialogText">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="style_dialog_bottom_layout">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="style_custom_dialog_bottom_layout">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/main_bottom_bg</item>
+    </style>
+    <style name="classicmode_date_week_style">
+        <item name="android:textSize">15.0sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="classicmode_base_text_style">
+        <item name="android:textColor">@color/classicmode_text_color</item>
+    </style>
+    <style name="classicmode_app_text_style" parent="@style/classicmode_base_text_style">
+        <item name="android:textSize">12.0sp</item>
+    </style>
+    <style name="classicmode_remaintime_text_style" parent="@style/classicmode_base_text_style">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff8a8a8a</item>
+    </style>
+    <style name="classicmode_remaintime_number_style">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/classicmode_plan_use_time</item>
+    </style>
+    <style name="mypopwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/pop_show_bottom</item>
+        <item name="android:windowExitAnimation">@anim/pop_exit_bottom</item>
+    </style>
+    <style name="style_divider_for_preference">
+        <item name="android:overScrollMode">never</item>
+    </style>
+    <style name="style_consumption_textview">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="Preference.DeviceDefault" parent="@android:style/Preference.DeviceDefault">
+        <item name="android:widgetLayout">@layout/preference_widget_arrow</item>
+    </style>
+    <style name="Preference.DeviceDefault.PreferenceScreen" parent="@android:style/Preference.DeviceDefault.PreferenceScreen">
+        <item name="android:widgetLayout">@layout/preference_widget_arrow</item>
+    </style>
+    <style name="Preference.DeviceDefault.DialogPreference" parent="@android:style/Preference.DeviceDefault.DialogPreference">
+        <item name="android:widgetLayout">@layout/preference_widget_arrow</item>
+    </style>
+</resources>

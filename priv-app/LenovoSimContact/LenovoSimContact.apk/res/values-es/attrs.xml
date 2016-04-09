@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="call_log_primary_text_color" format="color" />
+    <attr name="call_log_primary_background_color" format="color" />
+    <attr name="call_log_secondary_text_color" format="color" />
+    <attr name="call_log_secondary_background_color" format="color" />
+    <attr name="call_log_header_color" format="color" />
+    <attr name="call_log_voicemail_status_height" format="dimension" />
+    <attr name="call_log_voicemail_status_background_color" format="color" />
+    <attr name="call_log_voicemail_status_text_color" format="color" />
+    <attr name="call_log_voicemail_status_action_text_color" format="color" />
+    <attr name="direction" format="string" />
+    <attr name="ratio" format="float" />
+    <attr name="favorites_padding_bottom" format="dimension" />
+    <attr name="mimeType" format="string" />
+    <attr name="remoteViews" format="reference" />
+    <attr name="icon" format="reference" />
+    <attr name="summaryColumn" format="string" />
+    <attr name="detailColumn" format="string" />
+    <attr name="edgeWidth" format="dimension" />
+    <attr name="listenEdges">
+        <flag name="left" value="0x00000001" />
+        <flag name="right" value="0x00000002" />
+    </attr>
+    <attr name="layout_narrowParentWidth" format="dimension" />
+    <attr name="layout_narrowWidth" format="dimension" />
+    <attr name="layout_narrowMarginLeft" format="dimension" />
+    <attr name="layout_narrowMarginRight" format="dimension" />
+    <attr name="layout_narrowPaddingLeft" format="dimension" />
+    <attr name="layout_narrowPaddingRight" format="dimension" />
+    <attr name="layout_wideParentWidth" format="dimension" />
+    <attr name="layout_wideWidth" format="dimension" />
+    <attr name="layout_wideMarginLeft" format="dimension" />
+    <attr name="layout_wideMarginRight" format="dimension" />
+    <attr name="layout_widePaddingLeft" format="dimension" />
+    <attr name="layout_widePaddingRight" format="dimension" />
+    <attr name="dialpad_key_button_touch_tint" format="color" />
+    <attr name="resizing_text_min_size" format="dimension" />
+    <attr name="cardBackgroundColor" format="color" />
+    <attr name="cardCornerRadius" format="dimension" />
+    <attr name="cardElevation" format="dimension" />
+    <attr name="cardMaxElevation" format="dimension" />
+    <attr name="cardUseCompatPadding" format="boolean" />
+    <attr name="cardPreventCornerOverlap" format="boolean" />
+    <attr name="contentPadding" format="dimension" />
+    <attr name="contentPaddingLeft" format="dimension" />
+    <attr name="contentPaddingRight" format="dimension" />
+    <attr name="contentPaddingTop" format="dimension" />
+    <attr name="contentPaddingBottom" format="dimension" />
+    <attr name="avatarPosition">
+        <enum name="end" value="0" />
+        <enum name="start" value="1" />
+    </attr>
+    <attr name="chipBackground" format="reference" />
+    <attr name="chipBackgroundPressed" format="reference" />
+    <attr name="chipDelete" format="reference" />
+    <attr name="chipFontSize" format="reference" />
+    <attr name="chipHeight" format="reference" />
+    <attr name="chipPadding" format="reference" />
+    <attr name="disableDelete" format="boolean" />
+    <attr name="invalidChipBackground" format="reference" />
+    <attr name="imageSpanAlignment">
+        <enum name="baseline" value="1" />
+        <enum name="bottom" value="0" />
+    </attr>
+    <attr name="textContent" format="string" />
+    <attr name="drawableTop" format="reference|color" />
+    <attr name="drawableBottom" format="reference|color" />
+    <attr name="drawableLeft" format="reference|color" />
+    <attr name="drawableRight" format="reference|color" />
+    <attr name="src" format="reference|color" />
+</resources>

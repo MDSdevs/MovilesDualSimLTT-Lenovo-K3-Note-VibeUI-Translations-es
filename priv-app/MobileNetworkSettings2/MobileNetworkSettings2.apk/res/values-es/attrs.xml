@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="apnPreferenceStyle" format="reference" />
+    <attr name="abcSpinBars" format="boolean" />
+    <attr name="abcDrawableSize" format="dimension" />
+    <attr name="abcGapBetweenBars" format="dimension" />
+    <attr name="abcTopBottomBarArrowSize" format="dimension" />
+    <attr name="abcMiddleBarArrowSize" format="dimension" />
+    <attr name="abcBarSize" format="dimension" />
+    <attr name="abcThickness" format="dimension" />
+    <attr name="abcDrawerArrowStyle" format="reference" />
+</resources>

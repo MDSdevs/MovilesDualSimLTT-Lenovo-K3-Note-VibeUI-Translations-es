@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="fingerprint_enroll_enrolling">@layout/lenovo_fingerprint_enroll_enrolling_base</item>
+    <item type="layout" name="fingerprint_enroll_find_sensor">@layout/lenovo_fingerprint_enroll_find_sensor_base</item>
+    <item type="layout" name="fingerprint_enroll_finish">@layout/lenovo_fingerprint_enroll_finish_base</item>
+    <item type="layout" name="lenovo_fingerprint_enroll_find_sensor_p1">@layout/lenovo_fingerprint_enroll_find_sensor_base_p1</item>
+    <item type="layout" name="notification_app_section">@android:layout/preference_category_material</item>
+    <item type="layout" name="suw_templates">@layout/suw_template_header</item>
+    <item type="layout" name="suw_template_short">@layout/suw_template_header_collapsed</item>
+    <item type="layout" name="suw_list_template">@layout/suw_list_template_header</item>
+    <item type="layout" name="suw_list_template_short">@layout/suw_list_template_header_collapsed</item>
+    <item type="layout" name="suw_no_scroll_template">@layout/suw_no_scroll_template_header</item>
+    <item type="layout" name="suw_no_scroll_template_short">@layout/suw_no_scroll_template_header_collapsed</item>
+</resources>

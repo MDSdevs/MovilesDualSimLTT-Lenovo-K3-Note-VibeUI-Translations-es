@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="romui_version" format="integer" />
+    <attr name="romui_v3_device_default_light_status" format="integer" />
+    <attr name="romui_use_theme_device_default" format="integer" />
+    <attr name="romui_v2_windowMaxHeightMajor" format="dimension|fraction" />
+    <attr name="romui_v2_windowMaxHeightMinor" format="dimension|fraction" />
+    <attr name="romui_v2_windowMaxWidthMajor" format="dimension|fraction" />
+    <attr name="romui_v2_windowMaxWidthMinor" format="dimension|fraction" />
+    <attr name="romui_text_color_title" format="reference" />
+    <attr name="romui_text_color_title_inverse" format="reference" />
+    <attr name="romui_text_color_subtitle" format="reference" />
+    <attr name="romui_text_color_subtitle_inverse" format="reference" />
+    <attr name="romUiListDividerColor" format="reference" />
+    <attr name="romUiTabTextColor" format="reference" />
+    <attr name="romUiTabModeColor" format="reference" />
+    <attr name="romUicolorPrimary" format="reference" />
+    <attr name="romUiPopupMenuBorder" format="reference" />
+    <attr name="romUiActionBarBackground" format="reference" />
+    <attr name="romUiScrollerColor" format="reference" />
+    <attr name="colorEdgeEffect" format="color" />
+    <attr name="textColorPrimaryActivated" format="reference|color" />
+    <attr name="textColorSecondaryInverseNoDisable" format="reference|color" />
+    <attr name="textColorSecondaryActivated" format="reference|color" />
+    <attr name="windowBackgroundFallback" format="reference" />
+    <attr name="windowActivityTransitions" format="boolean" />
+    <attr name="layout" format="reference" />
+    <attr name="headerLayout" format="reference" />
+    <attr name="headerRemoveIconIfEmpty" format="boolean" />
+    <attr name="romUiBackIconColor" format="reference|color" />
+    <attr name="romUiSpinnerDropDownIconColor" format="reference|color" />
+    <attr name="romUiActionBarMenuColor" format="reference|color" />
+    <attr name="toastFrameBackground" format="reference" />
+    <attr name="preferenceFragmentPaddingSide" format="dimension" />
+    <attr name="abcSpinBars" format="boolean" />
+    <attr name="abcDrawableSize" format="dimension" />
+    <attr name="abcGapBetweenBars" format="dimension" />
+    <attr name="abcTopBottomBarArrowSize" format="dimension" />
+    <attr name="abcMiddleBarArrowSize" format="dimension" />
+    <attr name="abcBarSize" format="dimension" />
+    <attr name="abcThickness" format="dimension" />
+    <attr name="abcDrawerArrowStyle" format="reference" />
+    <attr name="ptrRefreshableViewBackground" format="reference|color" />
+    <attr name="ptrHeaderBackground" format="reference|color" />
+    <attr name="ptrHeaderTextColor" format="reference|color" />
+    <attr name="ptrHeaderSubTextColor" format="reference|color" />
+    <attr name="ptrMode">
+        <flag name="both" value="0x00000003" />
+        <flag name="disabled" value="0x00000000" />
+        <flag name="manualOnly" value="0x00000004" />
+        <flag name="pullDownFromTop" value="0x00000001" />
+        <flag name="pullFromEnd" value="0x00000002" />
+        <flag name="pullFromStart" value="0x00000001" />
+        <flag name="pullUpFromBottom" value="0x00000002" />
+    </attr>
+    <attr name="ptrShowIndicator" format="reference|boolean" />
+    <attr name="ptrDrawable" format="reference" />
+    <attr name="ptrDrawableStart" format="reference" />
+    <attr name="ptrDrawableEnd" format="reference" />
+    <attr name="ptrOverScroll" format="reference|boolean" />
+    <attr name="ptrHeaderTextAppearance" format="reference" />
+    <attr name="ptrSubHeaderTextAppearance" format="reference" />
+    <attr name="ptrAnimationStyle">
+        <flag name="circular" value="0x00000002" />
+        <flag name="flip" value="0x00000001" />
+        <flag name="rotate" value="0x00000000" />
+    </attr>
+    <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean" />
+    <attr name="ptrListViewExtrasEnabled" format="reference|boolean" />
+    <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean" />
+    <attr name="ptrAdapterViewBackground" format="reference|color" />
+    <attr name="ptrDrawableTop" format="reference" />
+    <attr name="ptrDrawableBottom" format="reference" />
+    <attr name="stroke_width" format="dimension" />
+    <attr name="progress" format="float" />
+    <attr name="marker_progress" format="float" />
+    <attr name="progress_color" format="color" />
+    <attr name="progress_background_color" format="color" />
+    <attr name="thumb_visible" format="boolean" />
+    <attr name="marker_visible" format="boolean" />
+    <attr name="circularProgressBarStyle" format="reference" />
+</resources>

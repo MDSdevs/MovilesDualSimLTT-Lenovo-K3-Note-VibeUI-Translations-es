@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cc_timeSecond">
+        <item quantity="other">%d Seconds</item>
+        <item quantity="zero">0 Second</item>
+        <item quantity="one">1 Second</item>
+    </plurals>
+    <plurals name="cc_timeMinute">
+        <item quantity="other">%d Minutes</item>
+        <item quantity="zero">0 Minute</item>
+        <item quantity="one">1 Minute</item>
+    </plurals>
+    <plurals name="cc_timeHour">
+        <item quantity="other">%d Hours</item>
+        <item quantity="zero">0 Hour</item>
+        <item quantity="one">1 Hour</item>
+    </plurals>
+    <plurals name="cc_ratingScores">
+        <item quantity="other">%d stars</item>
+        <item quantity="one">1 star</item>
+    </plurals>
+</resources>

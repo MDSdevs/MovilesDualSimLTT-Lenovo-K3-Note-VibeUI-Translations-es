@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="requestWaitingDialog_id" name="waitingText">false</item>
+    <item type="requestWaitingDialog_id" name="cancel">false</item>
+</resources>

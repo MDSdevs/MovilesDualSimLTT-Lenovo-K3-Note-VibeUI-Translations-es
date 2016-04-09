@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_top_margin">8.0dip</dimen>
+    <dimen name="item_bottom_margin">8.0dip</dimen>
+    <dimen name="dialog_item_margin">24.0dip</dimen>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="divider_height">3.0dip</dimen>
+    <dimen name="divider_margin_bottom">7.0dip</dimen>
+    <dimen name="divider_margin_top">6.0dip</dimen>
+    <item type="dimen" name="setup_border_width">4.999995%</item>
+    <dimen name="setup_margin_bottom">0.0dip</dimen>
+    <dimen name="edittext_dialog_padding">24.0dip</dimen>
+    <dimen name="sim_dialog_preference_mtk_gemini_attrs.xmlpadding_end">16.0dip</dimen>
+    <item type="dimen" name="settings_side_margin">@android:dimen/preference_fragment_padding_side</item>
+    <dimen name="oobe_setup_title_size">25.0sp</dimen>
+    <dimen name="item_margin">12.0dip</dimen>
+    <dimen name="icon_height">58.0dip</dimen>
+    <dimen name="icon_width">58.0dip</dimen>
+    <dimen name="helper_magin_top">24.0dip</dimen>
+    <dimen name="helper_magin_start">16.0dip</dimen>
+    <dimen name="helper_magin_end">16.0dip</dimen>
+    <dimen name="primary_description_text_size">16.0sp</dimen>
+    <dimen name="secondary_description_text_size">14.0sp</dimen>
+    <dimen name="summary_text_size">12.0sp</dimen>
+    <dimen name="divider_width">1.0dip</dimen>
+    <dimen name="board_height">258.0dip</dimen>
+    <dimen name="board_width">0.0dip</dimen>
+    <dimen name="sim_dialog_preference_padding_start">24.0dip</dimen>
+    <dimen name="sim_dialog_preference_padding_end">24.0dip</dimen>
+</resources>

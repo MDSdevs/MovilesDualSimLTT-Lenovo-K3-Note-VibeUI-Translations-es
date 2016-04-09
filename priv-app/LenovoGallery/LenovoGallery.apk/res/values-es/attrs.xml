@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="drawSelectorOnTop" format="boolean" />
+    <attr name="numColumns" format="integer" />
+    <attr name="itemMargin" format="dimension" />
+    <attr name="fab_icon" format="reference" />
+    <attr name="fab_colorPressed" format="color" />
+    <attr name="fab_colorRipple" format="color" />
+    <attr name="fab_colorNormal" format="color" />
+    <attr name="fab_type">
+        <enum name="mini" value="1" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="fab_title" format="string" />
+    <attr name="fab_text_color" format="color" />
+    <attr name="fab_label_style" format="reference" />
+    <attr name="fab_more_icon" format="reference" />
+    <attr name="fab_more_icon_expanded" format="reference" />
+    <attr name="abcSpinBars" format="boolean" />
+    <attr name="abcDrawableSize" format="dimension" />
+    <attr name="abcGapBetweenBars" format="dimension" />
+    <attr name="abcTopBottomBarArrowSize" format="dimension" />
+    <attr name="abcMiddleBarArrowSize" format="dimension" />
+    <attr name="abcBarSize" format="dimension" />
+    <attr name="abcThickness" format="dimension" />
+    <attr name="abcDrawerArrowStyle" format="reference" />
+    <attr name="listPreferredItemHeightSmall" format="dimension" />
+    <attr name="switchStyle" format="reference" />
+    <attr name="title" format="string" />
+    <attr name="key" format="string" />
+    <attr name="defaultValue" format="reference|string" />
+    <attr name="entryValues" format="reference" />
+    <attr name="entries" format="reference" />
+    <attr name="labelList" format="reference" />
+    <attr name="icons" format="reference" />
+    <attr name="modes" format="reference" />
+    <attr name="singleIcon" format="reference" />
+    <attr name="largeIcons" format="reference" />
+    <attr name="images" format="reference" />
+    <attr name="max_width" format="dimension" />
+    <attr name="elemSize" format="dimension" />
+    <attr name="elemEndSize" format="dimension" />
+    <attr name="iconSize" format="dimension" />
+</resources>

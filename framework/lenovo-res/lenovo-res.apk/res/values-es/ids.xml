@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="decor_content_parent" />
+    <item type="id" name="radio" />
+    <item type="id" name="action_mode_bar_stub" />
+    <item type="id" name="action_context_bar" />
+    <item type="id" name="expanded_menu" />
+    <item type="id" name="action_bar_title" />
+    <item type="id" name="icon" />
+    <item type="id" name="title" />
+    <item type="id" name="shortcut" />
+    <item type="id" name="action_mode_close_button" />
+    <item type="id" name="checkbox" />
+    <item type="id" name="tabcontent" />
+    <item type="id" name="action_bar_root" />
+    <item type="id" name="action_bar_subtitle" />
+    <item type="id" name="action_bar" />
+    <item type="id" name="action_bar_container" />
+    <item type="id" name="leac_fragment_view_index_tag" />
+    <item type="id" name="leac_fragment_view_option_tag" />
+    <item type="id" name="gridview" />
+    <item type="id" name="webview" />
+    <item type="id" name="scrollview" />
+    <item type="id" name="romui_v2_to_center_custom">false</item>
+    <item type="id" name="cab_bottom_common_button_item">false</item>
+    <item type="id" name="cab_bottom_common_button_image">false</item>
+    <item type="id" name="cab_bottom_common_button_text">false</item>
+    <item type="id" name="cab_bottom_common">false</item>
+    <item type="id" name="cab_bottom_more_button_item">false</item>
+    <item type="id" name="cab_bottom_more">false</item>
+    <item type="id" name="cab_head_text">false</item>
+    <item type="id" name="cab_head_sel">false</item>
+    <item type="id" name="cab_content">false</item>
+    <item type="id" name="action_mode_select_all_button">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="child_item">false</item>
+    <item type="id" name="expand_icon_layout">false</item>
+    <item type="id" name="expand_icon">false</item>
+    <item type="id" name="grid_menu_item">false</item>
+    <item type="id" name="grid_menu">false</item>
+    <item type="id" name="menu_group_title">false</item>
+    <item type="id" name="menu_group_content">false</item>
+    <item type="id" name="menu_item_icon">false</item>
+    <item type="id" name="menu_item_content">false</item>
+    <item type="id" name="menu_item_remark">false</item>
+    <item type="id" name="login_menu">false</item>
+    <item type="id" name="btn_popup_menu">false</item>
+    <item type="id" name="login_account">false</item>
+    <item type="id" name="login_avatar">false</item>
+    <item type="id" name="btn">false</item>
+    <item type="id" name="title_text">false</item>
+    <item type="id" name="low_battery_warning_layout">false</item>
+    <item type="id" name="top_message_blur_bg">false</item>
+    <item type="id" name="lenovo_subtitle">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="level_percent">false</item>
+    <item type="id" name="level_time">false</item>
+    <item type="id" name="enter_btn">false</item>
+    <item type="id" name="lepulltorefresh_fl_inner">false</item>
+    <item type="id" name="lepulltorefresh_pull_to_refresh_image">false</item>
+    <item type="id" name="lepulltorefresh_pull_to_refresh_progress">false</item>
+    <item type="id" name="lepulltorefresh_image">false</item>
+    <item type="id" name="lepulltorefresh_progress">false</item>
+    <item type="id" name="lepulltorefresh_progress_circular">false</item>
+    <item type="id" name="lepulltorefresh_text">false</item>
+    <item type="id" name="lepulltorefresh_sub_text">false</item>
+    <item type="id" name="listviewslidemenu_slide_menu_view">false</item>
+    <item type="id" name="listviewslidemenu_slidemenu_item_container_left">false</item>
+    <item type="id" name="listviewslidemenu_slidemenu_item_container_left_text">false</item>
+    <item type="id" name="listviewslidemenu_slidemenu_item_container_left_icon">false</item>
+    <item type="id" name="listviewslidemenu_slidemenu_item_container_right">false</item>
+    <item type="id" name="listviewslidemenu_slidemenu_item_container_right_text">false</item>
+    <item type="id" name="listviewslidemenu_slidemenu_item_container_right_icon">false</item>
+    <item type="id" name="layout_root">false</item>
+    <item type="id" name="powerOnWarning">false</item>
+    <item type="id" name="ipoCheck">false</item>
+    <item type="id" name="ipoCheckWarning">false</item>
+    <item type="id" name="textview_select_cut">false</item>
+    <item type="id" name="textview_select_all">false</item>
+    <item type="id" name="textview_select_iciba">false</item>
+    <item type="id" name="textview_select_popup_menu">false</item>
+    <item type="id" name="textview_select_more_menu">false</item>
+    <item type="id" name="textview_select_translation_menu">false</item>
+    <item type="id" name="textview_select_basic_menu">false</item>
+    <item type="id" name="textview_select_copy">false</item>
+    <item type="id" name="textview_select_paste">false</item>
+    <item type="id" name="textview_select_more">false</item>
+    <item type="id" name="textview_select_less_arrow">false</item>
+    <item type="id" name="textview_select_more_menu_container">false</item>
+    <item type="id" name="textview_select_more_arrow">false</item>
+    <item type="id" name="translate_result">false</item>
+    <item type="id" name="word_pronunciation">false</item>
+    <item type="id" name="word_translation">false</item>
+    <item type="id" name="turn_to_translate_app">false</item>
+    <item type="id" name="translate_error">false</item>
+    <item type="id" name="translate_pending">false</item>
+    <item type="id" name="editor_translate_traffic_dialog_content">false</item>
+    <item type="id" name="editor_translate_traffic_dialog_checkbox">false</item>
+    <item type="id" name="listView">false</item>
+    <item type="id" name="on">false</item>
+    <item type="id" name="off">false</item>
+    <item type="id" name="state_on">false</item>
+    <item type="id" name="state_off">false</item>
+</resources>

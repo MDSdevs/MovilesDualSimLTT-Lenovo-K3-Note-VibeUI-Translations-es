@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="try_it">E试用一下</string>
+    <string name="try_swing_lock_info">E请甩动手机进行屏幕锁定</string>
+    <string name="try_swing_lock_result_ok">E方法正确, 你可以使用该功能了</string>
+    <string name="try_swing_lock_result_harder">E摇晃力度不够, 请重试</string>
+    <string name="try_swing_lock_result_longer">E摇晃距离不够, 请重试</string>
+    <string name="app_name">Quick snap</string>
+    <string name="title">Quick snap</string>
+    <string name="summary">During screen off, pressing volume buttons twice to take pictures</string>
+    <string name="help_message">During screen off, pressing volume buttons twice to take pictures (If music is playing in the background, these buttons are only used for volume adjustment)</string>
+    <string name="i_know_it">I know it</string>
+    <string name="status_opened">On</string>
+    <string name="status_closed">Off</string>
+</resources>

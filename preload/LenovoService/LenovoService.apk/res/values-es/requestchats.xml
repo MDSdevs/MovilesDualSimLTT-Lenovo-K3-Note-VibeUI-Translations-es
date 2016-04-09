@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="requestchat" name="departmentnameaa">false</item>
+    <item type="requestchat" name="imei">false</item>
+    <item type="requestchat" name="nickname">false</item>
+    <item type="requestchat" name="processimage">false</item>
+    <item type="requestchat" name="textMessage">false</item>
+</resources>

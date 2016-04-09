@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>no subject</item>
+    </string-array>
+    <string-array name="settings_common">
+        <item>@string/settings_yellowpage</item>
+        <item>@string/settings_harassment</item>
+        <item>@string/settings_smartcall</item>
+        <item>@string/settings_countdowncall</item>
+        <item>@string/settings_minmatch</item>
+        <item>@string/settings_location</item>
+        <item>@string/settings_character</item>
+    </string-array>
+    <string-array name="pref_lenovo_message_viewmode_choices">
+        <item>@string/conversation_view</item>
+        <item>@string/folderview_title</item>
+    </string-array>
+    <string-array name="pref_lenovo_message_viewmode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Forward directly</item>
+        <item>Indicate name</item>
+        <item>Indicate name and number</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Forward directly</item>
+        <item>Indicate name</item>
+        <item>Indicate name and number</item>
+        <item>Prompt every time</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Phone</item>
+        <item>SIM Card</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Device</item>
+        <item>SIM Card</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Phone</item>
+        <item>UIM Card</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Where are you?</item>
+        <item>What are you doing?</item>
+        <item>Call me back please!</item>
+        <item>Sorry, I am in a meeting.</item>
+        <item>Call you soon.</item>
+        <item>"Don't worry! I'm fine."</item>
+        <item>On my way home.</item>
+        <item>Will arrive soon.</item>
+        <item>Be there or be square!</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>Cool</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <array name="letter_tile_colors">
+        <item>#ffc1d4dd</item>
+    </array>
+    <array name="contact_detail_photo_bg_colors">
+        <item>#ff0288d1</item>
+        <item>#ff00b674</item>
+        <item>#ff00aec7</item>
+        <item>#ffe59038</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#ffc53929</item>
+        <item>#ffc2185b</item>
+        <item>#ff7b1fa2</item>
+        <item>#ff512da8</item>
+        <item>#ff303f9f</item>
+        <item>#ff3367d6</item>
+        <item>#ff0277bd</item>
+        <item>#ff006064</item>
+        <item>#ff00796b</item>
+        <item>#ff0b8043</item>
+        <item>#ff33691e</item>
+        <item>#ffe65100</item>
+        <item>#ffe64a19</item>
+        <item>#ff424242</item>
+    </array>
+    <array name="KeySequence" />
+    <array name="KeySequenceIntents" />
+    <array name="KeyPattern" />
+    <array name="KeyPatternIntents" />
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="emoji_smiley_texts">
+        <item>\\ud83d\\ude03</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude09</item>
+        <item>\\ud83d\\ude1d</item>
+        <item>\\ud83d\\ude31</item>
+        <item>\\ud83d\\ude18</item>
+        <item>\\ud83d\\ude0e</item>
+        <item>\\ud83d\\ude37</item>
+        <item>\\ud83d\\ude05</item>
+        <item>\\ud83d\\ude07</item>
+        <item>\\ud83d\\ude1e</item>
+        <item>\\ud83d\\ude2d</item>
+        <item>\\ud83d\\ude04</item>
+        <item>\\ud83d\\ude27</item>
+        <item>\\u2764</item>
+        <item>\\ud83d\\ude20</item>
+        <item>\\ud83d\\ude01</item>
+        <item>\\ud83d\\ude10</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_choices">
+        <item>100K</item>
+        <item>200K</item>
+        <item>300K</item>
+    </string-array>
+    <string-array name="pref_mms_size_limit_values">
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_values">
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_values">
+        <item>Phone</item>
+        <item>Sim</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_values">
+        <item>Phone</item>
+        <item>Sim</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values_oversea">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="pref_message_view_mode_choices">
+        <item>@string/conversation_view</item>
+        <item>@string/folderview_title</item>
+    </string-array>
+    <string-array name="pref_message_view_mode_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="emoji_unicode8_array">
+        <item>1f917</item>
+        <item>1f914</item>
+        <item>1f644</item>
+        <item>1f910</item>
+        <item>1f913</item>
+        <item>1f643</item>
+        <item>1f912</item>
+        <item>1f915</item>
+        <item>1f911</item>
+        <item>1f916</item>
+        <item>1f918</item>
+        <item>1f4ff</item>
+        <item>1f981</item>
+        <item>1f984</item>
+        <item>1f983</item>
+        <item>1f980</item>
+        <item>1f982</item>
+        <item>1f9c0</item>
+        <item>1f32d</item>
+        <item>1f32e</item>
+        <item>1f32f</item>
+        <item>1f37f</item>
+        <item>1f37e</item>
+        <item>1f3fa</item>
+        <item>1f54b</item>
+        <item>1f54c</item>
+        <item>1f54d</item>
+        <item>1f3cf</item>
+        <item>1f3d0</item>
+        <item>1f3d1</item>
+        <item>1f3d2</item>
+        <item>1f3d3</item>
+        <item>1f3f8</item>
+        <item>1f3f9</item>
+        <item>1f54e</item>
+        <item>1f6d0</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 second</item>
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+        <item>5 seconds</item>
+        <item>6 seconds</item>
+        <item>7 seconds</item>
+        <item>8 seconds</item>
+        <item>9 seconds</item>
+        <item>10 seconds</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Work unit</item>
+        <item>Note</item>
+    </string-array>
+    <string-array name="settings_minmatch_array">
+        <item>By 11</item>
+        <item>By 7</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>Default</item>
+        <item>Piano</item>
+    </string-array>
+    <string-array name="setting_dialer_sound_array">
+        <item>None</item>
+        <item>Default</item>
+        <item>Piano</item>
+    </string-array>
+</resources>

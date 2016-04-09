@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lite_grey">#33cccccc</color>
+    <color name="grey">#66cccccc</color>
+    <color name="sim_blue">#ff0098df</color>
+    <color name="sim_orange">#ffff7214</color>
+    <color name="sim_green">#ff35b800</color>
+    <color name="sim_purple">#ff735ce1</color>
+    <color name="textview_disable">#ffb3b3b3</color>
+    <color name="textview_enable">#ff333333</color>
+    <color name="sub_color">#8a000000</color>
+    <color name="title_color">#de000000</color>
+    <color name="actionbar_text">#ffffffff</color>
+    <color name="actionbar_bg">#ff1976d2</color>
+    <color name="secondary_text_color">#8a000000</color>
+    <color name="primary_text_color">#de000000</color>
+</resources>

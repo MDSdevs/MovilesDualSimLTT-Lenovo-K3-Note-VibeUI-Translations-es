@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="st_wallpaper_space">10.0dip</dimen>
+    <dimen name="lenovo_status_bar_height">25.0dip</dimen>
+    <dimen name="bottom_mask_top_height">76.0dip</dimen>
+    <dimen name="new_magazine_margin_bottom">8.0dip</dimen>
+    <dimen name="new_magazine_margin_left">21.0dip</dimen>
+    <dimen name="new_magazine_margin_right">21.0dip</dimen>
+    <dimen name="new_magazine_text_size">10.0dip</dimen>
+    <dimen name="periodical_item_normal_text_size">12.0dip</dimen>
+    <dimen name="periodical_item_selected_text_size">14.0dip</dimen>
+    <dimen name="unlock_threshold">144.0dip</dimen>
+    <dimen name="unlock_decelerate">10000.0dip</dimen>
+    <dimen name="unlock_process_threshold">560.0dip</dimen>
+    <dimen name="unlock_to_camera_radius">40.0dip</dimen>
+    <dimen name="custom_periodical_list_item_height">132.0dip</dimen>
+    <dimen name="custom_periodical_list_icon_width">70.0dip</dimen>
+    <dimen name="custom_periodical_list_icon_height">100.0dip</dimen>
+    <dimen name="width_can_not_click">50.0dip</dimen>
+    <dimen name="preview_image_width">169.0dip</dimen>
+    <dimen name="preview_image_height">300.0dip</dimen>
+</resources>

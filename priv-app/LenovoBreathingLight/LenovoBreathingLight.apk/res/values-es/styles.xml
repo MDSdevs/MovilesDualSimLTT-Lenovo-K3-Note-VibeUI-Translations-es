@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="app_ColorAcitonbarTitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+    </style>
+    <style name="app_ColorAcitonbarSubtitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Subtitle">
+        <item name="android:textColor">?android:textColorSecondaryInverse</item>
+    </style>
+    <style name="app_ColorActionBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:titleTextStyle">@style/app_ColorAcitonbarTitleTextStyle</item>
+        <item name="android:subtitleTextStyle">@style/app_ColorAcitonbarSubtitleTextStyle</item>
+    </style>
+    <style name="AppTheme_ColorActionbar" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+    </style>
+</resources>

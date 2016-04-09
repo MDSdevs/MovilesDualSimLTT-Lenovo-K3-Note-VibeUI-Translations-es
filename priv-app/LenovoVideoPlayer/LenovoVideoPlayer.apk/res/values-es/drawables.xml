@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="transparent_background">#00000000</item>
+    <item type="drawable" name="search1_transparent_background">#bfffffff</item>
+    <item type="drawable" name="search2_transparent_background">#dfc8c8c8</item>
+    <item type="drawable" name="online_drawable_transparent">#00000000</item>
+    <item type="drawable" name="video_bg">#fffafafa</item>
+</resources>

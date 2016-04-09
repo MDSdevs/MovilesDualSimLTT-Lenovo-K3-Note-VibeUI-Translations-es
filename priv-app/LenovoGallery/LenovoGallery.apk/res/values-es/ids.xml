@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tag_first" />
+    <item type="id" name="tag_second" />
+    <item type="id" name="fab_label" />
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="decor_content_parent" />
+    <item type="id" name="radio" />
+    <item type="id" name="action_mode_bar_stub" />
+    <item type="id" name="action_context_bar" />
+    <item type="id" name="expanded_menu" />
+    <item type="id" name="action_bar_title" />
+    <item type="id" name="icon" />
+    <item type="id" name="title" />
+    <item type="id" name="shortcut" />
+    <item type="id" name="action_mode_close_button" />
+    <item type="id" name="checkbox" />
+    <item type="id" name="tabcontent" />
+    <item type="id" name="action_bar_root" />
+    <item type="id" name="action_bar_subtitle" />
+    <item type="id" name="action_bar" />
+    <item type="id" name="action_bar_container" />
+    <item type="id" name="leac_fragment_view_index_tag" />
+    <item type="id" name="leac_fragment_view_option_tag" />
+    <item type="id" name="tinyplanetButton" />
+    <item type="id" name="vignetteButton" />
+    <item type="id" name="vibranceButton" />
+    <item type="id" name="contrastButton" />
+    <item type="id" name="saturationButton" />
+    <item type="id" name="bwfilterButton" />
+    <item type="id" name="wbalanceButton" />
+    <item type="id" name="hueButton" />
+    <item type="id" name="exposureButton" />
+    <item type="id" name="shadowRecoveryButton" />
+    <item type="id" name="highlightRecoveryButton" />
+    <item type="id" name="sharpenButton" />
+    <item type="id" name="curvesButtonRGB" />
+    <item type="id" name="negativeButton" />
+    <item type="id" name="edgeButton" />
+    <item type="id" name="kmeansButton" />
+    <item type="id" name="downsampleButton" />
+    <item type="id" name="drawOnImageButton" />
+    <item type="id" name="imageCurves" />
+    <item type="id" name="imageZoom" />
+    <item type="id" name="editorDraw" />
+    <item type="id" name="editorColorBorder" />
+    <item type="id" name="editorRedEye" />
+    <item type="id" name="imageOnlyEditor" />
+    <item type="id" name="vignetteEditor" />
+    <item type="id" name="editorCrop" />
+    <item type="id" name="editorFlip" />
+    <item type="id" name="editorRotate" />
+    <item type="id" name="editorStraighten" />
+    <item type="id" name="editorParametric" />
+    <item type="id" name="editorGrad" />
+    <item type="id" name="editorChanSat" />
+    <item type="id" name="action_toggle_full_caching" />
+    <item type="id" name="action_select_all" />
+    <item type="id" name="viewpager" />
+    <item type="id" name="ingest_notification_scanning" />
+    <item type="id" name="ingest_notification_importing" />
+    <item type="id" name="navigation_bar">false</item>
+    <item type="id" name="selection_menu">false</item>
+    <item type="id" name="progressContainer">false</item>
+    <item type="id" name="gridContainer">false</item>
+    <item type="id" name="album_header_image">false</item>
+    <item type="id" name="album_header_title">false</item>
+    <item type="id" name="album_header_subtitle">false</item>
+    <item type="id" name="album_set_item_title">false</item>
+    <item type="id" name="album_set_item_count">false</item>
+    <item type="id" name="album_set_item_image">false</item>
+    <item type="id" name="appwidget_loading_item">false</item>
+    <item type="id" name="appwidget_empty_view">false</item>
+    <item type="id" name="appwidget_photo_item">false</item>
+    <item type="id" name="appwidget_stack_view">false</item>
+    <item type="id" name="bg_replace_message_frame">false</item>
+    <item type="id" name="bg_replace_message">false</item>
+    <item type="id" name="camera_app_root">false</item>
+    <item type="id" name="camera_controls">false</item>
+    <item type="id" name="blocker">false</item>
+    <item type="id" name="menu">false</item>
+    <item type="id" name="camera_switcher">false</item>
+    <item type="id" name="shutter_button">false</item>
+    <item type="id" name="preview_thumb">false</item>
+    <item type="id" name="filmstrip_view">false</item>
+    <item type="id" name="filmstrip_bottom_control_panorama">false</item>
+    <item type="id" name="pano_stitching_progress_panel">false</item>
+    <item type="id" name="pano_stitching_progress_text">false</item>
+    <item type="id" name="pano_stitching_progress_bar">false</item>
+    <item type="id" name="widget_type">false</item>
+    <item type="id" name="widget_type_album">false</item>
+    <item type="id" name="widget_type_photo">false</item>
+    <item type="id" name="widget_type_shuffle">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="count_down_to_capture">false</item>
+    <item type="id" name="remaining_seconds">false</item>
+    <item type="id" name="count_down_title">false</item>
+    <item type="id" name="time_duration_picker">false</item>
+    <item type="id" name="set_time_interval_title">false</item>
+    <item type="id" name="duration">false</item>
+    <item type="id" name="timer_sound">false</item>
+    <item type="id" name="beep_title">false</item>
+    <item type="id" name="sound_check_box">false</item>
+    <item type="id" name="timer_set_button">false</item>
+    <item type="id" name="mainView">false</item>
+    <item type="id" name="mainPanel">false</item>
+    <item type="id" name="cropView">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="editorGradButton">false</item>
+    <item type="id" name="editor_grad_new">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="clear_effects">false</item>
+    <item type="id" name="effect_silly_faces_title">false</item>
+    <item type="id" name="effect_silly_faces_title_separator">false</item>
+    <item type="id" name="effect_silly_faces">false</item>
+    <item type="id" name="effect_background_separator">false</item>
+    <item type="id" name="effect_background_title">false</item>
+    <item type="id" name="effect_background_title_separator">false</item>
+    <item type="id" name="effect_background">false</item>
+    <item type="id" name="btn_next_step">false</item>
+    <item type="id" name="headerView">false</item>
+    <item type="id" name="backBtn">false</item>
+    <item type="id" name="titleView">false</item>
+    <item type="id" name="btnView">false</item>
+    <item type="id" name="textView">false</item>
+    <item type="id" name="nextBtn">false</item>
+    <item type="id" name="topLayout">false</item>
+    <item type="id" name="iconLayout">false</item>
+    <item type="id" name="header_title">false</item>
+    <item type="id" name="header_text">false</item>
+    <item type="id" name="img">false</item>
+    <item type="id" name="disclaimer">false</item>
+    <item type="id" name="nextBtnText">false</item>
+    <item type="id" name="filtershow_done">false</item>
+    <item type="id" name="central_panel_container">false</item>
+    <item type="id" name="editorContainer">false</item>
+    <item type="id" name="imageShow">false</item>
+    <item type="id" name="main_panel_container">false</item>
+    <item type="id" name="categorySelectedIndicator">false</item>
+    <item type="id" name="state_panel_container">false</item>
+    <item type="id" name="top">false</item>
+    <item type="id" name="brightnessView">false</item>
+    <item type="id" name="btnSelect">false</item>
+    <item type="id" name="fxButton">false</item>
+    <item type="id" name="borderButton">false</item>
+    <item type="id" name="geometryButton">false</item>
+    <item type="id" name="colorsButton">false</item>
+    <item type="id" name="listItems">false</item>
+    <item type="id" name="addButton">false</item>
+    <item type="id" name="controls">false</item>
+    <item type="id" name="controlName1">false</item>
+    <item type="id" name="colorBorderSizeValue">false</item>
+    <item type="id" name="colorBorderSizeSeekBar">false</item>
+    <item type="id" name="controlName2">false</item>
+    <item type="id" name="colorBorderCornerValue">false</item>
+    <item type="id" name="colorBorderCornerSizeSeekBar">false</item>
+    <item type="id" name="scrollList">false</item>
+    <item type="id" name="listStyles">false</item>
+    <item type="id" name="colorPicker">false</item>
+    <item type="id" name="colorRectView">false</item>
+    <item type="id" name="ColorHueView">false</item>
+    <item type="id" name="colorOpacityView">false</item>
+    <item type="id" name="listColors">false</item>
+    <item type="id" name="draw_color_button01">false</item>
+    <item type="id" name="draw_color_button02">false</item>
+    <item type="id" name="draw_color_button03">false</item>
+    <item type="id" name="draw_color_button04">false</item>
+    <item type="id" name="draw_color_button05">false</item>
+    <item type="id" name="draw_color_popupbutton">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="tableRow1">false</item>
+    <item type="id" name="cp_grid_button01">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="button03">false</item>
+    <item type="id" name="button04">false</item>
+    <item type="id" name="button05">false</item>
+    <item type="id" name="tableRow2">false</item>
+    <item type="id" name="Button06">false</item>
+    <item type="id" name="button07">false</item>
+    <item type="id" name="button08">false</item>
+    <item type="id" name="button09">false</item>
+    <item type="id" name="button10">false</item>
+    <item type="id" name="tableRow3">false</item>
+    <item type="id" name="Button11">false</item>
+    <item type="id" name="button12">false</item>
+    <item type="id" name="button13">false</item>
+    <item type="id" name="button14">false</item>
+    <item type="id" name="button15">false</item>
+    <item type="id" name="tableRow4">false</item>
+    <item type="id" name="Button16">false</item>
+    <item type="id" name="button17">false</item>
+    <item type="id" name="button18">false</item>
+    <item type="id" name="button19">false</item>
+    <item type="id" name="button20">false</item>
+    <item type="id" name="filtershow_cp_custom">false</item>
+    <item type="id" name="RelativeLayout1">false</item>
+    <item type="id" name="cancelColorPick">false</item>
+    <item type="id" name="applyColorPick">false</item>
+    <item type="id" name="leftActionButton">false</item>
+    <item type="id" name="controlValueSeekBar">false</item>
+    <item type="id" name="rightActionButton">false</item>
+    <item type="id" name="controlName">false</item>
+    <item type="id" name="controlValue">false</item>
+    <item type="id" name="customTitle">false</item>
+    <item type="id" name="cropUtilityButton">false</item>
+    <item type="id" name="curvesUtilityButton">false</item>
+    <item type="id" name="basicEditor">false</item>
+    <item type="id" name="drawUtilityButton">false</item>
+    <item type="id" name="sizeSeekBar">false</item>
+    <item type="id" name="sizeAcceptButton">false</item>
+    <item type="id" name="clearButton">false</item>
+    <item type="id" name="drawSizeValue">false</item>
+    <item type="id" name="drawSizeSeekBar">false</item>
+    <item type="id" name="controlArea">false</item>
+    <item type="id" name="primarySeekBar">false</item>
+    <item type="id" name="cancelFilter">false</item>
+    <item type="id" name="panelAccessoryViewList">false</item>
+    <item type="id" name="applyEffect">false</item>
+    <item type="id" name="applyFilter">false</item>
+    <item type="id" name="toggle_state">false</item>
+    <item type="id" name="bottomControlLineBottom">false</item>
+    <item type="id" name="applyBar">false</item>
+    <item type="id" name="bottomControlLineTop">false</item>
+    <item type="id" name="editableWidth">false</item>
+    <item type="id" name="editableHeight">false</item>
+    <item type="id" name="estimadedSize">false</item>
+    <item type="id" name="qualitySeekBar">false</item>
+    <item type="id" name="qualityTextView">false</item>
+    <item type="id" name="done">false</item>
+    <item type="id" name="gradEditor">false</item>
+    <item type="id" name="gradBrightnessValue">false</item>
+    <item type="id" name="gradBrightnessSeekBar">false</item>
+    <item type="id" name="gradSaturationValue">false</item>
+    <item type="id" name="gradSaturationSeekBar">false</item>
+    <item type="id" name="controlName3">false</item>
+    <item type="id" name="gradContrastValue">false</item>
+    <item type="id" name="gradContrastSeekBar">false</item>
+    <item type="id" name="gradAddButton">false</item>
+    <item type="id" name="gradDelButton">false</item>
+    <item type="id" name="preview">false</item>
+    <item type="id" name="rowTextView">false</item>
+    <item type="id" name="historyPanel">false</item>
+    <item type="id" name="operationsList">false</item>
+    <item type="id" name="resetOperationsButton">false</item>
+    <item type="id" name="saveOperationsButton">false</item>
+    <item type="id" name="hueView">false</item>
+    <item type="id" name="imageName">false</item>
+    <item type="id" name="imageSize">false</item>
+    <item type="id" name="imageThumbnail">false</item>
+    <item type="id" name="histogramView">false</item>
+    <item type="id" name="exifLabel">false</item>
+    <item type="id" name="exifData">false</item>
+    <item type="id" name="category_panel_container">false</item>
+    <item type="id" name="bottom_panel">false</item>
+    <item type="id" name="opacityView">false</item>
+    <item type="id" name="editView">false</item>
+    <item type="id" name="ok">false</item>
+    <item type="id" name="imageView">false</item>
+    <item type="id" name="deleteUserPreset">false</item>
+    <item type="id" name="saturationView">false</item>
+    <item type="id" name="redValue">false</item>
+    <item type="id" name="redSeekBar">false</item>
+    <item type="id" name="yellowValue">false</item>
+    <item type="id" name="yellowSeekBar">false</item>
+    <item type="id" name="greenValue">false</item>
+    <item type="id" name="greenSeekBar">false</item>
+    <item type="id" name="cyanValue">false</item>
+    <item type="id" name="cyanSeekBar">false</item>
+    <item type="id" name="blueValue">false</item>
+    <item type="id" name="blueSeekBar">false</item>
+    <item type="id" name="magentaValue">false</item>
+    <item type="id" name="magentaSeekBar">false</item>
+    <item type="id" name="mainValue">false</item>
+    <item type="id" name="mainSeekbar">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="imageStatePanel">false</item>
+    <item type="id" name="imageStateList">false</item>
+    <item type="id" name="listStates">false</item>
+    <item type="id" name="toggleVersionsPanel">false</item>
+    <item type="id" name="tinyPlanetEditor">false</item>
+    <item type="id" name="imageTinyPlanet">false</item>
+    <item type="id" name="exposureValue">false</item>
+    <item type="id" name="exposureSeekBar">false</item>
+    <item type="id" name="saturationValue">false</item>
+    <item type="id" name="saturationSeekBar">false</item>
+    <item type="id" name="contrastValue">false</item>
+    <item type="id" name="contrastSeekBar">false</item>
+    <item type="id" name="falloffValue">false</item>
+    <item type="id" name="falloffSeekBar">false</item>
+    <item type="id" name="mainVignetteValue">false</item>
+    <item type="id" name="mainVignetteSeekbar">false</item>
+    <item type="id" name="imageVignette">false</item>
+    <item type="id" name="gl_root_view">false</item>
+    <item type="id" name="gl_root_cover">false</item>
+    <item type="id" name="rootLayout">false</item>
+    <item type="id" name="headerLayoutBox">false</item>
+    <item type="id" name="scrollableHeaderLayout">false</item>
+    <item type="id" name="fixedHeaderLayout">false</item>
+    <item type="id" name="footerLayout">false</item>
+    <item type="id" name="contentLayout">false</item>
+    <item type="id" name="icon_back">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="contextView">false</item>
+    <item type="id" name="hlr_dialog_title">false</item>
+    <item type="id" name="prepare_share_progress">false</item>
+    <item type="id" name="prepare_share_progress_text">false</item>
+    <item type="id" name="hlr_dialog_text">false</item>
+    <item type="id" name="btn_save_new">false</item>
+    <item type="id" name="btn_replace">false</item>
+    <item type="id" name="titleLayout">false</item>
+    <item type="id" name="qualityLayout">false</item>
+    <item type="id" name="sdLayout">false</item>
+    <item type="id" name="sdImage">false</item>
+    <item type="id" name="sdTitle">false</item>
+    <item type="id" name="sdText">false</item>
+    <item type="id" name="hdLayout">false</item>
+    <item type="id" name="hdImage">false</item>
+    <item type="id" name="hdTitle">false</item>
+    <item type="id" name="hdText">false</item>
+    <item type="id" name="hlr_share_title">false</item>
+    <item type="id" name="hlr_share_video_layout">false</item>
+    <item type="id" name="hlr_share_video_thumbnail">false</item>
+    <item type="id" name="hlr_share_play_icon">false</item>
+    <item type="id" name="placeholder_image">false</item>
+    <item type="id" name="placeholder_title">false</item>
+    <item type="id" name="placeholder_text">false</item>
+    <item type="id" name="saveBtn">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="txtVideoDuration">false</item>
+    <item type="id" name="selectionText">false</item>
+    <item type="id" name="movie_length_seekbar">false</item>
+    <item type="id" name="movie_quality_spinner">false</item>
+    <item type="id" name="media_grid_view">false</item>
+    <item type="id" name="lengthLayout">false</item>
+    <item type="id" name="time_indicator">false</item>
+    <item type="id" name="hlr_length">false</item>
+    <item type="id" name="lengthValue">false</item>
+    <item type="id" name="hlr_fragment_music_layout">false</item>
+    <item type="id" name="loadingProgressBar">false</item>
+    <item type="id" name="songsListView">false</item>
+    <item type="id" name="people">false</item>
+    <item type="id" name="peopleListView">false</item>
+    <item type="id" name="placeholder">false</item>
+    <item type="id" name="previewLayout">false</item>
+    <item type="id" name="reelview">false</item>
+    <item type="id" name="preparing_indicator">false</item>
+    <item type="id" name="splashImage">false</item>
+    <item type="id" name="tabsHeader">false</item>
+    <item type="id" name="tabsFooter">false</item>
+    <item type="id" name="shadowLayout">false</item>
+    <item type="id" name="progressLayout">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="tabsLayout">false</item>
+    <item type="id" name="durationBtn">false</item>
+    <item type="id" name="durationBtnHover">false</item>
+    <item type="id" name="mediaBtn">false</item>
+    <item type="id" name="mediaBtnHover">false</item>
+    <item type="id" name="peopleBtn">false</item>
+    <item type="id" name="peopleBtnHover">false</item>
+    <item type="id" name="musicBtn">false</item>
+    <item type="id" name="musicBtnHover">false</item>
+    <item type="id" name="frame_gridview_share">false</item>
+    <item type="id" name="medialayout">false</item>
+    <item type="id" name="play_button">false</item>
+    <item type="id" name="selection_overlay">false</item>
+    <item type="id" name="chk_icon">false</item>
+    <item type="id" name="txt_video_length">false</item>
+    <item type="id" name="rowPersonThumbView">false</item>
+    <item type="id" name="circleView">false</item>
+    <item type="id" name="personNameView">false</item>
+    <item type="id" name="seekBar1">false</item>
+    <item type="id" name="textView2">false</item>
+    <item type="id" name="textView3">false</item>
+    <item type="id" name="contact_image">false</item>
+    <item type="id" name="contact_image_circle">false</item>
+    <item type="id" name="contact_name">false</item>
+    <item type="id" name="selectedSongView">false</item>
+    <item type="id" name="downloadIcon">false</item>
+    <item type="id" name="title2">false</item>
+    <item type="id" name="list_item_checkbox">false</item>
+    <item type="id" name="hlr_musicitem_header">false</item>
+    <item type="id" name="list_header_title">false</item>
+    <item type="id" name="imgAlbumArt">false</item>
+    <item type="id" name="imgSongChecked">false</item>
+    <item type="id" name="artist">false</item>
+    <item type="id" name="progressBar">false</item>
+    <item type="id" name="controlsLayout">false</item>
+    <item type="id" name="seekControlsLayout">false</item>
+    <item type="id" name="playBtn">false</item>
+    <item type="id" name="editPlayingTime">false</item>
+    <item type="id" name="seekBarMovie">false</item>
+    <item type="id" name="editMovieTime">false</item>
+    <item type="id" name="divider1">false</item>
+    <item type="id" name="hlr_fullscreen_btn">false</item>
+    <item type="id" name="divider2">false</item>
+    <item type="id" name="promo_empty">false</item>
+    <item type="id" name="hlr_promo_layout">false</item>
+    <item type="id" name="promo_title">false</item>
+    <item type="id" name="help_divider">false</item>
+    <item type="id" name="highlightreel_icon_image">false</item>
+    <item type="id" name="promo_description">false</item>
+    <item type="id" name="promo_description2">false</item>
+    <item type="id" name="promo_gotit">false</item>
+    <item type="id" name="screen">false</item>
+    <item type="id" name="content_scrollView">false</item>
+    <item type="id" name="button">false</item>
+    <item type="id" name="layout">false</item>
+    <item type="id" name="learnMore">false</item>
+    <item type="id" name="privacy_link">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="setting_check_box">false</item>
+    <item type="id" name="current_setting">false</item>
+    <item type="id" name="ingest_gridview">false</item>
+    <item type="id" name="ingest_view_pager">false</item>
+    <item type="id" name="ingest_warning_view">false</item>
+    <item type="id" name="ingest_warning_view_icon">false</item>
+    <item type="id" name="ingest_warning_view_text">false</item>
+    <item type="id" name="date_tile_month">false</item>
+    <item type="id" name="date_tile_year">false</item>
+    <item type="id" name="date_tile_day">false</item>
+    <item type="id" name="ingest_fullsize_image">false</item>
+    <item type="id" name="ingest_fullsize_image_checkbox">false</item>
+    <item type="id" name="shutter">false</item>
+    <item type="id" name="camera_switcher_ind">false</item>
+    <item type="id" name="action_mode_select_all_button">false</item>
+    <item type="id" name="menu_mask">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="album_two_line_title_icon">false</item>
+    <item type="id" name="album_two_line_title">false</item>
+    <item type="id" name="album_two_line_sub_title">false</item>
+    <item type="id" name="lenovo_cluster_title">false</item>
+    <item type="id" name="empty_albumset_tip_view">false</item>
+    <item type="id" name="empty_albumset_imageview">false</item>
+    <item type="id" name="mosaicEditor">false</item>
+    <item type="id" name="folderfilterspecview">false</item>
+    <item type="id" name="folderfilterspecview_visible_tv">false</item>
+    <item type="id" name="folderfilterspecview_invisible_tv">false</item>
+    <item type="id" name="folderfilterspecview_finish">false</item>
+    <item type="id" name="gifview">false</item>
+    <item type="id" name="imageview">false</item>
+    <item type="id" name="watermark_bottomListview">false</item>
+    <item type="id" name="watermarkView">false</item>
+    <item type="id" name="watermark_loading">false</item>
+    <item type="id" name="bottom_bg">false</item>
+    <item type="id" name="bottom_icon">false</item>
+    <item type="id" name="settingList">false</item>
+    <item type="id" name="gallery_root">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="status">false</item>
+    <item type="id" name="on_screen_indicators">false</item>
+    <item type="id" name="menu_scenemode_indicator">false</item>
+    <item type="id" name="menu_timer_indicator">false</item>
+    <item type="id" name="menu_flash_indicator">false</item>
+    <item type="id" name="menu_exposure_indicator">false</item>
+    <item type="id" name="menu_location_indicator">false</item>
+    <item type="id" name="menu_wb_indicator">false</item>
+    <item type="id" name="movie_view_root">false</item>
+    <item type="id" name="surface_view">false</item>
+    <item type="id" name="main_backgroundImage">false</item>
+    <item type="id" name="yesBtn">false</item>
+    <item type="id" name="notNowBtn">false</item>
+    <item type="id" name="photo">false</item>
+    <item type="id" name="preview_content">false</item>
+    <item type="id" name="flash_overlay">false</item>
+    <item type="id" name="face_view_stub">false</item>
+    <item type="id" name="face_view">false</item>
+    <item type="id" name="render_overlay">false</item>
+    <item type="id" name="thumbnail">false</item>
+    <item type="id" name="photopage_bottom_controls">false</item>
+    <item type="id" name="photopage_bottom_control_edit">false</item>
+    <item type="id" name="photopage_bottom_control_panorama">false</item>
+    <item type="id" name="photopage_bottom_control_tiny_planet">false</item>
+    <item type="id" name="photopage_progress_bar">false</item>
+    <item type="id" name="photopage_progress_background">false</item>
+    <item type="id" name="photopage_progress_foreground">false</item>
+    <item type="id" name="photopage_progress_bar_text">false</item>
+    <item type="id" name="btn_done">false</item>
+    <item type="id" name="btn_retake">false</item>
+    <item type="id" name="btn_cancel">false</item>
+    <item type="id" name="rotate_dialog_root_layout">false</item>
+    <item type="id" name="rotate_dialog_layout">false</item>
+    <item type="id" name="rotate_dialog_title_layout">false</item>
+    <item type="id" name="rotate_dialog_title">false</item>
+    <item type="id" name="rotate_dialog_spinner">false</item>
+    <item type="id" name="rotate_dialog_text">false</item>
+    <item type="id" name="rotate_dialog_button_layout">false</item>
+    <item type="id" name="rotate_dialog_button2">false</item>
+    <item type="id" name="rotate_dialog_button1">false</item>
+    <item type="id" name="rotate_toast">false</item>
+    <item type="id" name="share_item_image">false</item>
+    <item type="id" name="share_item_title">false</item>
+    <item type="id" name="time_interval_picker">false</item>
+    <item type="id" name="duration_unit">false</item>
+    <item type="id" name="time_lapse_switch">false</item>
+    <item type="id" name="set_time_interval_help_text">false</item>
+    <item type="id" name="time_lapse_interval_set_button">false</item>
+    <item type="id" name="start_trim">false</item>
+    <item type="id" name="trim_view_root">false</item>
+    <item type="id" name="undo_button">false</item>
+    <item type="id" name="preview_border">false</item>
+    <item type="id" name="recording_time_rect">false</item>
+    <item type="id" name="labels">false</item>
+    <item type="id" name="review_image">false</item>
+    <item type="id" name="btn_play">false</item>
+    <item type="id" name="recording_time">false</item>
+    <item type="id" name="time_lapse_label">false</item>
+    <item type="id" name="background">false</item>
+    <item type="id" name="secondaryProgress">false</item>
+    <item type="id" name="action_camera">false</item>
+    <item type="id" name="action_slideshow">false</item>
+    <item type="id" name="action_highlightreel">false</item>
+    <item type="id" name="action_people_recognition">false</item>
+    <item type="id" name="action_settings">false</item>
+    <item type="id" name="action_general_help">false</item>
+    <item type="id" name="save">false</item>
+    <item type="id" name="action_filter_all">false</item>
+    <item type="id" name="action_filter_image">false</item>
+    <item type="id" name="action_filter_video">false</item>
+    <item type="id" name="menu_share">false</item>
+    <item type="id" name="undoButton">false</item>
+    <item type="id" name="redoButton">false</item>
+    <item type="id" name="resetHistoryButton">false</item>
+    <item type="id" name="showInfoPanel">false</item>
+    <item type="id" name="showImageStateButton">false</item>
+    <item type="id" name="manageUserPresets">false</item>
+    <item type="id" name="exportFlattenButton">false</item>
+    <item type="id" name="printButton">false</item>
+    <item type="id" name="grunge_popupmenu">false</item>
+    <item type="id" name="editor_chan_sat_main">false</item>
+    <item type="id" name="editor_chan_sat_red">false</item>
+    <item type="id" name="editor_chan_sat_yellow">false</item>
+    <item type="id" name="editor_chan_sat_green">false</item>
+    <item type="id" name="editor_chan_sat_cyan">false</item>
+    <item type="id" name="editor_chan_sat_blue">false</item>
+    <item type="id" name="editor_chan_sat_magenta">false</item>
+    <item type="id" name="curves_popupmenu">false</item>
+    <item type="id" name="color_border_menu_corner_size">false</item>
+    <item type="id" name="color_border_menu_size">false</item>
+    <item type="id" name="color_border_menu_color">false</item>
+    <item type="id" name="color_border_menu_clear">false</item>
+    <item type="id" name="crop_popupmenu">false</item>
+    <item type="id" name="crop_menu_1to1">false</item>
+    <item type="id" name="crop_menu_4to6">false</item>
+    <item type="id" name="crop_menu_4to3">false</item>
+    <item type="id" name="crop_menu_3to4">false</item>
+    <item type="id" name="crop_menu_5to7">false</item>
+    <item type="id" name="crop_menu_7to5">false</item>
+    <item type="id" name="crop_menu_9to16">false</item>
+    <item type="id" name="crop_menu_none">false</item>
+    <item type="id" name="crop_menu_original">false</item>
+    <item type="id" name="curve_menu_rgb">false</item>
+    <item type="id" name="curve_menu_red">false</item>
+    <item type="id" name="curve_menu_green">false</item>
+    <item type="id" name="curve_menu_blue">false</item>
+    <item type="id" name="draw_menu_style">false</item>
+    <item type="id" name="draw_menu_size">false</item>
+    <item type="id" name="draw_menu_color">false</item>
+    <item type="id" name="draw_menu_clear">false</item>
+    <item type="id" name="editor_grad_brightness">false</item>
+    <item type="id" name="editor_grad_saturation">false</item>
+    <item type="id" name="editor_grad_contrast">false</item>
+    <item type="id" name="editor_vignette_main">false</item>
+    <item type="id" name="editor_vignette_falloff">false</item>
+    <item type="id" name="editor_vignette_contrast">false</item>
+    <item type="id" name="editor_vignette_saturation">false</item>
+    <item type="id" name="editor_vignette_exposure">false</item>
+    <item type="id" name="menu_camera">false</item>
+    <item type="id" name="menu_search">false</item>
+    <item type="id" name="menu_settings">false</item>
+    <item type="id" name="menu_help">false</item>
+    <item type="id" name="menu_edit">false</item>
+    <item type="id" name="menu_delete">false</item>
+    <item type="id" name="menu_crop">false</item>
+    <item type="id" name="menu_trim">false</item>
+    <item type="id" name="menu_mute">false</item>
+    <item type="id" name="menu_set_as">false</item>
+    <item type="id" name="action_cluster_album">false</item>
+    <item type="id" name="action_cluster_time">false</item>
+    <item type="id" name="action_cluster_location">false</item>
+    <item type="id" name="action_cluster_tags">false</item>
+    <item type="id" name="action_cluster_size">false</item>
+    <item type="id" name="action_cluster_faces">false</item>
+    <item type="id" name="action_add_highlightreel">false</item>
+    <item type="id" name="ingest_switch_view">false</item>
+    <item type="id" name="ingest_import_items">false</item>
+    <item type="id" name="action_filter_confirm">false</item>
+    <item type="id" name="action_watermark_save">false</item>
+    <item type="id" name="action_creat_album">false</item>
+    <item type="id" name="action_share">false</item>
+    <item type="id" name="action_multipick_done">false</item>
+    <item type="id" name="action_people_recognition_next">false</item>
+    <item type="id" name="action_add_highlightreel_picker_next">false</item>
+    <item type="id" name="action_delete">false</item>
+    <item type="id" name="action_highlightreel_foralbumpage">false</item>
+    <item type="id" name="action_edit">false</item>
+    <item type="id" name="action_rotate_cw">false</item>
+    <item type="id" name="action_crop">false</item>
+    <item type="id" name="action_setas">false</item>
+    <item type="id" name="action_details">false</item>
+    <item type="id" name="action_share_panorama">false</item>
+    <item type="id" name="action_moveto">false</item>
+    <item type="id" name="action_import">false</item>
+    <item type="id" name="action_show_on_map">false</item>
+    <item type="id" name="action_add_people_tag">false</item>
+    <item type="id" name="action_add_people_face">false</item>
+    <item type="id" name="action_people_rename">false</item>
+    <item type="id" name="action_simple_edit">false</item>
+    <item type="id" name="action_trim">false</item>
+    <item type="id" name="action_watermark">false</item>
+    <item type="id" name="action_mute">false</item>
+    <item type="id" name="print">false</item>
+    <item type="id" name="action_cancel">false</item>
+    <item type="id" name="add_account">false</item>
+</resources>

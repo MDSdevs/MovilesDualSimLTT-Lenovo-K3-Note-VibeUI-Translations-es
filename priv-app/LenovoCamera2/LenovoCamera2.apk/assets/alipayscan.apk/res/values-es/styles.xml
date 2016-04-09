@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="framework_pullrefresh_overview">
+        <item name="framework_pullrefresh_indicator_upDrawable">@drawable/framework_pull_arrow_up</item>
+        <item name="framework_pullrefresh_indicator_downDrawable">@drawable/framework_pull_arrow_down</item>
+        <item name="framework_pullrefresh_textColor">@android:color/secondary_text_light</item>
+        <item name="framework_pullrefresh_progressDrawable">@null</item>
+    </style>
+    <style name="client_application_bg">
+        <item name="android:background">@color/backgroudColor</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="mainButtonStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@drawable/main_button_color</item>
+        <item name="android:background">@drawable/main_button</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="layoutButtonStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@drawable/main_button_color</item>
+        <item name="android:background">@drawable/layout_button</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="subButtonStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@drawable/subsub_btn_color</item>
+        <item name="android:background">@drawable/sub_button_sub</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="subSubButtonStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@drawable/subsub_btn_color</item>
+        <item name="android:background">@drawable/sub_button_sub</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="text_16">
+        <item name="android:textSize">10.699982sp</item>
+    </style>
+    <style name="text_dark_gray_16" parent="@style/text_16">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="text_gray_16" parent="@style/text_16">
+        <item name="android:textColor">@color/colorGray</item>
+    </style>
+    <style name="text_light_gray_16" parent="@style/text_16">
+        <item name="android:textColor">@color/colorLightGray</item>
+    </style>
+    <style name="text_orange_16" parent="@style/text_16">
+        <item name="android:textColor">@color/colorOrange</item>
+    </style>
+    <style name="text_green_16" parent="@style/text_16">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+    <style name="text_blue_16" parent="@style/text_16">
+        <item name="android:textColor">@color/colorBlue</item>
+    </style>
+    <style name="text_dark_blue_16" parent="@style/text_16">
+        <item name="android:textColor">@color/colorDarkBlue</item>
+    </style>
+    <style name="text_18">
+        <item name="android:textSize">12.0sp</item>
+    </style>
+    <style name="text_dark_gray_18" parent="@style/text_18">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="text_gray_18" parent="@style/text_18">
+        <item name="android:textColor">@color/colorGray</item>
+    </style>
+    <style name="text_light_gray_18" parent="@style/text_18">
+        <item name="android:textColor">@color/colorLightGray</item>
+    </style>
+    <style name="text_orange_18" parent="@style/text_18">
+        <item name="android:textColor">@color/colorOrange</item>
+    </style>
+    <style name="text_green_18" parent="@style/text_18">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+    <style name="text_dark_blue_18" parent="@style/text_18">
+        <item name="android:textColor">@color/colorDarkBlue</item>
+    </style>
+    <style name="text_20">
+        <item name="android:textSize">13.299988sp</item>
+    </style>
+    <style name="text_dark_gray_20" parent="@style/text_20">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="text_gray_20" parent="@style/text_20">
+        <item name="android:textColor">@color/colorGray</item>
+    </style>
+    <style name="text_light_gray_20" parent="@style/text_20">
+        <item name="android:textColor">@color/colorLightGray</item>
+    </style>
+    <style name="text_orange_20" parent="@style/text_20">
+        <item name="android:textColor">@color/colorOrange</item>
+    </style>
+    <style name="text_green_20" parent="@style/text_20">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+    <style name="text_blue_20" parent="@style/text_20">
+        <item name="android:textColor">@color/colorBlue</item>
+    </style>
+    <style name="text_dark_blue_20" parent="@style/text_20">
+        <item name="android:textColor">@color/colorDarkBlue</item>
+    </style>
+    <style name="text_22">
+        <item name="android:textSize">14.699982sp</item>
+    </style>
+    <style name="text_dark_gray_22" parent="@style/text_22">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="text_gray_22" parent="@style/text_22">
+        <item name="android:textColor">@color/colorGray</item>
+    </style>
+    <style name="text_light_gray_22" parent="@style/text_22">
+        <item name="android:textColor">@color/colorLightGray</item>
+    </style>
+    <style name="text_orange_22" parent="@style/text_22">
+        <item name="android:textColor">@color/colorOrange</item>
+    </style>
+    <style name="text_green_22" parent="@style/text_22">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+    <style name="text_dark_blue_22" parent="@style/text_22">
+        <item name="android:textColor">@color/colorDarkBlue</item>
+    </style>
+    <style name="text_24">
+        <item name="android:textSize">16.0sp</item>
+    </style>
+    <style name="text_dark_gray_24" parent="@style/text_24">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="text_gray_24" parent="@style/text_24">
+        <item name="android:textColor">@color/colorGray</item>
+    </style>
+    <style name="text_light_gray_24" parent="@style/text_24">
+        <item name="android:textColor">@color/colorLightGray</item>
+    </style>
+    <style name="text_orange_24" parent="@style/text_24">
+        <item name="android:textColor">@color/colorOrange</item>
+    </style>
+    <style name="text_green_24" parent="@style/text_24">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+    <style name="text_blue_24" parent="@style/text_24">
+        <item name="android:textColor">@color/colorDarkBlue</item>
+    </style>
+    <style name="text_dark_blue_24" parent="@style/text_24">
+        <item name="android:textColor">@color/colorDarkBlue</item>
+    </style>
+    <style name="text_26">
+        <item name="android:textSize">17.299988sp</item>
+    </style>
+    <style name="text_dark_gray_26" parent="@style/text_26">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="text_gray_26" parent="@style/text_26">
+        <item name="android:textColor">@color/colorGray</item>
+    </style>
+    <style name="text_light_gray_26" parent="@style/text_26">
+        <item name="android:textColor">@color/colorLightGray</item>
+    </style>
+    <style name="text_orange_26" parent="@style/text_26">
+        <item name="android:textColor">@color/colorOrange</item>
+    </style>
+    <style name="text_green_26" parent="@style/text_26">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+    <style name="text_blue_26" parent="@style/text_26">
+        <item name="android:textColor">@color/colorBlue</item>
+    </style>
+    <style name="text_dark_blue_26" parent="@style/text_26">
+        <item name="android:textColor">@color/colorDarkBlue</item>
+    </style>
+    <style name="text_28">
+        <item name="android:textSize">18.699982sp</item>
+    </style>
+    <style name="text_dark_gray_28" parent="@style/text_28">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="text_gray_28" parent="@style/text_28">
+        <item name="android:textColor">@color/colorGray</item>
+    </style>
+    <style name="text_light_gray_28" parent="@style/text_28">
+        <item name="android:textColor">@color/colorLightGray</item>
+    </style>
+    <style name="text_orange_28" parent="@style/text_28">
+        <item name="android:textColor">@color/colorOrange</item>
+    </style>
+    <style name="text_green_28" parent="@style/text_28">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+    <style name="text_blue_28" parent="@style/text_28">
+        <item name="android:textColor">@color/colorBlue</item>
+    </style>
+    <style name="text_dark_blue_28" parent="@style/text_28">
+        <item name="android:textColor">@color/colorDarkBlue</item>
+    </style>
+    <style name="text_white_28" parent="@style/text_28">
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+    <style name="text_30">
+        <item name="android:textSize">20.0sp</item>
+    </style>
+    <style name="text_dark_gray_30" parent="@style/text_30">
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+    <style name="text_gray_30" parent="@style/text_30">
+        <item name="android:textColor">@color/colorGray</item>
+    </style>
+    <style name="text_light_gray_30" parent="@style/text_30">
+        <item name="android:textColor">@color/colorLightGray</item>
+    </style>
+    <style name="text_orange_30" parent="@style/text_30">
+        <item name="android:textColor">@color/colorOrange</item>
+    </style>
+    <style name="text_green_30" parent="@style/text_30">
+        <item name="android:textColor">@color/colorGreen</item>
+    </style>
+    <style name="text_blue_30" parent="@style/text_30">
+        <item name="android:textColor">@color/colorBlue</item>
+    </style>
+    <style name="text_dark_blue_30" parent="@style/text_30">
+        <item name="android:textColor">@color/colorDarkBlue</item>
+    </style>
+    <style name="simple_button_style" parent="@style/text_light_gray_24">
+        <item name="android:paddingLeft">10.0dip</item>
+        <item name="android:paddingRight">10.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">32.0dip</item>
+    </style>
+    <style name="titlebar_button_style" parent="@style/simple_button_style">
+        <item name="android:background">@color/app_titlebar_bg_color</item>
+    </style>
+    <style name="switch_btn_left_style" parent="@style/simple_button_style">
+        <item name="android:background">@color/app_titlebar_bg_color</item>
+    </style>
+    <style name="switch_btn_right_style" parent="@style/simple_button_style">
+        <item name="android:background">@color/app_titlebar_bg_color</item>
+    </style>
+    <style name="boldStyle">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="share_select_dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:color/transparent</item>
+    </style>
+    <style name="mainButtonDarkbgStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@drawable/main_button_color</item>
+        <item name="android:background">@drawable/main_button_darkbg</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="dialogButtonStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">#ffcccccc</item>
+        <item name="android:background">@drawable/dialog_button_bg</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="mainFundButtonStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@drawable/main_button_color</item>
+        <item name="android:background">@drawable/main_button_fund</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="layoutButtonDarkbgStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@drawable/main_button_color</item>
+        <item name="android:background">@drawable/layout_button_darkbg</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="subSubButtonDarkbgStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@drawable/subsub_btn_color</item>
+        <item name="android:background">@drawable/sub_button_sub_darkbg</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="subSubFundButtonStyle">
+        <item name="android:textSize">18.699982sp</item>
+        <item name="android:textColor">@drawable/subsub_btn_color</item>
+        <item name="android:background">@drawable/sub_button_sub_fund</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="subSwitchTabStyle">
+        <item name="android:textColor">@drawable/sub_tab_color</item>
+        <item name="android:background">@drawable/sub_tab</item>
+    </style>
+    <style name="text_blue_18" parent="@style/text_18">
+        <item name="android:textColor">@color/colorBlue</item>
+    </style>
+    <style name="text_34">
+        <item name="android:textSize">22.599976sp</item>
+    </style>
+    <style name="normalStyle">
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="dialog_with_no_title_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/window_corner_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="activityShell">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="mini_UITextField">
+        <item name="android:background">@drawable/mini_ui_input_bg</item>
+        <item name="android:paddingLeft">@dimen/mini_margin_left</item>
+        <item name="android:paddingRight">@dimen/mini_margin_right</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5.0dip</item>
+    </style>
+    <style name="MiniAppPayTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="setting_text_tips">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/msp_setting_tips_color</item>
+        <item name="android:layout_marginLeft">13.0dip</item>
+        <item name="android:layout_marginTop">6.0dip</item>
+        <item name="android:layout_marginRight">13.0dip</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="setting_text_tips2">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/msp_setting_tips_color</item>
+        <item name="android:layout_marginBottom">5.0dip</item>
+    </style>
+    <style name="setting_autopay_tips" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:paddingLeft">15.0dip</item>
+        <item name="android:layout_marginLeft">5.0dip</item>
+        <item name="android:layout_marginTop">5.0dip</item>
+        <item name="android:layout_marginRight">5.0dip</item>
+        <item name="android:layout_marginBottom">20.0dip</item>
+        <item name="android:button">@drawable/setting_autopay_checkmark</item>
+    </style>
+    <style name="setting_popwindown_btn_left">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@drawable/setting_popwindow_btn_color</item>
+        <item name="android:background">@drawable/setting_popwindow_btn_left</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="setting_popwindown_btn_right">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">@drawable/setting_popwindow_btn_color</item>
+        <item name="android:background">@drawable/setting_popwindow_btn_right</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="MspAppBaseTheme" parent="@android:style/Theme.Light.NoTitleBar" />
+    <style name="MspAppTheme" parent="@style/MspAppBaseTheme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="MspAppPayTheme" parent="@android:style/Theme.Translucent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="MspAppTranslucentTheme" parent="@style/MspAppTheme">
+        <item name="android:windowBackground">@drawable/msp_bg_panel</item>
+    </style>
+    <style name="ProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/msp_dialog_progress_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="AlertDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/msp_popup_bg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="TextLarge">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">#ff444444</item>
+    </style>
+    <style name="TextMedium">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ff444444</item>
+    </style>
+    <style name="TextSmall">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ff888888</item>
+    </style>
+    <style name="UITextField">
+        <item name="android:background">@drawable/msp_ui_edit_text_bg</item>
+        <item name="android:paddingLeft">@dimen/msp_margin_left</item>
+        <item name="android:paddingRight">@dimen/msp_margin_right</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5.0dip</item>
+    </style>
+    <style name="mini_progressBar_webview">
+        <item name="android:maxHeight">5.0dip</item>
+        <item name="android:secondaryProgress">0</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/mini_progress_bar_webview</item>
+        <item name="android:minHeight">5.0dip</item>
+    </style>
+    <style name="mini_safty_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="security_registed_dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="security_dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="dialog_activity" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="ThemeNoAnimation" parent="@style/AppTheme">
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="floatingAni" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/buttom_in</item>
+        <item name="android:windowExitAnimation">@anim/buttom_out</item>
+    </style>
+    <style name="floatingStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/floatingAni</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

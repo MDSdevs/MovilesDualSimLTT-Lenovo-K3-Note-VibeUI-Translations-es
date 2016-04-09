@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="chat" name="uploadPanel">false</item>
+    <item type="chat" name="uploadProcess">false</item>
+    <item type="chat" name="uploadMessage">false</item>
+    <item type="chat" name="upload">false</item>
+    <item type="chat" name="cancelUpload">false</item>
+    <item type="chat" name="downloadPanel">false</item>
+    <item type="chat" name="downloadProgress">false</item>
+    <item type="chat" name="panelMessage">false</item>
+    <item type="chat" name="downloadbutton">false</item>
+    <item type="chat" name="cancelDownload">false</item>
+    <item type="chat" name="webview">false</item>
+    <item type="chat" name="faceButton">false</item>
+    <item type="chat" name="message">false</item>
+    <item type="chat" name="send">false</item>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="place_autocomplete_fragment">false</item>
+    <item type="layout" name="place_autocomplete_item_powered_by_google">false</item>
+    <item type="layout" name="place_autocomplete_item_prediction">false</item>
+    <item type="layout" name="place_autocomplete_progress">false</item>
+</resources>

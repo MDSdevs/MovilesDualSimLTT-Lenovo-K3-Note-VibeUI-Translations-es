@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="leather_sheath_view_height">136.0dip</dimen>
+    <dimen name="leather_dialog_call_first_content_height">60.0dip</dimen>
+    <dimen name="leather_dialog_call_first_content_margin_top">16.0dip</dimen>
+    <dimen name="leather_dialog_call_second_content_height">25.0dip</dimen>
+    <dimen name="call_first_content_left_text_size">30.0dip</dimen>
+</resources>

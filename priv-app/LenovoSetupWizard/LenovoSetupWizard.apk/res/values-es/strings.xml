@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Setup Wizard</string>
+    <string name="setup_wizard">Setup Wizard</string>
+    <string name="access_desktop">Direct access to the desktop</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="setup_wizard_next_button_text">Next</string>
+    <string name="setup_wizard_back_button_text">Back</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="finish">Finish</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="tips">Tip</string>
+    <string name="sim_missing_title">Insert SIM Card</string>
+    <string name="sim_missing_message">SIM card not detected. It is recommended that you reinsert it and try again.</string>
+    <string name="mobile_data_title">Open Mobile Data</string>
+    <string name="mobile_data_message">"Use your mobile phone's SIM card to go online. Enabling this service may incur data usage charges from your service provider. If you do not have a mobile data plan, it is recommended that you disable this option."</string>
+    <string name="mobile_data_use_sim1">Use SIM1（%1$s）Mobile Data</string>
+    <string name="mobile_data_use_sim2">Use SIM2（%1$s）Mobile Data</string>
+    <string name="account_title">Lenovo ID</string>
+    <string name="account_text_register">Register</string>
+    <string name="account_message">A single Lenovo account for all Lenovo apps!</string>
+    <string name="account_btn_title_phonenum">Phone number login</string>
+    <string name="account_btn_title_othernum">E-mail Login</string>
+    <string name="title_act_language">Language selection</string>
+    <string name="title_act_network">Network settings</string>
+    <string name="title_act_server">Lenovo Enhanced Experience Program</string>
+    <string name="title_act_license">Lenovo License Agreement</string>
+    <string name="license_message">You must agree with the Lenovo Privacy Policy to continue using your mobile phone.</string>
+    <string name="lenovo_license_agree">Agree</string>
+    <string name="network_data_title">Data connection</string>
+    <string name="netwrok_data_summary">You can use your SIM card to access the Internet. Using this service will produce some data traffic.</string>
+    <string name="network_wlan_title">Select WLAN</string>
+    <string name="network_wlan_summary_off">Not connected</string>
+    <string name="network_wlan_summary_on">Connected</string>
+    <string name="network_skip_tips">For better service and support, we recommend you connect to the Internet.</string>
+    <string name="network_skip">Skip</string>
+    <string name="network_not_skip">"Don't skip"</string>
+    <string name="server_lenovo_exp_summary">Come here for %1$s software support and %2$s service.</string>
+    <string name="exp_color_text1">Recent</string>
+    <string name="exp_color_text2">Customization</string>
+    <string name="server_lenovo_exp_span_text">Join the Lenovo Enhanced Experience Program</string>
+    <string name="server_lenovo_exp_agree">Agree to join the Lenovo Enhanced Experience Program</string>
+    <string name="server_lenovo_exp_dialog_title">Tip</string>
+    <string name="server_lenovo_exp_tip">We suggest you join the Lenovo Enhanced Experience Program to receive better services and an enhanced mobile experience.</string>
+    <string name="server_lenovo_exp_skip">Skip</string>
+    <string name="server_lenovo_exp_not_skip">"Don't skip"</string>
+    <string name="others_title">Other Services</string>
+    <string name="othersetting_setting_item_title_exp">Agreed to join the association Experience Program</string>
+    <string name="othersetting_setting_item_title_gps">GPS Positioning</string>
+    <string name="othersetting_setting_item_summary_gps">Allow \"Map\" or other apps to use GPS for positioning. Enabling this service may incur data usage charges.</string>
+    <string name="complete_title">Setup is complete</string>
+    <string name="complete_message">Congratulations!</string>
+    <string name="complete_summary">You have finished configuring your new phone. Now you can start using it! Thank you for choosing Lenovo!</string>
+    <string name="complete_set_fingerprint">Set Fingerprint</string>
+    <string name="complete_later_on">Later on</string>
+    <string name="lenovo_license_content_less">"This Lenovo License Agreement (the \"Agreement\") applies to each Lenovo Software Product that You acquire, whether it is preinstalled on or included with a Lenovo hardware product, acquired separately, or downloaded by You from a Lenovo Web site or a third-party Web site approved by Lenovo. It also applies to any updates or patches to these Software Products.
+
+Lenovo will license the Software Product to You only if You accept this Agreement. You agree to the terms of this Agreement by clicking to accept it or by installing, downloading, or using the Software Product.
+
+If You do not agree to these terms, do not install, download, or use the Software Product(s).
+•"</string>
+    <string name="lenovo_license_content">"This Lenovo License Agreement (the \"Agreement\") applies to each Lenovo Software Product that You acquire, whether it is preinstalled on or included with a Lenovo hardware product, acquired separately, or downloaded by You from a Lenovo Web site or a third-party Web site approved by Lenovo. It also applies to any updates or patches to these Software Products.
+
+Lenovo will license the Software Product to You only if You accept this Agreement. You agree to the terms of this Agreement by clicking to accept it or by installing, downloading, or using the Software Product.
+
+If You do not agree to these terms, do not install, download, or use the Software Product(s).
+• If You acquired the Software Product(s) and paid a license fee, return the Software Product to the party from whom You acquired it to obtain a refund or a credit of the amount You paid.
+• If You acquired the Software Product(s) preinstalled on or provided with a Lenovo hardware product, You may continue to use the hardware product, but not the Software Product(s) covered under this Agreement.
+
+"<b>\"Software Product\"</b>" includes mobile device software programs (whether preinstalled or provided separately) and related licensed materials such as documentation.
+"<b>\"You\"</b> and <b>\"Your\"</b>" refer either to an individual person or to a single legal entity.
+"<b>1. Entitlement</b>"
+You must maintain Your original dated sales transaction document, such as a receipt, invoice or similar document, as Your proof of Your right to use the Software Product. The transaction document specifies the usage level acquired. If no usage level is specified, You may install and use a single copy of the Software Product on a single hardware product. Your transaction document also provides evidence of Your eligibility for future upgrades, if any. For Software Products preinstalled on, included with, or distributed at no charge for use on a Lenovo hardware product, Your hardware product sales transaction document is also the proof of Your right to use the Software Product.
+"<b>2. License</b>"
+The Software Product is owned by Lenovo or a Lenovo supplier, and is copyrighted and licensed, not sold. Lenovo grants You a nonexclusive license to use the Software Product when You lawfully acquire it.
+You may a) use the Software Product up to the level of use specified in Your transaction document and b) make and install copies, including a backup copy, to support such use. The terms of this Agreement apply to each copy You make. You may not remove or alter any copyright notices or legends of ownership.
+If You acquire the Software Product as a program upgrade, after You install the upgrade You may not use the Software Product from which You upgraded or transfer it to another party.
+You will ensure that anyone who uses the Software Product (accessed either locally or remotely) does so only for Your authorized use and complies with the terms of this Agreement.
+You may not a) use, copy, modify, or distribute the Software Product except as provided in this Agreement; b) reverse assemble, reverse compile, or otherwise translate the Software Product except as specifically permitted by law without the possibility of contractual waiver; or 3) sublicense, rent, or lease the Software Product.
+Lenovo may terminate Your license if You fail to comply with the terms of this Agreement. If Lenovo does so, You must destroy all copies of the Software Product.
+Lenovo uses the System Update program to update Software Products on your computer. By default, critical updates are downloaded and installed automatically. Updates are classified as critical when they are needed for the computer to function properly. Failure to install critical updates could result in data corruption or loss, a major system malfunction, or a hardware failure. For example, critical updates could include an update to the hard-disk-drive firmware, a BIOS upgrade, a device-driver fix, or a fix for the operating system or other preinstalled software. You can disable this automatic feature by changing the settings of the System Update program at any time.
+"<b>3. Transferability</b>"
+You may not transfer or assign the Software Product to any other party, except as permitted in this section.
+Preinstalled Software Products are licensed for use only on the Lenovo hardware product on which they are preinstalled or included with and may be transferred only with that Lenovo hardware product. They may not be transferred independent of the Lenovo hardware product.
+"<b>4. Third Party Software Products</b>"
+Certain third party software products may be included with, or downloaded to this mobile device. Third Party Software Products provided by Lenovo may be governed by the terms of this Agreement but are usually licensed by the Third Party under its own terms and conditions. Third Party Software Products that are not licensed by Lenovo are subject solely to the terms of their accompanying license agreements. Third Party Software Products may collect your information. Make sure you read those license agreements before using third Party Software Products.
+"<b>5. Software Product Specifications</b>"
+The Software Product specifications and specified operating environment information may be found in documentation accompanying the Software Product, if available, such as a README or similarly titled file, or otherwise published by Lenovo.
+"<b>6. Software Upgrade</b>"
+When connected to the internet, your mobile device will automatically check system updates/upgrades. The process will cause some data transmission. Lenovo will provide software update/upgrade packages to modify bugs or improve your user experiences from time to time.
+"<b>7. Charges</b>"
+Charges for the Software Product are based on the level of use acquired. 
+If You wish to increase the level of use, contact Lenovo or the party from whom You acquired the Software Product. Additional charges may apply. 
+If any authority imposes a duty, tax, levy or fee, excluding those based on Lenovo’s net income, upon the Software Product, then You agree to pay the amount specified or supply exemption documentation. You are responsible for any personal property taxes for the Software Product from the date that You acquire it.
+"<b>"8. No Warranty
+The Software Product(s) is provided to You \"AS IS.\"
+SUBJECT TO ANY STATUTORY WARRANTIES WHICH CANNOT BE EXCLUDED, LENOVO MAKES NO WARRANTIES OR CONDITIONS, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, REGARDING THE SOFTWARE PRODUCT OR TECHNICAL SUPPORT, IF ANY.
+"</b>"The exclusion also applies to any of Lenovo’s developers and suppliers.
+Suppliers or publishers of non-Lenovo Software Products may provide their own warranties.
+Lenovo does not provide technical support, unless Lenovo specifies otherwise in writing.
+"<b>9. Limitation of Liability</b>"
+Circumstances may arise where, because of a default on Lenovo's part or other liability, You may be entitled to recover damages from Lenovo. In each such instance, regardless of the basis on which You are entitled to claim damages from Lenovo (including fundamental breach, negligence, misrepresentation, or other contract or tort claim), except and to the extent that liability cannot be waived or limited by applicable laws, Lenovo is liable for no more than the amount of actual direct damages suffered by You, up to the amount You paid for the Software Product. This limit does not apply to damages for bodily injury (including death) and damage to real property and tangible personal property for which Lenovo is required by law to be liable.
+This limit also applies to Lenovo's suppliers and resellers. It is the maximum for which Lenovo, its suppliers and resellers are collectively responsible.
+"<b>UNDER NO CIRCUMSTANCES IS LENOVO, ITS SUPPLIERS OR RESELLERS LIABLE FOR ANY OF THE FOLLOWING EVEN IF INFORMED OF THEIR POSSIBILITY: 1) THIRD PARTY CLAIMS AGAINST YOU FOR DAMAGES; 2) LOSS OF, OR DAMAGE TO, YOUR DATA; OR 3) SPECIAL, INCIDENTAL, OR INDIRECT DAMAGES OR FOR ANY ECONOMIC CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS, BUSINESS REVENUE, GOODWILL, OR ANTICIPATED SAVINGS. SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.</b>"
+"<b>10. Consumer Rights</b>"
+Nothing in this Agreement affects any statutory rights of consumers that cannot be waived or limited by contract. You may have additional consumer rights under applicable local laws, which this Agreement cannot change.
+"<b>11. General</b>"
+a) In the event that any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions of this Agreement remain in full force and effect.
+b) You agree to comply with all applicable export and import laws and regulations.
+c) Neither You nor Lenovo will bring a legal action under this Agreement more than two (2) years after the cause of action arose unless otherwise provided by local law without the possibility of contractual waiver or limitation.
+"</string>
+    <string name="action_do_not_use_network">action_do_not_use_network</string>
+    <string name="action_use_network" />
+    <string name="wifi_display_options_done">Done</string>
+    <string name="wifi_band_24ghz">2.4GHz</string>
+    <string name="wifi_band_5ghz">5GHz</string>
+    <string name="wifi_add_network">Add network</string>
+    <string name="wifi_show_advanced">Advanced options</string>
+    <string name="wifi_ssid">Network name</string>
+    <string name="wifi_ssid_hint">Enter the SSID</string>
+    <string name="wifi_security">Security</string>
+    <string name="wifi_signal">Signal strength</string>
+    <string name="wifi_status">Status</string>
+    <string name="wifi_speed">Link speed</string>
+    <string name="wifi_frequency">Frequency</string>
+    <string name="wifi_ip_address">IP address</string>
+    <string name="wifi_ip_address_hint">192.168.1.128</string>
+    <string name="wifi_eap_method">EAP method</string>
+    <string name="please_select_phase2">Phase 2 authentication</string>
+    <string name="wifi_eap_ca_cert">CA certificate</string>
+    <string name="wifi_eap_user_cert">User certificate</string>
+    <string name="wifi_eap_identity">Identity</string>
+    <string name="wifi_eap_anonymous">Anonymous identity</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_show_password">Show password</string>
+    <string name="wifi_ip_settings">IP settings</string>
+    <string name="wifi_unchanged">(unchanged)</string>
+    <string name="wifi_unspecified">(unspecified)</string>
+    <string name="wifi_remembered">Saved</string>
+    <string name="wifi_disabled_generic">Disabled</string>
+    <string name="wifi_disabled_network_failure">Avoided poor Internet connection</string>
+    <string name="wifi_disabled_password_failure">Authentication problem</string>
+    <string name="wifi_not_in_range">Not in range</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_scan_always_turnoff_message">To turn this off, go to Advanced in the overflow menu.</string>
+    <string name="wifi_scan_always_confirm_allow">Allow</string>
+    <string name="wifi_scan_always_confirm_deny">Deny</string>
+    <string name="wifi_connect">Connect</string>
+    <string name="wifi_failed_connect_message">Failed to connect to network</string>
+    <string name="wifi_forget">Forget</string>
+    <string name="wifi_failed_forget_message">Failed to forget network</string>
+    <string name="wifi_save">Save</string>
+    <string name="wifi_failed_save_message">Failed to save network</string>
+    <string name="wifi_cancel">Cancel</string>
+    <string name="wifi_skip_anyway">Skip anyway</string>
+    <string name="wifi_dont_skip">"Don't skip"</string>
+    <string name="wifi_saved_access_points_label">Saved networks</string>
+    <string name="wifi_advanced_settings_label">IP settings</string>
+    <string name="wifi_ip_settings_menu_save">Save</string>
+    <string name="wifi_ip_settings_menu_cancel">Cancel</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Type a valid IP address.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
+    <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns1_hint">8.8.8.8</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_dns2_hint">8.8.4.4</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_gateway_hint">192.168.1.1</string>
+    <string name="wifi_network_prefix_length">Network prefix length</string>
+    <string name="wifi_network_prefix_length_hint">24</string>
+    <string name="wifi_config_info">Wi-Fi config</string>
+    <string name="config_list_label">Configured networks</string>
+    <string name="wifi_secured_first_item">Secured with %1$s</string>
+    <string name="wifi_secured_second_item">, secured with %1$s</string>
+    <string name="proxy_settings_title">Proxy</string>
+    <string name="proxy_port_label">Proxy port</string>
+    <string name="proxy_port_hint">8080</string>
+    <string name="proxy_exclusionlist_label">Bypass proxy for</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_label">Proxy hostname</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_error_invalid_host">"The hostname you typed isn't valid."</string>
+    <string name="proxy_error_invalid_exclusion_list">"The exclusion list you typed isn't properly formatted. Type a comma-separated list of excluded domains."</string>
+    <string name="proxy_error_empty_port">You need to complete the port field.</string>
+    <string name="proxy_error_empty_host_set_port">The port field must be empty if the host field is empty.</string>
+    <string name="proxy_error_invalid_port">"The port you typed isn't valid."</string>
+    <string name="proxy_warning_limited_support">The HTTP proxy is used by the browser but may not be used by the other apps.</string>
+    <string name="proxy_url_title">"PAC URL: "</string>
+    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
+    <string name="wifi_info_cancel">CANCEL</string>
+    <string name="wifi_info_ok">OK</string>
+    <string name="wifi_info_signal">Signal</string>
+    <string name="wifi_info_none">Signal</string>
+    <string name="wifi_auto_conn">Auto Connection</string>
+    <string name="wifi_info_security">Security</string>
+    <string name="wifi_info_delete">Delete</string>
+    <string name="wifi_info_delete_info">delete this access point, then need reinput password when connect again.</string>
+    <string name="uepromotion_protocol_less">"Thank you for selecting Lenovo mobile devices! Before using the User experience improvement plan function of Lenovo mobile devices, you must read the following terms carefully:
+We will provide the mobile communication network/Internet based online data center related services in accordance with this user experience improvement plan (this plan). In this plan, all the information, functions, contents, software, hardware or services provided directly by us are collectively referred to as Services.The plan is signed by you and Beijing Legend Tiaopin Technology Co., Ltd. (hereinafter referred to as we or our company). Depending on the context, in this plan, we may sometimes include our suppliers, service providers, customers or employees. Any reference to you shall mean any entity or individual who agrees to join or use this service.
+"</string>
+    <string name="uepromotion_protocol">"Thank you for selecting Lenovo mobile devices! Before using the User experience improvement plan function of Lenovo mobile devices, you must read the following terms carefully:
+We will provide the mobile communication network/Internet based online data center related services in accordance with this user experience improvement plan (this plan). In this plan, all the information, functions, contents, software, hardware or services provided directly by us are collectively referred to as Services.The plan is signed by you and Beijing Legend Tiaopin Technology Co., Ltd. (hereinafter referred to as we or our company). Depending on the context, in this plan, we may sometimes include our suppliers, service providers, customers or employees. Any reference to you shall mean any entity or individual who agrees to join or use this service.
+
+1. Service definition and description
+User experience improvement plan is a service function we proposed for Lenovo mobile devices, which is designed to enhance the products or services and improve the user experience. After enabling the User experience improvement plan function in your mobile device, you can have the priority to experience the new services of User experience improvement plan while using the original functions of your mobile devices: 
+
+Enhanced device hardware and software acceleration function and personalized experience
+(1) Speed up the boot process and save your boot time to provide you with a better boot experience;
+(2) Provide you with the most popular software function experience. These functions are simple, easy to use and considerate;
+(3) Enhanced GPS positioning function, providing faster and more accurate GPS positioning functions;
+(4) Intelligent recognition and switching functions of mobile, WLAN and other network modes provide personalized services in different network environments. This largely save your mobile network traffic and costs while you enjoy the services; 
+
+Multi-faceted, personalized content recommendation service:
+ (1) When you are playing games, we will provide you with the latest game download links and information that you may be interested in;
+(2) When you are listening to music, we will provide you with information on recent activities, concerts and popular new songs of related singers;
+(3) When you are trying to use mobile offices, we will provide you with the latest and most popular office software and experience;
+(4) When you are surfing the Web, we will provide you with safe and fast access experience, and recommend the latest software, games, news, ebooks, music, videos and other personalized content services and multimedia audio-visual entertainment that you may be interested in;
+(5) When you are positioning navigation, in addition to the more accurate and efficient GPS positioning functions, we will also provide you with food, clothing and shelter recommendations and retrieval services based on location information;
+
+Safe and reliable software and service experiences;
+(1) Through the grading and scoring mechanism for software, we will provide you with many types of built-in software which are more secure;
+(2) Considerate one-stop application retrieve, download, install and uninstall services, letting you experience the most popular software and games immediately;
+(3) Build personal cloud storage services for you; Let you share information between phones, computers, pads and even multimedia televisions of compatible formats anywhere, and you will no longer need to worry about missing your files. 
+You shall clearly understand and acknowledge that we only offer one convenient service. In other words, this service only provides you with the optimization, enhancement or personalization assistance based on your mobile device's existing functions. Specific services and contents may be provided by other third parties. We will not provide you with services and specific information content which shall be provided by their providers. 
+We will not provide any warranties for services and information content provided by any third parties, including but not limited to warranties for the security, reliability, timeliness and applicability of such information content. If you have any questions, objections, comments or suggestions on such information content, you shall contact the providers and consult with them. We do not assume any responsibility to you on this. 
+We reserve the rights to adjust the service content and service method as needed (including but not limited to the terms of service), and these adjusted contents or services or overview and/or function description based on them will be the effective part of this agreement. We will make reasonable business efforts to inform you. While you enjoy the services, you shall check and see the modified contents in time and follow them. 
+We may use technology or other measures to protect the services, ensure that the services comply with relevant laws and regulations and policy requirements, protect our suppliers, customers and employees, or prevent you from violating this plan. These measures may include but not limited to the control of your use of this service. These measures may prevent or interrupt your use of this service. 
+
+2. How to obtain the service
+To obtain this service, you shall: 
+(a) Make sure your mobile device has been connected to mobile communication network/Internet and the network connection is smooth; 
+(b) Open the function modules corresponding to the service, such as push service, GPS, etc.; and
+(c) Sign the plan in accordance with the Article 3 of this plan. 
+If you meet the above conditions, then you can use this service in accordance with this plan. 
+
+3. Sign a plan
+You must accept to sign the terms and conditions of this plan before you can use this service. When you sign this plan, you must reach the age of legal capacity as stipulated by applicable laws; if you are under such age of legal capacity, the signing of the plan must be completed by your parent or legal guardian. 
+The following behaviors indicate that you understand and accept the terms and conditions of this plan: 
+(a) You click on the I Agree or I Accept or similar buttons to confirm that you agree to or accept the online version of this plan; 
+(b) You have signed the paper version of this plan with us; or 
+(c) You have used this service (including any third party services provided together with this service). If you do not agree to the terms and conditions of this plan, please do not use this service. 
+
+4. Service period and service fee 
+At present, services under this agreement are free services, but we reserve the rights to charge you for these services in the future. If we plan to charge this service, we will notify you in advance about the fees. We may not provide this service to you within a specific period (service period) unless you pay the corresponding service fees in accordance with our requirements. We reserve the right to adjust the service fee at any time based on our actual situations. 
+The service fees do not include any fees incurred due to your access to Internet or mobile network. Whether the service is provided on a paid basis, any expenses (such as telephone bills, SMS bills, and fees incurred due to your access to other Internet services and online purchase of other applications, audio and video contents, services or products) payable to a third party (including network operators) due to your use of the service, shall be solely borne by yourself. 
+
+5. How to use this service
+When using this service, you shall: 
+Comply with any applicable laws, including international treaties or conventions;
+ Comply with all the plans, principles, provisions, procedures or notices related to this service; 
+Immediately notify us of any illegal use of your Lenovo account or security bug in your account that you have become aware of; 
+
+6. Product Registration
+When your device is powered on for the first time, device information of your cell phone will be transmitted to Lenovo through available data service or WLAN network，which will happen only once. Usage of that information is limited to genuine product verification and post-sale services management, with the sole purpose to provide better service.
+
+7. Usage of Data Service and Fees
+The registration process above and some functions of Lenovo cell phones will use data service or WLAN network as the default connection method. Lenovo will not charge you directly, but you may need to pay for Internet roaming, data transmission (e.g., picture upload), or other services, according to your service agreement with the Internet service providers. It becomes your responsibility to pay the ISPs.
+
+8. Prohibitions 
+When using this service, you shall not: 
+Use this service to engage in any activities which may have an adverse effect on the normal operation of Internet or mobile networks; 
+Use this service to infringe the intellectual property rights or any other legal rights or interests of any other persons; 
+Use this service in such a manner that may impair the interests or reputation of us or our affiliates, dealers, distributors and/or suppliers (collectively referred to as we), or the interests or reputation of any customers thereof; Affiliates in this plan refer to the organizations controlled by us, under the same control of a third party as us, or controlling us. The organizations here refer to any companies, enterprises or other legal entities; and control means the ability to directly or indirectly affect the management of above-mentioned organizations, whether through ownership, voting shares, contracts or other methods. 
+Engage in or promote any illegal activities by using or leveraging this service; 
+Use any part of the service as a target link to any unsolicited bulk information or commercial information (junk emails); 
+Access and/or use this service by using any automatic process or service; 
+Use any unauthorized means to modify or reroute, or attempt to modify or reroute this service; 
+Damage or destroy this service (or any network connected to this service) or make this service unworkable or being overloaded or disrupt the use and enjoyment of the service by any other parties; 
+Resell or redistribute this service or any part of this service. 
+
+9. Consequence of breach 
+If you breach any provisions of this plan when using this service, we reserve the rights to ask you to remedy such breach or directly take responsive measures, including but not limited to: (a) suspend the service provided to you; and/or (b) terminate the service provided to you, so as to minimize the influence of your misconduct. 
+Any penalty, investigation, accusation, claims or demands resulted from or incurred due to your conduct shall be settled by you at your own expense; and any losses and liabilities arising therefrom shall be solely borne by you.
+ You shall, at your own expense, defend and not hold us and our affiliates accountable (us includes our suppliers, customers or employees), against any penalty, investigation, accusation, claims or demands initiated by any third party against us (us includes our affiliates, suppliers, customers or employees) due to your conduct, immediately upon your receipt of our notice. In addition, we reserve the rights to claim against you for any losses sustained by us due to your conduct. 
+
+10. Service changes
+ We may regularly or irregularly examine, repair, maintain and update the services' websites or relevant devices so as to better meet our customers' demands or update our products or perform technical improvement. For any suspension of the service for a reasonable period due to such reasons aforementioned, we promise to make reasonable efforts to inform you thereof in advance, and shall assume no responsibility for the inconvenience and losses caused by such reasons. In consideration of the particularity and unpredictability of Internet services, you agree that we may change, suspend or terminate this service at any time for any reasons. If possible, we will make commercially reasonable efforts to send you a prior notice of such change, suspension or termination, but shall not be obligated to send such notice. You can close the User experience improvement plan in the item Device settings at any time. After closing it, your mobile device will no longer interact with the server of this plan, and you can no longer use the corresponding functions and services.
+ Upon the termination of the service for any reason, your rights to use the service will be terminated accordingly.
+ 
+11. Intellectual property rights 
+We or the third party have all the rights, ownerships or interests in or to the service or any part thereof or the software and any text, picture, graph, audio and/or video materials (materials) provided through or together with this service, including but not limited to all intellectual property rights. These materials are protected by laws on copyright, trademark and/or other property ownership. You agree not to modify, adapt, translate, produce derivative works from, decompile, reverse engineer or disassemble this service or materials provided through or together with this service, or attempt to derive source codes from the service or the materials in other ways, or extract a substantial part thereof for any other applications. You also agree not to remove, obscure or alter the copyright notice, trademark or other proprietary right notice by us or any third party attached to or contained in this service or accessed together with or through this service. Intellectual property rights means any and all rights available from time to time under patent laws, copyright laws, trade secret laws, trademark laws and anti-unfair competition laws and any and all other proprietary rights, and any and all applications therefor and renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. 
+Unless otherwise expressly specified herein, nothing in this plan shall be construed as the assignment by a party to the other party of any copyright, patent, trade secret, trademark or other intellectual property rights held thereby.
+ 
+12. Data collection and protection 
+In order to collaborate and provide better services, if you participated in the User experience improvement plan, we will irregularly sync your mobile device operation data, including: equipment switch events, Push service switching events, WLAN switch events, GPS switch events and data, operator information, system function usage data, application startup/shutdown events, application installation/uninstallation events, device operation data (key features, exceptions, error data) and so on. 
+The device operation data synchronized by User experience improvement plan are collected anonymously. 
+Synchronized mobile device data will be unified, encrypted, and stored on a particular server and kept for a period less than one year. Such information will be protected in accordance with our privacy policy. 
+You may read details of our privacy policy by visiting http://www.lenovo.com.cn/Public/public_bottom/privacy.shtml.
+ And we may access, use or disclose your data and information only for the following purposes:
+ (a) For the anonymous analysis of device running state and application function usage, in order to discover the problems when devices and applications are running; as the basis for improving products or service functions, improving user experiences and providing the services listed in Article 1 of this plan;
+ (b) To comply with laws or assist in investigation or enforcement by a judicial and/or enforcement authority; 
+(c) To protect our and our customers' property and legal rights, including the implementation of the plan and compliance with the policy applicable to this service; or 
+(d) To protect the rights, properties and security of the public. 
+However, there may be specific data leakage risks when you provide and transmit data through the network. You have fully considered and are willing to take the risk, so you hereby confirm that you will assume the responsibility for the consequences of data leakage caused by the network transmission. For such data leakage which is out of our control or not caused by our fault, and we shall not assume any responsibility. 
+
+13. Limited warranties 
+We guarantee that we will provide this service in a professional manner consistent with the industry standards. You shall inform us of any inconsistency of this service provided by us with this warranty within ninety (90) days since this service is provided. 
+You know and acknowledge that what we provide under this plan are services instead of goods. Therefore, we have made no warranty or representation with regard to this service other than above warranties, and hereby disclaim any other warranties or conditions (whether express or implied), including but not limited to those with respect to merchantability, applicability for a specific purpose and non-infringement.
+ You understand that this service is provided based on continuously developing technologies and in reliance upon telecommunication, Internet and other third-party services, and therefore may fail to satisfy the users' demands due to disruption, delay or other problems occurred to this service, caused by unstable factors including but not limited to force majeure, computer virus or hacker attack, unstable system, user's location, user's device shutdown, or breakdown of GSM network, Internet, mobile network or other communication circuit. All of such risks shall be solely borne by the user who has enabled the service. We make no absolute warranty on the promptness, security or accuracy of the service and bear no liability for failure of timely and accurate storage, sending, receipt and reading of data, or any other similar problems caused by the reasons mentioned above. 
+You will decide whether to use this service at your sole discretion and bear any liabilities arising from such decision. 
+If applicable laws prohibit the exclusion of some implied warranties by contracts, then to the greatest extent prohibited by such applicable laws, the above exclusion of implied warranties does not apply to you. And you may continue to enjoy the rights which are so prohibited to be excluded or restricted by contracts. 
+
+14. Limitation of liabilities 
+If the service provided by us is inconsistent with the above warranty, we will make commercially reasonable efforts to correct the errors and provide the service again. If we are unable to materially correct any error therein in a commercially reasonable manner, you have the rights to terminate relevant services. If we charge you for the service, you can request refunds in reasonable proportion. The foregoing has set out all remedies available to you and all liabilities to be borne by us for such inconsistency. 
+Notwithstanding any other provisions of this plan, we bear no liability or obligation for: (a) any amount exceeding the total service fees received by us hereunder (if any); (b) any cost and expense incurred for obtaining substitute goods, technologies, services or rights; (c) expense, expense increase or loss incurred due to the interruption or delay of the service or the damage or loss of data, whether based on this plan or any contract, negligence, strict liabilities or any other legal principle, even if we have received a prior notice about possibility of compensation for damages mentioned above. 
+We will in no case be liable for any incidental, indirect or consequential damage or loss of profits. 
+If laws of your country prohibit the exclusion or limitation of some liabilities by contract, then to the greatest extent prohibited by such laws, the above liability limitation or exclusion provisions shall not apply to you.
+ 
+15. Plan changes
+Without prejudice to your material rights to enjoy the service, we reserve the rights to amend the provisions of this plan as necessary. We will provide a reasonably prior notice of any amendment to this plan via (a) webpage announcement; (b) e-mail; (c) push service and/or (d) SMS, etc. Please read the latest version of this plan at http://lenovomm.com (or any other website provided by us) from time to time to learn about any amendment. If you do not accept any amendment to this plan, please cancel and cease your use of the service before such amendment comes into force. If you do not cease your use of the service, you should use the service in accordance with the provisions of the amended plan.
+ 
+16. Termination; effects of termination 
+This plan shall become effective as of the agreed effective date until it is terminated by either party. 
+Upon the termination of this plan due to the expiry of its term or for any other reason, the [Intellectual property rights], [Limited warranties], [Limitation of liabilities], [Information collection and privacy protection] and [Termination; effects of termination] and other provisions of this plan that shall survive based on their nature shall survive and remain in force and effect until they have been fully performed. 
+
+17. Construction of the plan
+If any provision of this plan is held invalid or unenforceable in whole or in part for whatever reason, the parties hereto shall replace such provision with a provision that can best reflect the intention of such invalid or unenforceable provision, and the remaining provisions of this plan shall remain valid and binding. This plan shall constitute the complete plan between the parties hereto on the subject matter of this plan and other relevant matters, and will supersede any prior plan or representation on your use of this service. The headings herein are inserted only for convenience and shall not affect the construction of this plan. If there is any inconsistency between this plan and Lenovo Account Registration Plan, this plan shall prevail. 
+
+18. Assignment of the plan 
+We may assign or subcontract this plan in whole or in part at any time with or without prior notice for the purpose of achieving or providing better services. You shall not assign this plan or any part hereof to any other person. Any assignment made by you shall be null and void. You shall not assign your rights to use this service or any part of this service to any other person, whether permanently or temporarily. 
+
+19. No third-party beneficiary 
+This plan shall only inure to the benefit of you and us and shall not inure to the benefit of any other persons other than the permitted successors or assignees. 
+
+20. Governing law 
+This plan shall be concluded and construed in accordance with the applicable laws of the mainland of the People's Republic of China (excluding Hong Kong and Macau). Any disputes and conflicts arising from or in connection with the performance and interpretation of this plan shall be submitted to a court having jurisdiction at the place where we domicile for ruling. 
+
+21. Trademark notice 
+Legend, Lenovo and other logos of Lenovo are trademarks or registered trademarks of Lenovo (Beijing) Limited or its affiliates in mainland China and/or other countries. Other products, trade names and trademarks referred to herein are trademarks or registered trademarks of their respective holders. Any reference of such products, trade names and trademarks is only for explanation and does not indicate any relevance between this service and these companies or organizations. We reserve all rights that are not expressly granted hereunder."</string>
+</resources>

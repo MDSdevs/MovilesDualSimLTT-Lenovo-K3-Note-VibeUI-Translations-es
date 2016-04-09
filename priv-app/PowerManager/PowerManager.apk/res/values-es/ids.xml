@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="decor_content_parent" />
+    <item type="id" name="radio" />
+    <item type="id" name="action_mode_bar_stub" />
+    <item type="id" name="action_context_bar" />
+    <item type="id" name="expanded_menu" />
+    <item type="id" name="action_bar_title" />
+    <item type="id" name="icon" />
+    <item type="id" name="title" />
+    <item type="id" name="shortcut" />
+    <item type="id" name="action_mode_close_button" />
+    <item type="id" name="checkbox" />
+    <item type="id" name="tabcontent" />
+    <item type="id" name="action_bar_root" />
+    <item type="id" name="action_bar_subtitle" />
+    <item type="id" name="action_bar" />
+    <item type="id" name="action_bar_container" />
+    <item type="id" name="leac_fragment_view_index_tag" />
+    <item type="id" name="leac_fragment_view_option_tag" />
+    <item type="id" name="sort_order_alpha" />
+    <item type="id" name="current_battery">false</item>
+    <item type="id" name="battery_history_chart">false</item>
+    <item type="id" name="hor_introduction">false</item>
+    <item type="id" name="ver_introduction">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="add_app_imgView">false</item>
+    <item type="id" name="add_app_radioBtn">false</item>
+    <item type="id" name="add_app_textView">false</item>
+    <item type="id" name="add_app_textView_intro">false</item>
+    <item type="id" name="addAppListView">false</item>
+    <item type="id" name="app_icon">false</item>
+    <item type="id" name="app_notice">false</item>
+    <item type="id" name="app_name">false</item>
+    <item type="id" name="activity_classic_phone">false</item>
+    <item type="id" name="classic_title_layout">false</item>
+    <item type="id" name="classic_quit_layout">false</item>
+    <item type="id" name="classic_quit_img">false</item>
+    <item type="id" name="classic_content_layout">false</item>
+    <item type="id" name="innerRe">false</item>
+    <item type="id" name="classic_time_layout">false</item>
+    <item type="id" name="classic_time_hour_front">false</item>
+    <item type="id" name="classic_time_hour_rear">false</item>
+    <item type="id" name="classic_time_minute_front">false</item>
+    <item type="id" name="classic_time_minute_rear">false</item>
+    <item type="id" name="classic_date_layout">false</item>
+    <item type="id" name="date">false</item>
+    <item type="id" name="week">false</item>
+    <item type="id" name="riqiandyuji">false</item>
+    <item type="id" name="classic_remain_time_layout">false</item>
+    <item type="id" name="classic_battery_remain_hour">false</item>
+    <item type="id" name="classic_battery_remain_minute">false</item>
+    <item type="id" name="netConnection">false</item>
+    <item type="id" name="wifiLayout">false</item>
+    <item type="id" name="wifiImg">false</item>
+    <item type="id" name="wifiText">false</item>
+    <item type="id" name="gprsLayout">false</item>
+    <item type="id" name="gprsImg">false</item>
+    <item type="id" name="gprsText">false</item>
+    <item type="id" name="classic_base_app_grid">false</item>
+    <item type="id" name="phoneApp">false</item>
+    <item type="id" name="contactApp">false</item>
+    <item type="id" name="mmsApp">false</item>
+    <item type="id" name="customApp1">false</item>
+    <item type="id" name="customApp2">false</item>
+    <item type="id" name="customApp3">false</item>
+    <item type="id" name="loading_content">false</item>
+    <item type="id" name="progress_loading">false</item>
+    <item type="id" name="progress_loading_text">false</item>
+    <item type="id" name="btnAppConsume">false</item>
+    <item type="id" name="btnHardwareConsume">false</item>
+    <item type="id" name="group_detail_layout">false</item>
+    <item type="id" name="power_usage_imageview">false</item>
+    <item type="id" name="arrows">false</item>
+    <item type="id" name="power_usage_content">false</item>
+    <item type="id" name="power_usage_name">false</item>
+    <item type="id" name="power_usage_percent">false</item>
+    <item type="id" name="progress_usage_percent">false</item>
+    <item type="id" name="power_usage_drainType">false</item>
+    <item type="id" name="preference_setttings_timeout">false</item>
+    <item type="id" name="preference_setttings_deepclear">false</item>
+    <item type="id" name="goneview">false</item>
+    <item type="id" name="switch_close_text_title">false</item>
+    <item type="id" name="empty_textview">false</item>
+    <item type="id" name="whitelist">false</item>
+    <item type="id" name="whitelist_loading">false</item>
+    <item type="id" name="switch_close_text">false</item>
+    <item type="id" name="power_dialog_notify">false</item>
+    <item type="id" name="widgetcbModeDailogNoti">false</item>
+    <item type="id" name="dialog_title">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="power_dialog_negative_btn">false</item>
+    <item type="id" name="power_dialog_positive_btn">false</item>
+    <item type="id" name="loadingProgress">false</item>
+    <item type="id" name="batteryUsageLayout">false</item>
+    <item type="id" name="batteryScreenOnUsed">false</item>
+    <item type="id" name="batteryScreenOffUsed">false</item>
+    <item type="id" name="comsumpContent">false</item>
+    <item type="id" name="comsumpListView">false</item>
+    <item type="id" name="power_usage_warning">false</item>
+    <item type="id" name="power_usage_warning_text">false</item>
+    <item type="id" name="widget_switch_state">false</item>
+    <item type="id" name="widget_text1">false</item>
+    <item type="id" name="widget_text2">false</item>
+    <item type="id" name="list_container">false</item>
+    <item type="id" name="pinned_header">false</item>
+    <item type="id" name="filter_spinner">false</item>
+    <item type="id" name="row_divider">false</item>
+    <item type="id" name="ignore_off">false</item>
+    <item type="id" name="ignore_on">false</item>
+    <item type="id" name="switch_bar">false</item>
+    <item type="id" name="main_content">false</item>
+    <item type="id" name="switch_text">false</item>
+    <item type="id" name="switch_widget">false</item>
+    <item type="id" name="action_mode_select_all_button">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="title_text">false</item>
+    <item type="id" name="selector_switch">false</item>
+    <item type="id" name="return_button">false</item>
+    <item type="id" name="loading_container">false</item>
+    <item type="id" name="power_checkboxpreference_icon">false</item>
+    <item type="id" name="feature_notify">false</item>
+    <item type="id" name="power_checkboxpreference_title">false</item>
+    <item type="id" name="power_checkboxpreference_summary">false</item>
+    <item type="id" name="arrow_icon">false</item>
+    <item type="id" name="txt_checkbox">false</item>
+    <item type="id" name="power_checkboxpreference_checkbox">false</item>
+    <item type="id" name="layout_back">false</item>
+    <item type="id" name="power_usage_layout1">false</item>
+    <item type="id" name="power_usage_detail_type1">false</item>
+    <item type="id" name="power_usage_detail_value1">false</item>
+    <item type="id" name="power_usage_layout2">false</item>
+    <item type="id" name="power_usage_detail_type2">false</item>
+    <item type="id" name="power_usage_detail_value2">false</item>
+    <item type="id" name="power_usage_layout3">false</item>
+    <item type="id" name="power_usage_detail_type3">false</item>
+    <item type="id" name="power_usage_detail_value3">false</item>
+    <item type="id" name="power_usage_layout4">false</item>
+    <item type="id" name="power_usage_detail_type4">false</item>
+    <item type="id" name="power_usage_detail_value4">false</item>
+    <item type="id" name="power_usage_layout5">false</item>
+    <item type="id" name="power_usage_detail_type5">false</item>
+    <item type="id" name="power_usage_detail_value5">false</item>
+    <item type="id" name="power_usage_layout6">false</item>
+    <item type="id" name="power_usage_detail_type6">false</item>
+    <item type="id" name="power_usage_detail_value6">false</item>
+    <item type="id" name="power_usage_layout7">false</item>
+    <item type="id" name="power_usage_detail_type7">false</item>
+    <item type="id" name="power_usage_detail_value7">false</item>
+    <item type="id" name="power_usage_layout8">false</item>
+    <item type="id" name="power_usage_detail_type8">false</item>
+    <item type="id" name="power_usage_detail_value8">false</item>
+    <item type="id" name="power_usage_layout9">false</item>
+    <item type="id" name="power_usage_detail_type9">false</item>
+    <item type="id" name="power_usage_detail_value9">false</item>
+    <item type="id" name="power_usage_layout10">false</item>
+    <item type="id" name="power_usage_detail_type10">false</item>
+    <item type="id" name="power_usage_detail_value10">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="consume_to_setting_layout">false</item>
+    <item type="id" name="consume_to_setting">false</item>
+    <item type="id" name="consume_button_layout">false</item>
+    <item type="id" name="app_freeze">false</item>
+    <item type="id" name="app_freeze_text">false</item>
+    <item type="id" name="app_detail">false</item>
+    <item type="id" name="app_detail_text">false</item>
+    <item type="id" name="app_freeze_image">false</item>
+    <item type="id" name="app_detail_image">false</item>
+    <item type="id" name="lenovo_has_next">false</item>
+    <item type="id" name="state">false</item>
+    <item type="id" name="item_app_icon">false</item>
+    <item type="id" name="item_app_name">false</item>
+    <item type="id" name="img_alert">false</item>
+    <item type="id" name="item_checkbox">false</item>
+    <item type="id" name="main_base_function">false</item>
+    <item type="id" name="prefs_power_assistant">false</item>
+    <item type="id" name="prefs_classic_phone">false</item>
+    <item type="id" name="prefs_consumption">false</item>
+    <item type="id" name="prefs_lower_power">false</item>
+    <item type="id" name="prefs_switcher_start_time">false</item>
+    <item type="id" name="prefs_switcher_end_time">false</item>
+    <item type="id" name="batterystats_reset">false</item>
+</resources>

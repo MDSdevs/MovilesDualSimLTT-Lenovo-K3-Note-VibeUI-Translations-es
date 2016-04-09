@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="abcSpinBars" format="boolean" />
+    <attr name="abcDrawableSize" format="dimension" />
+    <attr name="abcGapBetweenBars" format="dimension" />
+    <attr name="abcTopBottomBarArrowSize" format="dimension" />
+    <attr name="abcMiddleBarArrowSize" format="dimension" />
+    <attr name="abcBarSize" format="dimension" />
+    <attr name="abcThickness" format="dimension" />
+    <attr name="abcDrawerArrowStyle" format="reference" />
+    <attr name="mTitle" format="string" />
+    <attr name="mTitleSize" format="float" />
+    <attr name="mSummary" format="string" />
+    <attr name="mSummarySize" format="float" />
+    <attr name="mStatus" format="boolean" />
+    <attr name="mCheckBox" format="reference" />
+    <attr name="mIcon" format="reference" />
+    <attr name="mFeatureNotify" format="reference" />
+    <attr name="mSettingTag" format="boolean" />
+    <attr name="mCheckBoxText" format="string" />
+    <attr name="pTitle" format="string" />
+    <attr name="pTitleSize" format="float" />
+    <attr name="pSummary" format="string" />
+    <attr name="pSummarySize" format="float" />
+    <attr name="pStatus" format="boolean" />
+    <attr name="pCheckBox" format="reference" />
+    <attr name="pIcon" format="reference" />
+    <attr name="pFeatureNotify" format="reference" />
+    <attr name="pSettingTag" format="boolean" />
+    <attr name="pCheckBoxText" format="string" />
+    <attr name="switchBarTheme" format="reference" />
+    <attr name="switchBarMarginStart" format="dimension" />
+    <attr name="switchBarMarginEnd" format="dimension" />
+</resources>

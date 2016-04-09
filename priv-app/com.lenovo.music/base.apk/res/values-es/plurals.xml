@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bytes">
+        <item quantity="other">B</item>
+        <item quantity="one">B</item>
+    </plurals>
+    <plurals name="kilobytes">
+        <item quantity="other">KB</item>
+        <item quantity="one">KB</item>
+    </plurals>
+    <plurals name="megabytes">
+        <item quantity="other">MB</item>
+        <item quantity="one">MB</item>
+    </plurals>
+    <plurals name="gigabytes">
+        <item quantity="other">GB</item>
+        <item quantity="one">GB</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip">
+        <item quantity="other">%d songs added to:</item>
+        <item quantity="one">1 song added to:</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="Nalbum">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">%d folders</item>
+        <item quantity="one">1 folder</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">%d artists</item>
+        <item quantity="one">1 artist</item>
+    </plurals>
+    <plurals name="Nlists">
+        <item quantity="other">%d playlists</item>
+        <item quantity="one">1 playlist</item>
+    </plurals>
+    <plurals name="local_count_songs">
+        <item quantity="other">Total: %d songs</item>
+        <item quantity="one">Total: 1 song</item>
+    </plurals>
+    <plurals name="local_count_playLists">
+        <item quantity="other">Total: %d playlists</item>
+        <item quantity="one">Total: 1 playlist</item>
+    </plurals>
+    <plurals name="local_count_artists">
+        <item quantity="other">Total: %d artists</item>
+        <item quantity="one">Total: 1 artist</item>
+    </plurals>
+    <plurals name="local_count_folders">
+        <item quantity="other">Total: %d folders</item>
+        <item quantity="one">Total: 1 folder</item>
+    </plurals>
+    <plurals name="local_count_albums">
+        <item quantity="other">Total: %d albums</item>
+        <item quantity="one">Total: 1 album</item>
+    </plurals>
+    <plurals name="online_search_result_tip">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="local_edit_delete_songs">
+        <item quantity="other">%d songs deleted</item>
+        <item quantity="one">1 song deleted</item>
+    </plurals>
+    <plurals name="online_count_songs">
+        <item quantity="other">%d songs loaded</item>
+        <item quantity="one">1 song loaded</item>
+    </plurals>
+    <plurals name="online_count_artists">
+        <item quantity="other">%d artists loaded</item>
+        <item quantity="one">1 artist loaded</item>
+    </plurals>
+    <plurals name="online_count_albums">
+        <item quantity="other">%d albums loaded</item>
+        <item quantity="one">1 album loaded</item>
+    </plurals>
+    <plurals name="media_playlist_title_count_songs">
+        <item quantity="other">%d songs in total</item>
+        <item quantity="one">1 song in total</item>
+    </plurals>
+    <plurals name="local_edit_remove_songs">
+        <item quantity="other">%d songs removed</item>
+        <item quantity="one">1 song removed</item>
+    </plurals>
+    <plurals name="local_edit_selected_songs">
+        <item quantity="other">%d songs selected</item>
+        <item quantity="one">1 song selected</item>
+    </plurals>
+    <plurals name="add_songs_to_queue">
+        <item quantity="other">%d songs added to playlist</item>
+        <item quantity="one">1 song added to playlist</item>
+    </plurals>
+    <plurals name="search_result_tip">
+        <item quantity="other">Found %d matching item</item>
+        <item quantity="one">Found 1 matching item</item>
+    </plurals>
+    <plurals name="shuffle_all_songs_to_play">
+        <item quantity="other">Shuffle all %d songs</item>
+        <item quantity="one">Shuffle 1 song</item>
+    </plurals>
+    <plurals name="play_all_songs_to_play">
+        <item quantity="other">Play all %d songs</item>
+        <item quantity="one">Play 1 song</item>
+    </plurals>
+    <plurals name="header_shuffle_all_songs_to_play">
+        <item quantity="other">Shuffle all (%d)</item>
+        <item quantity="one">Shuffle (1)</item>
+    </plurals>
+    <plurals name="header_order_all_songs_to_play">
+        <item quantity="other">Play all (%d)</item>
+        <item quantity="one">Play (1)</item>
+    </plurals>
+    <plurals name="scan_songs_count">
+        <item quantity="other">Found %d songs</item>
+        <item quantity="one">Found 1 song</item>
+    </plurals>
+    <plurals name="media_play_list">
+        <item quantity="other">play list(%d)</item>
+        <item quantity="one">play list(1)</item>
+    </plurals>
+    <plurals name="mysong_list_count_songs">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">1 song</item>
+    </plurals>
+    <plurals name="mysong_onlineoff_count_songs">
+        <item quantity="other">%d songs available offline</item>
+        <item quantity="one">1 song available offline</item>
+    </plurals>
+    <plurals name="confirm_add">
+        <item quantity="other">Added (%d)</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip_new">
+        <item quantity="other">%d songs added to:</item>
+        <item quantity="one">1 Song:</item>
+    </plurals>
+    <plurals name="local_edit_mode_title_selected">
+        <item quantity="other">%d songs selected</item>
+        <item quantity="one">1 song selected</item>
+    </plurals>
+    <plurals name="timer_activity_minute">
+        <item quantity="other">%d minutes</item>
+        <item quantity="one">1 minute</item>
+    </plurals>
+</resources>

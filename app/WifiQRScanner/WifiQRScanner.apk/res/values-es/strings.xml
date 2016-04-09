@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wifiqrscanner_label">WLANQRScanner</string>
+    <string name="wifi_failed_connect_message">Cannot connect to network</string>
+    <string name="app_name">QR Code Scan</string>
+    <string name="connect">Connect</string>
+    <string name="bottom_hint">"Scan the \"Share Password\" QR code from other party's network details into the box (password sharing function must be supported in phone's AP details)."</string>
+    <string name="top_hint">When the barcode or QR code is placed in the box, the system will automatically scan it</string>
+    <string name="cancel">Cancel</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem.You may have to restart the device.</string>
+    <string name="msg_camera_permission_bug">Permission to use the camera could not be obtained, please allow the request for permission.</string>
+    <string name="button_ok">OK</string>
+    <string name="result_ssid">AP SSID:</string>
+    <string name="result_password">Password:</string>
+    <string name="result_type">Security:</string>
+    <string name="result_type_error">No WLAN password found in the scanned QR code, please rescan it</string>
+    <string name="title_text">Scan</string>
+    <string name="conneting">Connecting...</string>
+    <string name="connet_fail">Connection failed. Try to reconnect?</string>
+</resources>

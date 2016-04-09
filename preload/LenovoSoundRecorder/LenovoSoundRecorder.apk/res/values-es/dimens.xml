@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="record_show_second_size">16.0sp</dimen>
+    <dimen name="list_item_embedmenu_height">59.0dip</dimen>
+    <dimen name="title_padding_top">0.0dip</dimen>
+    <dimen name="lenovo_record_time_height">310.0dip</dimen>
+</resources>

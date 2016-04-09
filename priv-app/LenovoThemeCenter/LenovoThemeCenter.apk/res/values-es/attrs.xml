@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="digits_type" format="string" />
+    <attr name="scrollBarPanel" format="reference" />
+    <attr name="scrollBarPanelInAnimation" format="reference" />
+    <attr name="scrollBarPanelOutAnimation" format="reference" />
+    <attr name="arrowImage" format="integer" />
+    <attr name="listBackgroundColor" format="integer" />
+    <attr name="listDividerColor" format="integer" />
+    <attr name="listExpend" format="boolean" />
+    <attr name="titleEnable" format="boolean" />
+    <attr name="titleText" format="string" localization="suggested" />
+    <attr name="titleColor" format="color" />
+    <attr name="titleBackground" format="integer" />
+    <attr name="corner_radius" format="dimension" />
+    <attr name="border_width" format="dimension" />
+    <attr name="border_color" format="color" />
+    <attr name="round_background" format="boolean" />
+    <attr name="click_listener">
+        <enum name="DESINGER_STATION" value="1" />
+        <enum name="NONE" value="2" />
+        <enum name="PERSONAL" value="0" />
+    </attr>
+    <attr name="user_id" format="integer" />
+    <attr name="designer_id" format="integer" />
+    <attr name="ptrRefreshableViewBackground" format="reference|color" />
+    <attr name="ptrHeaderBackground" format="reference|color" />
+    <attr name="ptrHeaderTextColor" format="reference|color" />
+    <attr name="ptrHeaderSubTextColor" format="reference|color" />
+    <attr name="ptrMode">
+        <flag name="both" value="0x00000003" />
+        <flag name="disabled" value="0x00000000" />
+        <flag name="manualOnly" value="0x00000004" />
+        <flag name="pullDownFromTop" value="0x00000001" />
+        <flag name="pullFromEnd" value="0x00000002" />
+        <flag name="pullFromStart" value="0x00000001" />
+        <flag name="pullUpFromBottom" value="0x00000002" />
+    </attr>
+    <attr name="ptrShowIndicator" format="reference|boolean" />
+    <attr name="ptrDrawable" format="reference" />
+    <attr name="ptrDrawableStart" format="reference" />
+    <attr name="ptrDrawableEnd" format="reference" />
+    <attr name="ptrOverScroll" format="reference|boolean" />
+    <attr name="ptrHeaderTextAppearance" format="reference" />
+    <attr name="ptrSubHeaderTextAppearance" format="reference" />
+    <attr name="ptrAnimationStyle">
+        <flag name="flip" value="0x00000001" />
+        <flag name="rotate" value="0x00000000" />
+    </attr>
+    <attr name="ptrScrollingWhileRefreshingEnabled" format="reference|boolean" />
+    <attr name="ptrListViewExtrasEnabled" format="reference|boolean" />
+    <attr name="ptrRotateDrawableWhilePulling" format="reference|boolean" />
+    <attr name="ptrAdapterViewBackground" format="reference|color" />
+    <attr name="ptrDrawableTop" format="reference" />
+    <attr name="ptrDrawableBottom" format="reference" />
+    <attr name="stroke_width" format="dimension" />
+    <attr name="progress" format="float" />
+    <attr name="marker_progress" format="float" />
+    <attr name="progress_color" format="color" />
+    <attr name="progress_background_color" format="color" />
+    <attr name="thumb_visible" format="boolean" />
+    <attr name="marker_visible" format="boolean" />
+    <attr name="circularProgressBarStyle" format="reference" />
+    <attr name="corner_radius2" format="dimension" />
+    <attr name="border_width2" format="dimension" />
+    <attr name="border_color2" format="color" />
+    <attr name="mutate_background2" format="boolean" />
+    <attr name="oval2" format="boolean" />
+    <attr name="click_listener2">
+        <enum name="DESINGER_STATION" value="1" />
+        <enum name="NONE" value="2" />
+        <enum name="PERSONAL" value="0" />
+    </attr>
+    <attr name="user_id2" format="integer" />
+    <attr name="designer_id2" format="integer" />
+    <attr name="style">
+        <enum name="accordion" value="11" />
+        <enum name="cubein" value="2" />
+        <enum name="cubeout" value="3" />
+        <enum name="fliphorizontal" value="5" />
+        <enum name="flipvertical" value="4" />
+        <enum name="muzei" value="12" />
+        <enum name="rotatedown" value="10" />
+        <enum name="rotateup" value="9" />
+        <enum name="stack" value="6" />
+        <enum name="standard" value="0" />
+        <enum name="tablet" value="1" />
+        <enum name="zoomin" value="7" />
+        <enum name="zoomout" value="8" />
+    </attr>
+    <attr name="fadeEnabled" format="boolean" />
+    <attr name="outlineEnabled" format="boolean" />
+    <attr name="outlineColor" format="reference|color" />
+    <attr name="src" format="reference" />
+    <attr name="editable" format="boolean" />
+    <attr name="frameColor" format="color" />
+    <attr name="frameWidth" format="dimension" />
+    <attr name="framePadding" format="dimension" />
+    <attr name="degree" format="float" />
+    <attr name="scale" format="float" />
+    <attr name="controlDrawable" format="reference" />
+    <attr name="controlLocation">
+        <enum name="left_bottom" value="3" />
+        <enum name="left_top" value="0" />
+        <enum name="right_bottom" value="2" />
+        <enum name="right_top" value="1" />
+    </attr>
+    <attr name="cpb_selectorIdle" format="reference" />
+    <attr name="cpb_selectorComplete" format="reference" />
+    <attr name="cpb_selectorError" format="reference" />
+    <attr name="cpb_textComplete" format="string" />
+    <attr name="cpb_textIdle" format="string" />
+    <attr name="cpb_textError" format="string" />
+    <attr name="cpb_textProgress" format="string" />
+    <attr name="cpb_colorProgress" format="color" />
+    <attr name="cpb_colorIndicator" format="color" />
+    <attr name="cpb_colorIndicatorBackground" format="color" />
+    <attr name="cpb_iconError" format="reference" />
+    <attr name="cpb_iconComplete" format="reference" />
+    <attr name="cpb_cornerRadius" format="dimension" />
+    <attr name="cpb_paddingProgress" format="dimension" />
+    <attr name="defaultTextColor" format="reference|color" />
+</resources>

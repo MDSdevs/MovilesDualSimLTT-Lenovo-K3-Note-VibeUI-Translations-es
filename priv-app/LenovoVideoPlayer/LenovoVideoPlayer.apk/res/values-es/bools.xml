@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="show_action_bar_title">false</bool>
+    <bool name="settings_default_allows_usedata">false</bool>
+    <bool name="settings_default_confirm_usedata">true</bool>
+    <bool name="settings_default_skip_header">true</bool>
+    <bool name="settings_default_skip_tail">true</bool>
+    <bool name="settings_default_autonext">true</bool>
+    <bool name="online_is_hd_version">false</bool>
+</resources>

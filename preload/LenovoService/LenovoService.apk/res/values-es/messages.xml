@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="message" name="btn_exit_message">false</item>
+    <item type="message" name="title">false</item>
+    <item type="message" name="content">false</item>
+    <item type="message" name="username">false</item>
+    <item type="message" name="email">false</item>
+    <item type="message" name="phone">false</item>
+    <item type="message" name="send">false</item>
+</resources>

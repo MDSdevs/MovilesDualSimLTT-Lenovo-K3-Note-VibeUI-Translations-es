@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="leac_action_bar_embed_tabs">true</bool>
+    <bool name="leac_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="leac_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="leac_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="leac_split_action_bar_is_narrow">true</bool>
+    <bool name="leac_split_action_mode_is_narrow">true</bool>
+    <bool name="leac_action_bar_menu_used_control_color">true</bool>
+    <bool name="leac_config_allowActionMenuItemTextWithIcon">true</bool>
+    <bool name="leac_config_actionMenuItemAllCaps">false</bool>
+    <bool name="leac_window_action_bar_overlay">false</bool>
+    <bool name="show_action_bar_title">false</bool>
+    <bool name="only_use_portrait">true</bool>
+    <bool name="gallery_mtk_drm">false</bool>
+    <bool name="gallery_mtk_drm_gif">false</bool>
+    <bool name="picker_is_dialog">false</bool>
+</resources>

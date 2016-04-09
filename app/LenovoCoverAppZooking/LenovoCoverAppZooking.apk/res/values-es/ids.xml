@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="base">false</item>
+    <item type="id" name="initing">false</item>
+    <item type="id" name="initing_icon">false</item>
+    <item type="id" name="initing_label">false</item>
+    <item type="id" name="base_view">false</item>
+</resources>

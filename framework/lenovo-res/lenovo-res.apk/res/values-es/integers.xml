@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="leac_max_action_buttons">4</integer>
+    <integer name="tag_group_index">0</integer>
+    <integer name="tag_child_index">1</integer>
+</resources>

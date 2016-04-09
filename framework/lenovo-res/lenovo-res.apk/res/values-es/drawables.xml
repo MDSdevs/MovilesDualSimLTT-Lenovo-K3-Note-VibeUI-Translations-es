@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="listviewslidemenu_state_focused_color_drawable">#ff1e4d1d</item>
+    <item type="drawable" name="listviewslidemenu_state_normal_color_drawable">#ff000000</item>
+</resources>

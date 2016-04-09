@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="guide_content" name="btn_back">false</item>
+    <item type="guide_content" name="tv_title">false</item>
+    <item type="guide_content" name="vp_guide">false</item>
+    <item type="guide_content" name="pic_seq_dots">false</item>
+</resources>

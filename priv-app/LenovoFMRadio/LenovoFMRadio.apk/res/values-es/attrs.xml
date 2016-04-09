@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="abcSpinBars" format="boolean" />
+    <attr name="abcDrawableSize" format="dimension" />
+    <attr name="abcGapBetweenBars" format="dimension" />
+    <attr name="abcTopBottomBarArrowSize" format="dimension" />
+    <attr name="abcMiddleBarArrowSize" format="dimension" />
+    <attr name="abcBarSize" format="dimension" />
+    <attr name="abcThickness" format="dimension" />
+    <attr name="abcDrawerArrowStyle" format="reference" />
+    <attr name="direction">
+        <enum name="bottomToTop" value="1" />
+        <enum name="leftToRight" value="2" />
+        <enum name="rightToLeft" value="0" />
+        <enum name="topToBottom" value="3" />
+    </attr>
+    <attr name="handle" format="reference" />
+    <attr name="content" format="reference" />
+    <attr name="picture" format="reference" />
+    <attr name="hasStickyHeaders" format="boolean" />
+    <attr name="isDrawingListUnderStickyHeader" format="boolean" />
+    <attr name="ratio" format="float" />
+</resources>

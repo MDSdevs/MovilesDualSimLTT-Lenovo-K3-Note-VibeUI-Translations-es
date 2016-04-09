@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question_array">
+        <item>Favorite primary school teacher</item>
+        <item>Favorite middle school teacher</item>
+        <item>Favorite high school teacher</item>
+        <item>Favorite fruit</item>
+        <item>Favorite song</item>
+        <item>Favorite singer</item>
+        <item>"Father's birthday"</item>
+        <item>"Mother's birthday"</item>
+        <item>Last 4-digits of parents phone number</item>
+        <item>"Parent's occupation"</item>
+        <item>"Pet's name"</item>
+    </string-array>
+    <string-array name="command_array">
+        <item>Lock device</item>
+        <item>Set off alarm</item>
+        <item>Data backup</item>
+        <item>Track location</item>
+        <item>Data wipe</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>Approximate location</item>
+        <item>Precise location</item>
+        <item>GPS</item>
+        <item>Vibrate</item>
+        <item>Read contacts</item>
+        <item>Modify contacts</item>
+        <item>Read call log</item>
+        <item>Modify call log</item>
+        <item>Read calendar</item>
+        <item>Modify calendar</item>
+        <item>WLAN scan</item>
+        <item>Notifications</item>
+        <item>Mobile network scan</item>
+        <item>Call phone</item>
+        <item>Read SMS</item>
+        <item>Write SMS</item>
+        <item>Receive SMS</item>
+        <item>Receive emergency SMS</item>
+        <item>Receive MMS</item>
+        <item>Receive WAP push</item>
+        <item>Send SMS</item>
+        <item>Read ICC SMS</item>
+        <item>Write ICC SMS</item>
+        <item>Modify settings</item>
+        <item>Draw on top</item>
+        <item>Access notifications</item>
+        <item>Camera</item>
+        <item>Record audio</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Do not hibernate</item>
+        <item>Monitor location</item>
+        <item>Monitor high power consumption location services</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Location</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Vibrate</item>
+        <item>Read contacts</item>
+        <item>Modify contacts</item>
+        <item>Read call log</item>
+        <item>Modify call log</item>
+        <item>Read calendar</item>
+        <item>Modify calendar</item>
+        <item>Location</item>
+        <item>Post notification</item>
+        <item>Location</item>
+        <item>Call phone</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Send SMS/MMS</item>
+        <item>Read SMS/MMS</item>
+        <item>Write SMS/MMS</item>
+        <item>Modify settings</item>
+        <item>Draw on top</item>
+        <item>Access notifications</item>
+        <item>Camera</item>
+        <item>Record audio</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Do not hibernate</item>
+        <item>Location</item>
+        <item>Location information</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>Normal</item>
+        <item>Moderate</item>
+        <item>Low</item>
+        <item>Critical</item>
+    </string-array>
+    <string-array name="softspacename">
+        <item>System recommended</item>
+        <item>Install on phone</item>
+        <item>Install on default memory card</item>
+    </string-array>
+    <string-array name="default_name">
+        <item>Default input method</item>
+        <item>Default desktop software</item>
+        <item>Default Internet software</item>
+        <item>Default calling software</item>
+        <item>Default texting software</item>
+        <item>Default emailing software</item>
+        <item>Default picture viewing software</item>
+        <item>Default camera software</item>
+        <item>Default video software</item>
+        <item>Default video streaming software</item>
+        <item>Default audio software</item>
+        <item>Default audio streaming software</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Ask</item>
+        <item>Never allow</item>
+        <item>Always allow</item>
+    </string-array>
+    <string-array name="network_manage_item_name">
+        <item>Wifi only</item>
+        <item>Data only</item>
+        <item>All allowed</item>
+        <item>All prohibited</item>
+    </string-array>
+    <string-array name="network_manage_item_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="perm_status_entry">
+        <item>Allow</item>
+        <item>Ask</item>
+        <item>Deny</item>
+    </string-array>
+    <string-array name="pwd_question">
+        <item>我小学班主任的名字?</item>
+        <item>我初中班主任的名字?</item>
+        <item>我高中班主任的名字?</item>
+        <item>我最喜欢吃的水果?</item>
+        <item>我最喜欢听的歌是?</item>
+        <item>爸爸的生日是哪一天?</item>
+        <item>妈妈的生日是哪一天?</item>
+        <item>父亲/母亲电话的后四位是？</item>
+        <item>父亲/母亲的职业是？</item>
+        <item>我的宠物的名字叫什么?</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>no subject</item>
+    </string-array>
+    <string-array name="entries_db_update_policy">
+        <item>None</item>
+        <item>WLAN Only</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="entryvalues_db_update_policy">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="entries_keyguard_exit">
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+    </string-array>
+    <string-array name="entriesvalues_keyguard_exit">
+        <item>180</item>
+        <item>300</item>
+        <item>600</item>
+        <item>900</item>
+        <item>1800</item>
+    </string-array>
+    <string-array name="traffic_uints">
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="entryvalues_brand_count_start">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="entries_brand_count_start">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="traffic_correct_cycle_time">
+        <item>Every day</item>
+        <item>Every three days</item>
+        <item>Every week</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="harass_intercept_notify_name">
+        <item>All</item>
+        <item>All except black list</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="harass_intercept_notify_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="seperator_vertical_margin">96.0dip</dimen>
+    <dimen name="seperator_horizontal_margin">20.0dip</dimen>
+    <dimen name="text_view_info_vertical_margin">20.0dip</dimen>
+    <dimen name="text_view_info_horizontal_margin">20.0dip</dimen>
+    <dimen name="icon_and_message_margin">24.0dip</dimen>
+    <dimen name="textview_lineSpacingExtra">5.5dip</dimen>
+    <dimen name="license_message_height">96.0dip</dimen>
+    <dimen name="account_message_height">72.0dip</dimen>
+    <dimen name="services_item_exp_height">72.0dip</dimen>
+    <dimen name="account_register_textsize">15.0sp</dimen>
+    <dimen name="services_item_protocal_height">116.0dip</dimen>
+    <dimen name="account_phone_login_margintop">28.0dip</dimen>
+</resources>

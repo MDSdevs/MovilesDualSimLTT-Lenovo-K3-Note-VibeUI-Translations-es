@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="container">false</item>
+    <item type="id" name="layout_lenovo_pref">false</item>
+    <item type="id" name="txStatus">false</item>
+    <item type="id" name="lenovo_switch">false</item>
+    <item type="id" name="help_gif">false</item>
+    <item type="id" name="help_summary">false</item>
+    <item type="id" name="help_ok">false</item>
+    <item type="id" name="lenovo_status_summary">false</item>
+    <item type="id" name="lenovo_has_next">false</item>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="robotchat" name="webview">false</item>
+    <item type="robotchat" name="message">false</item>
+    <item type="robotchat" name="send">false</item>
+</resources>

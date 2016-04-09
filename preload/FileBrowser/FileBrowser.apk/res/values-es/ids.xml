@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="viewTitle" />
+    <item type="id" name="viewImage" />
+    <item type="id" name="viewSize" />
+    <item type="id" name="viewTime" />
+    <item type="id" name="btns" />
+    <item type="id" name="dirPosbutton" />
+    <item type="id" name="uplevel" />
+    <item type="id" name="mulsel" />
+    <item type="id" name="operation" />
+    <item type="id" name="search" />
+    <item type="id" name="newfile" />
+    <item type="id" name="viewType" />
+    <item type="id" name="sort" />
+    <item type="id" name="quit" />
+    <item type="id" name="progress_text" />
+    <item type="id" name="progress_bar" />
+    <item type="id" name="attribute_type" />
+    <item type="id" name="attribute_time" />
+    <item type="id" name="attribute_size" />
+    <item type="id" name="attribute_path" />
+    <item type="id" name="tab_label" />
+    <item type="id" name="dirbtn1" />
+    <item type="id" name="dirbtn2" />
+    <item type="id" name="dirbtn3" />
+    <item type="id" name="dirbtn4" />
+    <item type="id" name="dirbtn5" />
+    <item type="id" name="dirbtn6" />
+    <item type="id" name="dirbtn7" />
+    <item type="id" name="sharetip" />
+    <item type="id" name="shareIpAddr" />
+    <item type="id" name="shareUserName" />
+    <item type="id" name="sharePassword" />
+    <item type="id" name="sharePort" />
+    <item type="id" name="ftp_tabhost" />
+    <item type="id" name="ftp_settings" />
+    <item type="id" name="ftp_host" />
+    <item type="id" name="ftp_type" />
+    <item type="id" name="ftp_port" />
+    <item type="id" name="ftp_username" />
+    <item type="id" name="ftp_password" />
+    <item type="id" name="ftp_local_dir" />
+    <item type="id" name="ftp_remote_dir" />
+    <item type="id" name="ftp_settings_button_save" />
+    <item type="id" name="ftp_settings_button_back" />
+    <item type="id" name="CheckBox01" />
+    <item type="id" name="actionbar_normal">false</item>
+    <item type="id" name="actionbarBackImage">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="selAllImage">false</item>
+    <item type="id" name="bottom_bar_layout">false</item>
+    <item type="id" name="bottom_bar_btn">false</item>
+    <item type="id" name="dirbtnlocal">false</item>
+    <item type="id" name="dirbtnimagelocal">false</item>
+    <item type="id" name="dirbtnimage1">false</item>
+    <item type="id" name="dirbtnimage2">false</item>
+    <item type="id" name="dirbtnimage3">false</item>
+    <item type="id" name="dirbtnimage4">false</item>
+    <item type="id" name="dirbtnimage5">false</item>
+    <item type="id" name="dirbtnimage6">false</item>
+    <item type="id" name="dirbtnimage7">false</item>
+    <item type="id" name="divider_top">false</item>
+    <item type="id" name="panelHandleID">false</item>
+    <item type="id" name="dirlistfragment">false</item>
+    <item type="id" name="filelistrecent">false</item>
+    <item type="id" name="recentNewFile">false</item>
+    <item type="id" name="recentTitle">false</item>
+    <item type="id" name="recentNum">false</item>
+    <item type="id" name="filelistapp">false</item>
+    <item type="id" name="appNewFile">false</item>
+    <item type="id" name="appTitle">false</item>
+    <item type="id" name="appNum">false</item>
+    <item type="id" name="filelistpicture">false</item>
+    <item type="id" name="pictureNewFile">false</item>
+    <item type="id" name="pictureTitle">false</item>
+    <item type="id" name="pictureNum">false</item>
+    <item type="id" name="filelistdoc">false</item>
+    <item type="id" name="docNewFile">false</item>
+    <item type="id" name="docTitle">false</item>
+    <item type="id" name="docNum">false</item>
+    <item type="id" name="filelistmusic">false</item>
+    <item type="id" name="musicNewFile">false</item>
+    <item type="id" name="musicTitle">false</item>
+    <item type="id" name="musicNum">false</item>
+    <item type="id" name="filelistvideo">false</item>
+    <item type="id" name="videoNewFile">false</item>
+    <item type="id" name="videoTitle">false</item>
+    <item type="id" name="videoNum">false</item>
+    <item type="id" name="filelistcompression">false</item>
+    <item type="id" name="compressionNewFile">false</item>
+    <item type="id" name="compressionTitle">false</item>
+    <item type="id" name="compressionNum">false</item>
+    <item type="id" name="filelistbookmark">false</item>
+    <item type="id" name="bookmarkNewFile">false</item>
+    <item type="id" name="bookmarkTitle">false</item>
+    <item type="id" name="bookmarkNum">false</item>
+    <item type="id" name="filelisthistory">false</item>
+    <item type="id" name="historyNewFile">false</item>
+    <item type="id" name="historyTitle">false</item>
+    <item type="id" name="historyNum">false</item>
+    <item type="id" name="ftp_category">false</item>
+    <item type="id" name="dirlistitem_image_native">false</item>
+    <item type="id" name="dirlistitem_text_native">false</item>
+    <item type="id" name="store_info_category">false</item>
+    <item type="id" name="tvStoreInfo">false</item>
+    <item type="id" name="viewTextLine1">false</item>
+    <item type="id" name="viewLabel">false</item>
+    <item type="id" name="viewTextLine2">false</item>
+    <item type="id" name="appState_main">false</item>
+    <item type="id" name="appState_image">false</item>
+    <item type="id" name="appState_text">false</item>
+    <item type="id" name="cleanStateText">false</item>
+    <item type="id" name="optionpanel_common">false</item>
+    <item type="id" name="optionpanel_back">false</item>
+    <item type="id" name="optionpanel_backImage">false</item>
+    <item type="id" name="optionpanel_mulsel">false</item>
+    <item type="id" name="optionpanel_mulselImage">false</item>
+    <item type="id" name="optionpanel_more">false</item>
+    <item type="id" name="optionpanel_moreImage">false</item>
+    <item type="id" name="cab_demo_layout">false</item>
+    <item type="id" name="viewImageBookmark">false</item>
+    <item type="id" name="FileBrowser_native">false</item>
+    <item type="id" name="localCardLayout">false</item>
+    <item type="id" name="myGrid">false</item>
+    <item type="id" name="fl_lv">false</item>
+    <item type="id" name="myList">false</item>
+    <item type="id" name="mLetterListView">false</item>
+    <item type="id" name="empty">false</item>
+    <item type="id" name="TextView_PROM">false</item>
+    <item type="id" name="EditText_PROM">false</item>
+    <item type="id" name="dirlist_category">false</item>
+    <item type="id" name="dirlist_native">false</item>
+    <item type="id" name="dirlist_external">false</item>
+    <item type="id" name="dirlistitem_image_external">false</item>
+    <item type="id" name="dirlistitem_text_external">false</item>
+    <item type="id" name="dirlist_otg1">false</item>
+    <item type="id" name="dirlistitem_image_otg1">false</item>
+    <item type="id" name="dirlistitem_text_otg1">false</item>
+    <item type="id" name="dirlist_otg2">false</item>
+    <item type="id" name="dirlistitem_image_otg2">false</item>
+    <item type="id" name="dirlistitem_text_otg2">false</item>
+    <item type="id" name="dirlist_keytransfer">false</item>
+    <item type="id" name="dirlistitem_image_keytransfer">false</item>
+    <item type="id" name="dirlistitem_text_keytransfer">false</item>
+    <item type="id" name="dirlist_ftp">false</item>
+    <item type="id" name="dirlistitem_image_ftp">false</item>
+    <item type="id" name="dirlistitem_text_ftp">false</item>
+    <item type="id" name="dirlist_net">false</item>
+    <item type="id" name="dirlistitem_image_net">false</item>
+    <item type="id" name="dirlistitem_text_net">false</item>
+    <item type="id" name="dirlist_storageinfo">false</item>
+    <item type="id" name="dirlistitem_image_storageinfo">false</item>
+    <item type="id" name="dirlistitem_text_storageinfo">false</item>
+    <item type="id" name="dirlist_globalsearch">false</item>
+    <item type="id" name="dirlistitem_image_globalsearch">false</item>
+    <item type="id" name="dirlistitem_text_globalsearch">false</item>
+    <item type="id" name="dirlist_setting">false</item>
+    <item type="id" name="dirlist_quit">false</item>
+    <item type="id" name="dirlistitem_image_quit">false</item>
+    <item type="id" name="dirlistitem_text_quit">false</item>
+    <item type="id" name="scroll_view">false</item>
+    <item type="id" name="drm_file_name_value">false</item>
+    <item type="id" name="drm_protection_status_value">false</item>
+    <item type="id" name="drm_begin">false</item>
+    <item type="id" name="drm_begin_value">false</item>
+    <item type="id" name="drm_end">false</item>
+    <item type="id" name="drm_end_value">false</item>
+    <item type="id" name="drm_use_left">false</item>
+    <item type="id" name="drm_use_left_value">false</item>
+    <item type="id" name="tv_empty">false</item>
+    <item type="id" name="file_category_fragment">false</item>
+    <item type="id" name="file_navigation_bar">false</item>
+    <item type="id" name="detail_fragment_layout">false</item>
+    <item type="id" name="detail_fragment">false</item>
+    <item type="id" name="local_fragment_layout">false</item>
+    <item type="id" name="local_framnent">false</item>
+    <item type="id" name="file_status_bar">false</item>
+    <item type="id" name="scan_button">false</item>
+    <item type="id" name="viewTip">false</item>
+    <item type="id" name="layoutCleanMain">false</item>
+    <item type="id" name="pager">false</item>
+    <item type="id" name="pagertabstrip">false</item>
+    <item type="id" name="filecleandetail_fragment">false</item>
+    <item type="id" name="ImageInfo">false</item>
+    <item type="id" name="MusicInfo">false</item>
+    <item type="id" name="VideoInfo">false</item>
+    <item type="id" name="OtherInfo">false</item>
+    <item type="id" name="listview">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="error_text">false</item>
+    <item type="id" name="filekeytransferprogress_fragment">false</item>
+    <item type="id" name="kfp_image_linearLayout">false</item>
+    <item type="id" name="kfp_image_progress">false</item>
+    <item type="id" name="kfp_image_progress_record">false</item>
+    <item type="id" name="kfp_image_progress_tip">false</item>
+    <item type="id" name="kfp_image_StateImage">false</item>
+    <item type="id" name="kfp_music_linearLayout">false</item>
+    <item type="id" name="kfp_music_progress">false</item>
+    <item type="id" name="kfp_music_progress_record">false</item>
+    <item type="id" name="kfp_music_progress_tip">false</item>
+    <item type="id" name="kfp_music_StateImage">false</item>
+    <item type="id" name="kfp_video_linearLayout">false</item>
+    <item type="id" name="kfp_video_progress">false</item>
+    <item type="id" name="kfp_video_progress_record">false</item>
+    <item type="id" name="kfp_video_progress_tip">false</item>
+    <item type="id" name="kfp_video_StateImage">false</item>
+    <item type="id" name="kfp_other_linearLayout">false</item>
+    <item type="id" name="kfp_other_progress">false</item>
+    <item type="id" name="kfp_other_progress_record">false</item>
+    <item type="id" name="kfp_other_progress_tip">false</item>
+    <item type="id" name="kfp_other_StateImage">false</item>
+    <item type="id" name="fileset_fragment">false</item>
+    <item type="id" name="filetoolsmore_fragment">false</item>
+    <item type="id" name="toolsmore_clean">false</item>
+    <item type="id" name="toolsmore_keytransfer">false</item>
+    <item type="id" name="toolsmore_ftp">false</item>
+    <item type="id" name="fileTypeLayout">false</item>
+    <item type="id" name="fileTypeList">false</item>
+    <item type="id" name="ftp_list">false</item>
+    <item type="id" name="img_layout">false</item>
+    <item type="id" name="wifi_state_image">false</item>
+    <item type="id" name="wifi_info_layout">false</item>
+    <item type="id" name="wifi_state">false</item>
+    <item type="id" name="instruction_info_layout">false</item>
+    <item type="id" name="instruction1">false</item>
+    <item type="id" name="ip_layout">false</item>
+    <item type="id" name="ip_address">false</item>
+    <item type="id" name="ftp_wifi_setting">false</item>
+    <item type="id" name="start_stop_button">false</item>
+    <item type="id" name="start_stop_button_text">false</item>
+    <item type="id" name="viewImageShadow">false</item>
+    <item type="id" name="viewImageCheck">false</item>
+    <item type="id" name="item_image_grid_text">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="imageview_fragment">false</item>
+    <item type="id" name="rootLayout">false</item>
+    <item type="id" name="pic_gallery">false</item>
+    <item type="id" name="imageview_headview">false</item>
+    <item type="id" name="imageview_back">false</item>
+    <item type="id" name="imageview_title">false</item>
+    <item type="id" name="imageview_num">false</item>
+    <item type="id" name="imageview_optionmenu">false</item>
+    <item type="id" name="imageview_menu_delete">false</item>
+    <item type="id" name="imageview_menu_deleteImage">false</item>
+    <item type="id" name="imageview_menu_deleteText">false</item>
+    <item type="id" name="imageview_menu_wallpaper">false</item>
+    <item type="id" name="imageview_menu_wallpaperImage">false</item>
+    <item type="id" name="imageview_menu_wallpaperText">false</item>
+    <item type="id" name="imageview_menu_send">false</item>
+    <item type="id" name="imageview_menu_sendImage">false</item>
+    <item type="id" name="imageview_menu_sendText">false</item>
+    <item type="id" name="imageview_menu_slideview">false</item>
+    <item type="id" name="imageview_menu_slideviewImage">false</item>
+    <item type="id" name="imageview_menu_slideviewText">false</item>
+    <item type="id" name="myImageView">false</item>
+    <item type="id" name="switcher">false</item>
+    <item type="id" name="group_title">false</item>
+    <item type="id" name="localCardViewStub">false</item>
+    <item type="id" name="global_search">false</item>
+    <item type="id" name="local_card_list_view">false</item>
+    <item type="id" name="local_card">false</item>
+    <item type="id" name="iconcontainer">false</item>
+    <item type="id" name="local_card_icon">false</item>
+    <item type="id" name="local_card_tv_title">false</item>
+    <item type="id" name="contentcontainer">false</item>
+    <item type="id" name="categorydetail">false</item>
+    <item type="id" name="categoryframelayout">false</item>
+    <item type="id" name="nativedetail">false</item>
+    <item type="id" name="nativedetailsframelayout">false</item>
+    <item type="id" name="netdetail">false</item>
+    <item type="id" name="netdetailsframelayout">false</item>
+    <item type="id" name="menucontinue">false</item>
+    <item type="id" name="DirListFragment">false</item>
+    <item type="id" name="multiHeadIDEdit">false</item>
+    <item type="id" name="multiHeadCancel">false</item>
+    <item type="id" name="multiHeadSelNum">false</item>
+    <item type="id" name="multiHeadSel">false</item>
+    <item type="id" name="multi_optionmenu_main">false</item>
+    <item type="id" name="multi_optionmenu_common">false</item>
+    <item type="id" name="optionmenu_delete">false</item>
+    <item type="id" name="optionmenu_deleteImage">false</item>
+    <item type="id" name="optionmenu_deleteText">false</item>
+    <item type="id" name="optionmenu_copy">false</item>
+    <item type="id" name="optionmenu_copyImage">false</item>
+    <item type="id" name="optionmenu_copyText">false</item>
+    <item type="id" name="optionmenu_cut">false</item>
+    <item type="id" name="optionmenu_cutImage">false</item>
+    <item type="id" name="optionmenu_cutText">false</item>
+    <item type="id" name="optionmenu_more">false</item>
+    <item type="id" name="optionmenu_moreImage">false</item>
+    <item type="id" name="multi_optionmenu_more">false</item>
+    <item type="id" name="optionmenu_sendText">false</item>
+    <item type="id" name="optionmenu_addbookmarkText">false</item>
+    <item type="id" name="optionmenu_renameText">false</item>
+    <item type="id" name="optionmenu_detailText">false</item>
+    <item type="id" name="optionmenu_zipText">false</item>
+    <item type="id" name="multi_pastebutton_root">false</item>
+    <item type="id" name="multi_paste_button_cancel">false</item>
+    <item type="id" name="optionmenu_cancelImage">false</item>
+    <item type="id" name="optionmenu_cancelText">false</item>
+    <item type="id" name="multi_paste_button_sel">false</item>
+    <item type="id" name="optionmenu_pasteImage">false</item>
+    <item type="id" name="optionmenu_pasteText">false</item>
+    <item type="id" name="multi_surebutton_root">false</item>
+    <item type="id" name="multi_sure_button_cancel">false</item>
+    <item type="id" name="multi_sure_button_sel">false</item>
+    <item type="id" name="optionmenu_sureText">false</item>
+    <item type="id" name="custom_dialog_content">false</item>
+    <item type="id" name="not_show_next_time">false</item>
+    <item type="id" name="netdiskLoginViewStub">false</item>
+    <item type="id" name="netdisk_file_detail_main_layout">false</item>
+    <item type="id" name="buttonbarViewStub">false</item>
+    <item type="id" name="netdisk_file_detail_list">false</item>
+    <item type="id" name="netdiskWelcomePageViewStub">false</item>
+    <item type="id" name="netdisk_file_detail_bottom_layout">false</item>
+    <item type="id" name="netdisk_file_detail_bottom_store_info">false</item>
+    <item type="id" name="netdisk_file_detail_bottom_list">false</item>
+    <item type="id" name="netdisk_file_detail_bottom_exit">false</item>
+    <item type="id" name="optionmenu_rename">false</item>
+    <item type="id" name="optionmenu_renameImage">false</item>
+    <item type="id" name="optionmenu_attr">false</item>
+    <item type="id" name="optionmenu_attrImage">false</item>
+    <item type="id" name="optionmenu_attrText">false</item>
+    <item type="id" name="netdisk_download_tip_layout">false</item>
+    <item type="id" name="netdisk_download_tip_layout_tv">false</item>
+    <item type="id" name="netdisk_download_tip_layout_view">false</item>
+    <item type="id" name="netdisk_tip_layout_divider">false</item>
+    <item type="id" name="netdisk_upload_tip_layout">false</item>
+    <item type="id" name="netdisk_upload_tip_layout_tv">false</item>
+    <item type="id" name="netdisk_upload_tip_layout_view">false</item>
+    <item type="id" name="layout_root">false</item>
+    <item type="id" name="network_confirm_root">false</item>
+    <item type="id" name="warning">false</item>
+    <item type="id" name="network_confirm_remind">false</item>
+    <item type="id" name="check">false</item>
+    <item type="id" name="btn_ok">false</item>
+    <item type="id" name="netdisk_login_icon">false</item>
+    <item type="id" name="netdisk_login_tips">false</item>
+    <item type="id" name="netdisk_login_btn">false</item>
+    <item type="id" name="fl_inner">false</item>
+    <item type="id" name="pull_to_refresh_image">false</item>
+    <item type="id" name="pull_to_refresh_progress">false</item>
+    <item type="id" name="pull_to_refresh_text">false</item>
+    <item type="id" name="pull_to_refresh_sub_text">false</item>
+    <item type="id" name="netdisk_space_info_account">false</item>
+    <item type="id" name="netdisk_space_info_used">false</item>
+    <item type="id" name="netdisk_space_info_progress">false</item>
+    <item type="id" name="netdisk_transmit_history_item_icon">false</item>
+    <item type="id" name="netdisk_transmit_history_item_fileName">false</item>
+    <item type="id" name="netdisk_transmit_history_item_percent">false</item>
+    <item type="id" name="netdisk_transmit_history_item_progress">false</item>
+    <item type="id" name="netdisk_transmit_history_item_btnSuccess">false</item>
+    <item type="id" name="netdisk_transmit_history_tabs">false</item>
+    <item type="id" name="netdisk_transmit_history_pager">false</item>
+    <item type="id" name="netdisk_welcome_page_layout">false</item>
+    <item type="id" name="netdisk_welcome_page_btn">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="mainLineraLayout">false</item>
+    <item type="id" name="panelmain">false</item>
+    <item type="id" name="file_navigation_bar_main">false</item>
+    <item type="id" name="title_ll">false</item>
+    <item type="id" name="back_iv">false</item>
+    <item type="id" name="storage_name">false</item>
+    <item type="id" name="add_folder_iv">false</item>
+    <item type="id" name="path_lv">false</item>
+    <item type="id" name="imageView1">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="completeText">false</item>
+    <item type="id" name="maxText">false</item>
+    <item type="id" name="current_tip">false</item>
+    <item type="id" name="current_filename">false</item>
+    <item type="id" name="tmplayout">false</item>
+    <item type="id" name="currentcompleteText">false</item>
+    <item type="id" name="currentmaxText">false</item>
+    <item type="id" name="current_progress_bar">false</item>
+    <item type="id" name="total_tip">false</item>
+    <item type="id" name="total_progress_text">false</item>
+    <item type="id" name="tdlayout">false</item>
+    <item type="id" name="total_completeText">false</item>
+    <item type="id" name="total_maxText">false</item>
+    <item type="id" name="total_progress_bar">false</item>
+    <item type="id" name="Tv_tip_pwd">false</item>
+    <item type="id" name="Et_unzip_pwd">false</item>
+    <item type="id" name="safebox_list">false</item>
+    <item type="id" name="safeboxList">false</item>
+    <item type="id" name="password_input1">false</item>
+    <item type="id" name="password_input2">false</item>
+    <item type="id" name="searchview">false</item>
+    <item type="id" name="searchCancelText">false</item>
+    <item type="id" name="search_result">false</item>
+    <item type="id" name="list_view">false</item>
+    <item type="id" name="fileSearchMain">false</item>
+    <item type="id" name="fileSearchText">false</item>
+    <item type="id" name="searchviewex_icon_search">false</item>
+    <item type="id" name="searchviewex_icon_cancel">false</item>
+    <item type="id" name="search_view">false</item>
+    <item type="id" name="searchviewex_main">false</item>
+    <item type="id" name="searchviewex_text">false</item>
+    <item type="id" name="viewpage">false</item>
+    <item type="id" name="toolbar">false</item>
+    <item type="id" name="categoryVolumeBar">false</item>
+    <item type="id" name="sd_card_capacity">false</item>
+    <item type="id" name="sd_card_available">false</item>
+    <item type="id" name="category_apk_volume">false</item>
+    <item type="id" name="category_picture_volume">false</item>
+    <item type="id" name="category_document_volume">false</item>
+    <item type="id" name="category_music_volume">false</item>
+    <item type="id" name="category_video_volume">false</item>
+    <item type="id" name="category_zip_volume">false</item>
+    <item type="id" name="category_other_volume">false</item>
+    <item type="id" name="TextView_path">false</item>
+    <item type="id" name="EditText_path">false</item>
+    <item type="id" name="zip_ll">false</item>
+    <item type="id" name="CheckBox_pwd">false</item>
+    <item type="id" name="EditText_pwd">false</item>
+    <item type="id" name="ftp_bottom_item">false</item>
+    <item type="id" name="menu_type">false</item>
+    <item type="id" name="menu_cancel">false</item>
+    <item type="id" name="menu_paste">false</item>
+    <item type="id" name="menu_sort">false</item>
+    <item type="id" name="menu_refresh">false</item>
+    <item type="id" name="menu_new_folder">false</item>
+    <item type="id" name="menu_show_folder_size">false</item>
+    <item type="id" name="menu_show_hidden_file">false</item>
+    <item type="id" name="network_menu_newfolder">false</item>
+    <item type="id" name="network_menu_cancel">false</item>
+    <item type="id" name="network_menu_paste">false</item>
+    <item type="id" name="network_menu_refresh">false</item>
+    <item type="id" name="network_menu_transmit">false</item>
+    <item type="id" name="network_menu_info">false</item>
+    <item type="id" name="network_menu_exit">false</item>
+    <item type="id" name="network_select_mode_delete">false</item>
+    <item type="id" name="network_select_mode_copy">false</item>
+    <item type="id" name="network_select_mode_rename">false</item>
+    <item type="id" name="network_select_mode_attr">false</item>
+    <item type="id" name="network_transmit_bottom_item">false</item>
+    <item type="id" name="onkey_bottom_item">false</item>
+    <item type="id" name="safebox_select_mode_delete">false</item>
+    <item type="id" name="safebox_select_mode_restore">false</item>
+    <item type="id" name="select_mode_delete">false</item>
+    <item type="id" name="select_mode_copy">false</item>
+    <item type="id" name="select_mode_cut">false</item>
+    <item type="id" name="select_mode_send">false</item>
+    <item type="id" name="select_mode_rename">false</item>
+    <item type="id" name="select_mode_attr">false</item>
+    <item type="id" name="select_mode_bookmark">false</item>
+    <item type="id" name="select_mode_shortcut">false</item>
+    <item type="id" name="select_mode_zip">false</item>
+</resources>

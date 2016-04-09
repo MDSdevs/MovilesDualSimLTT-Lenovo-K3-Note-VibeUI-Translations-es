@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="gray_drawable">#ff2c5aa9</item>
+    <item type="drawable" name="transparent">#00000000</item>
+    <item type="drawable" name="web_server_webview_progress_background">#ff68b54b</item>
+    <item type="drawable" name="webview_progress_background">#ff1e83d1</item>
+</resources>

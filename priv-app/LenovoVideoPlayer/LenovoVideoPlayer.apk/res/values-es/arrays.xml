@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>News</item>
+        <item>Sports</item>
+        <item>Drama</item>
+        <item>Music video</item>
+        <item>Movie</item>
+        <item>Comedy</item>
+        <item>Action</item>
+        <item>Musical</item>
+        <item>Animated</item>
+        <item>Variety</item>
+    </string-array>
+    <string-array name="proxy_error">
+        <item>Host field can not be empty</item>
+        <item>Port field can not be empty</item>
+        <item>Invalid host</item>
+        <item>Invalid port</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>Play</item>
+        <item>Rename</item>
+        <item>Delete</item>
+        <item>Information</item>
+        <item>Share</item>
+        <item>Multi-Select</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Play</item>
+        <item>Rename</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Play</item>
+        <item>Delete</item>
+        <item>Clear List</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Play</item>
+        <item>Add this video</item>
+    </string-array>
+</resources>

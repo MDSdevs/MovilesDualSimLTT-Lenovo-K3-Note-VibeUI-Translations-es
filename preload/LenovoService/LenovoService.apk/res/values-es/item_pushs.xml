@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="item_push" name="time">false</item>
+    <item type="item_push" name="title">false</item>
+    <item type="item_push" name="link">false</item>
+</resources>

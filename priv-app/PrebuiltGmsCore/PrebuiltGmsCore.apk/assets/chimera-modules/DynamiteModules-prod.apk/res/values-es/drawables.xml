@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="common_google_signin_btn_icon_dark">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_light">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_dark">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_light">false</item>
+    <item type="drawable" name="common_plus_signin_btn_icon_dark">false</item>
+    <item type="drawable" name="common_plus_signin_btn_icon_light">false</item>
+    <item type="drawable" name="common_plus_signin_btn_text_dark">false</item>
+    <item type="drawable" name="common_plus_signin_btn_text_light">false</item>
+    <item type="drawable" name="maps_dav_traffic_frame_1">false</item>
+    <item type="drawable" name="maps_dav_traffic_frame_2">false</item>
+    <item type="drawable" name="maps_dav_traffic_frame_3">false</item>
+    <item type="drawable" name="maps_dav_traffic_frame_4">false</item>
+    <item type="drawable" name="maps_dav_traffic_frame_5">false</item>
+    <item type="drawable" name="maps_dav_traffic_frame_6">false</item>
+    <item type="drawable" name="maps_dav_traffic_frame_7">false</item>
+    <item type="drawable" name="maps_dav_traffic_frame_8">false</item>
+</resources>

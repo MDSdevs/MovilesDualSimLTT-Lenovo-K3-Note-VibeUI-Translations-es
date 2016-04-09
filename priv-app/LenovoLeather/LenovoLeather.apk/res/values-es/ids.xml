@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="callui_leather_sheath_view">false</item>
+    <item type="id" name="call_first_content">false</item>
+    <item type="id" name="call_subid">false</item>
+    <item type="id" name="call_name">false</item>
+    <item type="id" name="call_second_content">false</item>
+    <item type="id" name="clock_view">false</item>
+    <item type="id" name="call_second_left_text">false</item>
+    <item type="id" name="call_geo">false</item>
+    <item type="id" name="subview">false</item>
+    <item type="id" name="keyguard_leather_sheath_view">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_clock">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_clock_hour10">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_clock_hour1">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_clock_colone">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_clock_min10">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_clock_min1">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_week">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_date">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_weather_icon">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_weather">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_call">false</item>
+    <item type="id" name="keyguard_leather_sheath_view_message">false</item>
+    <item type="id" name="subviewicon">false</item>
+    <item type="id" name="subviewtext">false</item>
+</resources>

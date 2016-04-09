@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="comment" name="rating">false</item>
+    <item type="comment" name="tv_comment_rating_result">false</item>
+    <item type="comment" name="textbox">false</item>
+    <item type="comment" name="submit">false</item>
+</resources>

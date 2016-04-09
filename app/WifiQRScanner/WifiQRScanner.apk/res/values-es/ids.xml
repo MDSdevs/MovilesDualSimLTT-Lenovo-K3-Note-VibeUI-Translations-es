@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="auto_focus" />
+    <item type="id" name="decode" />
+    <item type="id" name="decode_failed" />
+    <item type="id" name="decode_succeeded" />
+    <item type="id" name="launch_product_query" />
+    <item type="id" name="quit" />
+    <item type="id" name="restart_preview" />
+    <item type="id" name="return_scan_result" />
+    <item type="id" name="search_book_contents_failed" />
+    <item type="id" name="search_book_contents_succeeded" />
+    <item type="id" name="capture_frame">false</item>
+    <item type="id" name="capture_preview_view">false</item>
+    <item type="id" name="capture_viewfinder_view">false</item>
+    <item type="id" name="capture_head">false</item>
+    <item type="id" name="capture_title_text">false</item>
+    <item type="id" name="capture_title_click">false</item>
+    <item type="id" name="capture_back_icon">false</item>
+    <item type="id" name="capture_bottom_hint">false</item>
+    <item type="id" name="scan_result">false</item>
+    <item type="id" name="ssid">false</item>
+    <item type="id" name="password">false</item>
+    <item type="id" name="type">false</item>
+    <item type="id" name="capture_button_connect">false</item>
+    <item type="id" name="progress_horizontal">false</item>
+</resources>
